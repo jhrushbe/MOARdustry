@@ -1,0 +1,14 @@
+{
+    "type": "Conveyor",
+    "name": "Surge Conveyor",
+    "category": "distribution",
+    "health": 130,
+    "speed": 0.16,
+    "displayedSpeed": 22,
+    "requirements": [
+        {"item": "surge-alloy", "amount": 1},
+        {"item": "phase-fabric", "amount": 2},
+        {"item": "titanium", "amount": 2}
+    ],
+    "research": "phase-conveyor"
+}
