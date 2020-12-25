@@ -12,7 +12,7 @@
     { "item": "thorium", "amount": 200 },
 		{ "item": "titanium", "amount": 100 },
 		{ "item": "plastanium", "amount": 100 },
-    { "item": "surge-alloy":, "amount": 75 },
+    { "item": "surge-alloy", "amount": 75 },
 	],
 	"consumes": {
 		"power": 3.0,
