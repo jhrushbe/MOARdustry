@@ -1,0 +1,27 @@
+{
+	"name": "Pressure Drill",
+	"type": "Drill",
+	"description": "Uses immense amounts of pressure to extract ores from the ground.",
+	"size": 3,
+	"tier": 5,
+	"drillTime": 100,
+	"requirements": [
+		{ "item": "copper", "amount": 400 },
+    { "item": "lead", "amount": 350 },
+		{ "item": "silicon", "amount": 200 },
+    { "item": "thorium", "amount": 200 },
+		{ "item": "titanium", "amount": 100 },
+		{ "item": "plastanium", "amount": 100 },
+    { "item": "surge-alloy":, "amount": 75 },
+	],
+	"consumes": {
+		"power": 3.0,
+		"liquid": {
+			"liquid": "water", 
+			"amount": 0.1,
+			"booster": true
+		}
+	},
+	"category": "production",
+	"research": "airblast-drill"
+}
