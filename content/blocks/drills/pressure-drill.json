@@ -1,25 +1,25 @@
 {
 	"name": "Pressure Drill",
 	"type": "Drill",
-	"description": "Uses immense amounts of pressure to extract ores from the ground.",
+	"description": "Uses immense amounts of pressure to extract ores from the ground. Requires coolent to run.",
 	"size": 3,
 	"tier": 5,
-	"drillTime": 100,
+	"drillTime": 50,
 	"requirements": [
 		{ "item": "copper", "amount": 400 },
-    { "item": "lead", "amount": 350 },
+ 		{ "item": "lead", "amount": 350 },
 		{ "item": "silicon", "amount": 200 },
-    { "item": "thorium", "amount": 200 },
+   		{ "item": "thorium", "amount": 200 },
 		{ "item": "titanium", "amount": 100 },
 		{ "item": "plastanium", "amount": 100 },
-    { "item": "surge-alloy", "amount": 75 },
+    		{ "item": "surge-alloy", "amount": 75 },
 	],
 	"consumes": {
-		"power": 3.0,
+		"power": 5.0,
 		"liquid": {
 			"liquid": "water", 
 			"amount": 0.1,
-			"booster": true
+			"booster": false
 		}
 	},
 	"category": "production",
