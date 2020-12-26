@@ -63,13 +63,13 @@
     }
     "consumes": {
         "liquid": {
-            "liquid": "water": {
+            "liquid": "water", {
                 "amount": 0.3,
                 "booster": true,
                 "optional": true,
                 "boostEffect": 1.3,
             }
-            "liquid": "cryofluid":  {
+            "liquid": "cryofluid",  {
                 "amount": 0.3,
                 "booster": true,
                 "optional": true,
