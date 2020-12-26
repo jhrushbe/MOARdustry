@@ -1,1 +1,47 @@
-
+{
+	"name": "Oil Derrick",
+	"type": "Fracker",
+	"description": "An advanced oil extractor capable of excavating vast amounts of oil.",
+	"hasItems": false,
+	"hasLiquids": true,
+	"hasPower": true,
+	"itemCapacity": 30,
+	"liquidCapacity": 200,
+	"solid": true,
+	"health": -1, 
+	"size": 5,
+	"activeSound": "none",
+	"activeSoundVolume": 0.5,
+	"idleSound": "none",
+	"idleSoundVolume": 0.5,
+	"requirements": [
+		{ "item": "copper", "amount": 1000 },
+		{ "item": "lead", "amount": 1000 },
+		{ "item": "silicon", "amount": 500 },
+		{ "item": "thorium", "amount": 300 },
+		{ "item": "plastanium", "amount": 200 },
+		{ "item": "surge-alloy", "amount": 200 },
+	],
+	"category": "production",
+	"research": "oil-extractor",
+	"baseEfficiency": 0,
+	"itemUseTime": 60,
+	"result": "oil",
+	"pumpAmount": 10,
+	"rotateSpeed": 1.4,
+	"updateEffect": "pulverize",
+	"updateEffectChance": 0.05,
+    "attribute": "oil",
+	"consumes": {
+		"power": 20.0,
+		"items": {
+			"items": [
+				{ "item": "sand", "amount": 10 },
+			]
+		},
+		"liquid": {
+			"liquid": "water",
+			"amount": 1,
+		}
+	},
+}
