@@ -25,23 +25,23 @@
 	"category": "production",
 	"research": "oil-extractor",
 	"baseEfficiency": 0,
-	"itemUseTime": 60,
+	"itemUseTime": 30,
 	"result": "oil",
-	"pumpAmount": 10,
-	"rotateSpeed": 1.4,
+	"pumpAmount": 4,
+	"rotateSpeed": 0.75,
 	"updateEffect": "pulverize",
-	"updateEffectChance": 0.05,
-    "attribute": "oil",
+	"updateEffectChance": 0.005,
+    	"attribute": "pump",
 	"consumes": {
 		"power": 20.0,
 		"items": {
 			"items": [
-				{ "item": "sand", "amount": 10 },
+				{ "item": "sand", "amount": 1 },
 			]
 		},
 		"liquid": {
 			"liquid": "water",
-			"amount": 1,
+			"amount": 2,
 		}
 	},
 }
