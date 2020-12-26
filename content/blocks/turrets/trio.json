@@ -18,7 +18,7 @@
     "health": 375,
     "inaccuracy": 1,
     "rotateSpeed": 15,
-    "ammo": {
+    "ammoTypes": {
         "copper": {
             "speed": 3,
             "damage": 14,
@@ -64,10 +64,6 @@
     "consumes": {
         "liquid": {
             "liquid": "water", 
-                "amount": 0.3,
-                "booster": true,
-                "optional": true,
-            "liquid": "cryofluid",
                 "amount": 0.3,
                 "booster": true,
                 "optional": true,
