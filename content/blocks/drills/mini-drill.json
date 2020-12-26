@@ -1,4 +1,4 @@
-{
+/* {
 	"name": "Miniature Drill",
 	"type": "Drill",
 	"description": "A small 1x1 drill that will help you take up the entirety of the ore patch.",
@@ -23,4 +23,4 @@
 	},
 	"category": "production",
 	"research": "pneumatic-drill",
-}
+} */
