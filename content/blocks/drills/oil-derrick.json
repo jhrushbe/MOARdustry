@@ -31,7 +31,7 @@
 	"rotateSpeed": 0.75,
 	"updateEffect": "pulverize",
 	"updateEffectChance": 0.005,
-    	"attribute": "pump",
+    	"attribute": "oil",
 	"consumes": {
 		"power": 20.0,
 		"items": {
