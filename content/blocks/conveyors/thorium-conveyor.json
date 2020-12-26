@@ -1,6 +1,7 @@
 {
     "type": "StackConveyor",
     "name": "Thorium Conveyor",
+    "description": "Using thorium powered shuttles, this conveyor can carry bundles at faster speeds than its predecessor.",
     "category": "distribution",
     "health": 150,
     "speed": 0.14,
@@ -8,8 +9,7 @@
     "requirements": [
         {"item": "thorium", "amount": 1},
         {"item": "plastanium", "amount": 2},
-        {"item": "phase-fabric", "amount": 1},
-        {"item": "graphite", "amount": 1}
+        {"item": "graphite", "amount": 1},
     ],
-    "research": "plastanium-conveyor"
+    "research": "plastanium-conveyor",
 }
