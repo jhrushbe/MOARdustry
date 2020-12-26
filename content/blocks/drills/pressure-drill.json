@@ -4,7 +4,7 @@
 	"description": "Uses immense amounts of pressure to extract ores from the ground. Requires coolent to run.",
 	"size": 3,
 	"tier": 5,
-	"drillTime": 50,
+	"drillTime": 75,
 	"requirements": [
 		{ "item": "copper", "amount": 400 },
  		{ "item": "lead", "amount": 350 },
@@ -15,12 +15,15 @@
     		{ "item": "surge-alloy", "amount": 75 },
 	],
 	"consumes": {
-		"power": 5.0,
+		"power": 7.0,
 		"liquid": {
 			"liquid": "water", 
 			"amount": 0.1,
-			"booster": false
 		}
+		"liquid": {
+			"liquid": "cryofluid",
+			"amount": 0.1,
+			"booster": true
 	},
 	"category": "production",
 	"research": "blast-drill"
