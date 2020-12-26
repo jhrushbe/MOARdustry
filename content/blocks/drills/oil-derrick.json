@@ -11,9 +11,9 @@
 	"health": -1, 
 	"size": 5,
 	"activeSound": "grinding",
-	"activeSoundVolume": 5,
+	"activeSoundVolume": 50,
 	"idleSound": "machine",
-	"idleSoundVolume": 0.5,
+	"idleSoundVolume": 5,
 	"requirements": [
 		{ "item": "copper", "amount": 1000 },
 		{ "item": "lead", "amount": 1000 },
@@ -27,13 +27,13 @@
 	"baseEfficiency": 0,
 	"itemUseTime": 30,
 	"result": "oil",
-	"pumpAmount": 1.5,
-	"rotateSpeed": 0.75,
+	"pumpAmount": 0.3,
+	"rotateSpeed": 0.25,
 	"updateEffect": "pulverize",
-	"updateEffectChance": 0.005,
+	"updateEffectChance": 0.05,
     	"attribute": "oil",
 	"consumes": {
-		"power": 20.0,
+		"power": 10.0,
 		"items": {
 			"items": [
 				{ "item": "sand", "amount": 1 },
@@ -41,7 +41,7 @@
 		},
 		"liquid": {
 			"liquid": "water",
-			"amount": 1,
+			"amount": 0.2,
 		}
 	},
 }
