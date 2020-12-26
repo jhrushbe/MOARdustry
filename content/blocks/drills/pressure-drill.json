@@ -6,7 +6,7 @@
 	"tier": 5,
 	"drillTime": 75,
 	"activeSound": "machine",
-	"activeSoundVolume": 5,
+	"activeSoundVolume": 50,
 	"idleSound": "none",
 	"idleSoundVolume": 0.5,
 	"requirements": [
