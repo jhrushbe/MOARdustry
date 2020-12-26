@@ -1,7 +1,7 @@
 {
     "type": "Conveyor",
     "name": "Surge Conveyor",
-    "description": "Through the power of phase fabric and the strength of titanium and surge alloy this conveyor can reach speed previously unheard of."
+    "description": "Through the power of phase fabric and the strength of titanium and surge alloy this conveyor can reach speed previously unheard of.",
     "category": "distribution",
     "health": 130,
     "speed": 0.16,
