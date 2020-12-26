@@ -1,5 +1,5 @@
 {
-    "type": "doubleTurret",
+    "type": "itemTurret",
     "name": "Trio",
     "description": "The duo's bigger sibling."
     "size": 1, 
@@ -45,7 +45,7 @@
             "hight": 12,
             "frontColor": "F8AD42",
             "backColor": "F68021",
-            "status": 'burning",
+            "status": "burning",
             "makefire": true,
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
