@@ -1,7 +1,7 @@
 {
     "type": "itemTurret",
     "name": "Trio",
-    "description": "The duo's bigger sibling."
+    "description": "The duo's bigger sibling.",
     "size": 1, 
     "requirements": [
         {"item": "copper", "amount": 55},
