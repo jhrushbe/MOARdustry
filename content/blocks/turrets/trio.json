@@ -63,7 +63,7 @@
     }
     "consumes": {
         "liquid": {
-            "liquid": "water", {
+            "liquid": "water": {
                 "amount": 0.3,
                 "booster": true,
                 "optional": true,
@@ -78,5 +78,5 @@
         }
     }
     "catagory": "turret",
-    "research": "duo";
+    "research": "duo",
 }
