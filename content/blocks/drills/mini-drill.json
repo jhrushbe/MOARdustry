@@ -1,0 +1,25 @@
+{
+	"name": "Miniature Drill",
+	"type": "Drill",
+	"description": "A small 1x1 drill that will help you take up the entirety of the ore patch.",
+	"size": 1,
+	"tier": 2,
+	"drillTime": 300,
+	"activeSound": "machine",
+	"activeSoundVolume": 50,
+	"idleSound": "none",
+	"idleSoundVolume": 0.5,
+	"requirements": [
+		{ "item": "copper", "amount": 4 },
+ 		{ "item": "graphite", "amount": 3 },
+	],
+	"consumes": {
+		"liquid": {
+			"liquid": "water", 
+			"amount": 0.1,
+      "booster": true,
+		}
+	},
+	"category": "production",
+	"research": "pneumatic-drill",
+}
