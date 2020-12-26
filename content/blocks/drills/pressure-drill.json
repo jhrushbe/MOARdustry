@@ -19,11 +19,11 @@
 		"liquid": {
 			"liquid": "water", 
 			"amount": 0.1,
-		}
-		"liquid": {
+			
 			"liquid": "cryofluid",
 			"amount": 0.1,
 			"booster": true
+		}
 	},
 	"category": "production",
 	"research": "blast-drill"
