@@ -3,10 +3,10 @@
     "name": "Trio",
     "description": "The duo's bigger sibling."
     "size": 1, 
-    "requirements": {
+    "requirements": [
         {"item": "copper", "amount": 55},
         {"item": "lead", "amount": 10},
-    }
+    ]
     "targetAir": true,
     "targetGround": true,
     "spread": 4,
@@ -25,8 +25,8 @@
             "ammoMultiplier": 3,
             "width": 7,
             "height": 9,
-            "shootEffect": shootSmall,
-            "smokeEffect": shootSmallSmoke,
+            "shootEffect": "shootSmall",
+            "smokeEffect": "shootSmallSmoke",
           }
          "graphite": {
             "speed": 2,
@@ -34,8 +34,8 @@
             "ammoMultiplier": 5,
             "width": 9,
             "hight": 12,
-            "shootEffect": shootSmall,
-            "smokeEffect": shootSmallSmoke,
+            "shootEffect": "shootSmall",
+            "smokeEffect": "shootSmallSmoke",
          }
          "pyratite": {
             "speed": 3,
@@ -43,12 +43,12 @@
             "ammoMultiplier": 3,
             "width":10,
             "hight": 12,
-            "frontColor": f8ad42,
-            "backColor": f68021,
-            "status": burning,
+            "frontColor": "F8AD42",
+            "backColor": "F68021",
+            "status": 'burning",
             "makefire": true,
-            "shootEffect": shootSmall,
-            "smokeEffect": shootSmallSmoke,
+            "shootEffect": "shootSmall",
+            "smokeEffect": "shootSmallSmoke",
          }
          "silicon": {
             "speed": 4.5,
@@ -57,8 +57,8 @@
             "width": 7,
             "hight": 9,
             "homingPower": 1.2,
-            "shootEffect": shootSmall,
-            "smokeEffect": shootSmallSmoke,
+            "shootEffect": "shootSmall",
+            "smokeEffect": "shootSmallSmoke",
          }
     }
     "consumes": {
