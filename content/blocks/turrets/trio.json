@@ -67,12 +67,10 @@
                 "amount": 0.3,
                 "booster": true,
                 "optional": true,
-                "boostEffect": 1.3,
             "liquid": "cryofluid",
                 "amount": 0.3,
                 "booster": true,
                 "optional": true,
-                "boostEffect": 1.8,
         }
     }
     "catagory": "turret",
