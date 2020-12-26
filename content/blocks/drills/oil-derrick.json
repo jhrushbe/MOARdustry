@@ -10,9 +10,9 @@
 	"solid": true,
 	"health": -1, 
 	"size": 5,
-	"activeSound": "none",
-	"activeSoundVolume": 0.5,
-	"idleSound": "none",
+	"activeSound": "grinding",
+	"activeSoundVolume": 5,
+	"idleSound": "machine",
 	"idleSoundVolume": 0.5,
 	"requirements": [
 		{ "item": "copper", "amount": 1000 },
@@ -27,7 +27,7 @@
 	"baseEfficiency": 0,
 	"itemUseTime": 30,
 	"result": "oil",
-	"pumpAmount": 4,
+	"pumpAmount": 1.5,
 	"rotateSpeed": 0.75,
 	"updateEffect": "pulverize",
 	"updateEffectChance": 0.005,
@@ -41,7 +41,7 @@
 		},
 		"liquid": {
 			"liquid": "water",
-			"amount": 2,
+			"amount": 1,
 		}
 	},
 }
