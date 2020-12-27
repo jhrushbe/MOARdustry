@@ -21,7 +21,7 @@
             {"item": "sand", "amount": 1},
         ],
     },
-    "outputItem": {"item": "silicon", "amount": 4"},
     "category": "crafting",
     "research": "silicon-smelter",
+    "outputItem": {"item": "silicon", "amount": 4"},
 }
