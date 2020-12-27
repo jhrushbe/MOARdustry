@@ -16,7 +16,7 @@
     ],
     "consumes": {
         "power": 2,
-        "item": {
+        "items": {
             {"item": "silicon", "amount": 3},
             {"item": "sand", "amount": 1},
         }
