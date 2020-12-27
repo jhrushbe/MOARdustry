@@ -2,4 +2,43 @@
     "type": "itemTurret"
     "name": "Minigun"
     "description": "Brrrrrrrrt"
+    "size": 2, 
+    "requirements": [
+        {"item": "copper", "amount": 100},
+        {"item": "lead", "amount": 50},
+    ],
+    "targetAir": false,
+    "targetGround": true,
+    "spread": 10,
+    "shots": 1,
+    "alterate": false,
+    "reload": 1,
+    "restitution": 0.03,
+    "range": 150,
+    "shootCone": 30,
+    "ammoUseEffect": "casing1",
+    "health": 500,
+    "inaccuracy": 10,
+    "rotateSpeed": 10,
+    "ammoTypes": {
+        "lead": {
+            "speed": 40,
+            "damage": 2,
+            "ammoMultiplier": 10,
+            "width": 7,
+            "height": 9,
+            "shootEffect": "shootSmall",
+            "smokeEffect": "shootSmallSmoke",
+          },
+    },
+    "consumes": {
+        "liquid": {
+            "liquid": "water", 
+                "amount": 0.5,
+                "booster": true,
+                "optional": true,
+        },
+    },
+    "category": "turret",
+    "research": "slavo",
 }
