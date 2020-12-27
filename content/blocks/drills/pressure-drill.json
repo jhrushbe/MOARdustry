@@ -24,7 +24,12 @@
 			"liquid": "water", 
 			"amount": 0.1,
 		}
+		"liquid": {
+			"liquid": "cryofluid", 
+			"amount": 0.1,
+		}
 	},
+	"boostMultiplier": 1,
 	"category": "production",
 	"research": "blast-drill"
 }
