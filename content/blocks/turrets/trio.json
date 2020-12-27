@@ -51,6 +51,7 @@
             "backColor": "F68021",
             "status": "burning",
             "incendiary": true,
+            "incendAmount": 1,
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
          },
@@ -67,12 +68,12 @@
          }, 
     },
     "consumes": {
-        "liquid": {
-            "liquid": [
+        //"liquid": {
+            //"liquid": [
                    {"liquid": "water", "amount": 0.1, "booster": true, "optional": true},
                    {"liquid": "cryofluid", "amount": 0.1, "booster": true, "optional": true}
-            ]
-        }
+          //  ]
+      //  }
     },
     "category": "turret",
     "research": "duo",
