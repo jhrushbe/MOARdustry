@@ -1,6 +1,6 @@
 {
     "type": "GenericSmelter",
-    "name": "Silicon Reassembler",
+    "name": "Silicon Foundry",
     "description": "Uses burning graphite, instead of coal, to assist in silicon production.",
     "size": 2,
     "health": 200,
