@@ -27,7 +27,7 @@
 	"baseEfficiency": 0,
 	"itemUseTime": 30,
 	"result": "oil",
-	"pumpAmount": 0.3,
+	"pumpAmount": 0.8,
 	"rotateSpeed": 0.25,
 	"updateEffect": "pulverize",
 	"updateEffectChance": 0.05,
