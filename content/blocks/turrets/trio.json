@@ -69,7 +69,6 @@
     },
     "consumes": {
             "liquid": {"liquid": "water", "amount": 0.1, "booster": true, "optional": true},
-            "liquid": {"liquid": "cryofluid", "amount": 0.1, "booster": true, "optional": true}
     },
     "category": "turret",
     "research": "duo",
