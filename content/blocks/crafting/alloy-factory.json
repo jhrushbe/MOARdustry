@@ -5,11 +5,11 @@
     "size": 4,
     "health": 500,
     "hasPower": true,
-    "hasLiquids": true,
+    "hasLiquids": false,
     "itemCapacity": 20,
     "craftTime": 60,
     "updateEffect": "smeltsmoke",
-    "flameColor": "ffef99",
+    "flameColor": "ffb855",
     "requirements": [
         {"item": "lead", "amount": 200},
         {"item": "thorium", "amount": 175},
@@ -21,13 +21,12 @@
    	    "items": {
       	    "items": [
       	        { "item": "copper", "amount": 5 },
-      	        { "item": "lead", "amount": 7 },
+      	        { "item": "lead", "amount": 6 },
                 { "item": "titanium", "amount": 3 },
                 { "item": "silicon", "amount": 5 },
                 { "item": "pyratite", "amount": 1 }
              ]
         },
-        "liquid": { "liquid": "cryofluid", "amount": 0.2, "booster": true, "optional": true}
     },
     "category": "crafting",
     "research": "alloy-smelter",
