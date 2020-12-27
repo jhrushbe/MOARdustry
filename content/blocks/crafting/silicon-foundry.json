@@ -6,8 +6,9 @@
     "health": 200,
     "hasPower": true,
     "hasLiquids": false,
+    "craftTime": 180,
     "updateEffect": "smeltsmoke",
-    "flameColor": "ffef99",
+    "flameColor": "DD4C20",
     "requirements": [
         {"item": "copper", "amount": 100},
         {"item": "titanium", "amount": 60},
