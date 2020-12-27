@@ -1,0 +1,27 @@
+{
+    "type": "GenericSmelter",
+    "name": "Silicon Reassembler",
+    "discription": "Melts sand into pre-existing silicon, creating more silicon.",
+    "size": 2,
+    "health": 200,
+    "hasPower": true,
+    "hasLiquids": false,
+    "craftEffect": "smeltSmoke",
+    "flameColor": "ffef99",
+    "requirements": [
+        {"item": "copper", "amount": 100},
+        {"item": "titanium", "amount": 60},
+        {"item": "graphite", "amount": 40},
+        {"item": "silicon", "amount": 20},
+    ],
+    "consumes": {
+        "power": 2,
+        "item": {
+            {"item": "silicon", "amount": 3},
+            {"item": "sand", "amount": 1},
+        }
+    }
+    "outputItem": {
+        {"item": "silicon", "amount": 4"},
+    }
+}
