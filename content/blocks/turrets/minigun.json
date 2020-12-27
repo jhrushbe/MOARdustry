@@ -6,7 +6,7 @@
     "requirements": [
         {"item": "copper", "amount": 100},
         {"item": "lead", "amount": 50},
-        {"item": "metaglass", "amount": 20),
+        {"item": "metaglass", "amount": 20},
     ],
     "targetAir": false,
     "targetGround": true,
