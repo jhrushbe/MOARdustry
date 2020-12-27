@@ -6,6 +6,7 @@
     "health": 500,
     "hasPower": true,
     "hasLiquids": true,
+    "itemCapacity": 20,
     "craftTime": 60,
     "updateEffect": "smeltsmoke",
     "flameColor": "ffef99",
