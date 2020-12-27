@@ -16,12 +16,12 @@
     ],
     "consumes": {
         "power": 2,
-        "items": {
+        "items": [
             {"item": "silicon", "amount": 3},
             {"item": "sand", "amount": 1},
-        },
+        ],
     },
-    "outputItem": {
+    "outputItem": [
         {"item": "silicon", "amount": 4"},
-    },
+    ],
 }
