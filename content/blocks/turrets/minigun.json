@@ -11,7 +11,7 @@
     "targetAir": false,
     "targetGround": true,
     "spread": 0,
-    "shots": 1,
+    "shots": 3,
     "alterate": false,
     "reload": 1,
     "restitution": 0.01,
@@ -34,18 +34,10 @@
           },
     },
     "consumes": {
-        "liquid": {
-            "liquid": "water", 
-                "amount": 0.1,
-                "booster": true,
-                "optional": true,
-        },
-        "liquid": {
-            "liquid": "cryofluid", 
-                "amount": 0.1,
-                "booster": true,
-                "optional": true,
-        },
+        "liquids": [
+            {"liquid": "water", "amount": 0.1, "booster": true, "optional": true},
+            {"liquid": "cryofluid", "amount": 0.1, "booster": true, "optional": true}
+         ]
     },
     "coolentMultiplier": 4,
     "category": "turret",
