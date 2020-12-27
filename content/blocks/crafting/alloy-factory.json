@@ -16,8 +16,8 @@
         {"item": "surge-alloy", "amount": 30},
     ],
     "consumes": {
-    	"power": 6,
-   	  "items": {
+        "power": 6,
+   	    "items": {
       	    "items": [
       	        { "item": "copper", "amount": 5 },
       	        { "item": "lead", "amount": 7 },
@@ -26,8 +26,9 @@
                 { "item": "pyratite", "amount": 1 }
              ]
         }
+        "liquid": { "liquid": "cryofluid", "amount": 0.2, "booster": true, "optional": true}
     },
     "category": "crafting",
-    "research": "surge-smelter",
+    "research": "alloy-smelter",
     "outputItem": {"item": "surge-alloy", "amount": 2}
 }
