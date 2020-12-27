@@ -10,9 +10,9 @@
     "targetAir": false,
     "targetGround": true,
     "spread": 10,
-    "shots": 1,
+    "shots": 3,
     "alterate": false,
-    "reload": 1,
+    "reload": 10,
     "restitution": 0.03,
     "range": 150,
     "shootCone": 30,
@@ -22,7 +22,7 @@
     "rotateSpeed": 10,
     "ammoTypes": {
         "lead": {
-            "speed": 40,
+            "speed": 5,
             "damage": 2,
             "ammoMultiplier": 10,
             "width": 7,
