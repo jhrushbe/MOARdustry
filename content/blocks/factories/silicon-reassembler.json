@@ -25,5 +25,5 @@
         {"item": "silicon", "amount": 4"},
     ],
     "category": "production",
-    "research": "siliconSmelter"
+    "research": "siliconSmelter",
 }
