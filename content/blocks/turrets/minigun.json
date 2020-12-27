@@ -6,19 +6,20 @@
     "requirements": [
         {"item": "copper", "amount": 100},
         {"item": "lead", "amount": 50},
+        {"item": "metaglass", "amount": 20),
     ],
     "targetAir": false,
     "targetGround": true,
     "spread": 0,
-    "shots": 10,
+    "shots": 1,
     "alterate": false,
-    "reload": 6,
+    "reload": 1,
     "restitution": 0.01,
     "range": 150,
     "shootCone": 1,
     "ammoUseEffect": "casing1",
     "health": 500,
-    "inaccuracy": 0,
+    "inaccuracy": 1,
     "rotateSpeed": 10,
     "ammoTypes": {
         "lead": {
@@ -39,7 +40,7 @@
                 "optional": true,
         },
     },
-    "coolentMultiplier": 2,
+    "coolentMultiplier": 5,
     "category": "turret",
     "research": "salvo",
 }
