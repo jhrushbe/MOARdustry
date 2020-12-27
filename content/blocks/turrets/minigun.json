@@ -37,7 +37,7 @@
         "liquid": {"liquid": "water", "amount": 0.1, "booster": true, "optional": true},
         "liquid": {"liquid": "cryofluid", "amount": 0.1, "booster": true, "optional": true}
     },
-    "coolentMultiplier": 4,
+    "boostMultiplier": 4,
     "category": "turret",
     "research": "scatter",
 }
