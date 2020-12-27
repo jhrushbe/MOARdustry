@@ -11,10 +11,10 @@
     "targetGround": true,
     "spread": 4,
     "shots": 3,
-    "alterate": true,
+    "alternate": true,
     "reload": 20,
     "restitution": 0.03,
-    "range": 150,
+    "range": 125,
     "shootCone": 15,
     "ammoUseEffect": "casing1",
     "shootSound": "shoot",
@@ -23,7 +23,7 @@
     "rotateSpeed": 10,
     "ammoTypes": {
         "copper": {
-            "speed": 3,
+            "speed": 5,
             "damage": 9,
             "ammoMultiplier": 2,
             "width": 7,
@@ -31,17 +31,18 @@
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
           },
-         "graphite": {
-            "speed": 1.8,
+        "graphite": {
+            "speed": 5,
             "damage": 18,
             "ammoMultiplier": 4,
+            "reloadMultiplier": 0.6,
             "width": 9,
             "hight": 12,
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
          },
-         "pyratite": {
-            "speed": 3,
+        "pyratite": {
+            "speed": 5,
             "damage": 11,
             "ammoMultiplier": 3,
             "width": 10,
@@ -53,24 +54,23 @@
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
          },
-         "silicon": {
-            "speed": 4.5,
+        "silicon": {
+            "speed": 5,
             "damage": 12,
             "ammoMultiplier": 5,
+            "reloadMiltiplier": 1.5,
             "width": 7,
             "hight": 9,
-            "homingPower": 1.2,
+            "homingPower": 0.08,
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke",
          }, 
     },
     "consumes": {
-        "liquid": {
-            "liquid": "water", 
-                "amount": 0.3,
-                "booster": true,
-                "optional": true,
-        },
+        "liquids": [
+            {"liquid": "water", "amount": 0.2, "booster": true, "optional": true},
+            {"liquid": "cryofluid", "amount": 0.2, "booster": true, "optional": true}
+        ],
     },
     "category": "turret",
     "research": "duo",
