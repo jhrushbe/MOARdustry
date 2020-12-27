@@ -12,7 +12,7 @@
     "targetGround": true,
     "spread": 0,
     "shots": 4,
-    "alternate": true,
+    "alternate": false,
     "reload": 1,
     "restitution": 0.01,
     "range": 150,
