@@ -9,8 +9,8 @@
     ],
     "targetAir": false,
     "targetGround": true,
-    "spread": 10,
-    "shots": 2,
+    "spread": 0,
+    "shots": 10,
     "alterate": false,
     "reload": 6,
     "restitution": 0.01,
@@ -23,7 +23,7 @@
     "ammoTypes": {
         "lead": {
             "speed": 5,
-            "damage": 5,
+            "damage": 10,
             "ammoMultiplier": 10,
             "width": 7,
             "height": 9,
