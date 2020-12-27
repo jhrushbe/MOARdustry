@@ -19,9 +19,9 @@
         "items": {
             {"item": "silicon", "amount": 3},
             {"item": "sand", "amount": 1},
-        }
-    }
+        },
+    },
     "outputItem": {
         {"item": "silicon", "amount": 4"},
-    }
+    },
 }
