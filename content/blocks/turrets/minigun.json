@@ -13,7 +13,7 @@
     "spread": 0,
     "shots": 4,
     "alternate": true,
-    "reload": 0.1,
+    "reload": 1,
     "restitution": 0.001,
     "range": 150,
     "shootCone": 0,
