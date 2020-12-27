@@ -1,7 +1,7 @@
 {
     "type": "itemTurret",
     "name": "Minigun",
-    "description": "Brrrrrrrrt",
+    "description": "The ground version of the Scatter. Greatly benifits from coolent.",
     "size": 2,
     "requirements": [
         {"item": "copper", "amount": 100},
@@ -24,7 +24,7 @@
     "ammoTypes": {
         "lead": {
             "speed": 5,
-            "damage": 10,
+            "damage": 7,
             "ammoMultiplier": 10,
             "width": 7,
             "height": 9,
@@ -35,12 +35,18 @@
     "consumes": {
         "liquid": {
             "liquid": "water", 
-                "amount": 0.5,
+                "amount": 0.1,
+                "booster": true,
+                "optional": true,
+        },
+        "liquid": {
+            "liquid": "cryofluid", 
+                "amount": 0.1,
                 "booster": true,
                 "optional": true,
         },
     },
-    "coolentMultiplier": 5,
+    "coolentMultiplier": 4,
     "category": "turret",
-    "research": "salvo",
+    "research": "scatter",
 }
