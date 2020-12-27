@@ -34,7 +34,7 @@
           },
     },
     "consumes": {
-        "liquids": [
+        "liquid": [
             {"liquid": "water", "amount": 0.1, "booster": true, "optional": true},
             {"liquid": "cryofluid", "amount": 0.1, "booster": true, "optional": true}
          ]
