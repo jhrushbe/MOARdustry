@@ -25,13 +25,13 @@
 			"amount": 0.1,
 			"booster": true,
 			"optional": true,
-		}
+		},
 		"liquid": {
 			"liquid": "cryofluid", 
 			"amount": 0.1,
 			"booster": true,
 			"optional": true,
-		}
+		},
 	},
 	"boostMultiplier": 1,
 	"category": "production",
