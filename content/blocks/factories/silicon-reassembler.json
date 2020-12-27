@@ -1,7 +1,7 @@
 {
     "type": "GenericSmelter",
     "name": "Silicon Reassembler",
-    "description": "Melts sand into pre-existing silicon, creating more silicon.",
+    "description": "Uses burning graphite, instead of coal, to assist in silicon production.",
     "size": 2,
     "health": 200,
     "hasPower": true,
@@ -18,12 +18,12 @@
     	"power": 2,
    	"items": {
       	    "items": [
-      	        { "item": "silicon", "amount": 3 },
+      	        { "item": "graphite", "amount": 1 },
       	        { "item": "sand", "amount": 3 }
              ]
         }
     },
     "category": "crafting",
     "research": "silicon-smelter",
-    "outputItem": {"item": "silicon", "amount": 4}
+    "outputItem": {"item": "silicon", "amount": 3}
 }
