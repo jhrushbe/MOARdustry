@@ -1,8 +1,8 @@
 {
-    "type": "itemTurret"
-    "name": "Minigun"
-    "description": "Brrrrrrrrt"
-    "size": 2, 
+    "type": "itemTurret",
+    "name": "Minigun",
+    "description": "Brrrrrrrrt",
+    "size": 2,
     "requirements": [
         {"item": "copper", "amount": 100},
         {"item": "lead", "amount": 50},
