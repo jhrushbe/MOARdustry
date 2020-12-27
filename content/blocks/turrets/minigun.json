@@ -45,8 +45,9 @@
         },
     },
     "consumes": {
-        "liquid": {"liquid": "water", "amount": 0.1, "booster": true, "optional": true, "boostMultiplier": 4}
+        "liquid": {"liquid": "water", "amount": 0.1, "booster": true, "optional": true}
     },
     "category": "turret",
     "research": "scatter",
+    "boostMultiplier": 5,
 }
