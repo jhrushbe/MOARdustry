@@ -3,7 +3,7 @@ An addition to Mindustry that adds MOAR to your game.
 
 Update log:
 
-(In development) v0.3: -adding uno and trio
+v0.3: -added trio -added minigun
 
 v0.2: -added pressure drill -added oil derrick
 
