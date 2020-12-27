@@ -6,7 +6,7 @@
     "health": 200,
     "hasPower": true,
     "hasLiquids": false,
-    "craftEffect": "smeltSmoke",
+    "craftEffect": "smeltsmoke",
     "flameColor": "ffef99",
     "requirements": [
         {"item": "copper", "amount": 100},
