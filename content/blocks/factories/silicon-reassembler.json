@@ -24,6 +24,6 @@
     "outputItem": [
         {"item": "silicon", "amount": 4"},
     ],
-    "category": "production",
-    "research": "silicon-smelter",
+    "category": "crafting",
+	"research": "silicon-smelter",
 }
