@@ -3,7 +3,7 @@ An addition to Mindustry that adds MOAR to your game.
 
 Update log:
 
-v0.4.a: -adding silicon reassembler
+v0.4.a: -added silicon foundary -adding surge factory
 
 v0.3: -added trio -added minigun
 
