@@ -18,6 +18,7 @@
     "range": 150,
     "shootCone": 1,
     "ammoUseEffect": "casing1",
+    "shootSound": "shootSnap",
     "health": 500,
     "inaccuracy": 1,
     "rotateSpeed": 10,
