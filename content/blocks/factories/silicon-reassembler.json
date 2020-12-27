@@ -17,8 +17,8 @@
     "consumes": {
         "power": 2,
         "items": [
-            {"item": "silicon", "amount": 3},
-            {"item": "sand", "amount": 1},
+            { "item": "silicon", "amount": 2 },
+			{ "item": "sand", "amount": 3 },
         ],
     },
     "category": "crafting",
