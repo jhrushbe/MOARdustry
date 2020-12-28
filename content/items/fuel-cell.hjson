@@ -1,5 +1,4 @@
 type: resource
 name: fuel cell
 description: an advanced mixture of thorium and other components
-cost: 2.5
-color: dcd16b
+color: cb8ebf
