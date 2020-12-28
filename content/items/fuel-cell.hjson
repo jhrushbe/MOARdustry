@@ -1,4 +1,4 @@
 type: resource
-name: fuel cell
-description: an advanced mixture of thorium and other components
+name: Fuel Cell
+description: An advanced thorium compound solidified around a graphite core. Used in nuclear reactors.
 color: cb8ebf
