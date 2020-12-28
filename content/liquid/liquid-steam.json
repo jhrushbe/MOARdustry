@@ -1,14 +1,11 @@
 {
-	"color": "#6e7080",
-	"heatCapacity": 0.1,
-	"temperature": 1.1,
-	"viscosity": 1,
-	"research": {
-		"parent": "routoid-assembler",
-		"requirements": [
-			"copper/11000",
-			"silicon/5000",
-			"beryllium/8001"
-		]
-	}
+	"color": "ffffff",
+	"barColor": "ffffff",
+	"lightColor": "ffffff",
+	"flamability": 0,
+	"temperature": 1,
+	"heatCapacity": 0,
+	"viscosity": 0,
+	"explosiveness": 0,
+	"effect": "melting",
 }
