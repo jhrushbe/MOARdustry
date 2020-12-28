@@ -1,8 +1,8 @@
 
 {
-    "color": "ffffffff", //temporary values
-    "barColor": "ffffffff",
-    "lightColor": "ffffffff",
+    "color": "ed4017", //temporary values
+    "barColor": "ed4018",
+    "lightColor": "ed4019",
     "flamability": 0.0,
     "temperature": 1.0,
     "heatCapacity": 0.0,
