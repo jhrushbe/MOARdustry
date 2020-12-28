@@ -1,12 +1,12 @@
-type: liquid
+type: Liquid
 name: steam
-description: boiled water
-color: ffffff
-barColor: ffffff
-lightColor: ffffff
+description: Boiled water. Used in processes of power generation.
+color: dffcff
+barColor: dffcff
+lightColor: f4feffff
 flammability: 0.0
 temperature: 0.9
 heatCapacity: 0.0
 viscosity: 0.0
 explosiveness: 0.0
-effect: wet
+effect: melting
