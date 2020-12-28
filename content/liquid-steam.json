@@ -1,12 +1,6 @@
-
 {
-    "color": "ed4017", //temporary values
-    "barColor": "ed4018",
-    "lightColor": "ed4019",
-    "flamability": 0.0,
-    "temperature": 1.0,
-    "heatCapacity": 0.0,
-    "viscosity": 0.0,
-    "explosiveness": 0.0,
-    "effect": "melting",
+    "type": "liquid",
+    "color": "596ab8",
+    "heatCapacity": 0.4,
+    "effect": "wet",
 }
