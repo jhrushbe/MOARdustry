@@ -1,11 +1,9 @@
 {
-	"color": "ffffff",
-	"barColor": "ffffff",
-	"lightColor": "ffffff",
-	"flamability": 0,
+	"name": "Steam",
+	"description": "Boiled water.",
 	"temperature": 1,
-	"heatCapacity": 0,
 	"viscosity": 0,
-	"explosiveness": 0,
+	"heatCapacity": 0,
 	"effect": "melting",
+	"color": "ffffff",
 }
