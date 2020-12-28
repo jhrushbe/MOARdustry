@@ -1,9 +1,0 @@
-{
-	"name": "Steam",
-	"description": "Boiled water.",
-	"temperature": 1,
-	"viscosity": 0,
-	"heatCapacity": 0,
-	"effect": "melting",
-	"color": "ffffff",
-}
