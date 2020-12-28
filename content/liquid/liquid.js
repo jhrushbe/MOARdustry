@@ -1,1 +1,1 @@
-module.exports = new Liquid("liquid-steam");
+extendContent(Liquid, "liquid-steam");
