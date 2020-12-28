@@ -1,0 +1,12 @@
+type: liquid
+name: steam
+description: boiled water
+color: ffffff
+barColor: ffffff
+lightColor: ffffff
+flammability: 0.0
+temperature: 0.9
+heatCapacity: 0.0
+viscosity: 0.0
+explosiveness: 0.0
+effect: wet
