@@ -1,0 +1,9 @@
+{
+    "name": "Steam"
+    "description": "Boiled water. Can be used for power."
+    "temperature": 2,
+    "heatCapacity": 0,
+    "effect": "melting",
+    "color": "cccedb",
+    "lightColor": "ececec",
+}
