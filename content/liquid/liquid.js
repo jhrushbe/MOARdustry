@@ -1,1 +1,1 @@
-module.exports = new Liquid("liquid-router");
+module.exports = new Liquid("liquid-steam");
