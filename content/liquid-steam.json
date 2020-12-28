@@ -1,10 +1,12 @@
 
 {
-	"name": "Steam",
-	"description": "Boiled water.",
-	"temperature": 1,
-	"viscosity": 0,
-	"heatCapacity": 0,
-	"effect": "melting",
-	"color": "ffffff",
+    "color": "ffffff", //temporary values
+    "barColor": "ffffff",
+    "lightColor": "ffffff",
+    "flamability": 0.0,
+    "temperature": 1.0,
+    "heatCapacity": 0.0,
+    "viscosity": 0.0,
+    "explosiveness": 0.0,
+    "effect": "melting",
 }
