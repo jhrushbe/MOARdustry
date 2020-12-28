@@ -1,1 +1,0 @@
-extendContent(Liquid, "liquid-why");
