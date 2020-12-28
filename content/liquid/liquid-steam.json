@@ -1,10 +1,14 @@
 {
-    "type": "liquid",
-    "name": "Steam",
-    "description": "Boiled water. Can be used for power.",
-    "temperature": 2,
-    "heatCapacity": 0,
-    "effect": "melting",
-    "color": "cccedb",
-    "lightColor": "ececec",
+	"color": "#6e7080",
+	"heatCapacity": 0.1,
+	"temperature": 1.1,
+	"viscosity": 1,
+	"research": {
+		"parent": "routoid-assembler",
+		"requirements": [
+			"copper/11000",
+			"silicon/5000",
+			"beryllium/8001"
+		]
+	}
 }
