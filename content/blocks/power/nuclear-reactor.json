@@ -1,0 +1,36 @@
+{
+    "type": "nuclearReactor",
+    "name": "Nuclear Reactor",
+    "description": "Uses nuclear fuel cells and water to create large amounts of steam."
+    "size": 3,
+    "powerProduction": 0,
+    "hasPower": false,
+    "ambientSound": "hum",
+    "ambientSoundVolume": 0.24,
+    "health": 700,
+    "itemDuration": 400,
+    "requirements": [
+        {"item": "lead", "amount": 700},
+        {"item": "silicon", "amount": 300},
+        {"item": "graphite", "amount": 200},
+        {"item": "metaglass", "amount": 100},
+        {"item": "thorium", "amount": 100}
+    ],
+    "consumes": {
+        "items": {
+            "items": [
+                {"item": "fuel-cell", "amount": 1}
+            ]
+        },
+        "liquid": {
+            "liquid": "water",
+            "amount": 0.3
+        }
+    },
+    "outputLiquid": {
+        "liquid": "steam",
+        "amount": 0.6
+    },
+    "research": "thorium-reactor",
+    "category": "power",
+}
