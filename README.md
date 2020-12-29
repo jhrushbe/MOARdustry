@@ -3,7 +3,7 @@ An addition to Mindustry that adds MOAR to your game.
 
 Update log:
 
-v0.5.a: -added steam -added fuel cell -added boiler v1 -added steam turbine -adding power generators
+v0.5.a: -added steam -added fuel cell -added boiler v1 -added steam turbine -added nuclear reactor
 
 v0.4: -added silicon foundary -added surge factory -bug fixes
 
