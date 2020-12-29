@@ -1,7 +1,7 @@
 {
     "type": "nuclearReactor",
     "name": "Nuclear Reactor",
-    "description": "Uses nuclear fuel cells and water to create large amounts of steam."
+    "description": "Uses nuclear fuel cells and water to create large amounts of steam.",
     "size": 3,
     "powerProduction": 0,
     "hasPower": false,
