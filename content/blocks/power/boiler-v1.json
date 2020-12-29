@@ -30,6 +30,6 @@
         "liquid": "steam",
         "amount": 0.2
     },
-    "research": "combustion-generator",
+    "research": "combustionGenerator",
     "category": "production",
 }
