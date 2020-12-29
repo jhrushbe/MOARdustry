@@ -2,3 +2,7 @@ type: resource
 name: Fuel Cell
 description: An advanced thorium compound solidified around a graphite core. Used in nuclear reactors.
 color: cb8ebf
+explosiveness: 0.9
+flamability: 0.3
+radioactivity: 2
+cost: 2.5
