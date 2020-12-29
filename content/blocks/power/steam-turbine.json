@@ -1,13 +1,13 @@
 {
     "type": "powerGenerator",
     "name": "Steam Turbine",
-    "description": "Converts steam into energy",
+    "description": "Converts steam into energy.",
     "size": 2,
     "solid": true,
     "health": 200,
     "hasPower": true,
     "powerProduction": 5.5,
-    "itemDuration": 90,
+    "itemDuration": 99999999999999999999,
     "hasLiquids": true,
     "hasItems": false,
     "requirements": [
