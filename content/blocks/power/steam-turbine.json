@@ -20,6 +20,6 @@
             "amount": 0.1
         }
     },
-    "research": "steam-generator",
+    "research": "boiler-v1",
     "category": "power",
 }
