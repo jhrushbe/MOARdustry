@@ -7,9 +7,11 @@
     "health": 200,
     "hasPower": true,
     "powerProduction": 5.5,
-    "itemDuration": 99999999999999999999,
+    "itemDuration": 60,
     "hasLiquids": true,
+    "consumesLiquids": true,
     "hasItems": false,
+    "consumesItems": false,
     "requirements": [
         {"item": "copper", "amount": 50},
         {"item": "lead", "amount": 50},
