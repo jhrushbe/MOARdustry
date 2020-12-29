@@ -30,6 +30,6 @@
         "liquid": "steam",
         "amount": 0.4
     },
-    "research": "power-node",
+    "research": "steam-generator",
     "category": "crafting",
 }
