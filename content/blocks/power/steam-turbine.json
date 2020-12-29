@@ -1,5 +1,5 @@
 {
-    "type": "powerGenerator",
+    "type": "PowerGenerator",
     "name": "Steam Turbine",
     "description": "Converts steam into energy.",
     "size": 2,
@@ -19,7 +19,7 @@
         {"item": "silicon", "amount": 30}
     ],
     "consumes": {
-        "liquid": {"liquid": "mod-name-steam", "amount": 0.15},
+        "liquid": {"liquid": "steam", "amount": 0.15},
     },
     "research": "boiler-v1",
     "category": "power",
