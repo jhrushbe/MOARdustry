@@ -1,5 +1,5 @@
 {
-    "type": "SingleTypeGenerator",
+    "type": "ItemLiquidGeneratorBuild",
     "name": "Steam Turbine",
     "description": "Converts steam into energy",
     "size": 2,
