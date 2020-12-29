@@ -1,9 +1,9 @@
 {
-    "type": "liquidConverter",
+    "type": "nuclearReactor",
     "name": "Nuclear Reactor",
     "description": "Uses nuclear fuel cells and water to create large amounts of steam.",
     "size": 3,
-    "powerProduction": 0,
+    "powerProduction": 55,
     "hasPower": false,
     "ambientSound": "hum",
     "ambientSoundVolume": 0.24,
@@ -28,10 +28,10 @@
             "amount": 0.3
         }
     },
-    "outputLiquid": {
+    /*"outputLiquid": {
         "liquid": "steam",
         "amount": 0.6
-    },
+    },*/
     "research": "thorium-reactor",
     "category": "power",
 }
