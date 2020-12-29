@@ -17,8 +17,8 @@
         {"item": "silicon", "amount": 30}
     ],
     "consumes": {
-        "liquid": {"liquid": "steam", "amount": 0.15}
-        "items": { "items": [ {"item": "copper"}]},
+        "liquid": {"liquid": "steam", "amount": 0.15},
+        "items": { "items": [ {"item": "copper"}]}
     },
     "research": "boiler-v1",
     "category": "power",
