@@ -1,5 +1,5 @@
 {
-    "type": "PowerGenerator",
+    "type": "BurnerGenerator",
     "name": "Steam Turbine",
     "description": "Converts steam into energy.",
     "size": 2,
