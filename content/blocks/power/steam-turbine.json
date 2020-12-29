@@ -1,5 +1,5 @@
 {
-    "type": "ItemLiquidGeneratorBuild",
+    "type": "burnerGenerator",
     "name": "Steam Turbine",
     "description": "Converts steam into energy",
     "size": 2,
@@ -19,6 +19,10 @@
         "liquid": {
             "liquid": "steam", 
             "amount": 0.1
+        },
+        "item": {
+            "item": "null",
+            "amount": 0
         }
     },
     "research": "boiler-v1",
