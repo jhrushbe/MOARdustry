@@ -1,0 +1,16 @@
+{
+    "type": "SingleTypeGenerator",
+    "name": "Steam Turbine",
+    "description": "Converts steam into energy",
+    "size": 2,
+    "health": 200,
+    "powerProduction": 5.5,
+    "itemDuration": 90,
+    "hasLiquids": true,
+    "hasItems": false,
+    "consumes": {
+        {"liquid": "steam", "amount": 0.1"}
+    },
+    "research": "steam-generator",
+    "category": "power",
+}
