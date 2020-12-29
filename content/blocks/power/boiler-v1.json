@@ -18,7 +18,7 @@
     "consumes": {
         "items": {
             "items": [
-                {"item": "coal", "amount", 3}
+                {"item": "coal", "amount": 3}
             ]
         },
         "liquid": {
