@@ -22,8 +22,7 @@
         },
         "items": {
             "items": [
-                 "item": "null",
-                 "amount": 0
+                {"item": "null", "amount": 0},
             ]
         }
     },
