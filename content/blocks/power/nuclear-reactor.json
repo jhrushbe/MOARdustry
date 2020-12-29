@@ -4,7 +4,7 @@
     "description": "Uses nuclear fuel cells and water to create large amounts of steam.",
     "size": 3,
     "powerProduction": 55,
-    "hasPower": false,
+    "hasPower": true,
     "ambientSound": "hum",
     "ambientSoundVolume": 0.24,
     "health": 700,
