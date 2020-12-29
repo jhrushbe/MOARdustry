@@ -9,7 +9,10 @@
     "hasLiquids": true,
     "hasItems": false,
     "consumes": {
-        "liquid": {"liquid": "steam", "amount": 0.1"}
+        "liquid": {
+            "liquid": "steam", 
+            "amount": 0.1
+        }
     },
     "research": "steam-generator",
     "category": "power",
