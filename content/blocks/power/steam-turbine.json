@@ -3,6 +3,7 @@
     "name": "Steam Turbine",
     "description": "Converts steam into energy",
     "size": 2,
+    "solid": true,
     "health": 200,
     "powerProduction": 5.5,
     "itemDuration": 90,
