@@ -1,9 +1,9 @@
 {
     "type": "nuclearReactor",
     "name": "Nuclear Reactor",
-    "description": "Uses nuclear fuel cells and water to create large amounts of steam.",
+    "description": "Uses nuclear fuel cells and water to create power. Will explode if insufficient water is provided.",
     "size": 3,
-    "powerProduction": 55,
+    "powerProduction": 20,
     "hasPower": true,
     "ambientSound": "hum",
     "ambientSoundVolume": 0.24,
@@ -25,13 +25,9 @@
         },
         "liquid": {
             "liquid": "water",
-            "amount": 0.3
+            "amount": 0.5
         }
     },
-    /*"outputLiquid": {
-        "liquid": "steam",
-        "amount": 0.6
-    },*/
     "research": "thorium-reactor",
     "category": "power",
 }
