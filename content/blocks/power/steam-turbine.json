@@ -8,7 +8,7 @@
     "itemDuration": 90,
     "hasLiquids": true,
     "hasItems": false,
-    "requiremants": [
+    "requirements": [
         {"item": "copper", "amount": 50},
         {"item": "lead", "amount": 50},
         {"item": "graphite", "amount": 40},
