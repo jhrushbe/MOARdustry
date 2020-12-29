@@ -19,7 +19,7 @@
         {"item": "silicon", "amount": 30}
     ],
     "consumes": {
-        "liquid": {"liquid": "steam", "amount": 0.15},
+        "liquid": {"liquid": "mod-name-steam", "amount": 0.15},
     },
     "research": "boiler-v1",
     "category": "power",
