@@ -1,5 +1,5 @@
 type: Liquid
-name: steam
+name: Steam
 description: Boiled water. Used in processes of power generation.
 color: dffcff
 barColor: dffcff
@@ -10,3 +10,4 @@ heatCapacity: 0.0
 viscosity: 0.0
 explosiveness: 0.0
 effect: melting
+research: water
