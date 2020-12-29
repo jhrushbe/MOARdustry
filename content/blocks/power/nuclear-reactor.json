@@ -1,10 +1,11 @@
 {
     "type": "nuclearReactor",
     "name": "Nuclear Reactor",
-    "description": "Uses nuclear fuel cells and water to create power. Will explode if insufficient water is provided.",
+    "description": "Uses nuclear fuel cells and water to create power. Will explode if insufficient amounts water are provided.",
     "size": 3,
     "powerProduction": 20,
     "hasPower": true,
+    "liquidCapcity": 100,
     "ambientSound": "hum",
     "ambientSoundVolume": 0.24,
     "health": 700,
