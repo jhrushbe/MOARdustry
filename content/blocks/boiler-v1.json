@@ -1,0 +1,35 @@
+{
+    "type": "LiquidConverter",
+    "name": "Boiler V1",
+    "description": "Uses coal to produce steam, which then can be used to generate power.",
+    "health": 300,
+    "size": 2,
+    "requirements": [
+        {"item": "copper", "amount": 100},
+        {"item": "lead", "amount": 75},
+        {"item": "metaglass", "amount": 40}
+    ],
+    "hasPower": false,
+    "hasLiquids": true,
+    "hasItems": true,
+    "rotate": false,
+    "solid": true,
+    "craftTime": 120,
+    "consumes": {
+        "items": {
+            "items": [
+                {"item": "coal", "amount", 3}
+            ]
+        },
+        "liquid": {
+            "liquid": "water",
+            "amount": 0.1,
+        }
+    },
+    "outputLiquid": {
+        "liquid": "steam",
+        "amount": 0.2
+    },
+    "research": "combustionGenerator",
+    "category": "production",
+}
