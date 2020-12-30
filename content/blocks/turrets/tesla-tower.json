@@ -19,8 +19,12 @@
 	"shootEffect": "lightningShoot",
 	"heatColor": "fbb97f",
 	"recoilAmount": 1,
-	"shootType": "LightningBulletType",
-	"damage": 20,
-	"lightningLength": 25,
-	"collidesAir": true,
+	"shootType": {
+		"type": "LightningBulletType",
+		"damage": 20,
+		"lightningLength": 25,
+		"collidesAir": true,
+	}
+	"research": "arc",
+	"category": "turret",
 }
