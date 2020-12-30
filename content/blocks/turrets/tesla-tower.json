@@ -9,7 +9,9 @@
 	],
 	"size": 2,
 	"heath": 250,
-	"reloadTime": 35,
+	"reloadTime": 1,
+	"restitution": 0.01,
+	"inaccuracy": 
 	"shootCone": 40,
 	"rotateSpeed": 30,
 	"range": 90,
@@ -21,7 +23,7 @@
 	"recoilAmount": 1,
 	"shootType": {
 		"type": "LightningBulletType",
-		"damage": 20,
+		"damage": 5,
 		"lightningLength": 25,
 		"collidesAir": true,
 	},
