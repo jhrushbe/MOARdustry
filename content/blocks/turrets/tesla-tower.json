@@ -17,7 +17,7 @@
 	"targetGround": true,
 	"targetAir": true,
 	"shootEffect": "lightningShoot",
-	"heatColor": "red",
+	"heatColor": "fbb97f",
 	"recoilAmount": 1,
 	"shootType": "LightningBulletType",
 	"damage": 20,
