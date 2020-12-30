@@ -1,7 +1,7 @@
 {
     "type": "LiquidConverter",
     "name": "Boiler V1",
-    "description": "Uses coal to produce steam, which then can be used to generate power.",
+    "description": "Burns coal to produce steam from water, which can then be used to generate power or in manufacturing processes.",
     "health": 300,
     "size": 2,
     "requirements": [
@@ -18,7 +18,7 @@
     "consumes": {
         "items": {
             "items": [
-                {"item": "coal", "amount": 2}
+                {"item": "coal", "amount": 1}
             ]
         },
         "liquid": {
