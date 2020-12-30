@@ -1,7 +1,7 @@
 {
     "type": "impactReactor",
     "name": "Steam Turbine",
-    "description": "Converts steam into energy.",
+    "description": "Converts steam into energy. Takes time to spin up the turbine and requires there to be a little power in the system to keep the safty system active.",
     "size": 2,
     "solid": true,
     "health": 200,
