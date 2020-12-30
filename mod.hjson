@@ -2,7 +2,7 @@ name: "MOARdustry"
 displayName: "MOARdustry"
 author: Jhrushbe
 description: "An addition to Mindustry that adds MOAR to your game."
-version: "0.5"
+version: "0.6.a"
 minGameVersion: "105"
 dependencies: [ ]
 hidden: false
