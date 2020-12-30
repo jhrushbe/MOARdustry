@@ -23,12 +23,12 @@
         },
         "liquid": {
             "liquid": "water",
-            "amount": 0.1,
+            "amount": 0.15,
         }
     },
     "outputLiquid": {
         "liquid": "steam",
-        "amount": 0.4
+        "amount": 0.3
     },
     "research": "steam-generator",
     "category": "crafting",
