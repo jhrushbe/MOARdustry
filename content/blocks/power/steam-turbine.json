@@ -6,7 +6,7 @@
     "solid": true,
     "health": 200,
     "hasPower": true,
-    "powerProduction": 5.5,
+    "powerProduction": 5.5166666,
     "itemDuration": 60,
     "hasLiquids": true,
     "consumesLiquids": true,
@@ -19,7 +19,7 @@
         {"item": "silicon", "amount": 30}
     ],
     "consumes": {
-        "power": 0,
+        "power": 0.1,
         "liquid": {"liquid": "steam", "amount": 0.15},
     },
     "research": "boiler-v1",
