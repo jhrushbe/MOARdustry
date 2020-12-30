@@ -1,0 +1,26 @@
+{
+	"type": "powerTurret",
+	"name": "Tesla Tower",
+	"description": "By using its impresive height, the Tesla Tower can hit both land and air units.",
+	"requirements": [
+		{"item": "copper", "amount": 200},
+		{"item": "lead", "amount": 100},
+		{"item": "graphite", "amount": 50}
+	],
+	"size": 2,
+	"heath": 250,
+	"reloadTime": 35,
+	"shootCone": 40,
+	"rotateSpeed": 30,
+	"range": 90,
+	"powerUse": 3.3,
+	"targetGround": true,
+	"targetAir": true,
+	"shootEffect": "lightningShoot",
+	"heatColor": ,
+	"recoilAmount": 1,
+	"shootType": "LightningBulletType",
+	"damage": 20,
+	"lightningLength": 25,
+	"collidesAir": true,
+}
