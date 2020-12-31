@@ -19,7 +19,7 @@
 	"spread": 0,
 	"shootCone": 1,
 	"recoilAmount": 30,
-	"reloadTime": 300,
+	"reloadTime": 600,
 	"maxAmmo": 50,
 	"rotateSpeed": 1,
 	"ammoPerShot": 50,
@@ -28,10 +28,10 @@
 			"damage": 3000,
 			"ammoMultiplier": 1,
 			"speed": 5,
-			"width": 20,
-			"hight": 30,
+			"width": 16,
+			"hight": 21,
 			"splashDamage": 2000,
-			"splashDamageRadius": 50
+			"splashDamageRadius": 90
 		}
 	},
 	"research": "spectre",
