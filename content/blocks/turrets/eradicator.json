@@ -11,7 +11,7 @@
 		{"item": "silicon", "amount": 1000},
 		{"item": "titanium", "amount": 1000}
 	],
-	"range": 50,
+	"range": 50000,
 	"shots": 1,
 	"targetAir": false,
 	"targetGround": true,
@@ -30,7 +30,7 @@
 			"width": 20,
 			"hight": 30,
 			"splashDamage": 2000,
-			"splashRadius": 200
+			"splashRadius": 50
 		}
 	},
 	"research": "spectre",
