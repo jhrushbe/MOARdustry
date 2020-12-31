@@ -16,7 +16,7 @@
 	"shootCone": 20,
 	"recoilAmount": 10,
 	"ammoUseEffect": "casing3",
-	"range": 20,
+	"range": 90,
 	"rotateSpeed": 10,
 	"targetAir": true,
 	"targetGround": true,
