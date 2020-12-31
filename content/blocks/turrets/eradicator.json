@@ -1,0 +1,38 @@
+{
+	"type": "itemTurret",
+	"name": "Eradicator",
+	"description": "A gun that finds use in deleting mointains.",
+	"size": 4,
+	"health": 1000,
+	"requirements": [
+		{"item": "surge-alloy", "amount": 5000},
+		{"item": "plastanium", "amount": 1000},
+		{"item": "thorium", "amount": 1000},
+		{"item": "silicon", "amount": 1000},
+		{"item": "titanium", "amount": 1000}
+	],
+	"range": 50,
+	"shots": 1,
+	"targetAir": false,
+	"targetGround": true,
+	"inaccuracy": 0,
+	"spread": 0,
+	"shootCone": 1,
+	"recoilAmount": 30,
+	"reloadTime": 300,
+	"maxAmmo": 1,
+	"rotateSpeed": 1,
+	"ammoTypes": {
+		"copper": {
+			"damage": 3000,
+			"ammoMultiplier": 0.001,
+			"speed": 5,
+			"width": 20,
+			"hight": 30,
+			"splashDamage": 2000,
+			"splashRadius": 200
+		}
+	},
+	"research": "spectre",
+	"category": "turret",
+}
