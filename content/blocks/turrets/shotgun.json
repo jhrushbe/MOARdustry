@@ -1,0 +1,29 @@
+{
+	"type": "itemTurret",
+	"name": "Shotgun",
+	"description": "Whoever thought it was a good idea to strap a shotgun to a turret . . . they were right.",
+	"size": 2,
+	"health": 400,
+	"requirements": [
+		{"item": "copper", "amount": 100},
+		{"item": "lead", "amount": 100}
+	],
+	"shots": 30,
+	"reloadTime": 30,
+	"restitution": 0.03,
+	"spread": 20,
+	"inaccuracy": 5,
+	"shootCone": 20,
+	"recoilAmount": 10,
+	"ammoUseEffect": "casing3",
+	"range": 20,
+	"rotateSpeed": 10,
+	"targetAir": true,
+	"targetGround": true,
+	"maxAmmo": 60,
+	"ammoTypes": {
+		"lead": {
+			"damage": 5,
+		}
+	}
+}
