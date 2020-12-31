@@ -20,7 +20,6 @@
 	"rotateSpeed": 10,
 	"targetAir": true,
 	"targetGround": true,
-	"maxAmmo": 60,
 	"ammoTypes": {
 		"lead": {
             		"speed": 5,
