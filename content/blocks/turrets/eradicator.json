@@ -30,7 +30,7 @@
 			"width": 20,
 			"hight": 30,
 			"splashDamage": 2000,
-			"splashRadius": 50
+			"splashDamageRadius": 50
 		}
 	},
 	"research": "spectre",
