@@ -15,7 +15,7 @@
 	"shootCone": 360,
 	"shots": 16,
 	"spread": 360,
-	"rotateSpeed": 30,
+	"rotateSpeed": 0,
 	"range": 90,
 	"powerUse": 3.3,
 	"targetGround": true,
