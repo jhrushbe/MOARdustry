@@ -25,7 +25,7 @@
 	"ammoTypes": {
 		"copper": {
 			"damage": 3000,
-			"ammoMultiplier": 0.001,
+			"ammoMultiplier": 0.01,
 			"speed": 5,
 			"width": 20,
 			"hight": 30,
