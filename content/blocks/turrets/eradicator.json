@@ -11,7 +11,7 @@
 		{"item": "silicon", "amount": 1000},
 		{"item": "titanium", "amount": 1000}
 	],
-	"range": 50000,
+	"range": 500,
 	"shots": 1,
 	"targetAir": false,
 	"targetGround": true,
