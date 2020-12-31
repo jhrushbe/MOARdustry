@@ -43,6 +43,6 @@
        			"smokeEffect": "shootBigSmoke",
         	}
 	},
-	"research": "minigun",
+	"research": "scatter",
 	"category": "turret",
 }
