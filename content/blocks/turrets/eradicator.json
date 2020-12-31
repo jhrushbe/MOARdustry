@@ -20,7 +20,7 @@
 	"shootCone": 1,
 	"recoilAmount": 30,
 	"reloadTime": 300,
-	"maxAmmo": 1,
+	"maxAmmo": 50,
 	"rotateSpeed": 1,
 	"ammoPerShot": 50,
 	"ammoTypes": {
