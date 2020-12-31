@@ -11,8 +11,10 @@
 	"heath": 250,
 	"reloadTime": 1,
 	"restitution": 0.01,
-	"inaccuracy": 
-	"shootCone": 40,
+	"inaccuracy", 180,
+	"shootCone": 180,
+	"shots": 3,
+	"spread": 360,
 	"rotateSpeed": 30,
 	"range": 90,
 	"powerUse": 3.3,
