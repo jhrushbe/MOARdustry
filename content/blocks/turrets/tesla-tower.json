@@ -11,7 +11,7 @@
 	"heath": 250,
 	"reloadTime": 1,
 	"restitution": 0.01,
-	"inaccuracy", 180,
+	"inaccuracy": 180,
 	"shootCone": 180,
 	"shots": 3,
 	"spread": 360,
