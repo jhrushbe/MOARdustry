@@ -1,7 +1,7 @@
 {
 	"type": "itemTurret",
 	"name": "Eradicator",
-	"description": "A gun that finds use in deleting mointains.",
+	"description": "A gun that finds use in deleting mountains.",
 	"size": 4,
 	"health": 1000,
 	"requirements": [
