@@ -17,7 +17,7 @@
 	"spread": 360,
 	"rotateSpeed": 0,
 	"range": 90,
-	"powerUse": 3.3,
+	"powerUse": 5,
 	"targetGround": true,
 	"targetAir": true,
 	"shootEffect": "lightningShoot",
@@ -28,7 +28,7 @@
 	"ambientSoundVolume": 1,
 	"shootType": {
 		"type": "LightningBulletType",
-		"damage": 5,
+		"damage": 2,
 		"lightningLength": 15,
 		"collidesAir": true,
 	},
