@@ -20,6 +20,7 @@
 	"rotateSpeed": 10,
 	"targetAir": true,
 	"targetGround": true,
+	"shootSound": "bang",
 	"ammoTypes": {
 		"lead": {
             		"speed": 5,
