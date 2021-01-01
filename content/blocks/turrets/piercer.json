@@ -1,17 +1,17 @@
 {
-	"type": "lazerTurret",
-  "name": "Piercer",
-  "decription": "Fires a continuous beam of piercing energy.",
-  "size": 4,
-  "health": 1000,
-  "requirements": [
+	"type": "laserTurret",
+  	"name": "Piercer",
+  	"decription": "Fires a continuous beam of piercing energy, larger that the Meltdown's.",
+  	"size": 4,
+  	"health": 1000,
+  	"requirements": [
  		{"item": "copper", "amount": 1000},
 		{"item": "surge-alloy", "amount": 500},
 		{"item": "plastanium", "amount": 450},
 		{"item": "graphite", "amount": 450},
 		{"item": "lead", "amount": 450},
 		{"item": "silicon", "amount": 450}
-  ],
+  	],
 	"shootCone": 40,
 	"recoilAmount": 4,
 	"range": 300,
@@ -33,4 +33,4 @@
 	},
 	"research": "meltdown",
 	"category": "turret",
-},
+}
