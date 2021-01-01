@@ -24,6 +24,8 @@
 	"heatColor": "00000000",
 	"recoilAmount": 0,
 	"shootSound": "spark",
+	"ambientSound": "hum",
+	"ambientSoundVolume": 1,
 	"shootType": {
 		"type": "LightningBulletType",
 		"damage": 5,
