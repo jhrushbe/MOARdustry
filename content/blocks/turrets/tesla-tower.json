@@ -28,7 +28,7 @@
 	"ambientSoundVolume": 1,
 	"shootType": {
 		"type": "LightningBulletType",
-		"damage": 2,
+		"damage": 4,
 		"lightningLength": 15,
 		"collidesAir": true,
 	},
