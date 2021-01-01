@@ -19,6 +19,7 @@
 	"firingMoveFract": 0.5,
 	"shootDuration": 330,
 	"powerUse": 17,
+	"restitution": 0.03,
 	"shootSound": "laserBig",
 	"loopSound": "beam",
 	"loopSoundVolume": 2,
