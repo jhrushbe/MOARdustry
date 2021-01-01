@@ -3,7 +3,7 @@
   	"name": "Piercer",
   	"decription": "Fires a continuous beam of piercing energy, larger that the Meltdown's.",
   	"size": 4,
-  	"health": 1000,
+  	"health": 4000,
   	"requirements": [
  		{"item": "copper", "amount": 1000},
 		{"item": "surge-alloy", "amount": 500},
@@ -30,6 +30,8 @@
 		"incendChance": 0.4,
 		"incendSpread": 5,
 		"incendAmount": 1,
+		"damage": 900,
+		"color": "7457ce"
 	},
 	"research": "meltdown",
 	"category": "turret",
