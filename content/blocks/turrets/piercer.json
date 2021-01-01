@@ -25,7 +25,7 @@
 	"shootType": {
 		"type": "ContinuousLaserBulletType",
 		"length": 300,
-		"hitEffect": "meltdown",
+		"hitEffect": "hitMeltdown",
 		"drawSize": 420,
 		"incendChance": 0.4,
 		"incendSpread": 5,
