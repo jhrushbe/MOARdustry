@@ -31,7 +31,8 @@
 			"width": 16,
 			"hight": 21,
 			"splashDamage": 2000,
-			"splashDamageRadius": 90
+			"splashDamageRadius": 90,
+			"lifetime": 100
 		}
 	},
 	"research": "foreshadow",
