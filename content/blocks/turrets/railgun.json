@@ -10,7 +10,7 @@
 		{"item": "graphite", "amount": 700},
 		{"item": "copper", "amount": 500}
 	],
-	"maxAmmo": 2,
+	"maxAmmo": 1,
 	"ammoPerShot": 1,
 	"targetAir": true,
 	"targetGround": true,
@@ -27,14 +27,12 @@
 	"rotateSpeed": 2,
 	"ammoTypes": {
 		"titanium": {
-			//"shootType": {
-				"type": "ShrapnelBulletType",
-				"length": 175,
-				"damage": 50,
-				"ammoMultiplier": 1,
-				"width": 5,
-				"reloadMultiplier": 10
-			//}
+			"type": "ShrapnelBulletType",
+			"length": 175,
+			"damage": 50,
+			"ammoMultiplier": 1,
+			"width": 4,
+			"reloadMultiplier": 10
 		}
 	},
 	"category": "turret",
