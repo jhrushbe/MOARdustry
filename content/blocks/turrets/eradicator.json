@@ -19,7 +19,7 @@
     "restitution": 1,
     "range": 500,
     "shootCone": 1,
-    "ammoUseEffect": "casing3",
+    "ammoUseEffect": "shockwave",
     "shootSound": "shootBig",
     "health": 1000,
     "inaccuracy": 0,
