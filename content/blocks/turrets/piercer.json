@@ -1,7 +1,7 @@
 {
 	"type": "laserTurret",
   	"name": "Piercer",
-  	"decription": "Fires a continuous beam of piercing energy, larger that the Meltdown's.",
+  	"description": "Fires a continuous beam of piercing energy, larger that the Meltdown's.",
   	"size": 4,
   	"health": 4000,
   	"requirements": [
@@ -15,7 +15,7 @@
 	"shootCone": 40,
 	"recoilAmount": 4,
 	"range": 300,
-	"reload": 60,
+	"reloadTime": 60,
 	"firingMoveFract": 0.5,
 	"shootDuration": 330,
 	"powerUse": 17,
@@ -32,7 +32,6 @@
 		"incendSpread": 5,
 		"incendAmount": 1,
 		"damage": 100,
-		"color": "7457ce"
 	},
 	"research": "meltdown",
 	"category": "turret"
