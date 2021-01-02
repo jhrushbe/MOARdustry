@@ -15,7 +15,7 @@
 	"shootCone": 40,
 	"recoilAmount": 4,
 	"range": 300,
-	"reload": 90,
+	"reload": 60,
 	"firingMoveFract": 0.5,
 	"shootDuration": 330,
 	"powerUse": 17,
