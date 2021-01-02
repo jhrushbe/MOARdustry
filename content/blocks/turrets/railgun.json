@@ -1,1 +1,23 @@
-
+{
+	"type": "itemTurret",
+	"name": "Railgun",
+	"description": "Uses titanium as ammo. Has the ability to shoot as fast at you can put items in.",
+	"size": 3,
+	"health": 500,
+	"requirements": [
+		{"item": "titanium", "amount": 1000},
+		{"item": "silicon", "amount": 1000},
+		{"item": "graphite", "amount": 700},
+		{"item": "copper", "amount": 500}
+	],
+	"targetAir": true,
+	"targetGround": true,
+	"spread": 0,
+	"shots": 1,
+	"alternate": false,
+	"reload": 1,
+	"restitution": 0.01,
+	"range": 175,
+	"shootCone": 1,
+	"ammoUseEffect": "
+}
