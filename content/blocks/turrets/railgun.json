@@ -22,14 +22,14 @@
 	"range": 175,
 	"shootCone": 1,
 	"ammoUseEffect": "lancerLaserCharge",
-	"shootSound": "shootSnap",
+	"shootSound": "laserShoot",
 	"inaccuracy": 0,
 	"rotateSpeed": 2,
 	"ammoTypes": {
 		"titanium": {
 			"type": "ShrapnelBulletType",
-			"length": 175,
-			"damage": 50,
+			"length": 190,
+			"damage": 30,
 			"ammoMultiplier": 1,
 			"width": 4,
 			"reloadMultiplier": 10
