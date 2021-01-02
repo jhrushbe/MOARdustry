@@ -20,7 +20,7 @@
     "range": 500,
     "shootCone": 1,
     "ammoUseEffect": "shockwave",
-    "shootSound": "shootBig",
+    "shootSound": "artillery",
     "health": 1000,
     "inaccuracy": 0,
     "rotateSpeed": 1,
