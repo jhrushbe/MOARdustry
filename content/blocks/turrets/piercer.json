@@ -31,9 +31,9 @@
 		"incendChance": 0.4,
 		"incendSpread": 5,
 		"incendAmount": 1,
-		"damage": 900,
+		"damage": 100,
 		"color": "7457ce"
 	},
 	"research": "meltdown",
-	"category": "turret",
+	"category": "turret"
 }
