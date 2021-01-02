@@ -10,7 +10,7 @@
 	{"item": "silicon", "amount": 1000},
 	{"item": "titanium", "amount": 1000},
     ],
-    "targetAir": false,
+    "targetAir": true,
     "targetGround": true,
     "spread": 0,
     "shots": 1,
