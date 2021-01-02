@@ -22,7 +22,7 @@
 	"range": 175,
 	"shootCone": 1,
 	"ammoUseEffect": "lancerLaserCharge",
-	"shootSound": "laserShoot",
+	"shootSound": "lasershoot",
 	"inaccuracy": 0,
 	"rotateSpeed": 2,
 	"ammoTypes": {
