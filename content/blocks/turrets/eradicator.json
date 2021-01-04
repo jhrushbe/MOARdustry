@@ -17,7 +17,7 @@
     "alternate": false,
     "reloadTime": 600,
     "restitution": 1,
-    "range": 500,
+    "range": 575,
     "shootCone": 1,
     "ammoUseEffect": "shockwave",
     "shootSound": "artillery",
@@ -37,6 +37,7 @@
 	    "splashDamage": 2000,
 	    "splashDamageRadius": 90,
 	    "lifetime": 100
+	    "buildingDamageMultiplier": 1.3,
 	}
     },
     "category": "turret",
