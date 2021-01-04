@@ -1,7 +1,7 @@
 {
     "type": "nuclearReactor",
     "name": "Nuclear Reactor",
-    "description": "Uses nuclear fuel cells and water to create power. Will explode if insufficient amounts water are provided.",
+    "description": "Uses nuclear fuel cells and water to create power as an alternative to a thorium reactor. Will explode if insufficient amounts water are provided.",
     "size": 3,
     "powerProduction": 75,
     "hasPower": true,
@@ -26,7 +26,7 @@
         },
         "liquid": {
             "liquid": "water",
-            "amount": 0.5
+            "amount": 0.666666
         }
     },
     "research": "thorium-reactor",
