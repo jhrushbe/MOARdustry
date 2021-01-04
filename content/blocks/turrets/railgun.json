@@ -1,7 +1,7 @@
 {
 	"type": "itemTurret",
 	"name": "Railgun",
-	"description": "Uses titanium as ammo. Has the ability to shoot as fast at you can put items in.",
+	"description": "Accelerates titanium slugs to high speeds. Fast enough that the slugs burn up in the atmosphere. Has the ability to shoot nearly as fast as you can put items in.",
 	"size": 3,
 	"health": 500,
 	"requirements": [
@@ -32,8 +32,11 @@
 			"damage": 30,
 			"ammoMultiplier": 1,
 			"width": 4,
-			"reloadMultiplier": 10
+			"reloadMultiplier": 2
 		}
+	},
+	"consumes": {
+		"power": 1.6666666
 	},
 	"category": "turret",
 	"research": "ripple",
