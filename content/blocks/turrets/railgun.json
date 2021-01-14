@@ -1,7 +1,7 @@
 {
 	"type": "itemTurret",
 	"name": "Railgun",
-	"description": "A cheeper, longer range alternative to the fuse..",
+	"description": "A cheeper, longer range alternative to the fuse.",
 	"size": 3,
 	"health": 500,
 	"requirements": [
