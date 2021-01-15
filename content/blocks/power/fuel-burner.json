@@ -27,6 +27,6 @@
         "power": 0.1,
         "liquid": {"liquid": "fuel", "amount": 0.1},
     },
-    "research": "differentialGenerator",
+    "research": "differential-generator",
     "category": "power",
 }
