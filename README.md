@@ -3,7 +3,7 @@ An addition to Mindustry that adds MOAR to your game.
 
 Update log:
 
-v0.6.c: -added tesla tower -added shotgun -added eradicator -added piercer -added railgun
+v0.6: -added tesla tower -added shotgun -added eradicator -added piercer -added railgun
 
 v0.5: -added steam -added fuel cell -added boiler v1 -added steam turbine -added ricf -added nuclear reactor
 
