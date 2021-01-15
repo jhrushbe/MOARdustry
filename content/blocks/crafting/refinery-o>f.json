@@ -1,6 +1,6 @@
 {
 	"type": "GenericCrafter",
-	"name": "Refinery",
+	"name": "Fuel Refiner",
 	"description": "Transforms oil into fuel.",
 	"size": 2,
 	"health": 300,
@@ -20,5 +20,5 @@
 	},
 	"category": "crafting",
 	"research": "refinery-o>p+h",
-	"outputLiquid": {"liquid": "fuel", "amount": 0.05},
+	"outputLiquid": {"liquid": "fuel", "amount": 0.1},
 }
