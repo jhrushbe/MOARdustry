@@ -1,0 +1,9 @@
+type: resource
+name: Plastic
+description: A versitile material that is too weak to be used in buildings, but can be easily changed to other materials.
+color: ffffff
+explosiveness: 0
+flamability: 0.1
+radioactivity: 0
+cost: 2
+research: thorium
