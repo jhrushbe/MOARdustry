@@ -19,7 +19,7 @@
 		"liquid": {"liquid": "oil", "amount": "0.2"}
 	},
 	"category": "crafting",
-	"research": "plastaniumCompressor",
+	"research": "plastanium-compressor",
 	"outputItem": {"item": "plastic", "amount": 1},
 	"outputLiquid": {"liquid": "hor", "amount": 0.06},
 }
