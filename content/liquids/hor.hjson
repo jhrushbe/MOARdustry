@@ -1,6 +1,6 @@
 type: Liquid
 name: Heavy Oil Residue
-description: Boiled water. Used in processes of power generation.
+description: Residues that come from impurities in oil.
 color: 995D9A
 barColor: 995D9A
 lightColor: 995D9A
