@@ -4,7 +4,7 @@ description: Boiled water. Used in processes of power generation.
 color: 995D9A
 barColor: 995D9A
 lightColor: 995D9A
-flammability: 0.0
+flammability: 0.4
 temperature: 0.0
 heatCapacity: 0.0
 viscosity: 1.0
