@@ -1,0 +1,32 @@
+{
+    "type": "impactReactor",
+    "name": "Fuel Burner",
+    "description": "Burnes fuel to create energy. Takes time to reach full speed. Requires there to be power in the power grid to continue working.",
+    "size": 2,
+    "solid": true,
+    "health": 200,
+    "hasPower": true,
+    "powerProduction": 10,
+    "itemDuration": 100,
+    "hasLiquids": true,
+    "consumesLiquids": true,
+    "hasItems": false,
+    "consumesItems": false,
+    "ambientSound": "hum",
+    "ambientSoundVolume": 0.5,
+    "plasma1": 00000000,
+    "plasma2": 00000000,
+    "updateEffect": "fire",
+    "requirements": [
+        {"item": "copper", "amount": 50},
+        {"item": "lead", "amount": 50},
+        {"item": "graphite", "amount": 40},
+        {"item": "silicon", "amount": 30}
+    ],
+    "consumes": {
+        "power": 0.1,
+        "liquid": {"liquid": "fuel", "amount": 0.1},
+    },
+    "research": "differentialGenerator",
+    "category": "power",
+}
