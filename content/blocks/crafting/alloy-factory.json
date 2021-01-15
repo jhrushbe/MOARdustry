@@ -1,6 +1,6 @@
 {
     "type": "GenericSmelter",
-    "name": "Alloy Factory",
+    "name": "Alloy Foundry",
     "description": "Uses burning pyratite to create surge alloy at a faster and more efficient rate.",
     "size": 4,
     "health": 500,
@@ -20,13 +20,14 @@
         "power": 6,
    	    "items": {
       	    "items": [
-      	        { "item": "copper", "amount": 5 },
-      	        { "item": "lead", "amount": 6 },
+      	        { "item": "copper", "amount": 4 },
+      	        { "item": "lead", "amount": 4 },
                 { "item": "titanium", "amount": 3 },
-                { "item": "silicon", "amount": 5 },
+                { "item": "silicon", "amount": 3 },
                 { "item": "pyratite", "amount": 1 }
              ]
-        },
+        }
+        "liquid": {"liquid": "slag", "amount": 0.03},
     },
     "category": "crafting",
     "research": "alloy-smelter",
