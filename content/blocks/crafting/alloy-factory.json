@@ -26,7 +26,7 @@
                 { "item": "silicon", "amount": 3 },
                 { "item": "pyratite", "amount": 1 }
              ]
-        }
+        },
         "liquid": {"liquid": "slag", "amount": 0.03},
     },
     "category": "crafting",
