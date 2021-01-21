@@ -1,7 +1,7 @@
 {
 	"type": "GenericCrafter",
 	"name": "Fuel Refiner",
-	"description": "Transforms oil into fuel.",
+	"description": "Transforms oil into fuel. Produces small amounts of coal as a by-product.",
 	"size": 2,
 	"health": 300,
 	"hasPower": true,
@@ -19,6 +19,7 @@
 		"liquid": {"liquid": "oil", "amount": "0.1"}
 	},
 	"category": "crafting",
-	"research": "refinery-o>p+h",
+	"research": "plastic-refinery",
 	"outputLiquid": {"liquid": "fuel", "amount": 0.1},
+	"outputItem": {"item": "coal", "amount": 0.1},
 }
