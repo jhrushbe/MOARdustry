@@ -24,3 +24,4 @@ v0.8
 -add AA turret
 -add nuke
 -add bullet sponge (unit)
+-add mega unit storage core
