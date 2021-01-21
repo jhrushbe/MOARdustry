@@ -13,8 +13,11 @@ v0.7
 -add sprite for hor
 -add sprite for plastic
 -add sprite for fuel
+
+v0.7.5
 -resprite pressure drill
 -resprite steam turbine
+-resprite piercer
 
 v0.8
 =Blocks=
