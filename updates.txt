@@ -1,12 +1,15 @@
 Update log:
 
-v0.7 "advanced oil processing: 
--added refineries 
+v0.7 "advanced oil processing": 
+-added refineries (2)
+-added plasic converter
+-added oil residue separater
+-added fuel burner 
 -added plasic 
 -added heavy oil residue 
 -added fuel 
--added fuel burner 
--added plasic converter
+-changed surge factory
+-removed nuclear reactor
 
 
 v0.6 "More gun": 
