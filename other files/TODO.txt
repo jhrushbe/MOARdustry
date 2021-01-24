@@ -28,3 +28,4 @@ v0.8
 -add nuke
 -add bullet sponge (unit)
 -add mega unit storage core
+-add airial artillery (same ammo+damage, but air only)
