@@ -1,11 +1,11 @@
 type: Liquid
 name: Fuel
 description: Combustion optimised oil. Highly explosive.
-color: 995D9A
-barColor: 995D9A
-lightColor: 995D9A
+color: ffd27f
+barColor: ffd27f
+lightColor: ffd27f
 flammability: 3
-temperature: 0.0
+temperature: 0.5
 heatCapacity: 0.0
 viscosity: 0.5
 explosiveness: 3.0
