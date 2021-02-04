@@ -9,7 +9,6 @@ v0.7
 -add sprite for fuel refiner
 -add sprite for hor separator
 -add sprite for plastic converter
--add sprite for fuel burner
 
 v0.7.5
 -resprite pressure drill
