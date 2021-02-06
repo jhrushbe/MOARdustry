@@ -1,4 +1,4 @@
-v0.7
+v0.7 (oil processing)
 =Blocks=
 -add plastic > plast factory
 -add remoisturizer (coal+water>oil)
@@ -10,12 +10,12 @@ v0.7
 -add sprite for hor separator
 -add sprite for plastic converter
 
-v0.7.5
+v0.7.5 (touch-ups)
 -resprite pressure drill
 -resprite steam turbine
 -resprite piercer
 
-v0.8
+v0.8 (the big guns)
 =Blocks=
 -add designator turret
 -add BFG
@@ -25,3 +25,15 @@ v0.8
 -add bullet sponge (unit)
 -add mega unit storage core
 -add airial artillery (same ammo+damage, but air only)
+-add sector denial (1000 power, invis lazer, foreshadow range, 5000 damage, rapid fire)
+
+v0.9 (the speed of c)
+=Blocks=
+-add alloy of light
+-add alloy of light crafter
+-add lightspeed conveyor
+-add fast unloader
+
+v0.10 (the bigger the better)
+=Units=
+-add mega bomb unit line (bomb>improved health bomb>bomblauncher?>nuke>Mother of all bombs)
