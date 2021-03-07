@@ -1,9 +1,13 @@
-v0.7 (oil processing)
+v0.7 (moar processes)
 =Blocks=
 -add plastic > plast factory
 -add remoisturizer (coal+water>oil)
 -add large launchpad
 -add fluid buffer
+-add animatter creator
+-add antimatter reactor
+=Resources=
+-anitmatter
 =Sprites=
 -add sprite for plastic refinery
 -add sprite for fuel refiner
