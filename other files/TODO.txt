@@ -1,3 +1,5 @@
+I am never going to get this done....
+
 v0.7 (moar processes)
 =Blocks=
 -add plastic > plast factory
@@ -19,28 +21,32 @@ v0.7.5 (touch-ups)
 -resprite steam turbine
 -resprite piercer
 -make factory covers
+-make floodlight
+-re-assign the railgun's bullet type to railgun
 
 v0.8 (the big guns)
 =Blocks=
--add designator turret
--add BFG
--add landmine
--add AA turret
--add nuke
+-add designator turret (nigh infinate range, no damage)
+-add BFG (projectile, large boom)
+-add landmine (ahem, b o o m)
+-add AA turret (lead rain)
+-add nukeular missle silo (once again, b o o m)
 -add bullet sponge (unit)
--add mega unit storage core
--add airial artillery (same ammo+damage, but air only)
+-add mega unit storage core (120 should do)
+-add SAM sites (missile spam)
 -add sector denial (1000 power, invis lazer, foreshadow range, 5000 damage, rapid fire)
+-add magnetic accelerator cannon (MAC) (2 pixel wide shot, infinite penetration, 40,000 damage should do)
 
 v0.9 (the speed of c)
 =Blocks=
 -add alloy of light
--add alloy of light crafter
--add lightspeed conveyor
+-add alloy of light crafter (5 surge, 4 phase, 3 plastic > 2 AOL in 2 min)
+-add lightspeed conveyor (0.1 power per conveyor)
 -add fast unloader
 -add fast router
--add black hole gen
+-add black hole generator (a.k.a. copper void)
+-add fusion generator (consumes water in large amounts to make large amounts of power)
 
 v0.10 (the bigger the better)
 =Units=
--add mega bomb unit line (bomb>improved health bomb>bomblauncher?>nuke>Mother of all bombs)
+-add mega bomb unit line (bomb>improved health bomb>bombdispencer>nuke>Mother of all bombs)
