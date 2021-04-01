@@ -1,0 +1,25 @@
+{
+  "type": "GenericCrafter",
+  "name": "Remoisturizer",
+  "description": "Turns water and coal into oil.",
+  "size": 2,
+  "health": 300,
+  "hasPower": true,
+  "hasLiquids": true,
+  "hasItems": true,
+  "craftTime": 30,
+  "updateEffect": "smeltsmoke",
+  "requirements": [
+		{"item": "titanium", "amount": "20"},
+		{"item": "graphite", "amount": "40"},
+		{"item": "lead", "amount": "30"}
+	],
+  "consumes": [
+    "power": 0.7,
+    "liquid": {"liquid": "water", "amount": 0.1},
+    "items": {"items"[{"item": "coal", "amount": 2}]}
+  ],
+  "outputLiquid": {"liquid": "oil", "amount": 0.1},
+  "category": "crafting",
+  "research": "coalCentrifuge",
+}
