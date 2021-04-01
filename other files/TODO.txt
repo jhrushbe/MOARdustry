@@ -1,21 +1,11 @@
-I am never going to get this done....
-
-v0.7 (moar processes)
-=Blocks=
--add plastic > plast factory
--add remoisturizer (coal+water>oil)
--add large launchpad
--add fluid buffer
-=Sprites=
--add sprite for hor separator
--add sprite for plastic converter
+I am never going to get all this done....
 
 v0.7.5 (touch-ups)
 -resprite pressure drill
 -resprite steam turbine
 -resprite piercer
--make factory covers
--make floodlight
+-add factory covers
+-add floodlight
 -re-assign the railgun's bullet type to PointBulletType
 
 v0.8 (the big guns)
@@ -36,7 +26,7 @@ v0.9 (the speed of c)
 =Blocks=
 -add alloy of light
 -add alloy of light crafter (5 surge, 4 phase, 3 plastic > 2 AOL in 2 min)
--add lightspeed conveyor (0.1 power per conveyor)
+-add lightspeed conveyor (speedy, 0.1 power per conveyor)
 -add fast unloader
 -add fast router
 -add black hole generator (a.k.a. copper void)
