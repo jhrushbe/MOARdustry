@@ -28,11 +28,17 @@
 	"rotateSpeed": 2,
 	"ammoTypes": {
 		"titanium": {
-			"type": "ShrapnelBulletType",
+			"type": "PointBulletType",
 			"length": 190,
 			"damage": 45,
 			"ammoMultiplier": 1,
 			"width": 4,
+			"shootEffect": "instShoot",
+			"hitEffect": "instHit",
+			"smokeEffect": "smokeCloud",
+			"trailEffect": "instTrail",
+			"despawnEffect": "instBomb",
+			"trailSpacing": 10,
 		}
 	},
 	"consumes": {
