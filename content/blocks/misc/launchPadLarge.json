@@ -1,0 +1,21 @@
+{
+	"type": "launchPad",
+	"name": "Large Launchpad",
+	"description": "A revival of the large launchpad from v5.",
+	"size": 4,
+	"health": "1000",
+	"hasPower": true,
+	"requirements": [
+		{"item": "titanium", "amount": 200},
+		{"item": "silicon", "amount": 150},
+		{"item": "lead", "amount": 250},
+		{"item": "plastanium", "amount": 75}
+	],
+	"consumes": {
+		"power": 6,
+	},
+	"itemCapacity": 300,
+	"launchTime": 2100,
+	"category": "effect",
+	"research": "launch-pad",
+}

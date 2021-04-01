@@ -1,0 +1,13 @@
+type: Liquid
+name: Heavy Oil Residue
+description: Residues that come from impurities in oil.
+color: 7c4b80
+barColor: 7c4b80
+lightColor: 7c4b80
+flammability: 0.3
+temperature: 0.5
+heatCapacity: 0.4
+viscosity: 1.0
+explosiveness: 0.0
+effect: tarred
+research: oil

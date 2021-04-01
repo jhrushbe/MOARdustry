@@ -1,0 +1,52 @@
+Update log:
+
+v0.7 "moar factories": 
+-added plasic refinery
+-added plasic converter
+-added heavy oil residue separater
+-added fuel refiner
+-added fuel burner 
+-added large launchpad
+-added fluid buffer
+-added remoisturizer
+-added plastic plater
+-added plasic 
+-added heavy oil residue 
+-added fuel 
+-changed surge factory
+-removed nuclear reactor
+
+
+v0.6 "More gun": 
+-added tesla tower 
+-added shotgun 
+-added eradicator 
+-added piercer 
+-added railgun
+
+v0.5 "power play": 
+-added steam 
+-added fuel cell 
+-added boiler v1 
+-added steam turbine 
+-added ricf 
+-added nuclear reactor
+
+
+===Below are the Testing versions, where experimentation was the main focus===
+v0.4 "factories": 
+-added silicon foundary 
+-added surge factory 
+-bug fixes
+
+v0.3 "guns": 
+-added trio 
+-added minigun
+
+v0.2 "drills: 
+-added pressure drill 
+-added oil derrick
+
+v0.1 "conveyors": 
+-added thorium conveyor 
+-added surge conveyor

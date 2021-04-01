@@ -1,0 +1,24 @@
+{
+	"type": "GenericSmelter",
+	"name": "Fuel Refiner",
+	"description": "Transforms oil into fuel.",
+	"size": 2,
+	"health": 300,
+	"hasPower": true,
+	"hasLiquids": true,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"requirements": [
+		{"item": "lead", "amount": "50"},
+		{"item": "graphite", "amount": "100"},
+		{"item": "titanium", "amount": "30"},
+		{"item": "metaglass", "amount": "10"}
+	],
+	"consumes": {
+		"power": 3,
+		"liquid": {"liquid": "oil", "amount": "0.1"}
+	},
+	"category": "crafting",
+	"research": "plastic-refinery",
+	"outputLiquid": {"liquid": "fuel", "amount": 6},
+}

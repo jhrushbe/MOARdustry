@@ -10,7 +10,7 @@
 		{"item": "graphite", "amount": 200},
 		{"item": "copper", "amount": 100}
 	],
-	"maxAmmo": 1,
+	"maxAmmo": 5,
 	"ammoPerShot": 1,
 	"targetAir": true,
 	"targetGround": true,

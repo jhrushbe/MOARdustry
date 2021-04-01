@@ -1,5 +1,5 @@
 {
-    "type": "LiquidConverter",
+    "type": "genericCrafter",
     "name": "Boiler V1",
     "description": "Burns coal to produce steam from water, which can then be used to generate power or in manufacturing processes.",
     "health": 300,
@@ -25,13 +25,10 @@
         },
         "liquid": {
             "liquid": "water",
-            "amount": 0.15,
+            "amount": 0.1,
         }
     },
-    "outputLiquid": {
-        "liquid": "steam",
-        "amount": 0.3
-    },
+    "outputLiquid": {"liquid": "steam","amount": 18}, //will result in output of 9, amount is halfed for some reason
     "research": "steam-generator",
     "category": "crafting",
 }
