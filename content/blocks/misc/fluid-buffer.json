@@ -10,5 +10,5 @@
   ],
   "liquidCapacity": 666.66,
   "category": "liquid",
-  "research": "liquidTank",
+  "research": "liquid-tank",
 }
