@@ -28,10 +28,7 @@
             "amount": 0.1,
         }
     },
-    "outputLiquid": {
-        "liquid": "steam",
-        "amount": 9
-    },
+    "outputLiquid": {"liquid": "steam","amount": 18}, //will result in output of 9, amount is halfed for some reason
     "research": "steam-generator",
     "category": "crafting",
 }
