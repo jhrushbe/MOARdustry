@@ -1,2 +1,2 @@
 # MOARdustry
-A mod to Mindustry that adds MOAR to your game.
+A mod for Mindustry that adds MOAR to your game.
