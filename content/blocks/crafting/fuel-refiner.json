@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
 	"name": "Fuel Refiner",
-	"description": "Transforms oil into fuel. Produces small amounts of coal as a by-product.",
+	"description": "Transforms oil into fuel.",
 	"size": 2,
 	"health": 300,
 	"hasPower": true,
@@ -20,6 +20,5 @@
 	},
 	"category": "crafting",
 	"research": "plastic-refinery",
-	"outputLiquid": {"liquid": "fuel", "amount": 0.1},
-	"outputItem": {"item": "coal", "amount": 0.1},
+	"outputLiquid": {"liquid": "fuel", "amount": 6},
 }
