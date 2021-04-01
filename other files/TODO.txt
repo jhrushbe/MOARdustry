@@ -6,13 +6,7 @@ v0.7 (moar processes)
 -add remoisturizer (coal+water>oil)
 -add large launchpad
 -add fluid buffer
--add animatter creator
--add antimatter reactor
-=Resources=
--anitmatter
 =Sprites=
--add sprite for plastic refinery
--add sprite for fuel refiner
 -add sprite for hor separator
 -add sprite for plastic converter
 
@@ -22,7 +16,7 @@ v0.7.5 (touch-ups)
 -resprite piercer
 -make factory covers
 -make floodlight
--re-assign the railgun's bullet type to railgun
+-re-assign the railgun's bullet type to PointBulletType
 
 v0.8 (the big guns)
 =Blocks=
@@ -30,12 +24,12 @@ v0.8 (the big guns)
 -add BFG (projectile, large boom)
 -add landmine (ahem, b o o m)
 -add AA turret (lead rain)
--add nukeular missle silo (once again, b o o m)
+-add nuclear missle silo (once again, b o o m)
 -add bullet sponge (unit)
 -add mega unit storage core (120 should do)
 -add SAM sites (missile spam)
 -add sector denial (1000 power, invis lazer, foreshadow range, 5000 damage, rapid fire)
--add magnetic accelerator cannon (MAC) (2 pixel wide shot, infinite penetration, 40,000 damage should do)
+-add magnetic accelerator cannon (MAC) (2 pixel wide shot, infinite penetration, 40,000 damage should do, long ShrapnelBulletType)
 
 v0.9 (the speed of c)
 =Blocks=
