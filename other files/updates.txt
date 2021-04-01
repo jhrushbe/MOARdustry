@@ -1,12 +1,15 @@
 Update log:
 
-v0.7 "advanced oil processing": 
+v0.7 "moar factories": 
 -added plasic refinery
 -added plasic converter
 -added heavy oil residue separater
 -added fuel refiner
 -added fuel burner 
 -added large launchpad
+-added fluid buffer
+-added remoisturizer
+-added plastic plater
 -added plasic 
 -added heavy oil residue 
 -added fuel 
