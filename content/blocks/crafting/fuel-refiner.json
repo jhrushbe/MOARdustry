@@ -1,5 +1,5 @@
 {
-	"type": "GenericCrafter",
+	"type": "GenericSmelter",
 	"name": "Fuel Refiner",
 	"description": "Transforms oil into fuel. Produces small amounts of coal as a by-product.",
 	"size": 2,
