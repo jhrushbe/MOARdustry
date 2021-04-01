@@ -17,7 +17,11 @@
   "consumes": {
     "power": 0.7,
     "liquid": {"liquid": "water", "amount": 0.1},
-    "items": {"items"[{"item": "coal", "amount": 2}]}
+    "items": {
+      "items": [
+        {"item": "coal", "amount": 2}
+      ]
+    }
   },
   "outputLiquid": {"liquid": "oil", "amount": 0.1},
   "category": "crafting",
