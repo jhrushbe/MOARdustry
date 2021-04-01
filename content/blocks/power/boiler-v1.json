@@ -30,7 +30,7 @@
     },
     "outputLiquid": {
         "liquid": "steam",
-        "amount": 6
+        "amount": 9
     },
     "research": "steam-generator",
     "category": "crafting",
