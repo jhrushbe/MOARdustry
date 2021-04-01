@@ -1,0 +1,30 @@
+{
+  "type": "GenericCrafter",
+  "name": "Plastic Plater",
+  "description": "Creates plastanium by putting titanium plating on plastic.",
+  "size": 2,
+  "health": 300,
+  "hasPower": true,
+  "hasItems": true,
+  "craftTime": 80,
+  "craftEffect": "formsmoke",
+  "updateEffect": "plasticburn",
+  "requirements": [
+    {"item": "silicon", "amount": 80},
+    {"item": "lead", "amount": 115},
+    {"item": "graphite", "amount": 60},
+    {"item": "titanium", "amount": 80}
+  ],
+  "consumes": {
+    "power": 3,
+    "items": {
+      "items": [
+        {"item": "plastic", "amount": 5},
+        {"item": "titanium", "amount": 5}
+      ]
+    }
+  },
+  "outputItem": {"item": "plastanium", "amount": 5},
+  "category": "crafting",
+  "research": "plastaniumCompressor",
+}
