@@ -25,11 +25,12 @@ v0.8 (the big guns)
 -add landmine (ahem, b o o m)
 -add AA turret (lead rain)
 -add nuclear missle silo (once again, b o o m)
--add bullet sponge (unit)
 -add mega unit storage core (120 should do)
 -add SAM sites (missile spam)
 -add sector denial (1000 power, invis lazer, foreshadow range, 5000 damage, rapid fire)
 -add magnetic accelerator cannon (MAC) (2 pixel wide shot, infinite penetration, 40,000 damage should do, long ShrapnelBulletType)
+=Units=
+-add bullet sponge (unit)
 
 v0.9 (the speed of c)
 =Blocks=
