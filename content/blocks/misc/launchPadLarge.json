@@ -17,5 +17,5 @@
 	"itemCapacity": 300,
 	"launchTime": 2100,
 	"category": "effect",
-	"research": "launchPad",
+	"research": "launch-pad",
 }
