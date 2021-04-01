@@ -25,5 +25,5 @@
   },
   "outputLiquid": {"liquid": "oil", "amount": 0.1},
   "category": "crafting",
-  "research": "coalCentrifuge",
+  "research": "coal-centrifuge",
 }
