@@ -1,8 +1,8 @@
 Update log:
 
 v0.7 "moar factories": 
--added plasic refinery
--added plasic converter
+-added plastic refinery
+-added plastic converter
 -added heavy oil residue separater
 -added fuel refiner
 -added fuel burner 
@@ -10,7 +10,7 @@ v0.7 "moar factories":
 -added fluid buffer
 -added remoisturizer
 -added plastic plater
--added plasic 
+-added plastic 
 -added heavy oil residue 
 -added fuel 
 -changed surge factory
