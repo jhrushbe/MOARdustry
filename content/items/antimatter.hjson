@@ -1,3 +1,4 @@
+/*
 type: resource
 name: Antimatter
 description: The opposite of matter. Do not allow it to breach containment.
@@ -7,3 +8,4 @@ flamability: 0
 radioactivity: 3
 cost: 100
 research: fuel-cell
+*/
