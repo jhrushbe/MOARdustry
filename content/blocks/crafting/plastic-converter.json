@@ -1,7 +1,7 @@
 {
     "type": "GenericSmelter",
     "name": "Plastic converter",
-    "description": "Melts plasic in slag, then extrueds it, resulting in surge alloy.",
+    "description": "Melts plasic in slag, then extrudes it, resulting in surge alloy.",
     "size": 3,
     "health": 300,
     "hasPower": true,
