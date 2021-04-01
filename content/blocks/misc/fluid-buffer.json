@@ -1,0 +1,14 @@
+{
+  "type": "liquidRouter",
+  "name": "Fluid Buffer",
+  "description": "A smaller version of the liquid tank.",
+  "size": 2,
+  "health": 400,
+  "requirements": [
+    {"item": "titanium", "amount": 15},
+    {"item": "metaglass", "amount": 15}
+  ],
+  "liquidCapacity": 666.66,
+  "category": "liquid",
+  "research": "liquidTank",
+}
