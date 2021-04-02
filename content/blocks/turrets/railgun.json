@@ -33,12 +33,12 @@
 			"damage": 45,
 			"ammoMultiplier": 1,
 			"width": 4,
-			"shootEffect": "instShoot",
-			"hitEffect": "instHit",
+			"shootEffect": "null",
+			"hitEffect": "null",
 			"smokeEffect": "smokeCloud",
 			"trailEffect": "instTrail",
-			"despawnEffect": "instBomb",
-			"trailSpacing": 10,
+			"despawnEffect": "null",
+			"trailSpacing": 20,
 		}
 	},
 	"consumes": {
