@@ -41,7 +41,7 @@
       "damage": 5500,
       "ammoMultiplier": 1,
       "reloadMultiplier": 2,
-      "hitEffect": "instBomb"
+      "hitEffect": "instBomb",
       "shootEffect": "none",
       "despawnEffect": "none",
       "powerUse": 30
