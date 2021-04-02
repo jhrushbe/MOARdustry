@@ -1,0 +1,31 @@
+{
+  "type": "powerTurret",
+  "name": "Designator",
+  "description": "Has a long range, but does no damage. Ideal use is with logic.",
+  "size": 1,
+  "health": 300,
+  "requirements": [
+    {"item": "titanium", "amount": 50},
+    {"item": "silicon", "amount": 45},
+    {"item": "metaglass", "amount": 40}
+  ],
+  "shootCone": 1,
+  "recoil amount": 0,
+  "range": 700,
+  "reloadTime": 10,
+  "powerUse": 0.1,
+  "shootType": {
+    "type": "pointBulletType",
+    "length": 700,
+    "damage": 0,
+    "width": 3,
+    "shootEffect": "instShoot",
+		"hitEffect": "instHit",
+		"smokeEffect": "smokeCloud",
+		"trailEffect": "missileTrail",
+		"despawnEffect": "instBomb",
+		"trailSpacing": 10,
+  }
+  "research": "railgun",
+  "category": "turret",
+}
