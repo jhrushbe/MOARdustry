@@ -13,10 +13,18 @@
   "inaccuracy": 0,
   "recoil amount": 0,
   "range": 700,
-  "reloadTime": 10,
+  "reloadTime": 5,
   "powerUse": 0.1,
   "shootType": {
-    
+    "type": "LaserBoltBulletType",
+    "width": 3,
+    "length": 45,
+    "life": 10,
+    "damage": 0,
+    "speed": 70,
+    "smokeEffect": "none",
+    "hitEffect": "none",
+    "despawnEffect": "none"
   },
   "research": "railgun",
   "category": "turret",
