@@ -4,7 +4,7 @@
   "description": "Larger and brighter than the illuminator",
   "size": 2,
   "health": 100,
-  "requirments": [
+  "requirements": [
     {"item": "graphite", "amount": 48},
     {"item": "silicon", "amount": 32},
     {"item": "titanium", "amount": 16}
