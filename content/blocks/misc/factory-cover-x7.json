@@ -4,7 +4,7 @@
   "description": "Use this to cover factory areas, but be sure to place it last.",
   "size": 1,
   "health": 1,
-  "requiremants": [
+  "requirements": [
     {"item": "copper", "amount": 49}
   ],
   "category": "effect",
