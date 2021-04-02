@@ -1,0 +1,12 @@
+{
+  "type": "wall",
+  "name": "Factory Cover x5",
+  "description": "Use this to cover factory areas, but be sure to place it last.",
+  "size": 1,
+  "health": 1,
+  "requiremants": [
+    {"item": "copper", "amount": 25}
+  ],
+  "category": "effect",
+  "research": "illuminator",
+}
