@@ -7,4 +7,5 @@ flamability: 0.1
 radioactivity: 0
 alwaysUnlocked: false
 cost: 2
-research: plastic
+research: plastanium
+requires: plastic
