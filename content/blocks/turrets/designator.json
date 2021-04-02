@@ -24,8 +24,8 @@
 		"smokeEffect": "smokeCloud",
 		"trailEffect": "missileTrail",
 		"despawnEffect": "instBomb",
-		"trailSpacing": 10,
-  }
+		"trailSpacing": 10
+  },
   "research": "railgun",
   "category": "turret",
 }
