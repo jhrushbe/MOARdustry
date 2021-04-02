@@ -7,5 +7,6 @@ color: cb8ebf
 explosiveness: 0.1
 flamability: 0.3
 radioactivity: 3
+alwaysUnlocked: false
 cost: 2.5
 research: thorium
