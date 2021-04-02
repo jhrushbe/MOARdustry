@@ -16,17 +16,7 @@
   "reloadTime": 10,
   "powerUse": 0.1,
   "shootType": {
-    "type": "pointBulletType",
-    "length": 700,
-    "damage": 0,
-    "width": 3,
-    "shootEffect": "none",
-    "hitEffect": "none",
-    "smokeEffect": "smokeCloud",
-    "trailEffect": "none",
-    "despawnEffect": "instBomb",
-    "trailSpacing": 700,
-    "life": 700,
+    
   },
   "research": "railgun",
   "category": "turret",
