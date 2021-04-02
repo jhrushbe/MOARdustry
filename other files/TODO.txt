@@ -1,13 +1,5 @@
 I am never going to get all this done....
 
-v0.7.5 (touch-ups)
--resprite pressure drill
--resprite steam turbine
--resprite piercer
--add factory covers
--add floodlight
--re-assign the railgun's bullet type to PointBulletType
-
 v0.8 (the big guns)
 =Blocks=
 -add designator turret (nigh infinate range, no damage)
