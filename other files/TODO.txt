@@ -4,7 +4,6 @@ v0.7.5 (touch-ups)
 -resprite pressure drill
 -resprite steam turbine
 -resprite piercer
--add factory covers (x5, x7, conveyor x5)
 
 v0.8 (the big guns)
 =Blocks=
