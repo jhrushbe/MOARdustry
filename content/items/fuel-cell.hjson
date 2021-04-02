@@ -9,4 +9,4 @@ flamability: 0.3
 radioactivity: 3
 alwaysUnlocked: false
 cost: 2.5
-research: fuel-cell
+research: thorium
