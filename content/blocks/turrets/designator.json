@@ -26,7 +26,8 @@
     "backColor": "ff0000",
     "smokeEffect": "none",
     "hitEffect": "none",
-    "despawnEffect": "none"
+    "despawnEffect": "none",
+    "shootEffect": "none"
   },
   "research": "railgun",
   "category": "turret",
