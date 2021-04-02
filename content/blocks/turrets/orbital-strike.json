@@ -1,0 +1,34 @@
+{
+  "type": "powerTurret",
+  "name": "Orbital Strike",
+  "description": "This is just the designator, the rest is in orbit.",
+  "size": 2,
+  "health": 600,
+  "requirements": {
+    {"item": "titanium", "amount": 1000},
+    {"item": "silicon", "amount": 1000},
+    {"item": "metaglass", "amount": 1000},
+    {"item": "thorium", "amount": 1000}
+  },
+  "targetAir": false,
+  "targetGround": true,
+  "spread": 0,
+  "shots": 1,
+  "shootShake": 10,
+  "reload": 0.5,
+  "range": 400,
+  "shootCone": 1,
+  "inaccuracy": 0,
+  "rotateSpeed": 10,
+  "powerUse": 50,
+  "shootType": {
+    "type": "shrapnelBulletType",
+    "length": 400,
+    "damage": 5000,
+    "width": 0,
+    "hitEffect": "instHit",
+    "shootEffect": "none"
+  },
+  "research": "designator",
+  "category": "turret",
+}
