@@ -11,7 +11,7 @@
     {"item": "plastic", "amount": 100},
     {"item": "fuel-cell", "amount": 100}
   ],
-  "maxAmmo": 1,
+  "maxAmmo": 2,
   "ammoPerShot": 1,
   "targetAir": false,
   "targetGround": true,
@@ -23,6 +23,7 @@
   "shootCone": 1,
   "inaccuracy": 0,
   "rotateSpeed": 1,
+  "powerUse": 30,
   "shootSound": "railgun",
   "ammoTypes": {
     "fuel-cell": {
@@ -30,7 +31,17 @@
       "length":700,
       "damage": 40000,
       "width": 2,
-      "unitDamageMultiplier": 2,
+      "ammoMultiplier": 1,
+      "hitEffect": "instHit",
+    },
+    "thorium": {
+      "type": "LaserBoltBulletType",
+      "speed": 10,
+      "life": 70,
+      "damage": 10000,
+      "ammoMultiplier": 1,
+      "reloadMultiplier": 2,
+      "hitEffect": "instBomb"
     }
   },
   "research": "designator",
