@@ -6,10 +6,10 @@
   "health": 1000,
   "requirements": [
     {"item": "titanium", "amount": 10000},
-    {"item": "silicon", "amount": 600},
-    {"item": "surge-alloy", "amount": 200},
-    {"item": "plastic", "amount": 100},
-    {"item": "fuel-cell", "amount": 100}
+    {"item": "silicon", "amount": 2000},
+    {"item": "surge-alloy", "amount": 1000},
+    {"item": "plastic", "amount": 1000},
+    {"item": "fuel-cell", "amount": 400}
   ],
   "maxAmmo": 2,
   "ammoPerShot": 1,
@@ -18,30 +18,33 @@
   "spread": 0,
   "shots": 1,
   "shootShake": 10,
-  "reload": 120,
+  "reload": 0.5,
   "range": 700,
   "shootCone": 1,
   "inaccuracy": 0,
   "rotateSpeed": 1,
-  "powerUse": 30,
   "shootSound": "railgun",
   "ammoTypes": {
     "fuel-cell": {
       "type": "ShrapnelBulletType",
       "length":700,
-      "damage": 40000,
-      "width": 2,
+      "damage": 22000,
+      "width": 5,
       "ammoMultiplier": 1,
       "hitEffect": "instHit",
+      "powerUse": 100,
     },
     "thorium": {
       "type": "LaserBoltBulletType",
       "speed": 10,
       "life": 70,
-      "damage": 10000,
+      "damage": 5500,
       "ammoMultiplier": 1,
       "reloadMultiplier": 2,
       "hitEffect": "instBomb"
+      "shootEffect": "none",
+      "despawnEffect": "none",
+      "powerUse": 30
     }
   },
   "research": "designator",
