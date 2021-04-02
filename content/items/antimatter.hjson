@@ -3,7 +3,7 @@ type: resource
 name: Antimatter
 description: The opposite of matter. Do not allow it to breach containment.
 color: 000000
-explosiveness: 100000000000
+explosiveness: 10
 flamability: 0
 radioactivity: 3
 cost: 100
