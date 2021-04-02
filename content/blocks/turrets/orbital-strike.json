@@ -4,12 +4,12 @@
   "description": "This is just the designator, the rest is in orbit.",
   "size": 2,
   "health": 600,
-  "requirements": {
+  "requirements": [
     {"item": "titanium", "amount": 1000},
     {"item": "silicon", "amount": 1000},
     {"item": "metaglass", "amount": 1000},
     {"item": "thorium", "amount": 1000}
-  },
+  ],
   "targetAir": false,
   "targetGround": true,
   "spread": 0,
@@ -26,7 +26,7 @@
     "length": 400,
     "damage": 5000,
     "width": 0,
-    "hitEffect": "instHit",
+    "hitEffect": "instBomb",
     "shootEffect": "none"
   },
   "research": "designator",
