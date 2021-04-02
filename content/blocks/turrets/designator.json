@@ -18,10 +18,12 @@
   "shootType": {
     "type": "LaserBoltBulletType",
     "width": 3,
-    "length": 45,
+    "hight": 45,
     "life": 10,
     "damage": 0,
     "speed": 70,
+    "frontColor": "ff0000",
+    "backColor": "ff0000",
     "smokeEffect": "none",
     "hitEffect": "none",
     "despawnEffect": "none"
