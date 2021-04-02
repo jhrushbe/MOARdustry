@@ -1,7 +1,9 @@
 Update log:
 
 v0.8 "the big guns"
+-added designator
 -
+-fixed spelling issue that made some blocks non functional
 -removed eradicator
 
 v0.7.5 "touch-ups"
