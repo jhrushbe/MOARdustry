@@ -10,6 +10,7 @@
     {"item": "metaglass", "amount": 40}
   ],
   "shootCone": 1,
+  "inaccuracy": 0,
   "recoil amount": 0,
   "range": 700,
   "reloadTime": 10,
@@ -24,7 +25,8 @@
     "smokeEffect": "smokeCloud",
     "trailEffect": "none",
     "despawnEffect": "instBomb",
-    "trailSpacing": 10
+    "trailSpacing": 700,
+    "life": 700,
   },
   "research": "railgun",
   "category": "turret",
