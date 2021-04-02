@@ -10,4 +10,4 @@ heatCapacity: 0.0
 viscosity: 0.0
 explosiveness: 0.0
 effect: melting
-research: water
+research: steam
