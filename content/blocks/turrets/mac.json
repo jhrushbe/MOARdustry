@@ -28,7 +28,7 @@
     "fuel-cell": {
       "type": "ShrapnelBulletType",
       "length":700,
-      "damage": 22000,
+      "damage": 30000,
       "width": 5,
       "ammoMultiplier": 1,
       "hitEffect": "instHit",
@@ -38,7 +38,7 @@
       "type": "LaserBoltBulletType",
       "speed": 10,
       "life": 70,
-      "damage": 5500,
+      "damage": 7500,
       "ammoMultiplier": 1,
       "reloadMultiplier": 2,
       "hitEffect": "instBomb",
