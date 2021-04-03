@@ -7,6 +7,7 @@ v0.8 "the big guns"
 -added BFG
 -added flamethrower
 -added antimatter bomb
+-added the eye of sauron
 -changed railgun back to ShrapnelBulletType
 -fixed spelling issue that made some blocks non functional
 -removed eradicator
