@@ -8,6 +8,9 @@ v0.8 (the big guns)
 =Units=
 -add bullet sponge (unit)
 
+v0.8.5 (items fix)
+-fixed item research
+
 v0.9 (the speed of c)
 =Blocks=
 -add alloy of light
