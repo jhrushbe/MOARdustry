@@ -27,17 +27,17 @@
       "hight": 1,
       "shrinkY": 0,
       "spin": 10,
-      "speed": 1,
-      "lifetime": 20,
+      "speed": 0.5,
+      "lifetime": 60,
       "damage": 0,
-      "splashDamageRadius": 800,
+      "splashDamageRadius": 1600,
       "splashDamage": 100000,
       "ammoMultiplier": 1,
       "hitSound": "massiveExplosion",
       "despawnEffect": "nuclearcloud",
       "hitEffect": "instHit",
-      "frontColor": "ffffff",
-      "backColor": "000000"
+      "frontColor": "000000",
+      "backColor": "ffffff"
     }
   },
   "category": "turret",
