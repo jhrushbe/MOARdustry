@@ -21,7 +21,7 @@
   "rotateSpeed": 0,
   "shootSound": "explosionbig",
   "ammoTypes": {
-    "animatter": {
+    "antimatter": {
       "type": "basicBulletType",
       "width": 1,
       "hight": 1,
