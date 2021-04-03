@@ -34,7 +34,7 @@
       "splashDamage": 100000,
       "ammoMultiplier": 1,
       "hitSound": "massiveExplosion",
-      "despawnEffect": "nuclearCloud",
+      "despawnEffect": "nuclearcloud",
       "hitEffect": "instHit",
       "frontColor": "ffffff",
       "backColor": "ffffff"
