@@ -1,0 +1,42 @@
+{
+  "type": "itemTurret",
+  "name": "BFG",
+  "description": "Requires logic in order to be functional.",
+  "size": 4,
+  "health": 2000,
+  "requirements": [
+    {"item": "titanium", "amount": 5000},
+    {"item": "plastic", "amount": 4000},
+    {"item": "silicon", "amount": 3500},
+    {"item": "fuel-cell", "amount": 1000},
+    {"item": "metaglass", "amount": 1000}
+  ],
+  "maxAmmo": 60,
+  "ammoPerShot": 20,
+  "targetAir": false,
+  "targetGround": false,
+  "shots": 1,
+  "shootShake": 20,
+  "reload": 0.1,
+  "range": 0,
+  "shootCone": 1,
+  "inaccuracy": 0,
+  "rotateSpeed": 1,
+  "shootSound": "explosionbig",
+  "ammoTypes": {
+    "fuel-cell": {
+      "type": "bombBulletType",
+      "width": 32,
+      "hight": 32,
+      "speed": 5,
+      "life": 140,
+      "damage": 5000,
+      "splashDamageRadius": 92,
+      "splashDamage": 5000,
+      "ammoMultiplier": 1,
+      "hitSound": "massiveExplosion"
+    }
+  },
+  "research": "designator",
+  "category": "turret",
+}
