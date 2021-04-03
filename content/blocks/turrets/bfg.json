@@ -43,8 +43,8 @@
       "ammoMultiplier": 1,
       "hitSound": "massiveExplosion",
       "despawnEffect": "bigShockwave",
-      "frontColor": "84f491",
-      "backColor": "73d187"
+      "frontColor": "ffffff",
+      "backColor": "98ffa9"
     }
   },
   "research": "mac",
