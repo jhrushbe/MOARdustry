@@ -15,6 +15,7 @@
   "spread": 0,
   "shots": 1,
   "shootShake": 10,
+  "recoilAmount": 0,
   "reload": 0.5,
   "range": 400,
   "shootCone": 1,
