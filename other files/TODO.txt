@@ -19,9 +19,15 @@ v0.9 (the speed of c)
 -add fast unloader
 -add fast router
 -add black hole generator (a.k.a. copper void)
--add fusion generator (consumes water in large amounts to make large amounts of power)
+-add fusion generator (consumes aol and large amounts of water to make large amounts of power)
+-add extra-dimentional battery (2147483647 capacity)
+-add extra-dimentional container (2147483647 storage)
 -add the_cube (all bullet types, "pulse" sound)
 
 v0.10 (the bigger the better)
 =Units=
 -add mega bomb unit line (bomb>improved health bomb>bombdispencer>nuke>Mother of all bombs)
+
+v1.0 (official release)
+=Blocks=
+-add [item] trophies
