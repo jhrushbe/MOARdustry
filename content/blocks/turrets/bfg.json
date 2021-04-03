@@ -1,7 +1,7 @@
 {
   "type": "itemTurret",
   "name": "BFG",
-  "description": "Requires logic in order to be functional because it cannot aim on its own.",
+  "description": "Requires logic in order to be functional as it cannot aim on its own.",
   "size": 4,
   "health": 2000,
   "requirements": [
@@ -28,7 +28,7 @@
       "type": "basicBulletType",
       "width": 32,
       "hight": 32,
-      "shrinkY": 0,
+      "shrinkY": -4.6,
       "spin": 2,
       "speed": 5,
       "lifetime": 140,
@@ -36,7 +36,11 @@
       "splashDamageRadius": 160,
       "splashDamage": 50000,
       "ammoMultiplier": 1,
-      "hitSound": "massiveExplosion"
+      "hitSound": "massiveExplosion",
+      "despawnEffect": "bigShockwave",
+      "hitEffect": "greenLaserCharge",
+      "frontColor": "84f491",
+      "backColor": "73d187"
     }
   },
   "research": "mac",
