@@ -2,13 +2,11 @@ I am never going to get all this done....
 
 v0.8 (the big guns)
 =Blocks=
--add BFG (projectile, large boom)
 -add landmine (ahem, b o o m)
 -add AA turret (lead rain)
 -add nuclear missle silo (once again, b o o m)
 -add mega unit storage core (120 should do)
 -add SAM sites (missile spam)
--add orbital strike (invis (0px) shrapnelBulletType, instBomb hit, foreshadow-10 range, 10000 damage)
 -add eye of souron (slag consumer, cannot shoot over walls)
 -add flamethrower (fuel consumer)
 -add everything at the end of time (creative only, kills all)
@@ -25,7 +23,7 @@ v0.9 (the speed of c)
 -add fast router
 -add black hole generator (a.k.a. copper void)
 -add fusion generator (consumes water in large amounts to make large amounts of power)
--add the_cube (all bullet types)
+-add the_cube (all bullet types, "pulse" sound)
 
 v0.10 (the bigger the better)
 =Units=
