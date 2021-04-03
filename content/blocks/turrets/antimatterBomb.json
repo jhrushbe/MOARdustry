@@ -5,7 +5,7 @@
   "size": 3,
   "health": 200,
   "requirements": [
-    {"item": "animatter", "amount": 1}
+    {"item": "antimatter", "amount": 1}
   ],
   "maxAmmo": 1,
   "ammoPerShot": 1,
