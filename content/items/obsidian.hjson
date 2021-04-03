@@ -1,6 +1,0 @@
-name: obsidian
-description: its real hot
-color: 000000
-research: {
-  parent: copper
-}
