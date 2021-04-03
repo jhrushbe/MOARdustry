@@ -2,7 +2,6 @@ I am never going to get all this done....
 
 v0.8 (the big guns)
 =Blocks=
--add nuclear missle silo (once again, b o o m, accelerates over time)
 -add mega unit storage core (120 should do)
 =Units=
 -add bullet sponge (unit)
