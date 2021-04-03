@@ -4,6 +4,7 @@ v0.8 "the big guns"
 -added designator
 -added magnetic accelerator cannon (MAC)
 -added orbital strike
+-added BFG
 -fixed spelling issue that made some blocks non functional
 -removed eradicator
 -removed factory covers
