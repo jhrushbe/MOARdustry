@@ -2,7 +2,7 @@
   "type": "liquidTurret",
   "name": "The Eye of Sauron",
   "description": "His gaze is said to suck the life out of you.",
-  "size": 5,
+  "size": 4,
   "health": 10000,
   "requirements": [
     {"item": "titanium", "amount": 300},
