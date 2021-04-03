@@ -1,0 +1,68 @@
+{
+  "type": "itemTurret",
+  "name": "SAM",
+  "description": "Surface to air missile site, the pinacle of anti-air weaponry.",
+  "size": 3,
+  "health": 2700,
+  "requirements": [
+    {"item": "titanium", "amount": 200},
+    {"item": "graphite", "amount": 300},
+    {"item": "plastanium", "amount": 500},
+    {"item": "plastic", "amount": 400},
+    {"item": "silicon", "amount": 250}
+  ],
+  "maxAmmo": 50,
+  "ammoPerShot": 1,
+  "targetAir": true,
+  "targetGround": 0,
+  "range": 400,
+  "shots": 10,
+  "burstSpacing": 5,
+  "inaccuracy": 10,
+  "shootSound": "missile",
+  "ammoTypes": {
+    "blastCompound": {
+      "type": "missileExplosive",
+      "homingPower": 8,
+      "speed": 20,
+      "lifeTime": 125,
+      "damage": 120,
+      "splashDamage": 90,
+      "splashDamageRadius": 90,
+    },
+    "pyratite": {
+      "type": "missileIncendiary",
+      "homingPower": 8,
+      "speed": 20,
+      "lifeTime": 125,
+      "damage": 80,
+      "splashDamage": 60,
+      "splashDamageRadius": 60,
+      "makeFire": true,
+    },
+    "surgeAlloy": {
+      "type": "missileSurge",
+      "homingPower": 8,
+      "speed": 20,
+      "lifeTime": 125,
+      "damage": 100,
+      "splashDamage": 75,
+      "splashDamageRadius": 75,
+      "lightningDamage": 30,
+      "lightning": 6,
+      "lightningLength": 10
+    },
+    "plastic": {
+      "type": "missileExplosive",
+      "homingPower": 8,
+      "speed": 20,
+      "lifeTime": 125,
+      "damage": 120,
+      "splashDamage": 90,
+      "splashDamageRadius": 90,
+      "drag": -5
+    }
+  },
+  "research": "swarmer",
+  "category": "turret",
+}
