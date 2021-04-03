@@ -21,7 +21,7 @@
   "inaccuracy": 10,
   "shootSound": "missile",
   "ammoTypes": {
-    "blastCompound": {
+    "blast-compound": {
       "type": "missileExplosive",
       "homingPower": 8,
       "speed": 20,
