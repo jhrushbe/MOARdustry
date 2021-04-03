@@ -1,7 +1,7 @@
 {
   "type": "itemTurret",
   "name": "BFG",
-  "description": "Requires logic in order to be functional.",
+  "description": "Requires logic in order to be functional because it cannot aim on its own.",
   "size": 4,
   "health": 2000,
   "requirements": [
