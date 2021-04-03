@@ -18,7 +18,7 @@
   "spread": 0,
   "shots": 1,
   "shootShake": 10,
-  "reload": 0.5,
+  "reloadTime": 120,
   "range": 700,
   "shootCone": 1,
   "inaccuracy": 0,
