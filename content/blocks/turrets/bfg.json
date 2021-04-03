@@ -13,6 +13,7 @@
   ],
   "maxAmmo": 60,
   "ammoPerShot": 20,
+  "recoilAmount": 0,
   "targetAir": false,
   "targetGround": false,
   "shots": 1,
