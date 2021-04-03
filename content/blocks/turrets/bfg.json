@@ -24,6 +24,8 @@
   "inaccuracy": 0,
   "rotateSpeed": 1,
   "shootSound": "explosionbig",
+  "chargeTime": 60,
+  "chargeEffect": "greenLaserCharge",
   "ammoTypes": {
     "fuel-cell": {
       "type": "basicBulletType",
@@ -39,7 +41,6 @@
       "ammoMultiplier": 1,
       "hitSound": "massiveExplosion",
       "despawnEffect": "bigShockwave",
-      "hitEffect": "greenLaserCharge",
       "frontColor": "84f491",
       "backColor": "73d187"
     }
