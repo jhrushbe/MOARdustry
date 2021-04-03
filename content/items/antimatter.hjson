@@ -3,7 +3,7 @@ name: Antimatter
 description: The opposite of matter. Do not allow it to breach containment.
 color: 000000
 explosiveness: 9
-flamability: 9
+flamability: 8
 radioactivity: 9
 charge: 9
 alwaysUnlocked: false
