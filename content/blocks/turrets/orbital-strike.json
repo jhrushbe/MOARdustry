@@ -27,7 +27,9 @@
     "damage": 5000,
     "width": 0,
     "hitEffect": "instBomb",
-    "shootEffect": "none"
+    "shootEffect": "none",
+    "smokeEffect": "none",
+    "serrations": 0,
   },
   "research": "designator",
   "category": "turret",
