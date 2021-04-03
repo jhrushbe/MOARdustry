@@ -2,16 +2,15 @@ I am never going to get all this done....
 
 v0.8 (the big guns)
 =Blocks=
--add designator turret (nigh infinate range, no damage)
 -add BFG (projectile, large boom)
 -add landmine (ahem, b o o m)
 -add AA turret (lead rain)
 -add nuclear missle silo (once again, b o o m)
 -add mega unit storage core (120 should do)
 -add SAM sites (missile spam)
--add sector denial (1000 power, invis lazer, foreshadow range, 5000 damage, rapid fire)
--add magnetic accelerator cannon (MAC) (2 pixel wide shot, infinite penetration, 40,000 damage should do, long ShrapnelBulletType)
--add PDC (point defence item turrent)
+-add orbital strike (invis (0px) shrapnelBulletType, instBomb hit, foreshadow-10 range, 10000 damage)
+-add eye of souron (slag consumer, cannot shoot over walls)
+-add flamethrower (fuel consumer)
 =Units=
 -add bullet sponge (unit)
 
