@@ -31,14 +31,14 @@
       "shrinkY": 0,
       "spin": 2,
       "speed": 5,
-      "life": 140,
-      "damage": 5000,
-      "splashDamageRadius": 92,
-      "splashDamage": 5000,
+      "lifetime": 140,
+      "damage": 50000,
+      "splashDamageRadius": 160,
+      "splashDamage": 50000,
       "ammoMultiplier": 1,
       "hitSound": "massiveExplosion"
     }
   },
-  "research": "designator",
+  "research": "mac",
   "category": "turret",
 }
