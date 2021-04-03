@@ -37,7 +37,8 @@
       "despawnEffect": "nuclearcloud",
       "hitEffect": "instHit",
       "frontColor": "000000",
-      "backColor": "ffffff"
+      "backColor": "ffffff",
+      "killShooter": true
     }
   },
   "category": "turret",
