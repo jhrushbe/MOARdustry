@@ -1,7 +1,7 @@
 {
   "type": "itemTurret",
   "name": "Magnetic Accelerator Cannon",
-  "description": "Fires a bullet at such speeds that it penetrates everything in its path.",
+  "description": "Can a bullet at such speeds that it penetrates everything in its path.",
   "size": 4,
   "health": 1000,
   "requirements": [
@@ -32,7 +32,7 @@
       "width": 5,
       "ammoMultiplier": 1,
       "hitEffect": "instHit",
-      "powerUse": 100,
+      "consumes": {"power": 100},
     },
     "thorium": {
       "type": "LaserBoltBulletType",
