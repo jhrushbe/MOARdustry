@@ -16,7 +16,7 @@
   "recoilAmount": 0,
   "reloadTime": 60,
   "range": 800,
-  "shootCone": 1,
+  "shootCone": 360,
   "inaccuracy": 0,
   "rotateSpeed": 0,
   "shootSound": "explosionbig",
