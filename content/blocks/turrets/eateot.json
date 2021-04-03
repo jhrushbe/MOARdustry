@@ -11,10 +11,10 @@
   "shootCone": 1,
   "inaccuracy": 0,
   "recoilAmount": 0,
-  "range": 2147483647,
+  "range": 65536,
   "reloadTime": 1,
   "rotateSpeed": 360,
-  "powerUse": 2147483647,
+  "powerUse": 0,
   "shootType": {
     "type": "PointBulletType",
     "shootEffect": "none",
