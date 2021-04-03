@@ -2,9 +2,11 @@ Update log:
 
 v0.8 "the big guns"
 -added designator
--
+-added magnetic accelerator cannon (MAC)
+-added orbital strike
 -fixed spelling issue that made some blocks non functional
 -removed eradicator
+-removed factory covers
 
 v0.7.5 "touch-ups"
 -re-assigned the railgun's bullet type to PointBulletType
