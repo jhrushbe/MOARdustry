@@ -23,7 +23,7 @@
   "ammoTypes": {
     "blast-compound": {
       "type": "missileExplosive",
-      "homingPower": 8,
+      "homingPower": 1,
       "speed": 5,
       "lifeTime": 125,
       "damage": 120,
@@ -32,7 +32,7 @@
     },
     "pyratite": {
       "type": "missileIncendiary",
-      "homingPower": 8,
+      "homingPower": 1,
       "speed": 5,
       "lifeTime": 125,
       "damage": 80,
@@ -42,7 +42,7 @@
     },
     "surge-alloy": {
       "type": "missileSurge",
-      "homingPower": 8,
+      "homingPower": 1,
       "speed": 5,
       "lifeTime": 125,
       "damage": 100,
@@ -54,13 +54,13 @@
     },
     "plastic": {
       "type": "missileExplosive",
-      "homingPower": 8,
+      "homingPower": 1,
       "speed": 5,
       "lifeTime": 125,
       "damage": 120,
       "splashDamage": 90,
       "splashDamageRadius": 90,
-      "drag": -0.3
+      "drag": -0.01
     }
   },
   "research": "swarmer",
