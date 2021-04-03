@@ -29,7 +29,6 @@
       "width": 5,
       "lifeTime": 35,
       "knockback": 3,
-      "collidesTeam": true,
       "color": "ff0000",
       "hitColor": "ff0000"
     },
