@@ -24,7 +24,8 @@
   "powerUse": 50,
   "shootType": {
     "type": "LaserBoltBulletType",
-    "speed": 100,
+    "speed": 25,
+    "life": 16,
     "damage": 5000,
     "width": 0,
     "hitEffect": "instBomb",
