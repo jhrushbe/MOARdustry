@@ -1,0 +1,29 @@
+{
+  "type": "powerTurret",
+  "name": "Everything at the End of Time",
+  "description": "Everything will end.",
+  "size": 1,
+  "health": 2147483647,
+  "requirements": [
+    {"items": "titanium", "amount": 2147483647},
+    {"items": "copper", "amount": 2147483647}
+  ],
+  "shootCone": 1,
+  "inaccuracy": 0,
+  "recoilAmount": 0,
+  "range": 2147483647,
+  "reloadTime": 1,
+  "rotateSpeed": 360,
+  "powerUse": 2147483647,
+  "shootType": {
+    "type": "PointBulletType",
+    "shootEffect": "none",
+    "hitEffect": "none",
+    "smokeEffect": "none",
+    "trailEffect": "none",
+    "despawnEffect": "none",
+    "damage": 2147483647,
+    "speed": 2147483647
+  },
+  "categoty": "turret",
+}
