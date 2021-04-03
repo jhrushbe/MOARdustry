@@ -40,7 +40,7 @@
       "splashDamageRadius": 60,
       "makeFire": true,
     },
-    "surgeAlloy": {
+    "surge-alloy": {
       "type": "missileSurge",
       "homingPower": 8,
       "speed": 20,
