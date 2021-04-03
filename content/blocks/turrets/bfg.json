@@ -25,7 +25,6 @@
   "shootSound": "explosionbig",
   "ammoTypes": {
     "fuel-cell": {
-      "type": "bombBulletType",
       "width": 32,
       "hight": 32,
       "speed": 5,
