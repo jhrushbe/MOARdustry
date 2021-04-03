@@ -25,8 +25,11 @@
   "shootSound": "explosionbig",
   "ammoTypes": {
     "fuel-cell": {
+      "type": "basicBulletType",
       "width": 32,
       "hight": 32,
+      "shrinkY": 0,
+      "spin": 2,
       "speed": 5,
       "life": 140,
       "damage": 5000,
