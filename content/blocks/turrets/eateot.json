@@ -5,8 +5,8 @@
   "size": 1,
   "health": 1000000,
   "requirements": [
-    {"items": "titanium", "amount": 1000000},
-    {"items": "copper", "amount": 1000000}
+    {"item": "titanium", "amount": 1000000},
+    {"item": "copper", "amount": 1000000}
   ],
   "shootCone": 1,
   "inaccuracy": 0,
