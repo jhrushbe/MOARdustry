@@ -26,10 +26,12 @@
       "sapStrength": 2,
       "damage": 1000,
       "length": 400,
-      "width": 10,
+      "width": 5,
       "lifeTime": 35,
       "knockback": 3,
       "collidesTeam": true,
+      "color": "ff0000",
+      "hitColor": "ff0000"
     },
   },
   "research": "meltdown",
