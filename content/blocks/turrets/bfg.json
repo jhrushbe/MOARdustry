@@ -42,7 +42,7 @@
       "splashDamage": 50000,
       "ammoMultiplier": 1,
       "hitSound": "massiveExplosion",
-      "despawnEffect": "bigShockwave",
+      "despawnEffect": "landShock",
       "frontColor": "ffffff",
       "backColor": "98ffa9"
     }
