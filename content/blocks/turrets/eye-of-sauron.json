@@ -27,8 +27,8 @@
       "damage": 1000,
       "length": 400,
       "width": 5,
-      "lifeTime": 35,
-      "knockback": 3,
+      "lifeTime": 20,
+      "knockback": -3,
       "color": "ff0000",
       "hitColor": "ff0000"
     },
