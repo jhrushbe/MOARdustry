@@ -25,5 +25,5 @@
     "damage": 1000000,
     "speed": 1000000
   },
-  "categoty": "turret",
+  "category": "turret",
 }
