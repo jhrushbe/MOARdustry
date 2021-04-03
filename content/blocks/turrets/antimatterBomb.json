@@ -1,7 +1,7 @@
 {
   "type": "itemTurret",
   "name": "Antimatter Bomb",
-  "description": "All it takes is for a bit of animatter to touch some matter.",
+  "description": "All it takes is for a bit of antimatter to touch some matter.",
   "size": 3,
   "health": 200,
   "requirements": [
