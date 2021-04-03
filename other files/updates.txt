@@ -5,6 +5,7 @@ v0.8 "the big guns"
 -added magnetic accelerator cannon (MAC)
 -added orbital strike
 -added BFG
+-added antimatter bomb
 -changed railgun back to ShrapnelBulletType
 -fixed spelling issue that made some blocks non functional
 -removed eradicator
