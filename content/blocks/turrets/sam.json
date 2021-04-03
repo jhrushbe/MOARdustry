@@ -24,7 +24,7 @@
     "blast-compound": {
       "type": "missileExplosive",
       "homingPower": 8,
-      "speed": 20,
+      "speed": 5,
       "lifeTime": 125,
       "damage": 120,
       "splashDamage": 90,
@@ -33,7 +33,7 @@
     "pyratite": {
       "type": "missileIncendiary",
       "homingPower": 8,
-      "speed": 20,
+      "speed": 5,
       "lifeTime": 125,
       "damage": 80,
       "splashDamage": 60,
@@ -43,7 +43,7 @@
     "surge-alloy": {
       "type": "missileSurge",
       "homingPower": 8,
-      "speed": 20,
+      "speed": 5,
       "lifeTime": 125,
       "damage": 100,
       "splashDamage": 75,
@@ -55,7 +55,7 @@
     "plastic": {
       "type": "missileExplosive",
       "homingPower": 8,
-      "speed": 20,
+      "speed": 5,
       "lifeTime": 125,
       "damage": 120,
       "splashDamage": 90,
