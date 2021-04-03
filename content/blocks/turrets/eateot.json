@@ -3,15 +3,15 @@
   "name": "Everything at the End of Time",
   "description": "Everything will end.",
   "size": 1,
-  "health": 2147483647,
+  "health": 1000000,
   "requirements": [
-    {"items": "titanium", "amount": 2147483647},
-    {"items": "copper", "amount": 2147483647}
+    {"items": "titanium", "amount": 1000000},
+    {"items": "copper", "amount": 1000000}
   ],
   "shootCone": 1,
   "inaccuracy": 0,
   "recoilAmount": 0,
-  "range": 65536,
+  "range": 1000,
   "reloadTime": 1,
   "rotateSpeed": 360,
   "powerUse": 0,
@@ -22,8 +22,8 @@
     "smokeEffect": "none",
     "trailEffect": "none",
     "despawnEffect": "none",
-    "damage": 2147483647,
-    "speed": 2147483647
+    "damage": 1000000,
+    "speed": 1000000
   },
   "categoty": "turret",
 }
