@@ -23,15 +23,17 @@
   "rotateSpeed": 10,
   "powerUse": 50,
   "shootType": {
-    "type": "shrapnelBulletType",
-    "length": 400,
+    "type": "LaserBoltBulletType",
+    "speed": 100,
     "damage": 5000,
     "width": 0,
     "hitEffect": "instBomb",
     "shootEffect": "none",
     "smokeEffect": "none",
     "serrations": 0,
-    "pierce": false
+    "pierce": false,
+    "frontColor": "00000000",
+    "backColor": "00000000"
   },
   "research": "designator",
   "category": "turret",
