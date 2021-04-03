@@ -30,6 +30,7 @@
     "shootEffect": "none",
     "smokeEffect": "none",
     "serrations": 0,
+    "pierce": false
   },
   "research": "designator",
   "category": "turret",
