@@ -23,12 +23,12 @@
   "ammoTypes": {
     "antimatter": {
       "type": "basicBulletType",
-      "width": 1,
+      "width": 100,
       "hight": 1,
-      "shrinkY": 7,
-      "spin": 0,
-      "speed": 32,
-      "lifetime": 1,
+      "shrinkY": 0,
+      "spin": 10,
+      "speed": 1,
+      "lifetime": 20,
       "damage": 0,
       "splashDamageRadius": 800,
       "splashDamage": 100000,
@@ -37,7 +37,7 @@
       "despawnEffect": "nuclearcloud",
       "hitEffect": "instHit",
       "frontColor": "ffffff",
-      "backColor": "ffffff"
+      "backColor": "000000"
     }
   },
   "category": "turret",
