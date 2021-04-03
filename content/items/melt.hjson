@@ -6,7 +6,7 @@ cost: 2
 research: {
   parent: plastic
   requirements: [
-    melt/1
+    melt/0
   ]
 }
 color: cad77d
