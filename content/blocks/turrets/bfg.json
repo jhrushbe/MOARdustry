@@ -17,7 +17,7 @@
   "targetGround": false,
   "shots": 1,
   "shootShake": 20,
-  "reload": 0.1,
+  "reloadTime": 600,
   "range": 0,
   "shootCone": 1,
   "inaccuracy": 0,
