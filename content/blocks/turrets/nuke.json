@@ -13,18 +13,18 @@
   "inaccuracy": 0,
   "recoilAmount": 0,
   "range": 800,
-  "reloadTime": 2000,
+  "reloadTime": 1,
   "rotateSpeed": 0,
-  "powerUse": 1.66666,
+  "powerUse": 1.67,
   "shootType": {
     "type": "missileExplosive",
     "homingPower": 0.01,
-    "speed": 0,
-    "lifeTime": 125,
+    "speed": 0.1,
+    "lifeTime": 6000,
     "damage": 10000,
     "splashDamage": 7000,
     "splashDamageRadius": 800,
-    "drag": -0.1
+    "drag": -0.01
     "knockback": 40,
     "hittable": false,
     "reflectable": false,
