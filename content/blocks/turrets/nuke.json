@@ -24,7 +24,7 @@
     "damage": 10000,
     "splashDamage": 7000,
     "splashDamageRadius": 800,
-    "drag": -0.01,
+    "drag": -0.05,
     "knockback": 40,
     "hittable": false,
     "reflectable": false,
