@@ -5,6 +5,15 @@ v0.8 (the big guns)
 -add mega unit storage core (120 should do)
 =Units=
 -add bullet sponge (unit)
+=Sprites=
+-add sprite for magnetic accelerator
+-add sprite for orbital strike
+-add sprite for BFG
+-add sprite for flamethrower
+-add sprite for antimatter bomb
+-add sprite for the eye of sauron
+-add sprite for everything at the end of time
+-add sprite for sam
 
 v0.8.5 (items fix)
 -fixed item research
@@ -14,6 +23,7 @@ v0.9 (the speed of c)
 -add alloy of light
 -add alloy of light crafter (5 surge, 4 phase, 3 plastic > 2 AOL in 2 min)
 -add lightspeed conveyor (speedy, 0.1 power per conveyor)
+-add lightspeed conduit (^)
 -add fast unloader
 -add fast router
 -add black hole generator (a.k.a. copper void)
