@@ -1,22 +1,18 @@
 I am never going to get all this done....
 
 v0.8 (the big guns)
-=Blocks=
--add mega unit storage core (120 should do)
-=Units=
--add bullet sponge (unit)
 =Sprites=
 -add sprite for magnetic accelerator
 -add sprite for orbital strike
 -add sprite for BFG
 -add sprite for flamethrower
--add sprite for antimatter bomb
 -add sprite for the eye of sauron
 -add sprite for everything at the end of time
 -add sprite for sam
 
-v0.8.5 (items fix)
--fixed item research
+v0.8.1 (polish)
+-fix item research
+-use criticism world
 
 v0.9 (the speed of c)
 =Blocks=
@@ -35,6 +31,9 @@ v0.9 (the speed of c)
 v0.10 (the bigger the better)
 =Units=
 -add mega bomb unit line (bomb>improved health bomb>bombdispencer>nuke>Mother of all bombs)
+-add bullet sponge (unit)
+=Blocks=
+-add mega unit storage core (120 should do)
 
 v1.0 (official release)
 =Blocks=
