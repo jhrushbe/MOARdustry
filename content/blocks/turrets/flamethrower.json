@@ -39,7 +39,7 @@
       "damage": 30
     },
     "oil": {
-      "type": "BulletType",
+      "type": "basicBulletType",
       "ammoMultiplier": 3,
       "hitSize": 7,
       "lifetime": 11,
@@ -58,7 +58,7 @@
       "damage": 120
     },
     "fuel": {
-      "type": "BulletType",
+      "type": "basicBulletType",
       "ammoMultiplier": 3,
       "hitSize": 7,
       "lifetime": 11,
