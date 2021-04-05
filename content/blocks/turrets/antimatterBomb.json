@@ -24,7 +24,6 @@
     "antimatter": {
       "type": "basicBulletType",
       "width": 100,
-      "hight": 1,
       "shrinkY": 0,
       "spin": 10,
       "speed": 0.5,
