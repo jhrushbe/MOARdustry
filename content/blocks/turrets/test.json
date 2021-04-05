@@ -11,13 +11,13 @@
   ],
   "ammoTypes": {
     "blast-compound": {
-      "type": "missileExplosiveType"
+      "type": "missile-explosive"
     },
     "pyratite": {
       "type": "missileIncendiary"
     },
     "surge-alloy": {
-      "type": "missileSurge"
+      "type": "MissileBulletType"
     }
   },
   "reloadTime": 30,
