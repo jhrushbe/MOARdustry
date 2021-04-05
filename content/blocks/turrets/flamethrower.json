@@ -39,7 +39,7 @@
       "damage": 30
     },
     "oil": {
-      "type": "basicFlame",
+      "type": "basicFlameType",
       "ammoMultiplier": 3,
       "hitSize": 7,
       "lifetime": 11,
