@@ -28,6 +28,7 @@
   "chargeMaxDelay": 60,
   "chargeEffect": "greenLaserCharge",
   "chargeEffects": 1,
+  "consumes": {"power": 100},
   "ammoTypes": {
     "fuel-cell": {
       "type": "basicBulletType",
