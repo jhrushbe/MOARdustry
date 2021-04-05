@@ -18,7 +18,6 @@
   "shootType": {
     "type": "LaserBoltBulletType",
     "width": 3,
-    "length": 45,
     "lifetime": 35,
     "damage": 0,
     "speed": 20,
