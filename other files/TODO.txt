@@ -10,7 +10,10 @@ v0.8 (the big guns)
 -add sprite for everything at the end of time
 -add sprite for sam
 
-v0.8.1 (polish)
+v0.8.1 (error)
+-fix the 72 errors in last_log.txt
+
+v0.8.2 (polish)
 -fix item research
 -use criticism world
 
