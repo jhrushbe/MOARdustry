@@ -1,9 +1,8 @@
-type: resource
 name: Antimatter
 description: The opposite of matter. Do not allow it to breach containment.
 color: 000000
 explosiveness: 9
-flamability: 8
+flammability: 9
 radioactivity: 9
 charge: 9
 alwaysUnlocked: false
