@@ -15,6 +15,7 @@
   "range": 700,
   "reloadTime": 5,
   "powerUse": 0.1,
+  "shootSound": "none",
   "shootType": {
     "type": "LaserBoltBulletType",
     "width": 3,
