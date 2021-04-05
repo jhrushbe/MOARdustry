@@ -20,7 +20,7 @@
   "shootSound": "flame",
   "ammoTypes": {
     "hor": {
-      "type": "basicFlame",
+      "type": "BulletType",
       "ammoMultiplier": 3,
       "hitSize": 7,
       "lifetime": 11,
@@ -39,7 +39,7 @@
       "damage": 30
     },
     "oil": {
-      "type": "basicFlameType",
+      "type": "BulletType",
       "ammoMultiplier": 3,
       "hitSize": 7,
       "lifetime": 11,
@@ -58,7 +58,7 @@
       "damage": 120
     },
     "fuel": {
-      "type": "basicFlame",
+      "type": "BulletType",
       "ammoMultiplier": 3,
       "hitSize": 7,
       "lifetime": 11,
