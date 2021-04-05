@@ -6,7 +6,7 @@ lightColor: 7c4b80
 flammability: 0.3
 temperature: 0.5
 heatCapacity: 0.4
-viscosity: 1.0
+viscosity: 0.9
 explosiveness: 0.0
 effect: tarred
 research: plastic
