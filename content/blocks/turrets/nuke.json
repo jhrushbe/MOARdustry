@@ -20,7 +20,7 @@
     "type": "missileExplosive",
     "homingPower": 0.05,
     "speed": 1,
-    "lifeTime": 6000,
+    "lifetime": 6000,
     "damage": 10000,
     "splashDamage": 7000,
     "splashDamageRadius": 800,
