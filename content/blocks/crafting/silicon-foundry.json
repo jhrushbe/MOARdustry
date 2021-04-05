@@ -1,7 +1,7 @@
 {
     "type": "GenericSmelter",
     "name": "Silicon Foundry",
-    "description": "Uses burning graphite, instead of coal, to assist in silicon production.",
+    "description": "Uses graphite crucibles, to assist in silicon production.",
     "size": 2,
     "health": 200,
     "hasPower": true,
