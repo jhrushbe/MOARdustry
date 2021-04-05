@@ -49,8 +49,8 @@
       "collidesTeam": "false",
       "frontColor": "ffffff",
       "backolor": "a9d8ff",
-      "drag": 0.03,
-      "shrinkY": 0.05
+      "drag": 0.01,
+      "shrinkY": 0.08
     }
   },
   "research": "orbital-strike",
