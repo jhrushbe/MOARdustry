@@ -42,4 +42,5 @@ v1.0 (official release)
 =Blocks=
 -add [item] trophies
 =General=
+-check last_log for more errors
 -balance everything (oh no)
