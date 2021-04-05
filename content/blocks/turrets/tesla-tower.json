@@ -8,7 +8,7 @@
 		{"item": "graphite", "amount": 50}
 	],
 	"size": 2,
-	"heath": 250,
+	"health": 250,
 	"reloadTime": 1,
 	"restitution": 0.01,
 	"inaccuracy": 180,
