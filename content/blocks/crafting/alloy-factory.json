@@ -31,5 +31,5 @@
     "category": "crafting",
     "research": "alloy-smelter",
     "outputItem": {"item": "surge-alloy", "amount": 2},
-    //"outputLiquid": {"liquid": "slag", "amount": 0.1}
+    "outputLiquid": {"liquid": "slag", "amount": 0.1}
 }
