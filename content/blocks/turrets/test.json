@@ -11,7 +11,7 @@
   ],
   "ammoTypes": {
     "blast-compound": {
-      "type": "missileExplosive"
+      "type": "missileExplosiveType"
     },
     "pyratite": {
       "type": "missileIncendiary"
