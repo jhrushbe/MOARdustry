@@ -1,5 +1,5 @@
 {
-  "type": "itemTurret",
+  "type": "powerTurret", //change back to itemTurret if errors
   "name": "Magnetic Accelerator Cannon",
   "description": "Can a bullet at such speeds that it penetrates everything in its path.",
   "size": 4,
@@ -24,6 +24,7 @@
   "inaccuracy": 0,
   "rotateSpeed": 1,
   "shootSound": "railgun",
+  "powerUse": 100,
   "ammoTypes": {
     "fuel-cell": {
       "type": "ShrapnelBulletType",
@@ -32,19 +33,17 @@
       "width": 5,
       "ammoMultiplier": 1,
       "hitEffect": "instHit",
-      "consumes": {"power": 100},
     },
     "thorium": {
       "type": "LaserBoltBulletType",
       "speed": 10,
-      "life": 70,
+      "lifetime": 70,
       "damage": 7500,
       "ammoMultiplier": 1,
       "reloadMultiplier": 2,
       "hitEffect": "instBomb",
       "shootEffect": "none",
       "despawnEffect": "none",
-      "powerUse": 30
     }
   },
   "research": "orbital-strike",
