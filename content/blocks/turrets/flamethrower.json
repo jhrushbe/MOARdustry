@@ -20,7 +20,7 @@
   "shootSound": "flame",
   "ammoTypes": {
     "hor": {
-      "type": "BulletType",
+      "type": "basicBulletType",
       "ammoMultiplier": 3,
       "hitSize": 7,
       "lifetime": 11,
