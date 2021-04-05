@@ -48,7 +48,9 @@
       "smokeEffect": "none",
       "collidesTeam": "false",
       "frontColor": "ffffff",
-      "backolor": "a9d8ff"
+      "backolor": "a9d8ff",
+      "drag": 0.03,
+      "shrinkY": 0.05
     }
   },
   "research": "orbital-strike",
