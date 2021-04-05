@@ -19,7 +19,7 @@
     "surge-alloy": {
       "type": "missileSurge"
     }
-  }
+  },
   "reloadTime": 30,
   "shots": 4,
   "burstSpacing": 5,
