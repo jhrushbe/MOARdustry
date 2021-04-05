@@ -24,7 +24,7 @@
   "inaccuracy": 0,
   "rotateSpeed": 1,
   "shootSound": "railgun",
-  "powerUse": 100,
+  "consumes": {"power": 100},
   "ammoTypes": {
     "fuel-cell": {
       "type": "ShrapnelBulletType",
