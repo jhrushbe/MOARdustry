@@ -39,3 +39,5 @@ v0.10 (the bigger the better)
 v1.0 (official release)
 =Blocks=
 -add [item] trophies
+=General=
+-balance everything (oh no)
