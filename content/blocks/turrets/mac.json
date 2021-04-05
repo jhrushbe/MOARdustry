@@ -24,7 +24,8 @@
   "inaccuracy": 0,
   "rotateSpeed": 1,
   "shootSound": "railgun",
-  "consumes": {"power": 100},
+  "consumes": {"power": 50},
+  "coolantMultiplier": 2,
   "ammoTypes": {
     "fuel-cell": {
       "type": "ShrapnelBulletType",
@@ -42,8 +43,12 @@
       "ammoMultiplier": 1,
       "reloadMultiplier": 2,
       "hitEffect": "instBomb",
-      "shootEffect": "none",
+      "shootEffect": "lightningShoot",
       "despawnEffect": "none",
+      "smokeEffect": "none",
+      "collidesTeam": "false",
+      "frontColor": "ffffff",
+      "backolor": "a9d8ff"
     }
   },
   "research": "orbital-strike",
