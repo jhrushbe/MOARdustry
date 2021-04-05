@@ -15,6 +15,7 @@ v0.8 "the big guns"
 -fixed spelling issue that made some blocks non functional
 -removed eradicator
 -removed factory covers
+-fixed the 72 errors in last_log.txt
 
 v0.7.5 "touch-ups"
 -re-assigned the railgun's bullet type to PointBulletType
