@@ -1,13 +1,14 @@
 I am never going to get all this done....
 
 v0.8 (the big guns)
+=Effect=
+-Dementia (1000 damage/sec, immobility)
 =Sprites=
--add sprite for magnetic accelerator
--add sprite for orbital strike
 -add sprite for BFG
--add sprite for flamethrower
 -add sprite for the eye of sauron
--add sprite for everything at the end of time
+-add sprite for flamethrower
+-add sprite for MAC
+-add sprite for orbital strike
 -add sprite for sam
 
 v0.8.1 (error)
