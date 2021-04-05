@@ -1,7 +1,7 @@
 {
   "type": "itemTurret",
   "name": "SAM",
-  "description": "Surface to air missile site, the pinacle of anti-air weaponry.",
+  "description": "Surface to air missile site, the pinacle of anti-air weaponry. May cause lag.",
   "size": 3,
   "health": 2700,
   "requirements": [
@@ -43,8 +43,8 @@
       "splashDamage": 60,
       "splashDamageRadius": 60,
       "makeFire": true,
-      "frontColor": "lightishOrange",
-      "backColor": "lightOrange",
+      "frontColor": "f8ad42",
+      "backColor": "f68021",
       "hitEffect": "blastExplosion",
       "status": "burning"
     },
