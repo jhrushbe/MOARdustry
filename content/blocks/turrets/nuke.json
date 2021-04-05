@@ -17,7 +17,7 @@
   "rotateSpeed": 0,
   "powerUse": 1.667,
   "shootType": {
-    "type": "missileExplosive",
+    "type": "MissileBulletType",
     "homingPower": 0.05,
     "speed": 1,
     "lifetime": 6000,
@@ -31,7 +31,9 @@
     "absorbable": false,
     "status": "melting",
     "statusDuration": 3600,
-    "killShooter": true
+    "killShooter": true,
+    "frontColor": "f3e979",
+    "backColor": "686b7b"
   },
   "research": "spectre",
   "category": "turret",
