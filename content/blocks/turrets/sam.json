@@ -63,7 +63,7 @@
       "despawnEffect": "blastExplosion"
     },
     "plastic": {
-      "type": "missileExplosive",
+      "type": "MissileBulletType",
       "homingPower": 0.5,
       "speed": 5,
       "lifetime": 125,
