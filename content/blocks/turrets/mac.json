@@ -1,5 +1,5 @@
 {
-  "type": "powerTurret", //change back to itemTurret if errors
+  "type": "itemTurret",
   "name": "Magnetic Accelerator Cannon",
   "description": "Can a bullet at such speeds that it penetrates everything in its path.",
   "size": 4,
