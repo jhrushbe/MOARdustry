@@ -13,7 +13,7 @@
     "spread": 0,
     "shots": 1,
     "alternate": false,
-    "reload": 1,
+    "reloadTime": 1,
     "restitution": 0.01,
     "range": 150,
     "shootCone": 1,
@@ -46,5 +46,4 @@
     },
     "category": "turret",
     "research": "scatter",
-    "boostMultiplier": 5,
 }
