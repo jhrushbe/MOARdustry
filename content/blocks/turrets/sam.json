@@ -71,8 +71,8 @@
       "splashDamage": 90,
       "splashDamageRadius": 90,
       "drag": -0.01
-      "hitEffect": "blastExplosion",
-      "despawnEffect": "blastExplosion",
+      "hitEffect": "plasticExplosion",
+      "despawnEffect": "plasticExplosion",
       "status": "blasted",
       "statusDuration": 120
     }
