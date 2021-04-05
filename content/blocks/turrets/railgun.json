@@ -18,7 +18,7 @@
 	"shots": 1,
 	"shootShake": 1,
 	"alternate": false,
-	"reload": 30,
+	"reloadTime": 30,
 	"restitution": 0.01,
 	"range": 175,
 	"shootCone": 1,
