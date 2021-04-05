@@ -18,7 +18,7 @@
   "powerUse": 1.667,
   "shootType": {
     "type": "MissileBulletType",
-    "homingPower": 10,
+    "homingPower": 30,
     "speed": 1,
     "lifetime": 600,
     "damage": 10000,
