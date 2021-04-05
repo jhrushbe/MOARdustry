@@ -14,7 +14,7 @@
   "targetGround": true,
   "spread": 0,
   "shots": 1,
-  "shootShake": 10,
+  "hitShake": 10,
   "recoilAmount": 0,
   "reloadTime": 10,
   "range": 400,
@@ -22,6 +22,7 @@
   "inaccuracy": 0,
   "rotateSpeed": 10,
   "powerUse": 50,
+  "shootSound": "none",
   "shootType": {
     "type": "SapBulletType",
     "sapStrength": 0,
