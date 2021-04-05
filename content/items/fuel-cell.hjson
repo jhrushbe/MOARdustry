@@ -1,11 +1,10 @@
 //Image credit to @SteelBlue8 on Discord
 
-type: resource
 name: Fuel Cell
 description: An advanced thorium compound contained inside a graphite shell. Used in weaponry.
 color: cb8ebf
 explosiveness: 0.1
-flamability: 0.3
+flammability: 0.3
 radioactivity: 3
 alwaysUnlocked: false
 cost: 2.5
