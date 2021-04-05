@@ -32,7 +32,6 @@
     "fuel-cell": {
       "type": "basicBulletType",
       "width": 64,
-      "hight": 64,
       "shrinkY": -9.2,
       "spin": 5,
       "speed": 5,
