@@ -25,6 +25,7 @@
     "despawnEffect": "none",
     "damage": 200,
     "speed": 1000,
+    "ammoMultiplier": 1,
     "splashDamage": 200,
     "splashDamageRadius": 800,
     "status": {
