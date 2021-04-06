@@ -37,7 +37,11 @@
       "hitEffect": "instHit",
       "frontColor": "000000",
       "backColor": "ffffff",
-      "killShooter": true
+      "killShooter": true,
+      "lightning": 32,
+      "lightningLength": 10,
+      "lightningDamage": 100000,
+      "lightningColor": "ffffff"
     }
   },
   "category": "turret",
