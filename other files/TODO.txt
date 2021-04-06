@@ -43,3 +43,4 @@ v1.0 (official release)
 =General=
 -check last_log for more errors
 -balance everything (oh no)
+-optimise (gasp)
