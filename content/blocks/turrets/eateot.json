@@ -5,8 +5,8 @@
   "size": 1,
   "health": 1000000,
   "requirements": [
-    {"item": "titanium", "amount": 1000000},
-    {"item": "copper", "amount": 1000000}
+    {"item": "titanium", "amount": 10000},
+    {"item": "antimatter", "amount": 1}
   ],
   "shootCone": 1,
   "inaccuracy": 0,
@@ -23,9 +23,9 @@
     "smokeEffect": "none",
     "trailEffect": "none",
     "despawnEffect": "none",
-    "damage": 0,
+    "damage": 200,
     "speed": 1000,
-    "splashDamage": 0,
+    "splashDamage": 200,
     "splashDamageRadius": 800,
     "status": {
       "name": "dementia",
