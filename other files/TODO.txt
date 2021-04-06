@@ -1,8 +1,6 @@
 I am never going to get all this done....
 
 v0.8 (the big guns)
-=Effect=
--Dementia (1000 damage/sec, immobility)
 =Sprites=
 -add sprite for BFG
 -add sprite for the eye of sauron
@@ -32,12 +30,15 @@ v0.9 (the speed of c)
 -add extra-dimentional container (2147483647 storage)
 -add the_cube (all bullet types, "pulse" sound)
 
-v0.10 (the bigger the better)
+v0.10 (units)
 =Units=
 -add mega bomb unit line (bomb>improved health bomb>bombdispencer>nuke>Mother of all bombs)
 -add bullet sponge (unit)
 =Blocks=
 -add mega unit storage core (120 should do)
+-add clinic (effect: overheal)
+=Effects=
+-overheal (healthMultiplier: 2, damage: -100(heals))
 
 v1.0 (official release)
 =Blocks=
