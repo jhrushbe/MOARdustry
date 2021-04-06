@@ -27,7 +27,8 @@
     "smokeEffect": "none",
     "hitEffect": "none",
     "despawnEffect": "none",
-    "shootEffect": "none"
+    "shootEffect": "none",
+    "ammoMultiplier": 1,
   },
   "research": "foreshadow",
   "category": "turret",
