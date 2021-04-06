@@ -30,14 +30,24 @@
     "hittable": false,
     "reflectable": false,
     "absorbable": false,
-    "status": "melting",
-    "statusDuration": 3600,
+    "status": {
+      "name": "irradiated",
+      "localizedName": "Irradiated",
+      "speedMultiplier": 0.8,
+      "damageMultiplier": 0.8,
+      "healthMultiplier": 0.8,
+      "damage": 10,
+      "effect": "melting",
+      "statusDuration": 3600
+    }
     "killShooter": true,
     "frontColor": "f3e979",
     "backColor": "686b7b",
     "shootEffect": "cloudsmoke",
     "despawnEffect": "nuclearcloud",
-    "hitEffect": "nuclearcloud"
+    "hitEffect": "nuclearcloud",
+    "trailColor": "454545",
+    "trailEffect": "rocketSmoke"
   },
   "research": "spectre",
   "category": "turret",
