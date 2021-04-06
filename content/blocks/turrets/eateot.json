@@ -28,7 +28,8 @@
     "splashDamage": 0,
     "splashDamageRadius": 800,
     "effect": {
-      "name": "Dementia",
+      "name": "dementia",
+      "localizedName": "Dementia",
       "speedMultiplier": 0,
       "damageMultiplier": 0.1,
       "damage": 100,
