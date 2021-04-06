@@ -12,7 +12,7 @@
   "inaccuracy": 0,
   "recoilAmount": 0,
   "range": 1000,
-  "reloadTime": 1,
+  "reloadTime": 300,
   "rotateSpeed": 360,
   "powerUse": 0,
   "shootSound": "none",
@@ -34,7 +34,7 @@
       "damageMultiplier": 0.1,
       "damage": 100,
       "effect": "sapped",
-      "statusDuration": 600
+      "statusDuration": 300
     }
   },
   "category": "turret",
