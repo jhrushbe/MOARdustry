@@ -48,6 +48,7 @@
     "hitEffect": "nuclearcloud",
     "trailColor": "454545",
     "trailEffect": "rocketSmoke"
+    "ammoMultiplier": 1,
   },
   "research": "spectre",
   "category": "turret",
