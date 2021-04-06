@@ -16,7 +16,6 @@
   "rotateSpeed": 360,
   "powerUse": 0,
   "shootSound": "none",
-  
   "shootType": {
     "type": "PointBulletType",
     "shootEffect": "none",
@@ -24,10 +23,18 @@
     "smokeEffect": "none",
     "trailEffect": "none",
     "despawnEffect": "none",
-    "damage": 1000000,
-    "speed": 1000000,
-    "splashDamage": 1000000,
+    "damage": 0,
+    "speed": 1000,
+    "splashDamage": 0,
     "splashDamageRadius": 800,
+    "effect": {
+      "name": "Dementia",
+      "speedMultiplier": 0,
+      "damageMultiplier": 0.1,
+      "damage": 100,
+      "effect": "sapped",
+      "statusDuration": 600
+    }
   },
   "category": "turret",
 }
