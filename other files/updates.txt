@@ -11,6 +11,8 @@ v0.8 "the big guns"
 -added everything at the end of time
 -added sam
 -added nuke
+-added dementia
+-added irradiated
 -changed railgun back to ShrapnelBulletType
 -fixed spelling issue that made some blocks non functional
 -removed eradicator
