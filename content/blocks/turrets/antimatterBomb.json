@@ -39,7 +39,7 @@
       "backColor": "ffffff",
       "killShooter": true,
       "lightning": 32,
-      "lightningLength": 10,
+      "lightningLength": 100,
       "lightningDamage": 100000,
       "lightningColor": "ffffff"
     }
