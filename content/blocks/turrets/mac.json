@@ -49,7 +49,7 @@
       "collidesTeam": "false",
       "frontColor": "ffffff",
       "backColor": "a9d8ff",
-      "drag": 0.08,
+      "drag": 0.06,
       "shrinkY": 0.5
     }
   },
