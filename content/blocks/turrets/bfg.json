@@ -24,6 +24,7 @@
   "inaccuracy": 0,
   "rotateSpeed": 1,
   "shootSound": "explosionbig",
+  "chargeSound": "lasercharge",
   "chargeTime": 120,
   "chargeMaxDelay": 60,
   "chargeEffect": "greenLaserCharge",
