@@ -30,7 +30,8 @@
       "lifetime": 20,
       "knockback": -3,
       "color": "ff0000",
-      "hitColor": "ff0000"
+      "hitColor": "ff0000",
+      "shootEffect": "none"
     },
   },
   "research": "meltdown",
