@@ -41,7 +41,7 @@
       "lightning": 32,
       "lightningLength": 100,
       "lightningDamage": 100000,
-      "lightningColor": "ffffff"
+      "lightningColor": "000000"
     }
   },
   "category": "turret",
