@@ -34,7 +34,7 @@
       "ammoMultiplier": 1,
       "hitSound": "massiveExplosion",
       "despawnEffect": "nuclearcloud",
-      "hitEffect": "instHit",
+      "hitEffect": "spawnShockwave",
       "frontColor": "000000",
       "backColor": "ffffff",
       "killShooter": true,
