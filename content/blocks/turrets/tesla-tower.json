@@ -1,7 +1,7 @@
 {
 	"type": "powerTurret",
 	"name": "Tesla Tower",
-	"description": "By using its impresive height, the Tesla Tower can hit both land and air units.",
+	"description": "By means of its impresive height, the Tesla Tower can hit both land and air units.",
 	"requirements": [
 		{"item": "copper", "amount": 200},
 		{"item": "lead", "amount": 100},
@@ -31,6 +31,7 @@
 		"damage": 4,
 		"lightningLength": 15,
 		"collidesAir": true,
+		"shootEffect": "none"
 	},
 	"research": "arc",
 	"category": "turret",
