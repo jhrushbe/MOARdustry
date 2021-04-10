@@ -15,6 +15,7 @@
   "ammoPerShot": 1,
   "targetAir": true,
   "targetGround": 0,
+  "reloadTime": 60,
   "range": 400,
   "shots": 10,
   "burstSpacing": 5,
