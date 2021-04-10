@@ -26,7 +26,7 @@
 	"shootSound": "lasershoot",
 	"inaccuracy": 0,
 	"rotateSpeed": 2,
-	"recoilAmount": 10,
+	"recoilAmount": 4,
 	"ammoTypes": {
 		"titanium": {
 			"type": "ShrapnelBulletType",
