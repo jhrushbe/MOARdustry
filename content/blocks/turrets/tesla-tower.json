@@ -31,7 +31,8 @@
 		"damage": 4,
 		"lightningLength": 15,
 		"collidesAir": true,
-		"shootEffect": "none"
+		"shootEffect": "none",
+		"smokeEffect": "none"
 	},
 	"research": "arc",
 	"category": "turret",
