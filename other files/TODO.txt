@@ -3,7 +3,6 @@ I am never going to get all this done....
 v0.8 (the big guns)
 =Sprites=
 -add sprite for the eye of sauron
--add sprite for orbital strike
 -add sprite for sam
 
 v0.8.2 (polish)
