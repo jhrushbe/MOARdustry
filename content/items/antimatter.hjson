@@ -6,5 +6,10 @@ flammability: 9
 radioactivity: 9
 charge: 9
 alwaysUnlocked: false
-cost: 100
-research: antimatter
+cost: 600
+research: {
+  parent: fuel-cell
+  requirements: [
+    fuel-cell/20000
+  ]
+}
