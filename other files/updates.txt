@@ -1,5 +1,8 @@
 Update log:
 
+v0.8.1 "bug fixes"
+-fixed items' research
+
 v0.8 "the big guns"
 -added designator
 -added magnetic accelerator cannon (MAC)
