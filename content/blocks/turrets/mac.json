@@ -38,7 +38,7 @@
     "thorium": {
       "type": "LaserBoltBulletType",
       "speed": 10,
-      "lifetime": 90,
+      "lifetime": 180,
       "damage": 7500,
       "ammoMultiplier": 1,
       "reloadMultiplier": 2,
