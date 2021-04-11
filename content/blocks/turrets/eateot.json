@@ -34,9 +34,9 @@
       "speedMultiplier": 0,
       "damageMultiplier": 0.1,
       "damage": 100,
-      "effect": "sapped",
-      "statusDuration": 300
-    }
+      "effect": "sapped"
+    },
+    "statusDuration": 300
   },
   "category": "turret",
 }
