@@ -12,7 +12,8 @@
 		{"item": "lead", "amount": "50"},
 		{"item": "graphite", "amount": "100"},
 		{"item": "titanium", "amount": "30"},
-		{"item": "metaglass", "amount": "10"}
+		{"item": "metaglass", "amount": "10"},
+		"research": "plastic"
 	],
 	"consumes": {
 		"power": 3,
