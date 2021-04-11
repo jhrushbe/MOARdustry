@@ -20,6 +20,7 @@
   "rotateSpeed": 360,
   "ammoUseEffect": "none",
   "shootSound": "none",
+  "loopSound": "none",
   "ammoTypes": {
     "slag": {
       "type": "SapBulletType",
@@ -29,9 +30,10 @@
       "width": 5,
       "lifetime": 20,
       "knockback": -3,
-      "color": "ff0000",
-      "hitColor": "ff0000",
-      "shootEffect": "none"
+      "color": "bc5452",
+      "hitColor": "bc5452",
+      "shootEffect": "none",
+      "smokeEffect": "none"
     },
   },
   "research": "meltdown",
