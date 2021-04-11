@@ -8,4 +8,10 @@ flammability: 0.3
 radioactivity: 3
 alwaysUnlocked: false
 cost: 2.5
-research: thorium
+research: {
+  parent: thorium
+  requirements: [
+    thorium/1000
+    graphite/500
+  ]
+}
