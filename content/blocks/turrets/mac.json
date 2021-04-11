@@ -38,7 +38,7 @@
     "thorium": {
       "type": "LaserBoltBulletType",
       "speed": 10,
-      "lifetime": 80,
+      "lifetime": 90,
       "damage": 7500,
       "ammoMultiplier": 1,
       "reloadMultiplier": 2,
@@ -50,7 +50,7 @@
       "frontColor": "ffffff",
       "backColor": "a9d8ff",
       "drag": 0.01,
-      "shrinkY": 0.5
+      "shrinkY": 1
     }
   },
   "research": "orbital-strike",
