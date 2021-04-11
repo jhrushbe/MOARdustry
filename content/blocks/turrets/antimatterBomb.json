@@ -1,0 +1,48 @@
+{
+  "type": "itemTurret",
+  "name": "Antimatter Bomb",
+  "description": "All it takes is for a bit of antimatter to touch some matter.",
+  "size": 3,
+  "health": 200,
+  "requirements": [
+    {"item": "antimatter", "amount": 1}
+  ],
+  "maxAmmo": 1,
+  "ammoPerShot": 1,
+  "targetAir": false,
+  "targetGround": false,
+  "shots": 1,
+  "shootShake": 100,
+  "recoilAmount": 0,
+  "reloadTime": 1,
+  "range": 800,
+  "shootCone": 360,
+  "inaccuracy": 0,
+  "rotateSpeed": 0,
+  "shootSound": "explosionbig",
+  "ammoTypes": {
+    "antimatter": {
+      "type": "basicBulletType",
+      "width": 100,
+      "shrinkY": 0,
+      "spin": 10,
+      "speed": 0.5,
+      "lifetime": 60,
+      "damage": 0,
+      "splashDamageRadius": 1600,
+      "splashDamage": 100000,
+      "ammoMultiplier": 1,
+      "hitSound": "massiveExplosion",
+      "despawnEffect": "nuclearcloud",
+      "hitEffect": "spawnShockwave",
+      "frontColor": "000000",
+      "backColor": "ffffff",
+      "killShooter": true,
+      "lightning": 32,
+      "lightningLength": 100,
+      "lightningDamage": 100000,
+      "lightningColor": "000000"
+    }
+  },
+  "category": "turret",
+}

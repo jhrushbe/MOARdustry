@@ -1,0 +1,41 @@
+{
+  "type": "liquidTurret",
+  "name": "The Eye of Sauron",
+  "description": "His gaze is said to suck the life out of you.",
+  "size": 4,
+  "health": 10000,
+  "requirements": [
+    {"item": "titanium", "amount": 300},
+    {"item": "graphite", "amount": 200},
+    {"item": "silicon", "amount": 100}
+  ],
+  "liquidCapacity": 100,
+  "recoilAmount": 0,
+  "targetAir": true,
+  "targetGround": true,
+  "reloadTime": 40,
+  "range": 400,
+  "shootCone": 1,
+  "inaccuracy": 0,
+  "rotateSpeed": 360,
+  "ammoUseEffect": "none",
+  "shootSound": "none",
+  "loopSound": "none",
+  "ammoTypes": {
+    "slag": {
+      "type": "SapBulletType",
+      "sapStrength": 2,
+      "damage": 1000,
+      "length": 400,
+      "width": 1,
+      "lifetime": 20,
+      "knockback": -3,
+      "color": "bc5452",
+      "hitColor": "bc5452",
+      "shootEffect": "none",
+      "smokeEffect": "none"
+    },
+  },
+  "research": "meltdown",
+  "category": "turret",
+}

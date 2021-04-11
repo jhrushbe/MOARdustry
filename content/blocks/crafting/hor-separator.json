@@ -21,5 +21,5 @@
 	"category": "crafting",
 	"research": "plastanium-compressor",
 	"outputItem": {"item": "coal", "amount": 1},
-	"outputLiquid": {"liquid": "water", "amount": 1},
+	"outputLiquid": {"liquid": "water", "amount": 1.5},
 }

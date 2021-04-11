@@ -1,29 +1,37 @@
 I am never going to get all this done....
 
-v0.8 (the big guns)
-=Blocks=
--add designator turret (nigh infinate range, no damage)
--add BFG (projectile, large boom)
--add landmine (ahem, b o o m)
--add AA turret (lead rain)
--add nuclear missle silo (once again, b o o m)
--add mega unit storage core (120 should do)
--add SAM sites (missile spam)
--add sector denial (1000 power, invis lazer, foreshadow range, 5000 damage, rapid fire)
--add magnetic accelerator cannon (MAC) (2 pixel wide shot, infinite penetration, 40,000 damage should do, long ShrapnelBulletType)
-=Units=
--add bullet sponge (unit)
+v0.8.2 (polish)
+-fix item research
+-use criticism world
 
 v0.9 (the speed of c)
 =Blocks=
 -add alloy of light
 -add alloy of light crafter (5 surge, 4 phase, 3 plastic > 2 AOL in 2 min)
 -add lightspeed conveyor (speedy, 0.1 power per conveyor)
+-add lightspeed conduit (^)
 -add fast unloader
 -add fast router
 -add black hole generator (a.k.a. copper void)
--add fusion generator (consumes water in large amounts to make large amounts of power)
+-add fusion generator (consumes aol and large amounts of water to make large amounts of power)
+-add extra-dimentional battery (2147483647 capacity)
+-add extra-dimentional container (2147483647 storage)
+-add the_cube (all bullet types, "pulse" sound)
 
-v0.10 (the bigger the better)
+v0.10 (units)
 =Units=
 -add mega bomb unit line (bomb>improved health bomb>bombdispencer>nuke>Mother of all bombs)
+-add bullet sponge (unit)
+=Blocks=
+-add mega unit storage core (120 should do)
+-add clinic (effect: overheal)
+=Effects=
+-overheal (healthMultiplier: 2, damage: -100(heals))
+
+v1.0 (official release)
+=Blocks=
+-add [item] trophies
+=General=
+-check last_log for more errors
+-balance everything (oh no)
+-optimise (gasp)

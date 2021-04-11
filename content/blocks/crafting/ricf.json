@@ -15,13 +15,13 @@
     "hasLiquids": false,
     "hasItems": true,
     "itemCapacity": 20,
-    "craftTime": 300,
+    "craftTime": 150,
     "consumes": {
         "power": 3,
         "items": {
             "items": [
-                {"item": "thorium", "amount": 10},
-                {"item": "graphite", "amount": 3}
+                {"item": "thorium", "amount": 5},
+                {"item": "graphite", "amount": 2}
             ]
         }
     },

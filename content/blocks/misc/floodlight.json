@@ -4,15 +4,14 @@
   "description": "Larger and brighter than the illuminator",
   "size": 2,
   "health": 100,
-  "requirments": [
+  "requirements": [
     {"item": "graphite", "amount": 48},
     {"item": "silicon", "amount": 32},
     {"item": "titanium", "amount": 16}
   ],
   "consumes": {"power": 0.2},
-  "bightness": 3,
+  "brightness": 3,
   "radius": 480,
   "category": "effect",
   "research": "illuminator",
-  "BuildVisibility": "lightingOnly",
 }
