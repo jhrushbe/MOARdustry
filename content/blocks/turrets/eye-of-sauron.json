@@ -27,7 +27,7 @@
       "sapStrength": 2,
       "damage": 1000,
       "length": 400,
-      "width": 5,
+      "width": 1,
       "lifetime": 20,
       "knockback": -3,
       "color": "bc5452",
