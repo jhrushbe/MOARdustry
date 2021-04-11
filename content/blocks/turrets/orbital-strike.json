@@ -34,6 +34,7 @@
     "smokeEffect": "none",
     "pierce": false,
     "hitShake": 10,
+    "status": "none"
   },
   "research": "designator",
   "category": "turret",
