@@ -1,6 +1,5 @@
 I am never going to get all this done....
 
-v0.8 (the big guns)
 v0.8.2 (polish)
 -fix item research
 -use criticism world
