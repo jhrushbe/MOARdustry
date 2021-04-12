@@ -2,29 +2,50 @@ I am never going to get all this done....
 
 v0.8.2 (polish)
 -fix item research
--use criticism world
+-use criticism world:
+  -eos: decrease turning speed, decrease fluid capacity
+  -nuke: faster missile
+  -orbital strike: fix shaking, reduce fire rate, make noise
+  -piercer: fix it
+  -sam: decrease lifetime, figure out the random spawn thing
+  -oil derrick: needs plastic surgery
+  -surge conveyor: slow down
+  -fluid buffer: new sprite
+  -fuel burner: has an ohno
+  -plastic converter: change color scheme to alloy smelter
+  -plastic refinery: different style of sprite
 
 v0.9 (the speed of c)
 =Blocks=
--add alloy of light
+<Crafting>
 -add alloy of light crafter (5 surge, 4 phase, 3 plastic > 2 AOL in 2 min)
+-add antimatter reactor (100 fuel cell, 50 AOL > 1 antimatter in 10 min)
+<Distribution>
 -add lightspeed conveyor (speedy, 0.1 power per conveyor)
 -add lightspeed conduit (^)
 -add fast unloader
 -add fast router
+<Power>
 -add black hole generator (a.k.a. copper void)
 -add fusion generator (consumes aol and large amounts of water to make large amounts of power)
 -add extra-dimentional battery (2147483647 capacity)
+<Effect>
 -add extra-dimentional container (2147483647 storage)
+-add overdrive conduit (x5 speed, but huge power draw and smol range)
+<Turret>
 -add the_cube (all bullet types, "pulse" sound)
+=Items=
+-add alloy of light
 
 v0.10 (units)
 =Units=
 -add mega bomb unit line (bomb>improved health bomb>bombdispencer>nuke>Mother of all bombs)
 -add bullet sponge (unit)
+-add miner barge (bigger & better than mono, reverts to mono tree upon upgrading)
 =Blocks=
 -add mega unit storage core (120 should do)
 -add clinic (effect: overheal)
+-add speedy upgraders (faster alt to T3, T4, & T5 upgraders, use plastic as crafting material)
 =Effects=
 -overheal (healthMultiplier: 2, damage: -100(heals))
 
@@ -35,3 +56,5 @@ v1.0 (official release)
 -check last_log for more errors
 -balance everything (oh no)
 -optimise (gasp)
+-spriting (dammit)
+-sounds (aw, man)
