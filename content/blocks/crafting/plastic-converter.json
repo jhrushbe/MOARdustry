@@ -14,18 +14,19 @@
         {"item": "titanium", "amount": 120},
         {"item": "graphite", "amount": 100},
         {"item": "silicon", "amount": 100},
+        {"item": "plastanium", "amount": 80}
     ],
     "consumes": {
     	  "power": 4,
    	    "items": {
       	      "items": [
-      	          { "item": "plastic", "amount": 2}
+      	          { "item": "plastic", "amount": 1}
                   {"item": "silicon", "amount": 1}
               ]
         },
       "liquid": {"liquid": "slag", "amount": 0.2}
     },
     "category": "crafting",
-    "research": "alloy-smelter",
+    "research": "plastic-plater",
     "outputItem": {"item": "surge-alloy", "amount": 1}
 }
