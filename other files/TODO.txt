@@ -35,9 +35,18 @@ v0.9 (the speed of c)
 
 v0.10 (units)
 =Units=
--add mega bomb unit line (bomb>improved health bomb>bombdispencer>nuke>Mother of all bombs)
--add bullet sponge (unit)
--add miner barge (bigger & better than mono, reverts to mono tree upon upgrading)
+-add crate unit tree:
+  -crate (miner, 100 storage, little health, no defence, flying)
+  -hauler (miner/healer bot, 500 storage, decent health, no defences, 1 mine ray, one heal ray, flying)
+  -barge (mines titanium, 1.5k storage, decent health, no defences, cannot fly)
+  -carrier (mines all, 2.5k storage, lots of health, has some defence(a missile launcher, 2 duos), cannot fly)
+  -convoy (cant mine, 6k storage, all the health, sheild, has lots of defence(4 missile launchers, 4 arcs, 2 hails), cannot fly)
+-add scimitar unit tree (better dagger tree)
+  -scimitar (dagger) (moves quick, low health, a duo strapped to its side)
+  -hammer (mace) ("punches"(negative recoil) things)
+  -stronghold (fortress) (artilliary hell)
+  -verge (scepter) (basicly a pair of long range fuses)
+  -dominator (reign) (a mac for a main weapon(stationary), two railgun supports)
 =Blocks=
 -add mega unit storage core (120 should do)
 -add clinic (effect: overheal)
@@ -57,5 +66,4 @@ v1.0 (official release)
   -plastic refinery: different style of sprite
   -plastic converter: change color scheme to alloy smelter
   -fluid buffer: new sprite
-
 -sounds (aw, man)
