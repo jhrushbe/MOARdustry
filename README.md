@@ -1,3 +1,3 @@
-![moardustry](https://user-images.githubusercontent.com/76548026/114500880-8d4baa00-9bee-11eb-8070-4cc585bbf2e8.png)
+![moardustry](https://user-images.githubusercontent.com/76548026/114630681-bfa5e780-9c80-11eb-970c-f8aebd8be2a0.png)
 # MOARdustry
 A mod for Mindustry that adds MOAR to your game.
