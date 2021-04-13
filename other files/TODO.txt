@@ -8,12 +8,8 @@ v0.8.2 (polish)
   -orbital strike: fix shaking, reduce fire rate, make noise
   -piercer: fix it
   -sam: decrease lifetime, figure out the random spawn thing
-  -oil derrick: needs plastic surgery
   -surge conveyor: slow down
-  -fluid buffer: new sprite
   -fuel burner: has an ohno
-  -plastic converter: change color scheme to alloy smelter
-  -plastic refinery: different style of sprite
 
 v0.9 (the speed of c)
 =Blocks=
@@ -56,5 +52,10 @@ v1.0 (official release)
 -check last_log for more errors
 -balance everything (oh no)
 -optimise (gasp)
--spriting (dammit)
+-spriting (dammit):
+  -oil derrick: needs plastic surgery
+  -plastic refinery: different style of sprite
+  -plastic converter: change color scheme to alloy smelter
+  -fluid buffer: new sprite
+
 -sounds (aw, man)
