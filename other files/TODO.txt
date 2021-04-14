@@ -51,8 +51,15 @@ v0.10 (units)
 -add mega unit storage core (120 should do)
 -add clinic (effect: overheal)
 -add speedy upgraders (faster alt to T3, T4, & T5 upgraders, use plastic as crafting material)
+-add assemblers (instant upgrades, use components) ("Eclipses? Reigns? Omuras? Its your's, my friend, so long as you have enough components.")
+-add component assemblers (makes components)
 =Effects=
 -overheal (healthMultiplier: 2, damage: -100(heals))
+=Items=
+-T2 component
+-T3 component
+-T4 component
+-T5 component
 
 v1.0 (official release)
 =Blocks=
