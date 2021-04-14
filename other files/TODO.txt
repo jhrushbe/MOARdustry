@@ -52,7 +52,7 @@ v0.10 (units)
 -add clinic (effect: overheal)
 -add speedy upgraders (faster alt to T3, T4, & T5 upgraders, use plastic as crafting material)
 -add assemblers (instant upgrades, use components) ("Eclipses? Reigns? Omuras? Its your's, my friend, so long as you have enough components.")
--add component assemblers (makes components)
+-add component assemblers (makes components) (Sorry, [redacted], I cant give components. Come back when your a little, mmmm, richer!)
 =Effects=
 -overheal (healthMultiplier: 2, damage: -100(heals))
 =Items=
