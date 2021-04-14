@@ -20,7 +20,7 @@
     "type": "MissileBulletType",
     "homingPower": 0.1,
     "homingRange": 1600,
-    "speed": 1,
+    "speed": 2,
     "lifetime": 1200,
     "damage": 10000,
     "splashDamage": 7000,
