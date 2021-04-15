@@ -3,13 +3,8 @@ I am never going to get all this done....
 v0.8.2 (polish)
 -fix item research
 -use criticism world:
-  -eos: decrease turning speed, decrease fluid capacity
-  -nuke: faster missile
-  -orbital strike: fix shaking, reduce fire rate, make noise
   -piercer: fix it
-  -sam: decrease lifetime, figure out the random spawn thing
-  -surge conveyor: slow down
-  -fuel burner: has an ohno
+  -sam: figure out the random spawn thing
 
 v0.9 (the speed of c)
 =Blocks=
@@ -54,7 +49,7 @@ v0.10 (units)
 -add assemblers (instant upgrades, use components) ("Eclipses? Reigns? Omuras? Its your's, my friend, so long as you have enough components.")
 -add component assemblers (makes components) (Sorry, [redacted], I cant give components. Come back when your a little, mmmm, richer!)
 =Effects=
--overheal (healthMultiplier: 2, damage: -100(heals))
+-overheal (healthMultiplier: 2, damage: -100(heals)) (custom visual, look at https://github.com/K103908/Exotic-Mod/blob/master/content/units/ground-support/wildfire.hjson)
 =Items=
 -T2 component
 -T3 component
@@ -73,4 +68,5 @@ v1.0 (official release)
   -plastic refinery: different style of sprite
   -plastic converter: change color scheme to alloy smelter
   -fluid buffer: new sprite
+  -overheal: a non recolored sprite
 -sounds (aw, man)
