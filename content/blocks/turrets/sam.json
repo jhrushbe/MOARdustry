@@ -19,6 +19,7 @@
   "range": 400,
   "shots": 10,
   "burstSpacing": 5,
+  "xRand": 9,
   "inaccuracy": 10,
   "shootSound": "missile",
   "ammoTypes": {
