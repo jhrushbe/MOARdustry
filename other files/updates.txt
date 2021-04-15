@@ -1,10 +1,10 @@
 Update log:
 
-v0.8.1 "polish"
+v0.8.1 "polish":
 -fixed item research
 -minor adjustments
 
-v0.8 "the big guns"
+v0.8 "the big guns":
 -added designator
 -added magnetic accelerator cannon (MAC)
 -added orbital strike
@@ -23,7 +23,7 @@ v0.8 "the big guns"
 -removed factory covers
 -fixed the 72 errors in last_log.txt (oof)
 
-v0.7.5 "touch-ups"
+v0.7.5 "touch-ups":
 -re-assigned the railgun's bullet type to PointBulletType
 -added floodlight
 -added "factory covers" (x5, x7)
