@@ -9,7 +9,7 @@
     {"item": "graphite", "amount": 200},
     {"item": "silicon", "amount": 100}
   ],
-  "liquidCapacity": 50,
+  "liquidCapacity": 10,
   "recoilAmount": 0,
   "targetAir": true,
   "targetGround": true,
@@ -17,7 +17,7 @@
   "range": 400,
   "shootCone": 1,
   "inaccuracy": 0,
-  "rotateSpeed": 12,
+  "rotateSpeed": 6,
   "ammoUseEffect": "none",
   "shootSound": "none",
   "loopSound": "none",
