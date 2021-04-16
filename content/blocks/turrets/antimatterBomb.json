@@ -41,7 +41,19 @@
       "lightning": 32,
       "lightningLength": 100,
       "lightningDamage": 100000,
-      "lightningColor": "000000"
+      "lightningColor": "000000",
+      "fragBullets": 32,
+      "fragBullet": {
+        "type": "LaserBulletType",
+        "colors": ["000000", "828282", "ffffff"],
+        "length": 190,
+        "width": 8,
+        "sideLength": 25,
+        "sideWidth": 2,
+        "sideAngle": 22.5,
+        "pierce": true,
+        "damage": 100000
+      }
     }
   },
   "category": "turret",
