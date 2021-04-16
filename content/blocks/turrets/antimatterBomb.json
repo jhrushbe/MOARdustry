@@ -1,7 +1,7 @@
 {
   "type": "itemTurret",
   "name": "Antimatter Bomb",
-  "description": "All it takes is for a bit of antimatter to touch some matter. [red] Warning: May cause lag on weaker systems.",
+  "description": "Makes things violently stop existing. [red] Warning: May cause lag on weaker systems.",
   "size": 3,
   "health": 200,
   "requirements": [
@@ -28,7 +28,7 @@
     "lifeTime": 180,
     "particles": 1,
     "length": 0,
-    "sizeFrom": 40,
+    "sizeFrom": 80,
     "sizeTo": 0,
     "colorFrom": "00000000",
     "colorTo": "ffffff",
@@ -39,7 +39,7 @@
     "particles": 1,
     "length": 0,
     "sizeFrom": 0,
-    "sizeTo": 80,
+    "sizeTo": 160,
     "colorFrom": "ffffff",
     "colorTo": "00000000",
   },
@@ -76,7 +76,8 @@
         "sideWidth": 2,
         "sideAngle": 22.5,
         "pierce": true,
-        "damage": 100000
+        "damage": 100000,
+        "hitEffect": "none"
       }
     }
   },
