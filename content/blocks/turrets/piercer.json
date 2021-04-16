@@ -1,5 +1,5 @@
 {
-  "type": "powerTurret",
+  "type": "LaserTurret",
   "name": "Piercer", 
   "description": "Fires a continuous beam of piercing energy, larger that the Meltdown's.",
   "size": 4,
