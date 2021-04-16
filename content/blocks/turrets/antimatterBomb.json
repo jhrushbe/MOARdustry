@@ -1,11 +1,11 @@
 {
   "type": "itemTurret",
   "name": "Antimatter Bomb",
-  "description": "Makes things violently stop existing. [red] Warning: May cause lag on weaker systems.",
+  "description": "Makes things violently stop existing. \n[red] Warning: May cause lag on weaker systems.",
   "size": 3,
   "health": 200,
   "requirements": [
-    {"item": "antimatter", "amount": 1000}
+    {"item": "antimatter", "amount": 100}
   ],
   "maxAmmo": 1,
   "ammoPerShot": 1,
@@ -25,8 +25,8 @@
   "chargeMaxDelay": 60,
   "chargeEffect": {
     "type": "particleEffect",
-    "lifeTime": 180,
-    "particles": 1,
+    "lifetime": 180,
+    "particles": 3,
     "length": 0,
     "sizeFrom": 80,
     "sizeTo": 0,
@@ -35,8 +35,8 @@
   },
   "shootEffect": {
     "type": "particleEffect",
-    "lifeTime": 240,
-    "particles": 1,
+    "lifetime": 240,
+    "particles": 3,
     "length": 0,
     "sizeFrom": 0,
     "sizeTo": 160,
@@ -63,14 +63,14 @@
       "backColor": "ffffff",
       "killShooter": true,
       "lightning": 32,
-      "lightningLength": 100,
+      "lightningLength": 200,
       "lightningDamage": 100000,
       "lightningColor": "000000",
-      "fragBullets": 32,
+      "fragBullets": 64,
       "fragBullet": {
         "type": "LaserBulletType",
         "colors": ["000000", "000000", "000000"],
-        "length": 800,
+        "length": 1600,
         "width": 8,
         "sideLength": 25,
         "sideWidth": 2,
