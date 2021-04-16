@@ -3,6 +3,8 @@ Update log:
 v0.8.1 "polish":
 -fixed item research
 -minor adjustments
+-upgraded the antimatter bomb
+-removed piercer (couldnt fix it)
 
 v0.8 "the big guns":
 -added designator
