@@ -2,9 +2,6 @@ I am never going to get all this done....
 
 v0.8.2 (polish)
 -fix item research
--use criticism world:
-  -piercer: fix it
-  -sam: figure out the random spawn thing
 
 v0.9 (the speed of c)
 =Blocks=
@@ -69,4 +66,5 @@ v1.0 (official release)
   -plastic converter: change color scheme to alloy smelter
   -fluid buffer: new sprite
   -overheal: a non recolored sprite
+  -irradiated: cut off circle
 -sounds (aw, man)
