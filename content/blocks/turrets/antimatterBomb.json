@@ -1,7 +1,7 @@
 {
   "type": "itemTurret",
   "name": "Antimatter Bomb",
-  "description": "Makes things violently stop existing. \n[red] Warning: May cause lag on weaker systems.",
+  "description": "Makes things violently stop existing. \n[red]Warning: May cause lag on weaker systems.",
   "size": 3,
   "health": 200,
   "requirements": [
@@ -39,7 +39,7 @@
     "particles": 3,
     "length": 0,
     "sizeFrom": 0,
-    "sizeTo": 160,
+    "sizeTo": 240,
     "colorFrom": "ffffff",
     "colorTo": "00000000",
   },
@@ -74,7 +74,7 @@
         "width": 8,
         "sideLength": 25,
         "sideWidth": 2,
-        "sideAngle": 22.5,
+        "sideAngle": 5.62,
         "pierce": true,
         "damage": 100000,
         "hitEffect": "none"
