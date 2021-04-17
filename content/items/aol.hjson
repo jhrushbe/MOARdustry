@@ -1,0 +1,17 @@
+name: [#8aa3f4]Alloy of Light
+description: The energy stored within it is enough to go faster than light.
+color: 000000
+explosiveness: 0
+flammability: 0
+radioactivity: 0.1
+charge: 9.9
+alwaysUnlocked: false
+cost: 20
+research: {
+  parent: surge-alloy
+  requirements: [
+    surge-alloy/50
+    phase-fabric/40
+    plastic/30
+  ]
+}
