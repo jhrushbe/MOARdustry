@@ -4,7 +4,7 @@
     "description": "Through the power of phase fabric and the strength of titanium and surge alloy, this conveyor can reach speed previously unheard of.",
     "category": "distribution",
     "health": 130,
-    "speed": 0.32,
+    "speed": 0.20,
     "displayedSpeed": 33,
     "requirements": [
         {"item": "surge-alloy", "amount": 1},

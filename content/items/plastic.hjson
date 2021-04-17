@@ -6,4 +6,9 @@ flammability: 0.1
 radioactivity: 0
 alwaysUnlocked: false
 cost: 2
-research: plastanium
+research: {
+  parent: plastic
+  requirements: [
+    plastanium/200
+  ]
+}

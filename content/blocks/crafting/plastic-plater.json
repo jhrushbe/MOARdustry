@@ -26,5 +26,5 @@
   },
   "outputItem": {"item": "plastanium", "amount": 5},
   "category": "crafting",
-  "research": "plastanium-compressor",
+  "research": "plastic-refinery",
 }

@@ -20,7 +20,7 @@
     "type": "MissileBulletType",
     "homingPower": 0.1,
     "homingRange": 1600,
-    "speed": 1,
+    "speed": 2,
     "lifetime": 1200,
     "damage": 10000,
     "splashDamage": 7000,
@@ -39,7 +39,7 @@
       "damage": 10,
       "effect": "melting"
     },
-    "statusDuration": 3600
+    "statusDuration": 3600,
     "killShooter": true,
     "frontColor": "f3e979",
     "backColor": "686b7b",

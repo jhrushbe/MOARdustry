@@ -9,4 +9,9 @@ heatCapacity: 0.4
 viscosity: 0.9
 explosiveness: 0.0
 effect: tarred
-research: plastic
+research: {
+  parent: plastic
+  requirements: [
+    plastic/200
+  ]
+}

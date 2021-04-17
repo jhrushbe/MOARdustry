@@ -9,4 +9,9 @@ heatCapacity: 0.0
 viscosity: 0.5
 explosiveness: 3.0
 effect: tarred
-research: oil
+research: {
+  parent: oil
+  requirements: [
+    blast-compound/200
+  ]
+}
