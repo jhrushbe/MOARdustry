@@ -1,8 +1,5 @@
 I am never going to get all this done....
 
-v0.8.2 (polish)
--fix item research
-
 v0.9 (the speed of c)
 =Blocks=
 <Crafting>
