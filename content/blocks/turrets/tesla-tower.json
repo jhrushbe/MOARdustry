@@ -27,6 +27,8 @@
 	"shootSound": "spark",
 	"ambientSound": "hum",
 	"ambientSoundVolume": 1,
+	"x": 0,
+	"y": 0,
 	"shootType": {
 		"type": "LightningBulletType",
 		"damage": 4,
