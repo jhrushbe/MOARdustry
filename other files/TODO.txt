@@ -3,8 +3,7 @@ I am never going to get all this done....
 v0.9 (the speed of c)
 =Blocks=
 <Crafting>
--add alloy of light crafter (5 surge, 4 phase, 3 plastic > 2 AOL in 2 min)
--add antimatter reactor (100 fuel cell, 50 AOL > 1 antimatter in 10 min)
+-add antimatter catalyzer (100 fuel cell, 50 AOL > 1 antimatter in 10 min)
 <Distribution>
 -add lightspeed conveyor (speedy, 0.1 power per conveyor)
 -add lightspeed conduit (^)
@@ -19,8 +18,6 @@ v0.9 (the speed of c)
 -add overdrive conduit (x5 speed, but huge power draw and smol range)
 <Turret>
 -add the_cube (all bullet types, "pulse" sound)
-=Items=
--add alloy of light
 
 v0.10 (units)
 =Units=
