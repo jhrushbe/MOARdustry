@@ -13,6 +13,7 @@
   "targetGround": false,
   "shots": 1,
   "shootShake": 100,
+  "shootLength": 0,
   "recoilAmount": 0,
   "reloadTime": 1,
   "range": 80,
