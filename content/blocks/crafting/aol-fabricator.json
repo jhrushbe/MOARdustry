@@ -27,6 +27,7 @@
     "colorFrom": "8aa3f4",
     "colorTo": "ffffff",
   },
+  "drawer": "DrawWeave",
   "requirements": [
     {"item": "surge-alloy", "amount": 600},
     {"item": "silicon", "amount": 1000},
