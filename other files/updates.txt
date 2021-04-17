@@ -1,5 +1,16 @@
 Update log:
 
+v0.9 "the speed of c":
+=Blocks=
+<Crafting>
+-added fabricator
+<Distribution>
+<Power>
+<Effect>
+<Turret>
+=Items=
+-added alloy of light
+
 v0.8.1 "polish":
 -fixed item research
 -minor adjustments
