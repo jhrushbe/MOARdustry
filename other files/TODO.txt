@@ -56,6 +56,7 @@ v0.10 (units)
 v1.0 (official release)
 =Blocks=
 -add [item] trophies
+-add "museum" blocks (things that used to exist, but exist no longer)
 =General=
 -check last_log for more errors
 -balance everything (oh no)
