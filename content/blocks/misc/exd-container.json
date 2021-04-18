@@ -1,0 +1,7 @@
+{
+  "type": "storageBlock",
+  "name": "Extra Dimensional Storage Device",
+  "description": "Non-Euclidean"
+  "size": 4,
+  "itemCapacity": 2147483647,
+}
