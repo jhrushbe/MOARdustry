@@ -4,8 +4,11 @@ v0.9 "the speed of c":
 =Blocks=
 <Crafting>
 -added fabricator
+-added antimatter catalyzer
 <Distribution>
 <Power>
+-added black hole generator
+-added extra-dimentional battery
 <Effect>
 <Turret>
 =Items=
