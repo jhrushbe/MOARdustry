@@ -6,8 +6,7 @@
     "powerProduction": 20000,
     "hasPower": true,
     "hasHeat": false,
-    "hasLiquids": false,
-    "itemCapacity": 2147483647,
+    "itemCapacity": 7531517391730,
     "health": 700,
     "itemDuration": 36000,
     "heating": 0,
@@ -21,7 +20,8 @@
             "items": [
                 {"item": "copper", "amount": 1}
             ]
-        }
+        },
+        "liquid": {"liquid": "cryofluid", "amount": 0.1}
     },
     "research": "thorium-reactor",
     "category": "power",
