@@ -3,7 +3,7 @@
   "name": "Extra Dimensional Power Storage Device",
   "description": "Non-Euclidean",
   "size": 4,
-  "counsumes": {"powerBuffered": 2147483647},
+  "consumes": {"powerBuffered": 1000000},
   "requirements": [
     {"item": "aol", "amount": 20}
   ],
