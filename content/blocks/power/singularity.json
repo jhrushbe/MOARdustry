@@ -1,0 +1,28 @@
+{
+    "type": "nuclearReactor",
+    "name": "Black Hole Generator",
+    "description": "Uses copper to make a singularity, then uses that singularity to make power. \n[red]Note: requires ridiculously large amounts of copper.",
+    "size": 3,
+    "powerProduction": 20000,
+    "hasPower": true,
+    "hasHeat": false,
+    "hasLiquids": false,
+    "itemCapacity": 7531517391730,
+    "health": 700,
+    "itemDuration": 36000,
+    "heating": 0,
+    "requirements": [
+        {"item": "copper", "amount": 2000},
+        {"item": "metaglass", "amount": 1000},
+        {"item": "silicon", "amount": 500}
+    ],
+    "consumes": {
+        "items": {
+            "items": [
+                {"item": "copper", "amount": 1}
+            ]
+        }
+    },
+    "research": "thorium-reactor",
+    "category": "power",
+}
