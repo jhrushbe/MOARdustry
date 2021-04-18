@@ -6,6 +6,7 @@
   "health": -1,
   "hasPower": true,
   "hasItems": true,
+  "itemCapacity": 100,
   "craftTime": 36000,
   "craftEffect": {
     "type": "particleEffect",
