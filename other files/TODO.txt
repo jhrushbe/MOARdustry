@@ -18,6 +18,8 @@ v0.9 (the speed of c)
 -add overdrive conduit (x5 speed, but huge power draw and smol range)
 <Turret>
 -add the_cube (all bullet types, "pulse" sound)
+<Unit>
+-test the teleporter (applys "teleport" effect (x10 speed), make the effect look good)
 
 v0.10 (units)
 =Units=
