@@ -1,0 +1,48 @@
+{
+  "type": "GenericCrafter",
+  "name": "Antimatter Catalyzer",
+  "description": "Gather enough matter and energy in one space and antimatter shows up, eventually.",
+  "size": 5,
+  "health": -1,
+  "hasPower": true,
+  "hasItems": true,
+  "craftTime": 36000,
+  "craftEffect": {
+    "type": "particleEffect",
+    "lifetime": 60,
+    "particles": 1,
+    "length": 0,
+    "sizeFrom": 0,
+    "sizeTo": 48,
+    "colorFrom": "ffffff",
+    "colorTo": "ffffff00",
+  },
+  "updateEffect": {
+    "type": "particleEffect",
+    "lifetime": 10,
+    "particles": 10,
+    "length": 0,
+    "sizeFrom": 1,
+    "sizeTo": 0,
+    "colorFrom": "ffffff",
+    "colorTo": "ffffff",
+  },
+  "drawer": "DrawWeave",
+  "requirements": [
+    {"item": "plastanium", "amount": 1000},
+    {"item": "plastic", "amount": 2000},
+    {"item": "aol", "amount": 100},
+  ],
+  "consumes": {
+    "power": 200,
+    "items": {
+      "items": [
+        {"item": "fuel-cell", "amount": 100},
+        {"item": "aol", "amount": 50},
+      ]
+    }
+  },
+  "outputItem": {"item": "antimatter", "amount": 1},
+  "category": "crafting",
+  "research": "aol-fabricator",
+}
