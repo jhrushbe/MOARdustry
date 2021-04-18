@@ -1,0 +1,8 @@
+name: t2
+description: test 2
+temperature: 1
+viscosity: 1
+flammability: 1
+explosiveness: 1
+effect: freezing
+color: 0D002B
