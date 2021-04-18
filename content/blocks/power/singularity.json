@@ -7,7 +7,7 @@
     "hasPower": true,
     "hasHeat": false,
     "hasLiquids": false,
-    "itemCapacity": 7531517391730,
+    "itemCapacity": 2147483647,
     "health": 700,
     "itemDuration": 36000,
     "heating": 0,
