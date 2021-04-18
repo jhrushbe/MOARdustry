@@ -1,0 +1,47 @@
+{
+  "type": "powerTurret",
+  "name": "Transporter",
+  "description": "Moves units faster than if they were alone. \n[red]Effects apply to all units.",
+  "size": 2,
+  "health": -1,
+  "requirements": [
+    {"item": "phase-fabric", "amount": 200},
+    {"item": "titanium", "amount": 1000},
+    {"item": "aol", "amount": 20}
+  ],
+  "shootCone": 2,
+  "inaccuracy": 0,
+  "recoilAmount": 0,
+  "range": 80,
+  "reloadTime": 60,
+  "rotateSpeed": 0,
+  "powerUse": 1.667,
+  "shootType": {
+    "type": "basicBulletType",
+    "lifetime": 0,
+    "speed": 0,
+    "damage": 0,
+    "collidesTeam": true,
+    "splashDamageRadius": 80,
+    "splashDamage": 0,
+    "statusDuration": 60,
+    "status": {
+      "name": "transport",
+      "localizedName": "Transport",
+      "speedMultiplier": 10,
+      "effect": {
+        "type": "particleEffect",
+        "lifetime": 10,
+        "particles": 10,
+        "length": 0,
+        "sizeFrom": 1,
+        "sizeTo": 0,
+        "colorFrom": "f3e979",
+        "colorTo": "f3e979",
+        "region": "MOARdustry-rectangle",
+      }
+    },
+  },
+  "research": "repair-point",
+  "category": "unit",
+}
