@@ -1,0 +1,8 @@
+name: t1
+description: test 1
+temperature: 0
+viscosity: 1
+flammability: 0
+explosiveness: 0
+effect: freezing
+color: 0D002B
