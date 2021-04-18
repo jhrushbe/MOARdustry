@@ -1,8 +1,0 @@
-name: t3
-description: test 3
-temperature: 0
-viscosity: 1
-flammability: 0
-explosiveness: 0
-effect: melting
-color: 0D002B
