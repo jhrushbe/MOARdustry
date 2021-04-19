@@ -1,0 +1,23 @@
+{
+  "type": "impactReactor",
+  "name": "Fusion Generator",
+  "description": "Extracts the inherent energy from Alloy of Light by means of a fusion reaction.",
+  "size": 4,
+  "health": -1,
+  "requirements": [
+    {"item": "titanium", "amount": 1000},
+    {"item": "silicon", "amount": 600},
+    {"item": "plastanium", "amount": 500},
+    {"item": "surge-alloy", "amount": 500},
+    {"item": "metaglass", "amount": 750}
+  ],
+  "powerProduction": 350,
+  "itemDuration": 36000,
+  "consumes": {
+    "power": 50,
+    "items": {"items": [{"item": "aol"}]},
+    "liquid": {"liquid": "water", "amount": 1}
+  },
+  "research": "impact-reactor",
+  "category": "power,
+}
