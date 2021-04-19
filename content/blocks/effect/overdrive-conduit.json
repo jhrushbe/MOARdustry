@@ -15,7 +15,7 @@
   "hasBoost": false,
   "consumes": {
     "power": 15,
-    "items": {"items": [{"item": "none", "amount": 0}]}
+    "items": {"items": [{"item": "aol", "amount": 0}]}
   },
   "research": "overdrive-dome",
   "category": "effect",
