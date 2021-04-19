@@ -1,0 +1,15 @@
+{
+  "type": "conduit",
+  "name": "Lightspeed Conduit",
+  "description": "Think ethernet cable, but for liquids.",
+  "size": 1,
+  "health": 10,
+  "requirements": [
+    {"item": "aol", "amount": 1}
+  ],
+  "liquidCapacity": 1,
+  "liquidPressure": 2,
+  "consumes": {"power": 0.1},
+  "research": "pulse-conduit",
+  "category": "liquid",
+}
