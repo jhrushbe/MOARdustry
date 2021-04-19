@@ -7,6 +7,7 @@
   "requirements": [
     {"item": "aol", "amount": 1}
   ],
+  "itemCapacity": 1,
   "speed": 1,
   "displayedSpeed": 137.5,
   "consumes": {"power": 0.1},
