@@ -1,0 +1,13 @@
+{
+  "type": "router",
+  "name": "Lightspeed Conveyor",
+  "description": "The epitimy of router.",
+  "size": 1,
+  "health": 10,
+  "requirements": [
+    {"item": "aol", "amount": 1}
+  ],
+  "itemCapacity": 0,
+  "research": "lspd-conveyor",
+  "category": "distribution",
+}
