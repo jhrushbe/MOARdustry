@@ -6,10 +6,17 @@ v0.9 "the speed of c":
 -added fabricator
 -added antimatter catalyzer
 <Distribution>
+-added lightspeed conveyor
+-added lightspeed router
+<liquid>
+-added lightspeed conduit
 <Power>
 -added black hole generator
+-added fusion generator
 -added extra-dimentional battery
 <Effect>
+-added overdrive conduit
+-added lightspeed unloader
 <Turret>
 =Items=
 -added alloy of light
