@@ -1,0 +1,45 @@
+{
+  "type": "powerTurret",
+  "name": "Museum: Asmodeus",
+  "description": "A demonstration of the Asmodeus' main weapon, the Devil's Fork.",
+  "size": "3",
+  "health": 1,
+  "requirements": [
+    {"item": "copper", "amount": 1}
+  ],
+  "shootCone": 10,
+  "inaccuracy": 1,,
+  "recoilAmount": 0,
+  "range": 800,
+  "reloadTime": 360,
+  "rotateSpeed": 2,
+  "powerUse": 0,
+  "shootType": {
+    "type": "LaserBulletType",
+    "damage": 10000,
+    "despawnEffect": "none",
+    "hitSize": 8,
+    "drawSize": 400,
+    "length": 400,
+    "frontColor": "ff0000",
+    "fragBullets": 6,
+    "fragBullet": {
+      "type": "LaserBulletType",
+      "damage": 10000,
+      "despawnEffect": "none",
+      "hitSize": 8,
+      "drawSize": 400,
+      "length": 200,
+      "fragBullets": 6,
+      "fragBullet": {
+        "type": "LaserBulletType",
+        "damage": 10000,
+        "despawnEffect": "none",
+        "hitSize": 8,
+        "drawSize": 400,
+        "length": 200,
+      }
+    }
+  }
+  "category": "turret",
+}
