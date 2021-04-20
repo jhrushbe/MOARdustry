@@ -1,6 +1,6 @@
 {
   "type": "router",
-  "name": "Lightspeed Conveyor",
+  "name": "Lightspeed Router",
   "description": "The epitimy of router.",
   "size": 1,
   "health": 10,
