@@ -11,11 +11,13 @@
     {"item": "surge-alloy", "amount": 500},
     {"item": "metaglass", "amount": 750}
   ],
+  "plasma1": "8aa3f4",
+  "plasma2": "8aa3f4",
   "powerProduction": 350,
   "itemDuration": 36000,
   "consumes": {
     "power": 50,
-    "items": {"items": [{"item": "aol"}]},
+    "items": {"items": [{"item": "aol", "amount": 1}]},
     "liquid": {"liquid": "water", "amount": 1}
   },
   "research": "impact-reactor",
