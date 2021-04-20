@@ -2,7 +2,7 @@
   "type": "unloader",
   "name": "Lightspeed Unloader",
   "description": "Sometimes a regular unloader just isnt enough.",
-  "size": 0,
+  "size": 1,
   "health": 50,
   "requirements": [
     {"item": "aol", "amount": 1}
