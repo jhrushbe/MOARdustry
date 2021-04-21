@@ -8,7 +8,7 @@
     {"item": "copper", "amount": 1}
   ],
   "shootCone": 10,
-  "inaccuracy": 1,,
+  "inaccuracy": 1,
   "recoilAmount": 0,
   "range": 800,
   "reloadTime": 360,
