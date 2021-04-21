@@ -16,16 +16,17 @@
   "powerUse": 0,
   "shootType": {
     "type": "LaserBulletType",
-    "damage": 1000,
+    "damage": 4000,
     "despawnEffect": "none",
     "hitSize": 8,
     "drawSize": 800,
     "length": 400,
-    "color": "ff0000",
+    "width": 200,
+    "colors": ["ff0000", "ff0000", "ff0000"]
     "fragBullets": 6,
     "fragBullet": {
       "type": "LaserBulletType",
-      "damage": 1000,
+      "damage": 4000,
       "despawnEffect": "none",
       "hitSize": 8,
       "drawSize": 800,
@@ -33,7 +34,7 @@
       "fragBullets": 6,
       "fragBullet": {
         "type": "LaserBulletType",
-        "damage": 1000,
+        "damage": 4000,
         "despawnEffect": "none",
         "hitSize": 8,
         "drawSize": 800,
@@ -51,7 +52,7 @@
         "type": "waveEffect",
         "sizeFrom": 80,
         "sizeTo": 0,
-        "lifeTime": 360,
+        "lifetime": 360,
         "colorFrom": "c45f5f",
         "colorTo": "c45f5f",
         "strokeFrom": 0,
