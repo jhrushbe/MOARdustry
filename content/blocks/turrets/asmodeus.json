@@ -2,7 +2,7 @@
   "type": "powerTurret",
   "name": "Museum: Asmodeus",
   "description": "A demonstration of the Asmodeus' main weapon, the Devil's Fork.",
-  "size": "3",
+  "size": 3,
   "health": 1,
   "requirements": [
     {"item": "copper", "amount": 1}
@@ -10,36 +10,55 @@
   "shootCone": 10,
   "inaccuracy": 1,
   "recoilAmount": 0,
-  "range": 800,
+  "range": 400,
   "reloadTime": 360,
   "rotateSpeed": 2,
   "powerUse": 0,
   "shootType": {
     "type": "LaserBulletType",
-    "damage": 10000,
+    "damage": 1000,
     "despawnEffect": "none",
     "hitSize": 8,
-    "drawSize": 400,
+    "drawSize": 800,
     "length": 400,
-    "frontColor": "ff0000",
+    "color": "ff0000",
     "fragBullets": 6,
     "fragBullet": {
       "type": "LaserBulletType",
-      "damage": 10000,
+      "damage": 1000,
       "despawnEffect": "none",
       "hitSize": 8,
-      "drawSize": 400,
+      "drawSize": 800,
       "length": 200,
       "fragBullets": 6,
       "fragBullet": {
         "type": "LaserBulletType",
-        "damage": 10000,
+        "damage": 1000,
         "despawnEffect": "none",
         "hitSize": 8,
-        "drawSize": 400,
+        "drawSize": 800,
         "length": 200,
       }
-    }
+    },
+    "status": {
+      "name": "marked",
+      "localizedName": "Marked",
+      "speedMultiplier": 0.5,
+      "damageMultiplier": 0.5,
+      "healthMultiplier": 0.5,
+      "damage": 50,
+      "effect": {
+        "type": "waveEffect",
+        "sizeFrom": 80,
+        "sizeTo": 0,
+        "lifeTime": 360,
+        "colorFrom": "c45f5f",
+        "colorTo": "c45f5f",
+        "strokeFrom": 0,
+        "strokeTo": 0
+      }
+    },
+    "statusDuration": 360,
   },
   "category": "turret",
 }
