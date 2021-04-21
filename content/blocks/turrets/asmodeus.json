@@ -15,30 +15,32 @@
   "rotateSpeed": 2,
   "powerUse": 0,
   "shootType": {
-    "type": "LaserBulletType",
-    "damage": 4000,
+    "type": "ContinuousLaserBulletType",
+    "damage": 2000,
     "despawnEffect": "none",
     "hitSize": 8,
     "drawSize": 800,
     "length": 400,
-    "width": 200,
-    "colors": ["ff0000", "ff0000", "ff0000"]
+    "width": 5.5,
+    "colors": ["ff0000", "ff0000", "ff0000"],
     "fragBullets": 6,
     "fragBullet": {
       "type": "LaserBulletType",
-      "damage": 4000,
+      "damage": 1000,
       "despawnEffect": "none",
       "hitSize": 8,
       "drawSize": 800,
       "length": 200,
+      "colors": ["ff0000", "ff0000", "ff0000"],
       "fragBullets": 6,
       "fragBullet": {
         "type": "LaserBulletType",
-        "damage": 4000,
+        "damage": 500,
         "despawnEffect": "none",
         "hitSize": 8,
         "drawSize": 800,
-        "length": 200,
+        "length": 100,
+        "colors": ["ff0000", "ff0000", "ff0000"],
       }
     },
     "status": {
@@ -46,7 +48,6 @@
       "localizedName": "Marked",
       "speedMultiplier": 0.5,
       "damageMultiplier": 0.5,
-      "healthMultiplier": 0.5,
       "damage": 50,
       "effect": {
         "type": "waveEffect",
@@ -56,7 +57,7 @@
         "colorFrom": "c45f5f",
         "colorTo": "c45f5f",
         "strokeFrom": 0,
-        "strokeTo": 0
+        "strokeTo": 3
       }
     },
     "statusDuration": 360,
