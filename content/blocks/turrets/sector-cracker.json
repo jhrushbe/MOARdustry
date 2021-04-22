@@ -18,7 +18,6 @@
   "reloadTime": 1,
   "shootDuration": 36000,
   "powerUse": 1000,
-  "drawer": "DrawRotor",
   "shootSound": "explosionBig",
   "loopSound": "beam",
   "chargeTime": 60, //change to 108000 later
