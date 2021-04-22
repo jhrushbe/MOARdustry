@@ -7,6 +7,22 @@ v0.9 (the speed of c)
 -add asmodeus (infinite frag)
 <Drill>
 -add vaporizer drill 
+=[Sprites]=
+<Crafting>
+-add sprite for fabricator
+-add sprite for antimatter catalyzer
+<Distribution>
+-add sprite for lightspeed conveyor
+-add sprite for lightspeed router
+<liquid>
+-add sprite for lightspeed conduit
+<Power>
+-add sprite for black hole generator
+-add sprite for fusion generator
+-add sprite for extra-dimentional battery
+<Effect>
+-add sprite for overdrive conduit
+-add sprite for lightspeed unloader
 
 v0.10 (units)
 =Units=
