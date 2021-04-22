@@ -4,7 +4,6 @@ v0.9 (the speed of c)
 =Blocks=
 <Turret>
 -add the_cube (all bullet types, "pulse" sound)
--add asmodeus (infinite frag)
 <Drill>
 -add vaporizer drill 
 =[Sprites]=
