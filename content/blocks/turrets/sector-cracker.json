@@ -35,8 +35,8 @@
     "colorFrom": "f3e979",
     "colorTo": "f58859",
     "strokeFrom": 1,
-    "strokeTo": 4,
-  }
+    "strokeTo": 4
+  },
   "shootType": {
     "type": "ContinuousLaserBulletType",
     "length": 80000,
@@ -65,11 +65,11 @@
           "sizeTo": 24,
           "length": 2,
           "colorFrom": "c45f5f",
-          "colorTo": "515151a0",
+          "colorTo": "515151a0"
         }
       ]
     }
-  }
+  },
   "category": "turret",
   "research": "bfg",
 }
