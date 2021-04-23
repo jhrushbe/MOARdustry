@@ -9,14 +9,17 @@
   "itemCapacity": 100,
   "craftTime": 36000,
   "craftEffect": {
-    "type": "particleEffect",
+    "type": "WaveEffect",
     "lifetime": 60,
-    "particles": 1,
     "length": 0,
-    "sizeFrom": 0,
-    "sizeTo": 48,
+    "sizeFrom": 12,
+    "sizeTo": 12,
     "colorFrom": "ffffff",
     "colorTo": "ffffff00",
+    "rotation": 3,
+    "strokeFrom": 3,
+    "strokeTo": 3
+    "sides": 6,
   },
   "updateEffect": {
     "type": "particleEffect",
