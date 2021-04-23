@@ -9,7 +9,6 @@
   ],
   "liquidCapacity": 30,
   "liquidPressure": 1.5,
-  "consumes": {"power": 0.1},
   "research": "pulse-conduit",
   "category": "liquid",
 }
