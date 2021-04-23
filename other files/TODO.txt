@@ -6,6 +6,9 @@ v0.9 (the speed of c)
 -add the_cube (all bullet types, "pulse" sound)
 <Drill>
 -add vaporizer drill 
+=Vainity=
+-test rotation in Wave Effect
+-test different sprites in Wave Effect
 =[Sprites]=
 <Crafting>
 -add sprite for fabricator
