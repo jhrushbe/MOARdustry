@@ -6,18 +6,9 @@ v0.9 (the speed of c)
 -add the_cube (all bullet types, "pulse" sound)
 <Drill>
 -add vaporizer drill 
-=Vainity=
--test rotation in Wave Effect
--test different sprites in Wave Effect
 =[Sprites]=
 <Crafting>
 -add sprite for fabricator
--add sprite for antimatter catalyzer
-<Distribution>
--add sprite for lightspeed conveyor
--add sprite for lightspeed router
-<liquid>
--add sprite for lightspeed conduit
 <Power>
 -add sprite for black hole generator
 -add sprite for fusion generator
