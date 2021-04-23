@@ -19,7 +19,8 @@
   "shootDuration": 36000,
   "powerUse": 1000,
   "shootSound": "explosionBig",
-  "loopSound": "beam",
+  "loopSound": "pulse",
+  "shootLength": 0,
   "chargeTime": 180, //change to 108000 later
   "chargeMaxDelay": 0,
   "chargeEffects": 1,
@@ -32,7 +33,7 @@
         "lifetime": 180, //change to 108000 later
         "sizeFrom": 800,
         "sizeTo": 0,
-        "rotation": 3,
+        "rotation": 0,
         "sides": 6,
         "colorFrom": "f3e979",
         "colorTo": "f58859",
@@ -49,8 +50,7 @@
         "colorFrom": "ffffff",
         "colorTo": "ffffff",
         "strokeFrom": 3,
-        "strokeTo": 3
-        "spin": 3,
+        "strokeTo": 3,
       }
       {
         "type": "waveEffect",
@@ -62,7 +62,8 @@
         "colorFrom": "ffffff",
         "colorTo": "ffffff",
         "strokeFrom": 3,
-        "strokeTo": 3
+        "strokeTo": 3,
+        "region": "mindustry-shape-3"
       }
     ]
   },
