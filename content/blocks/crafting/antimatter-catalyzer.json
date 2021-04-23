@@ -24,7 +24,7 @@
     "type": "particleEffect",
     "lifetime": 10,
     "particles": 10,
-    "length": 3,
+    "length": 6,
     "baseLength": 0,
     "sizeFrom": 2,
     "sizeTo": 0,
