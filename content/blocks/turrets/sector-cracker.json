@@ -1,7 +1,7 @@
 {
   "type": "LaserTurret",
   "name": "Sector Cracker",
-  "description": "Nothing like a sector-wide laser sweep to end everything.",
+  "description": "Nothing like a sector-wide laser sweep to end everything. \n[red]Note: Takes 30 minutes to fire.",
   "size": 10,
   "health": 100000,
   "requirements": [
@@ -20,21 +20,50 @@
   "powerUse": 1000,
   "shootSound": "explosionBig",
   "loopSound": "beam",
-  "chargeTime": 60, //change to 108000 later
+  "chargeTime": 120, //change to 108000 later
   "chargeMaxDelay": 0,
   "chargeEffects": 1,
   "chargeSound": "none",
   "chargeEffect": {
-    "type": "waveEffect",
-    "lifetime": 60, //change to 108000 later
-    "sizeFrom": 800,
-    "sizeTo": 0,
-    "rotation": 3,
-    "sides": 6,
-    "colorFrom": "f3e979",
-    "colorTo": "f58859",
-    "strokeFrom": 1,
-    "strokeTo": 4
+    "type": "MultiEffect"
+    "effects": [
+      {
+        "type": "waveEffect",
+        "lifetime": 120, //change to 108000 later
+        "sizeFrom": 800,
+        "sizeTo": 0,
+        "rotation": 3,
+        "sides": 6,
+        "colorFrom": "f3e979",
+        "colorTo": "f58859",
+        "strokeFrom": 1,
+        "strokeTo": 4,
+      }
+      {
+        "type": "waveEffect",
+        "lifetime": 120, //change to 108000 later
+        "sizeFrom": 80,
+        "sizeTo": 80,
+        "rotation": 3,
+        "sides": 6,
+        "colorFrom": "ffffff",
+        "colorTo": "ffffff",
+        "strokeFrom": 3,
+        "strokeTo": 3
+      }
+      {
+        "type": "waveEffect",
+        "lifetime": 120, //change to 108000 later
+        "sizeFrom": 40,
+        "sizeTo": 40,
+        "rotation": -3,
+        "sides": 6,
+        "colorFrom": "ffffff",
+        "colorTo": "ffffff",
+        "strokeFrom": 3,
+        "strokeTo": 3
+      }
+    ]
   },
   "shootType": {
     "type": "ContinuousLaserBulletType",
@@ -50,7 +79,7 @@
           "type": "waveEffect",
           "sizeFrom": 0,
           "sizeTo": 80,
-          "lifetime": 60,
+          "lifetime": 15,
           "colorFrom": "ffffff",
           "colorTo": "ffffff",
           "strokeFrom": 3,
@@ -59,12 +88,12 @@
         {
           "type": "particleEffect",
           "particles": 1,
-          "lifetime": 360,
+          "lifetime": 60,
           "sizeFrom": 0,
           "sizeTo": 24,
           "length": 2,
           "colorFrom": "c45f5f",
-          "colorTo": "515151a0"
+          "colorTo": "51515100"
         }
       ]
     }
