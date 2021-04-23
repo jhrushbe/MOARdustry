@@ -20,16 +20,16 @@
   "powerUse": 1000,
   "shootSound": "explosionBig",
   "loopSound": "beam",
-  "chargeTime": 120, //change to 108000 later
+  "chargeTime": 180, //change to 108000 later
   "chargeMaxDelay": 0,
   "chargeEffects": 1,
   "chargeSound": "none",
   "chargeEffect": {
-    "type": "MultiEffect"
+    "type": "MultiEffect",
     "effects": [
       {
         "type": "waveEffect",
-        "lifetime": 120, //change to 108000 later
+        "lifetime": 180, //change to 108000 later
         "sizeFrom": 800,
         "sizeTo": 0,
         "rotation": 3,
@@ -41,23 +41,24 @@
       }
       {
         "type": "waveEffect",
-        "lifetime": 120, //change to 108000 later
+        "lifetime": 180, //change to 108000 later
         "sizeFrom": 80,
         "sizeTo": 80,
-        "rotation": 3,
+        "rotation": 0,
         "sides": 6,
         "colorFrom": "ffffff",
         "colorTo": "ffffff",
         "strokeFrom": 3,
         "strokeTo": 3
+        "spin": 3,
       }
       {
         "type": "waveEffect",
-        "lifetime": 120, //change to 108000 later
+        "lifetime": 180, //change to 108000 later
         "sizeFrom": 40,
         "sizeTo": 40,
-        "rotation": -3,
-        "sides": 6,
+        "rotation": 45,
+        "sides": 4,
         "colorFrom": "ffffff",
         "colorTo": "ffffff",
         "strokeFrom": 3,
