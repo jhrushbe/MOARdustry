@@ -18,6 +18,7 @@ v0.9 "the speed of c":
 -added overdrive conduit
 -added lightspeed unloader
 <Turret>
+-added sector cracker
 =Items=
 -added alloy of light
 
