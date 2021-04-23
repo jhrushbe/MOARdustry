@@ -37,6 +37,7 @@ v0.10 (units)
   -stronghold (fortress) (artilliary hell)
   -verge (scepter) (basicly a pair of long range fuses)
   -dominator (reign) (a mac for a main weapon(stationary), two railgun supports)
+-add lance unit (suicide, "warps" at enemy, fuse-like attack)
 =Blocks=
 -add mega unit storage core (120 should do)
 -add speedy upgraders (faster alt to T3, T4, & T5 upgraders, use plastic as crafting material)
@@ -64,6 +65,4 @@ v1.0 (official release)
   -plastic refinery: different style of sprite
   -plastic converter: change color scheme to alloy smelter
   -fluid buffer: new sprite
-  -overheal: a non recolored sprite
-  -irradiated: cut off circle
 -sounds (aw, man)
