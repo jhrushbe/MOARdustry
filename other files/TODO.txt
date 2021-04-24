@@ -12,10 +12,10 @@ v0.9 (the speed of c)
 <Power>
 -add sprite for black hole generator
 -add sprite for fusion generator
--add sprite for extra-dimentional battery
 <Effect>
 -add sprite for overdrive conduit
--add sprite for lightspeed unloader
+<Turret>
+-add sprite for sector cracker
 
 v0.10 (units)
 =Units=
