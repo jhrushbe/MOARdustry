@@ -1,3 +1,5 @@
+//sprite credit to @Stealthboost
+
 {
   "type": "impactReactor",
   "name": "Fusion Reactor",
@@ -11,6 +13,7 @@
     {"item": "surge-alloy", "amount": 500},
     {"item": "metaglass", "amount": 750}
   ],
+  "liquidCapacity": 60,
   "plasma1": "8aa3f4",
   "plasma2": "8aa3f4",
   "powerProduction": 350,
