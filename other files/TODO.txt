@@ -12,8 +12,9 @@ v0.9 (the speed of c)
 <Power>
 -add sprite for black hole generator
 -add sprite for fusion generator
+-shrink sprite for exd battery
 <Effect>
--add sprite for overdrive conduit
+-shrink sprite for exd container
 <Turret>
 -add sprite for sector cracker
 
