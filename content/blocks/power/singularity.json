@@ -7,8 +7,19 @@
     "hasPower": true,
     "itemCapacity": 100000000,
     "health": 700,
-    "itemDuration": 36000,
+    "itemDuration": 360,
     "heating": 0,
+    "itemUseEffect": {
+        "type": "particleEffect",
+        "lifetime": 420,
+        "particles": 1,
+        "length": 0,
+        "baseLength": 0,
+        "sizefrom": 8,
+        "sizeTo": 4,
+        "colorFrom": "000000",
+        "colorTo": "000000"
+    },
     "requirements": [
         {"item": "copper", "amount": 2000},
         {"item": "metaglass", "amount": 1000},
