@@ -17,6 +17,7 @@ v0.9 "the speed of c":
 <Effect>
 -added overdrive conduit
 -added lightspeed unloader
+-added extra-dimentional container
 <Turret>
 -added sector cracker
 =Items=
