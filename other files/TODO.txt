@@ -9,8 +9,6 @@ v0.9 (the speed of c)
 =[Sprites]=
 <Power>
 -add sprite for black hole generator
-<Effect>
--shrink sprite for exd container
 <Turret>
 -add sprite for sector cracker
 
