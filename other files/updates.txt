@@ -12,7 +12,7 @@ v0.9 "the speed of c":
 -added lightspeed conduit
 <Power>
 -added black hole generator
--added fusion generator
+-added fusion reactor
 -added extra-dimentional battery
 <Effect>
 -added overdrive conduit
