@@ -3,9 +3,7 @@ I might get all this done....
 v0.9 (the speed of c)
 =[Sprites]=
 <Turret>
--add sprite for sector cracker
-<Drill>
--add sprite for vaporizer drill 
+-add sprite for sector cracker 
 
 v0.10 (units)
 =Units=
