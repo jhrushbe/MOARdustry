@@ -7,8 +7,8 @@
     "itemCapacity": 100,
     "health": 700,
     "itemDuration": 30,
-    "plasma1": "ffffff",
-    "plasma2": "ffffff",
+    "plasma1": "000000",
+    "plasma2": "6b4474",
     "requirements": [
         {"item": "copper", "amount": 2000},
         {"item": "metaglass", "amount": 1000},
