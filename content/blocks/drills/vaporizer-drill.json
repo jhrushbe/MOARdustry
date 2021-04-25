@@ -16,7 +16,7 @@
   "rotateSpeed": 8,
   "warmupSpeed": 0.003,
   "liquidBoostIntensity": 2,
-  "updateEffect": "pulverizeRed", //consider changing to custom
+  "updateEffect": "pulverizeRed",
   "updateEffectChance": 0.03,
   "drillEffect": "mineHuge",
   "consumes": {
