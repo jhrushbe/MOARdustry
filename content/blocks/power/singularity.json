@@ -21,7 +21,7 @@
                 {"item": "copper", "amount": 10}
             ]
         },
-        "liquid": {"liquid": "cryofluid", "amount": 1}
+        "liquid": {"liquid": "cryofluid", "amount": 0.1}
     },
     "research": "thorium-reactor",
     "category": "power",
