@@ -14,13 +14,13 @@
   ],
   "shootCone": 360,
   "recoilAmount": 0,
-  "range": 80000,
+  "range": 40000,
   "reloadTime": 1,
   "shootDuration": 36000,
   "powerUse": 1000,
   "shootSound": "explosionBig",
   "loopSound": "pulse",
-  "shootLength": 0,
+  "shootLength": -40000,
   "chargeTime": 180, //change to 108000 later
   "chargeMaxDelay": 0,
   "chargeEffects": 1,
@@ -34,7 +34,7 @@
         "sizeFrom": 800,
         "sizeTo": 0,
         "rotation": 0,
-        "sides": 6,
+        "sides": 4,
         "colorFrom": "f3e979",
         "colorTo": "f58859",
         "strokeFrom": 1,
@@ -43,27 +43,14 @@
       {
         "type": "waveEffect",
         "lifetime": 180, //change to 108000 later
-        "sizeFrom": 80,
-        "sizeTo": 80,
-        "rotation": 0,
-        "sides": 6,
-        "colorFrom": "ffffff",
-        "colorTo": "ffffff",
-        "strokeFrom": 3,
-        "strokeTo": 3,
-      }
-      {
-        "type": "waveEffect",
-        "lifetime": 180, //change to 108000 later
-        "sizeFrom": 40,
-        "sizeTo": 40,
+        "sizeFrom": 800,
+        "sizeTo": 0,
         "rotation": 45,
         "sides": 4,
-        "colorFrom": "ffffff",
-        "colorTo": "ffffff",
-        "strokeFrom": 3,
-        "strokeTo": 3,
-        "region": "mindustry-shape-3"
+        "colorFrom": "f3e979",
+        "colorTo": "f58859",
+        "strokeFrom": 1,
+        "strokeTo": 4,
       }
     ]
   },
@@ -71,7 +58,7 @@
     "type": "ContinuousLaserBulletType",
     "length": 80000,
     "drawSize": 0,
-    "width": 0,
+    "width": 6,
     "damage": 10000,
     "incendChance": 0,
     "hitEffect": {
