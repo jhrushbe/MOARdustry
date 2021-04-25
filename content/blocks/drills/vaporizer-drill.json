@@ -9,7 +9,7 @@
     {"item": "silicon", "amount": 200},
     {"item": "thorium", "amount": 100}
   ],
-  "teir": 5,
+  "tier": 5,
   "drillTime": 20,
   "drawRim": true,
   "hasPower": true,
@@ -18,17 +18,7 @@
   "liquidBoostIntensity": 1,
   "updateEffect": "pulverizeRed", //consider changing to custom
   "updateEffectChance": 0.03,
-  "drillEffect": {
-    "type": "particleEffect",
-    "particles": 1,
-    "lifetime": 60,
-    "length": 0,
-    "baselength": 0,
-    "sizeFrom": 8,
-    "sizeTo": 6,
-    "colorFrom": "ff4040", //consider changing color
-    "colorTo": "ff4040",
-  },
+  "drillEffect": "mineHuge",
   "consumes": {
     "power": 10,
     "liquid": {
