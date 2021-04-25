@@ -15,7 +15,7 @@
   "hasPower": true,
   "rotateSpeed": 8,
   "warmupSpeed": 0.003,
-  "liquidBoostIntensity": 1,
+  "liquidBoostIntensity": 2,
   "updateEffect": "pulverizeRed", //consider changing to custom
   "updateEffectChance": 0.03,
   "drillEffect": "mineHuge",
