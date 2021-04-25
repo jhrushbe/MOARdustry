@@ -1,16 +1,11 @@
-I am never going to get all this done....
+I might get all this done....
 
 v0.9 (the speed of c)
-=Blocks=
-<Turret>
--add the_cube (all bullet types, "pulse" sound)
-<Drill>
--add vaporizer drill 
 =[Sprites]=
-<Power>
--add sprite for black hole generator
 <Turret>
 -add sprite for sector cracker
+<Drill>
+-add sprite for vaporizer drill 
 
 v0.10 (units)
 =Units=
