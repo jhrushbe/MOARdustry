@@ -20,7 +20,7 @@
   "powerUse": 1000,
   "shootSound": "explosionBig",
   "loopSound": "pulse",
-  "shootLength": -40000,
+  "shootLength": 0,
   "chargeTime": 180, //change to 108000 later
   "chargeMaxDelay": 0,
   "chargeEffects": 1,
@@ -43,6 +43,30 @@
       {
         "type": "waveEffect",
         "lifetime": 180, //change to 108000 later
+        "sizeFrom": 800,
+        "sizeTo": 0,
+        "rotation": 45,
+        "sides": 4,
+        "colorFrom": "f3e979",
+        "colorTo": "f58859",
+        "strokeFrom": 1,
+        "strokeTo": 4,
+      }
+      {
+        "type": "waveEffect",
+        "lifetime": 90, //change to 54000 later
+        "sizeFrom": 800,
+        "sizeTo": 0,
+        "rotation": 0,
+        "sides": 4,
+        "colorFrom": "f3e979",
+        "colorTo": "f58859",
+        "strokeFrom": 1,
+        "strokeTo": 4,
+      }
+      {
+        "type": "waveEffect",
+        "lifetime": 90, //change to 54000 later
         "sizeFrom": 800,
         "sizeTo": 0,
         "rotation": 45,
