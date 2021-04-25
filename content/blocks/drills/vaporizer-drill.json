@@ -20,7 +20,7 @@
   "updateEffectChance": 0.03,
   "drillEffect": "mineHuge",
   "consumes": {
-    "power": 10,
+    "power": 20,
     "liquid": {
       "liquid": "water", 
       "amount": 0.2, 
