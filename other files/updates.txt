@@ -16,10 +16,11 @@ v0.9 "the speed of c":
 -added extra-dimentional battery
 <Effect>
 -added overdrive conduit
--added lightspeed unloader
 -added extra-dimentional container
 <Turret>
 -added sector cracker
+<Drill>
+-added vaporizer
 =Items=
 -added alloy of light
 
