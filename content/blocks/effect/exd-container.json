@@ -3,7 +3,7 @@
   "name": "Extra Dimensional Item Storage Device",
   "description": "Non-Euclidean",
   "size": 4,
-  "itemCapacity": 1000000,
+  "itemCapacity": 20000,
   "requirements": [
     {"item": "aol", "amount": 20}
   ],
