@@ -1,0 +1,28 @@
+{
+    "type": "impactReactor",
+    "name": "Black Hole Generator",
+    "description": "Uses copper to make a singularity, then uses that singularity to make power. \n[red]Note: requires ridiculously large amounts of copper.",
+    "size": 3,
+    "powerProduction": 220,
+    "itemCapacity": 100,
+    "health": 700,
+    "itemDuration": 30,
+    "plasma1": "000000",
+    "plasma2": "6b4474",
+    "requirements": [
+        {"item": "copper", "amount": 2000},
+        {"item": "metaglass", "amount": 1000},
+        {"item": "silicon", "amount": 500}
+    ],
+    "consumes": {
+        "power": 20,
+        "items": {
+            "items": [
+                {"item": "copper", "amount": 10}
+            ]
+        },
+        "liquid": {"liquid": "cryofluid", "amount": 0.1}
+    },
+    "research": "thorium-reactor",
+    "category": "power",
+}

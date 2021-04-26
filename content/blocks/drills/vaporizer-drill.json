@@ -1,0 +1,33 @@
+{
+  "type": "Drill",
+  "name": "Vaporizer",
+  "description": "Harvests the ore by vaporizing any impurities around it.",
+  "size": 5,
+  "requirements": [
+    {"item": "aol", "amount": 50},
+    {"item": "surge-alloy", "amount": 100},
+    {"item": "silicon", "amount": 200},
+    {"item": "thorium", "amount": 100}
+  ],
+  "tier": 5,
+  "drillTime": 20,
+  "drawRim": true,
+  "hasPower": true,
+  "rotateSpeed": 8,
+  "warmupSpeed": 0.003,
+  "liquidBoostIntensity": 2,
+  "updateEffect": "pulverizeRed",
+  "updateEffectChance": 0.03,
+  "drillEffect": "mineHuge",
+  "consumes": {
+    "power": 20,
+    "liquid": {
+      "liquid": "water", 
+      "amount": 0.2, 
+      "booster": true, 
+      "optional": true
+    }
+  },
+  "research": "pressure-drill", 
+  "category": "production",
+} 

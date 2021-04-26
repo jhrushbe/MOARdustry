@@ -1,0 +1,122 @@
+{
+  "type": "LaserTurret",
+  "name": "Sector Cracker",
+  "description": "Nothing like a sector-wide laser sweep to end everything. \n[red]Note: Takes 30 minutes to fire.",
+  "size": 10,
+  "health": 100000,
+  "requirements": [
+    {"item": "aol", "amount": 1000},
+    {"item": "surge-alloy", "amount": 10000},
+    {"item": "titanium", "amount": 10000},
+    {"item": "copper", "amount": 10000},
+    {"item": "silicon", "amount": 10000},
+    {"item": "metaglass", "amount": 10000}
+  ],
+  "shootCone": 1,
+  "shots": 2,
+  "spread": 180,
+  "recoilAmount": 0,
+  "range": 40000,
+  "reloadTime": 1,
+  "shootDuration": 36000,
+  "powerUse": 1000,
+  "rotateSpeed": 0.05,
+  "shootSound": "explosionBig",
+  "loopSound": "pulse",
+  "shootLength": 0,
+  "chargeTime": 108000, 
+  "chargeMaxDelay": 0,
+  "chargeEffects": 1,
+  "chargeSound": "none",
+  "chargeEffect": {
+    "type": "MultiEffect",
+    "effects": [
+      {
+        "type": "waveEffect",
+        "lifetime": 108000, 
+        "sizeFrom": 800,
+        "sizeTo": 0,
+        "rotation": 0,
+        "sides": 4,
+        "colorFrom": "f3e979",
+        "colorTo": "f58859",
+        "strokeFrom": 1,
+        "strokeTo": 4,
+      }
+      {
+        "type": "waveEffect",
+        "lifetime": 108000, 
+        "sizeFrom": 800,
+        "sizeTo": 0,
+        "rotation": 45,
+        "sides": 4,
+        "colorFrom": "f3e979",
+        "colorTo": "f58859",
+        "strokeFrom": 1,
+        "strokeTo": 4,
+      }
+      {
+        "type": "waveEffect",
+        "lifetime": 54000, 
+        "sizeFrom": 800,
+        "sizeTo": 0,
+        "rotation": 0,
+        "sides": 4,
+        "colorFrom": "f3e979",
+        "colorTo": "f58859",
+        "strokeFrom": 1,
+        "strokeTo": 4,
+      }
+      {
+        "type": "waveEffect",
+        "lifetime": 54000, 
+        "sizeFrom": 800,
+        "sizeTo": 0,
+        "rotation": 45,
+        "sides": 4,
+        "colorFrom": "f3e979",
+        "colorTo": "f58859",
+        "strokeFrom": 1,
+        "strokeTo": 4,
+      }
+    ]
+  },
+  "shootType": {
+    "type": "ContinuousLaserBulletType",
+    "length": 80000,
+    "drawSize": 0,
+    "width": 6,
+    "damage": 10000,
+    "incendChance": 0,
+    "hitEffect": {
+      "type": "MultiEffect",
+      "effects": [
+        {
+          "type": "waveEffect",
+          "sizeFrom": 0,
+          "sizeTo": 80,
+          "lifetime": 15,
+          "sides": 4,
+          "colorFrom": "ffffff",
+          "colorTo": "ffffff",
+          "strokeFrom": 3,
+          "strokeTo": 0,
+        }
+        {
+          "type": "waveEffect",
+          "sizeFrom": 80,
+          "sizeTo": 0,
+          "lifetime": 15,
+          "rotation": 45,
+          "sides": 4,
+          "colorFrom": "ffffff",
+          "colorTo": "ffffff",
+          "strokeFrom": 3,
+          "strokeTo": 0,
+        }
+      ]
+    }
+  },
+  "category": "turret",
+  "research": "bfg",
+}

@@ -1,0 +1,12 @@
+{
+  "type": "battery",
+  "name": "Extra Dimensional Power Storage Device",
+  "description": "Non-Euclidean",
+  "size": 4,
+  "consumes": {"powerBuffered": 1000000},
+  "requirements": [
+    {"item": "aol", "amount": 20}
+  ],
+  "research": "battery-large",
+  "category": "power",
+}

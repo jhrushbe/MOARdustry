@@ -1,5 +1,29 @@
 Update log:
 
+v0.9 "the speed of c":
+=Blocks=
+<Turret>
+-added sector cracker
+<Drill>
+-added vaporizer
+<Distribution>
+-added lightspeed conveyor
+-added lightspeed router
+<liquid>
+-added lightspeed conduit
+<Power>
+-added black hole generator
+-added fusion reactor
+-added extra-dimentional battery
+<Crafting>
+-added fabricator
+-added antimatter catalyzer
+<Effect>
+-added overdrive conduit
+-added extra-dimentional container
+=Items=
+-added alloy of light
+
 v0.8.1 "polish":
 -fixed item research
 -minor adjustments

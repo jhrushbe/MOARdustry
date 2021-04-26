@@ -1,0 +1,50 @@
+{
+  "type": "GenericCrafter",
+  "name": "Fabricator",
+  "description": "Creates Alloy of Light by infusing materials with energy.",
+  "size": 4,
+  "health": -1,
+  "hasPower": true,
+  "hasItems": true,
+  "craftTime": 7200,
+  "craftEffect": {
+    "type": "particleEffect",
+    "lifetime": 60,
+    "particles": 1,
+    "length": 0,
+    "sizeFrom": 0,
+    "sizeTo": 24,
+    "colorFrom": "8aa3f4",
+    "colorTo": "8aa3f400",
+  },
+  "updateEffect": {
+    "type": "particleEffect",
+    "lifetime": 20,
+    "particles": 1,
+    "length": 0,
+    "sizeFrom": 4,
+    "sizeTo": 0,
+    "colorFrom": "8aa3f4",
+    "colorTo": "ffffff",
+  },
+  "drawer": "DrawWeave",
+  "requirements": [
+    {"item": "surge-alloy", "amount": 600},
+    {"item": "silicon", "amount": 1000},
+    {"item": "thorium", "amount": 1500},
+    {"item": "plastanium", "amount": 700}
+  ],
+  "consumes": {
+    "power": 50,
+    "items": {
+      "items": [
+        {"item": "surge-alloy", "amount": 5},
+        {"item": "phase-fabric", "amount": 4},
+        {"item": "plastic", "amount": 3}
+      ]
+    }
+  },
+  "outputItem": {"item": "aol", "amount": 2},
+  "category": "crafting",
+  "research": "ricf",
+}

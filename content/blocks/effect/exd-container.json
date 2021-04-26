@@ -1,0 +1,12 @@
+{
+  "type": "storageBlock",
+  "name": "Extra Dimensional Item Storage Device",
+  "description": "Non-Euclidean",
+  "size": 4,
+  "itemCapacity": 20000,
+  "requirements": [
+    {"item": "aol", "amount": 20}
+  ],
+  "research": "vault",
+  "category": "effect",
+}

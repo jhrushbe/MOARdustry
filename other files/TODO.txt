@@ -1,26 +1,4 @@
-I am never going to get all this done....
-
-v0.9 (the speed of c)
-=Blocks=
-<Crafting>
--add alloy of light crafter (5 surge, 4 phase, 3 plastic > 2 AOL in 2 min)
--add antimatter reactor (100 fuel cell, 50 AOL > 1 antimatter in 10 min)
-<Distribution>
--add lightspeed conveyor (speedy, 0.1 power per conveyor)
--add lightspeed conduit (^)
--add fast unloader
--add fast router
-<Power>
--add black hole generator (a.k.a. copper void)
--add fusion generator (consumes aol and large amounts of water to make large amounts of power)
--add extra-dimentional battery (2147483647 capacity)
-<Effect>
--add extra-dimentional container (2147483647 storage)
--add overdrive conduit (x5 speed, but huge power draw and smol range)
-<Turret>
--add the_cube (all bullet types, "pulse" sound)
-=Items=
--add alloy of light
+I might get all this done....
 
 v0.10 (units)
 =Units=
@@ -36,12 +14,13 @@ v0.10 (units)
   -stronghold (fortress) (artilliary hell)
   -verge (scepter) (basicly a pair of long range fuses)
   -dominator (reign) (a mac for a main weapon(stationary), two railgun supports)
+-add lance unit (suicide, "warps" at enemy, fuse-like attack)
 =Blocks=
 -add mega unit storage core (120 should do)
--add clinic (effect: overheal)
 -add speedy upgraders (faster alt to T3, T4, & T5 upgraders, use plastic as crafting material)
 -add assemblers (instant upgrades, use components) ("Eclipses? Reigns? Omuras? Its your's, my friend, so long as you have enough components.")
 -add component assemblers (makes components) (Sorry, [redacted], I cant give components. Come back when your a little, mmmm, richer!)
+-add unit spawner
 =Effects=
 -overheal (healthMultiplier: 2, damage: -100(heals)) (custom visual, look at https://github.com/K103908/Exotic-Mod/blob/master/content/units/ground-support/wildfire.hjson)
 =Items=
@@ -63,6 +42,4 @@ v1.0 (official release)
   -plastic refinery: different style of sprite
   -plastic converter: change color scheme to alloy smelter
   -fluid buffer: new sprite
-  -overheal: a non recolored sprite
-  -irradiated: cut off circle
 -sounds (aw, man)
