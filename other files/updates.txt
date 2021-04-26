@@ -21,8 +21,6 @@ v0.9 "the speed of c":
 <Effect>
 -added overdrive conduit
 -added extra-dimentional container
-
-
 =Items=
 -added alloy of light
 
