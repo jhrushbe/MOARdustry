@@ -2,9 +2,10 @@ Update log:
 
 v0.9 "the speed of c":
 =Blocks=
-<Crafting>
--added fabricator
--added antimatter catalyzer
+<Turret>
+-added sector cracker
+<Drill>
+-added vaporizer
 <Distribution>
 -added lightspeed conveyor
 -added lightspeed router
@@ -14,13 +15,14 @@ v0.9 "the speed of c":
 -added black hole generator
 -added fusion reactor
 -added extra-dimentional battery
+<Crafting>
+-added fabricator
+-added antimatter catalyzer
 <Effect>
 -added overdrive conduit
 -added extra-dimentional container
-<Turret>
--added sector cracker
-<Drill>
--added vaporizer
+
+
 =Items=
 -added alloy of light
 
