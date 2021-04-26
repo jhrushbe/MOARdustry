@@ -24,7 +24,7 @@
   "shootSound": "explosionBig",
   "loopSound": "pulse",
   "shootLength": 0,
-  "chargeTime": 180, //change to 108000 later
+  "chargeTime": 108000, //change to 108000 later
   "chargeMaxDelay": 0,
   "chargeEffects": 1,
   "chargeSound": "none",
@@ -33,7 +33,7 @@
     "effects": [
       {
         "type": "waveEffect",
-        "lifetime": 180, //change to 108000 later
+        "lifetime": 108000, 
         "sizeFrom": 800,
         "sizeTo": 0,
         "rotation": 0,
@@ -45,7 +45,7 @@
       }
       {
         "type": "waveEffect",
-        "lifetime": 180, //change to 108000 later
+        "lifetime": 108000, 
         "sizeFrom": 800,
         "sizeTo": 0,
         "rotation": 45,
@@ -57,7 +57,7 @@
       }
       {
         "type": "waveEffect",
-        "lifetime": 90, //change to 54000 later
+        "lifetime": 54000, 
         "sizeFrom": 800,
         "sizeTo": 0,
         "rotation": 0,
@@ -69,7 +69,7 @@
       }
       {
         "type": "waveEffect",
-        "lifetime": 90, //change to 54000 later
+        "lifetime": 54000, 
         "sizeFrom": 800,
         "sizeTo": 0,
         "rotation": 45,
@@ -96,20 +96,23 @@
           "sizeFrom": 0,
           "sizeTo": 80,
           "lifetime": 15,
+          "sides": 4,
           "colorFrom": "ffffff",
           "colorTo": "ffffff",
           "strokeFrom": 3,
           "strokeTo": 0,
         }
         {
-          "type": "particleEffect",
-          "particles": 1,
-          "lifetime": 60,
-          "sizeFrom": 0,
-          "sizeTo": 24,
-          "length": 2,
-          "colorFrom": "c45f5f",
-          "colorTo": "51515100"
+          "type": "waveEffect",
+          "sizeFrom": 80,
+          "sizeTo": 0,
+          "lifetime": 15,
+          "rotation": 45,
+          "sides": 4,
+          "colorFrom": "ffffff",
+          "colorTo": "ffffff",
+          "strokeFrom": 3,
+          "strokeTo": 0,
         }
       ]
     }
