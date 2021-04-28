@@ -6,8 +6,8 @@ v0.10 (units)
   -crate (miner, 100 storage, little health, no defence, flying)
   -hauler (miner/healer bot, 500 storage, decent health, no defences, 1 mine ray, one heal ray, flying)
   -barge (mines titanium, 1.5k storage, decent health, no defences, cannot fly)
-  -carrier (mines all, 2.5k storage, lots of health, has some defence(a missile launcher, 2 duos, 1 point defence(if possible)), cannot fly)
-  -convoy (cant mine, 6k storage, all the health, sheild, has lots of defence(4 missile launchers, 4 arcs, 2 hails, 2 point defence), cannot fly)
+  -carrier (mines all, 2.5k storage, lots of health, has some defence(a missile launcher, 2 duos), cannot fly)
+  -convoy (cant mine, 6k storage, all the health, sheild, has lots of defence(4 missile launchers, 4 arcs, 2 hails), cannot fly)
 -add scimitar unit tree (better dagger tree)
   -scimitar (dagger) (moves quick, low health, a duo strapped to its side)
   -hammer (mace) ("punches"(negative recoil) things)
@@ -15,7 +15,9 @@ v0.10 (units)
   -verge (scepter) (basicly a pair of long range fuses)
   -dominator (reign) (a mac for a main weapon(stationary), two railgun supports)
 -add lance unit (suicide, "warps" at enemy, fuse-like attack)
+-add orbital platform (cannot turn, continuous laser that kills only whats below it, flying, medium speed, decent health, "star" sprite)
 =Blocks=
+-add lubricated drill (uses hor to mine faster)
 -add mega unit storage core (120 should do)
 -add speedy upgraders (faster alt to T3, T4, & T5 upgraders, use plastic as crafting material)
 -add assemblers (instant upgrades, use components) ("Eclipses? Reigns? Omuras? Its your's, my friend, so long as you have enough components.")
@@ -24,10 +26,7 @@ v0.10 (units)
 =Effects=
 -overheal (healthMultiplier: 2, damage: -100(heals)) (custom visual, look at https://github.com/K103908/Exotic-Mod/blob/master/content/units/ground-support/wildfire.hjson)
 =Items=
--T2 component
--T3 component
--T4 component
--T5 component
+-components
 
 v1.0 (official release)
 =Blocks=
