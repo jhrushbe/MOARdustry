@@ -27,6 +27,8 @@ v0.10 (units)
 -overheal (healthMultiplier: 2, damage: -100(heals)) (custom visual, look at https://github.com/K103908/Exotic-Mod/blob/master/content/units/ground-support/wildfire.hjson)
 =Items=
 -components
+=Vainaty=
+-M
 
 v1.0 (official release)
 =Blocks=
