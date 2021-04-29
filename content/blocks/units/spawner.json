@@ -2,7 +2,7 @@
   "type": "UnitFactory",
   "name": "Spawner",
   "description": "Spanws any vanilla or MOARdustry unit in an instant.",
-  "size": 1,
+  "size": 3,
   "consumes": {"power": 1000},
   "requirements": [
     {"item": "components", "amount": 10}
