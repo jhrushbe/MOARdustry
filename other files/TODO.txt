@@ -4,17 +4,18 @@ v0.10 (units)
 =Units=
 -add crate unit tree:
   -crate (miner, 100 storage, little health, no defence, flying)
-  -hauler (miner/healer bot, 500 storage, decent health, no defences, 1 mine ray, one heal ray, flying)
+  -friggate (miner/healer bot, 500 storage, decent health, no defences, 1 mine ray, overheal status effect, flying)
   -barge (mines titanium, 1.5k storage, decent health, no defences, cannot fly)
   -carrier (mines all, 2.5k storage, lots of health, has some defence(a missile launcher, 2 duos), cannot fly)
   -convoy (cant mine, 6k storage, all the health, sheild, has lots of defence(4 missile launchers, 4 arcs, 2 hails), cannot fly)
 -add scimitar unit tree (better dagger tree)
   -scimitar (dagger) (moves quick, low health, a duo strapped to its side)
   -hammer (mace) ("punches"(negative recoil) things)
-  -stronghold (fortress) (artilliary hell)
+  -stronghold (fortress) (2 hails, 1 ripple (stationary))
   -verge (scepter) (basicly a pair of long range fuses)
   -dominator (reign) (a mac for a main weapon(stationary), two railgun supports)
--add lance unit (suicide, "warps" at enemy, fuse-like attack)
+  -warmonger (t6) (reign guns, corvus laser, omura guns, toxopiod bomb yeeter)
+-add lance unit (suicide, "warps" at enemy, long fuse-like attack)
 -add orbital platform (cannot turn, continuous laser that kills only whats below it, flying, medium speed, decent health, "star" sprite)
 =Blocks=
 -add lubricated drill (uses hor to mine faster)
@@ -22,13 +23,11 @@ v0.10 (units)
 -add speedy upgraders (faster alt to T3, T4, & T5 upgraders, use plastic as crafting material)
 -add assemblers (instant upgrades, use components) ("Eclipses? Reigns? Omuras? Its your's, my friend, so long as you have enough components.")
 -add component assemblers (makes components) (Sorry, [redacted], I cant give components. Come back when your a little, mmmm, richer!)
--add unit spawner
 =Effects=
 -overheal (healthMultiplier: 2, damage: -100(heals)) (custom visual, look at https://github.com/K103908/Exotic-Mod/blob/master/content/units/ground-support/wildfire.hjson)
-=Items=
--components
-=Vainaty=
--M
+=Sprites=
+-sprite components
+-resprite spawners
 
 v1.0 (official release)
 =Blocks=
