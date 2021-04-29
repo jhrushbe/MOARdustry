@@ -1,5 +1,12 @@
 Update log:
 
+v0.10 "units":
+=Blocks=
+<Units>
+-added spawner
+=Items=
+-added componenents
+
 v0.9 "the speed of c":
 =Blocks=
 <Turret>
