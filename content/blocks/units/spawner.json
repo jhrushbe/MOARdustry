@@ -1,0 +1,50 @@
+{
+  "type": "UnitFactory",
+  "name": "Spawner",
+  "description": "Spanws any vanilla and MOARdustry unit in an instant",
+  "size": 1,
+  "consumes": {"power": 1000},
+  "plans": [
+    //vanilla units
+    //region ground attack
+    {"unit": "dagger", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "mace", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "fortress", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "scepter", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "reign", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    //region ground support
+    {"unit": "nova", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "pulsar", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "quasar", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "vela", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "corvus", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    //region ground legs
+    {"unit": "crawler", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "atrax", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "spiroct", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "arkyid", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "toxopid", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    //region air attack
+    {"unit": "flare", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "horizon", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "zenith", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "antumbra", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "eclipse", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    //region air support
+    {"unit": "mono", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "poly", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "mega", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "quad", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "oct", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    //region naval attack
+    {"unit": "risso", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "minke", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "bryde", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "sei", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "omura", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    //region core
+    {"unit": "alpha", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "beta", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+    {"unit": "gamma", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
+  ]
+}
