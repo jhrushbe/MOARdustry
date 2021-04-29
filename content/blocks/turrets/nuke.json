@@ -1,7 +1,7 @@
 {
   "type": "powerTurret",
   "name": "Nuke",
-  "description": "One time use, connect to power to launch. [red]Warning: the nuclear blast does not care about teams.",
+  "description": "One time use, connect to power to launch.",
   "size": 2,
   "health": 100,
   "requirements": [
@@ -49,8 +49,6 @@
     "trailColor": "454545",
     "trailEffect": "rocketSmoke",
     "ammoMultiplier": 1,
-    "collidesTeam": true,
-    "healPercent": -100,
   },
   "research": "spectre",
   "category": "turret",
