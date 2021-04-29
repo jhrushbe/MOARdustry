@@ -6,6 +6,8 @@ v0.10 "units":
 -added spawner
 =Items=
 -added componenents
+=Vainity=
+-M
 
 v0.9 "the speed of c":
 =Blocks=
