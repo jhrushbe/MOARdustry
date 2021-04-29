@@ -1,4 +1,5 @@
-description: Unit componets. Used to build units.
+name: Components
+description: Unit components. Used to build units.
 color: 4a4b53
 explosiveness: 0
 flammability: 0
