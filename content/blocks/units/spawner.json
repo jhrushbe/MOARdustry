@@ -48,7 +48,7 @@
     //region core
     {"unit": "alpha", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
     {"unit": "beta", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
-    {"unit": "gamma", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]},
-  ]
-  "category": "unit",
+    {"unit": "gamma", "time": 1, "requirements": [{"item": "silicon", "amount": 20}]}
+  ],
+  "category": "units",
 }
