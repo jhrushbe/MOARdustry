@@ -1,0 +1,27 @@
+{
+  "type": "mech",
+  "name": "Scimitar",
+  "description": "Small, and agile, but with little health or attack strength.",
+  "health": 100,
+  "hitSize": 8,
+  "speed": 0.75,
+  "weapons": [
+    {
+      "name": "scimitar-weapon",
+      "reload": 14,
+      "x": 4,
+      "y": 2,
+      "ejectEffect": "casing1",
+      "bullet": {
+        "type": "basicBulletType",
+        "width": 7,
+        "height": 9,
+        "lifetime": 60,
+        "shootEffect": "shootSmall",
+        "smokeEffect": "shootSmallSmoke",
+        "damage": 8
+      }
+    }
+  ],
+  "research": "dagger",
+}
