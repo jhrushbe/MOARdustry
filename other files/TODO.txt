@@ -29,6 +29,7 @@ v0.10 (units)
 -sprite components
 -resprite spawners
 -sprite e-body
+-sprite scimitar
 
 v1.0 (official release)
 =Blocks=
