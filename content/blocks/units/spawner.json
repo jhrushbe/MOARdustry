@@ -48,7 +48,10 @@
     //region core
     {"unit": "alpha", "time": 1, "requirements": [{"item": "silicon", "amount": 1}]},
     {"unit": "beta", "time": 1, "requirements": [{"item": "silicon", "amount": 1}]},
-    {"unit": "gamma", "time": 1, "requirements": [{"item": "silicon", "amount": 1}]}
+    {"unit": "gamma", "time": 1, "requirements": [{"item": "silicon", "amount": 1}]},
+    //MOARdustry units
+    //region experamental
+    {"unit": "e-body", "time": 1, "requirements": [{"item": "silicon", "amount": 1}]},
   ],
   "category": "units",
 }
