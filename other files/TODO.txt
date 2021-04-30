@@ -15,19 +15,23 @@ v0.10 (units)
   -verge (scepter) (basicly a pair of long range fuses)
   -dominator (reign) (a mac for a main weapon(stationary), two railgun supports)
   -warmonger (t6) (reign guns, corvus laser, omura guns, toxopiod bomb yeeter)
--add lance unit (suicide, "warps" at enemy, long fuse-like attack)
--add orbital platform (cannot turn, continuous laser that kills only whats below it, flying, medium speed, decent health, "star" sprite)
+-add lancer cruise missile unit (lcmu) (suicide, "warps" at enemy, lancer attack)
+-add orbital platform (cannot turn, continuous laser that kills only whats below it, flying, medium speed, decent health, "star" sprite, engine in middle)
+-add battle cruiser (6 lcmu spawners, 6 trio-like weapons, 1 railgun, 1 corvus-like laser)
 =Blocks=
 -add lubricated drill (uses hor to mine faster)
--add mega unit storage core (120 should do)
+-add mega unit storage core (50 should do)
 -add speedy upgraders (faster alt to T3, T4, & T5 upgraders, use plastic as crafting material)
 -add assemblers (instant upgrades, use components) ("Eclipses? Reigns? Omuras? Its your's, my friend, so long as you have enough components.")
 -add component assemblers (makes components) (Sorry, [redacted], I cant give components. Come back when your a little, mmmm, richer!)
+-add lmcu launcher
+-add compulsor (compulsion, "posses" effect)
 =Effects=
 -overheal (healthMultiplier: 2, damage: -100(heals)) (custom visual, look at https://github.com/K103908/Exotic-Mod/blob/master/content/units/ground-support/wildfire.hjson)
+-compusion (damageMultiplier: -1, speedMultiplier: -1, damage: 10, no effect)
 =Sprites=
 -sprite components
--resprite spawners
+-resprite spawner
 -sprite e-body
 -sprite scimitar
 
