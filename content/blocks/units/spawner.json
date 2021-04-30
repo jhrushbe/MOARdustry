@@ -52,6 +52,8 @@
     //MOARdustry units
     //region experamental
     {"unit": "e-body", "time": 1, "requirements": [{"item": "silicon", "amount": 1}]},
+    //region ground attack
+    {"unit": "scimitar", "time": 1, "requirements": [{"item": "silicon", "amount": 1}]},
   ],
   "category": "units",
 }
