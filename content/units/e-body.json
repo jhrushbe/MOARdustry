@@ -4,7 +4,7 @@
   "description": "The pinacle of testing and experimentation. Theres a logo on the side saying 'Aperture Science'.",
   "health": 100,
   "hitSize": 12,
-  "speed": 12,
+  "speed": 5,
   "rotateSpeed": 60,
   "baseRotateSpeed": 60,
   "flying": true,
@@ -32,8 +32,50 @@
         "width": 9,
         "height": 9,
         "shootEffect": "none",
-        "hitEffect": "lightning",
-        "despawnEffect": "lightning",
+        "hitEffect": "hitLancer",
+        "despawnEffect": "hitLancer",
+      }
+    }
+    {
+      "name": "e-body-limbl",
+      "x": 10,
+      "y": 0,
+      "rotate": true,
+      "rotateSpeed": 1,
+      "reload": 120,
+      "recoil": 5,
+      "shootY": 0,
+      "shots": 3,
+      "spread": 20,
+      "mirror": false,
+      "bullet": {
+        "type": "ShrapnelBulletType",
+        "damage": 200,
+        "length": 80,
+        "width": 17,
+      }
+    }
+    {
+      "name": "e-body-limbr",
+      "x": -10,
+      "y": 0,
+      "rotate": true,
+      "rotateSpeed": 1,
+      "reload": 60,
+      "recoil": 5,
+      "shootY": 0,
+      "shots": 4,
+      "inaccuracy": 12,
+      "mirror": false,
+      "bullet": {
+        "lifetime": 80,
+        "splashDamage": 33,
+        "splashDamageRadius": 18.75,
+        "knockback": 0.8,
+        "collidesTiles": false,
+        "width": 11,
+        "height": 11,
+        "hitEffect": "flakExplosion",
       }
     }
   ]
