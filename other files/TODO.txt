@@ -28,6 +28,7 @@ v0.10 (units)
 =Sprites=
 -sprite components
 -resprite spawners
+-sprite e-body
 
 v1.0 (official release)
 =Blocks=
