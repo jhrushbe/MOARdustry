@@ -1,0 +1,40 @@
+{
+  "type": "flying",
+  "name": "E-Body",
+  "description": "The pinacle of testing and experimentation. Theres a logo on the side saying 'Aperture Science'.",
+  "health": 100,
+  "hitSize": 12,
+  "speed": 12,
+  "rotateSpeed": 60,
+  "baseRotateSpeed": 60,
+  "flying": true,
+  "drag": 0.01,
+  "accel": 0.05,
+  "engineOffset": 0,
+  "engineSize": 12,
+  "range": 80,
+  "rotateShooting": false,
+  "weapons": [
+    {
+      "name": "e-body-orb",
+      "x": 0,
+      "y": 0,
+      "rotate": true,
+      "rotateSpeed": 360,
+      "reload": 60,
+      "recoil": 0,
+      "shootY": 0,
+      "bullet": {
+        "type": "basicBulletType", 
+        "damage": 100,
+        "lifetime": 80,
+        "speed": 1,
+        "width": 9,
+        "height": 9,
+        "shootEffect": "none",
+        "hitEffect": "lightning",
+        "despawnEffect": "lightning",
+      }
+    }
+  ]
+}
