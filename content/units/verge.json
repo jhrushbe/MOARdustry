@@ -27,7 +27,7 @@
         "type": "ShrapnelBulletType",
         "width": 17,
         "length": 100,
-        "damage": 80
+        "damage": 100
       }
     }
   ],
