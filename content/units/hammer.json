@@ -7,23 +7,24 @@
   "hitSize": 9,
   "speed": 0.4,
   "armor": 6,
-  "range": 4,
+  "range": 8,
   "weapons": [
     {
       "name": "hammer-weapon",
       "reload": 14,
       "ejectEffect": "none",
-      "recoil": -4,
+      "recoil": -8,
       "bullet": {
         "type": "basicBulletType",
         "width": 0,
         "height": 0,
         "lifetime": 1,
-        "speed": 4,
+        "speed": 8,
         "shootEffect": "none",
         "smokeEffect": "none",
+        "despawnEffect": "none",
         "hitEffect": "smeltsmoke",
-        "damage": 12
+        "damage": 24
       }
     }
   ],
