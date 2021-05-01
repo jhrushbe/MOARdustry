@@ -1,0 +1,31 @@
+
+{
+  "type": "mech",
+  "name": "Hammer",
+  "description": "What better way to damage things than to run up to them and punch them?",
+  "health": 500,
+  "hitSize": 9,
+  "speed": 0.4,
+  "armor": 6,
+  "range": 4,
+  "weapons": [
+    {
+      "name": "hammer-weapon",
+      "reload": 14,
+      "ejectEffect": "none",
+      "recoil": -4,
+      "bullet": {
+        "type": "basicBulletType",
+        "width": 0,
+        "height": 0,
+        "lifetime": 1,
+        "speed": 4,
+        "shootEffect": "none",
+        "smokeEffect": "none",
+        "hitEffect": "smeltsmoke",
+        "damage": 12
+      }
+    }
+  ],
+  "research": "mace",
+}
