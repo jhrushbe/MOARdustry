@@ -8,6 +8,8 @@ v0.10 "units":
 -added componenents
 =Vainity=
 -M
+=Map=
+-added Plantary Launch Terminal to freeplay
 
 v0.9 "the speed of c":
 =Blocks=
