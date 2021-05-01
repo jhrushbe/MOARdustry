@@ -6,10 +6,15 @@ v0.10 "units":
 -added spawner
 =Items=
 -added componenents
+=Units=
+-added scimitar
+-added hammer
 =Vainity=
 -M
 =Map=
 -added Plantary Launch Terminal to freeplay
+=Sprites=
+-resprie of extra-dimentional container
 
 v0.9 "the speed of c":
 =Blocks=
