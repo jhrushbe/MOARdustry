@@ -22,19 +22,25 @@
       "reload": 0,
       "mirror": false,
       "shootSound": "laser",
-      "killShooter": true,
       "bullet": {
-        "type": "LaserBulletType",
-        "drawSize": 400,
-        "length": 173,
-        "lifetime": 16,
-        "hitSize": 4,
-        "shootEffect": "lancerLaserShoot",
-        "smokeEffect": "none",
-        "hitEffect": "hitLancer",
-        "despawnEffect": "none",
-        "damage": 140,
+        "type": "basicBulletType",
+        "lifetime": 0,
         "killShooter": true,
+        "width": 0,
+        "hight": 0,
+        "fragBullets": 1,
+        "fragBullet": {
+          "type": "LaserBulletType",
+          "drawSize": 400,
+          "length": 173,
+          "lifetime": 16,
+          "hitSize": 4,
+          "shootEffect": "lancerLaserShoot",
+          "smokeEffect": "none",
+          "hitEffect": "hitLancer",
+          "despawnEffect": "none",
+          "damage": 140,
+        }
       }
     }
   ]
