@@ -2,6 +2,7 @@
   "type": "flying",
   "name": "Lancer Cruise Missile Unit",
   "description": "A missile with a brain and a lancer.",
+  "defaultController": "SuicideAI",
   "health": 100,
   "hitSize": 1,
   "speed": 10,
@@ -21,6 +22,7 @@
       "reload": 0,
       "mirror": false,
       "shootSound": "laser",
+      "killShooter": true,
       "bullet": {
         "type": "LaserBulletType",
         "drawSize": 400,
