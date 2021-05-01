@@ -30,7 +30,7 @@
         "shootEffect": "lancerLaserShoot",
         "smokeEffect": "none",
         "hitEffect": "hitLancer",
-        "despawnEffect": "none,
+        "despawnEffect": "none",
         "damage": 140,
         "killShooter": true,
       }
