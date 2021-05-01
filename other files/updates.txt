@@ -10,6 +10,9 @@ v0.10 "units":
 -added scimitar
 -added hammer
 -added stronghold
+-added verge
+-added dominator
+-added lcmu
 =Vainity=
 -M
 =Map=
