@@ -12,14 +12,14 @@
   "drag": 0.05,
   "accel": 0.5,
   "engineOffset": 0,
-  "engineSize": 1,
+  "engineSize": 2,
   "range": 8,
   "weapons": [
     {
       "name": "lancer",
       "x": 0,
       "y": 0,
-      "reload": 0,
+      "reload": 1,
       "mirror": false,
       "shootSound": "laser",
       "bullet": {
@@ -28,7 +28,9 @@
         "killShooter": true,
         "width": 0,
         "hight": 0,
+        "fragCone": 0,
         "fragBullets": 1,
+        "despawnEffect": "none",
         "fragBullet": {
           "type": "LaserBulletType",
           "drawSize": 400,
