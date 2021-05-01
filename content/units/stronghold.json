@@ -34,7 +34,7 @@
     }
     {
       "name": "stronghold-ripple",
-      "reload": 120,
+      "reload": 200,
       "x": 0,
       "y": -2,
       "recoil": 6,
