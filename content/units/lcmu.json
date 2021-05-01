@@ -2,7 +2,7 @@
   "type": "flying",
   "name": "Lancer Cruise Missile Unit",
   "description": "A missile with a brain and a lancer.",
-  "defaultController": "SuicideAI",
+  "controller": "SuicideAI",
   "health": 100,
   "hitSize": 1,
   "speed": 10,
