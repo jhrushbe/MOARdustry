@@ -33,6 +33,7 @@ v0.10 (units)
 -resprite spawner
 -sprite e-body
 -sprite scimitar
+-sprite hammer
 
 v1.0 (official release)
 =Blocks=
