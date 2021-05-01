@@ -5,7 +5,7 @@
   "controller": "SuicideAI",
   "health": 100,
   "hitSize": 1,
-  "speed": 10,
+  "speed": 5,
   "rotateSpeed": 60,
   "baseRotateSpeed": 60,
   "flying": true,
