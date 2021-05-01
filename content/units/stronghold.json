@@ -29,9 +29,10 @@
         "smokeEffect": "shootSmallSmoke",
         "hitEffect": "flakExplosion",
         "splashDamageRadius": 18.75,
-        "splashDamage": 33
-      },
-      {
+        "splashDamage": 33,
+      }
+    }
+    {
       "name": "stronghold-ripple",
       "reload": 120,
       "x": 0,
