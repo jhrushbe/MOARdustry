@@ -11,6 +11,7 @@
       "reload": 14,
       "x": 4,
       "y": 2,
+      "mirror": false,
       "ejectEffect": "casing1",
       "bullet": {
         "type": "basicBulletType",
