@@ -1,0 +1,39 @@
+{
+  "type": "flying",
+  "name": "Lancer Cruise Missile Unit",
+  "description": "A missile with a brain and a lancer.",
+  "health": 100,
+  "hitSize": 1,
+  "speed": 10,
+  "rotateSpeed": 60,
+  "baseRotateSpeed": 60,
+  "flying": true,
+  "drag": 0.05,
+  "accel": 0.5,
+  "engineOffset": 0,
+  "engineSize": 1,
+  "range": 8,
+  "weapons": [
+    {
+      "name": "lancer",
+      "x": 0,
+      "y": 0,
+      "reload": 0,
+      "mirror": false,
+      "shootSound": "laser",
+      "bullet": {
+        "type": "LaserBulletType",
+        "drawSize": 400,
+        "length": 173,
+        "lifetime": 16,
+        "hitSize": 4,
+        "shootEffect": "lancerLaserShoot",
+        "smokeEffect": "none",
+        "hitEffect": "hitLancer",
+        "despawnEffect": "none,
+        "damage": 140,
+        "killShooter": true,
+      }
+    }
+  ]
+}
