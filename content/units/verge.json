@@ -15,6 +15,7 @@
   "weapons": [
     {
       "name": "verge-weapon",
+      "top": false,
       "reload": 35,
       "x": 16,
       "y": 1,
