@@ -12,6 +12,7 @@
   "weapons": [
     {
       "name": "stronghold-hail",
+      "top": false,
       "reload": 60,
       "x": 9,
       "y": 1,
