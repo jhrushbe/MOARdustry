@@ -13,7 +13,8 @@
       "name": "hammer-weapon",
       "reload": 14,
       "ejectEffect": "none",
-      "recoil": -8,
+      "recoil": -4,
+      "shootY": 5,
       "bullet": {
         "type": "basicBulletType",
         "width": 0,
