@@ -6,30 +6,41 @@ v0.10 (units)
   -crate (miner, 100 storage, little health, no defence, flying)
   -friggate (miner/healer bot, 500 storage, decent health, no defences, 1 mine ray, overheal status effect, flying)
   -barge (mines titanium, 1.5k storage, decent health, no defences, cannot fly)
-  -carrier (mines all, 2.5k storage, lots of health, has some defence(a missile launcher, 2 duos), cannot fly)
-  -convoy (cant mine, 6k storage, all the health, sheild, has lots of defence(4 missile launchers, 4 arcs, 2 hails), cannot fly)
+  -carrier (has a 25 block carry capacity, lots of health, no defences, flies low)
+  -convoy (mines all, 2.5k storage, all the health, sheild, has defence(4 arcs), cannot fly)
 -add scimitar unit tree (better dagger tree)
   -warmonger (t6) (reign guns, corvus laser, omura guns, toxopiod bomb yeeter)
 -add orbital platform (cannot turn, continuous laser that kills only whats below it, flying, medium speed, decent health, "star" sprite, engine in middle)
 -add battle cruiser (6 lcmu spawners, 6 trio-like weapons, 1 railgun, 1 corvus-like laser)
+-add asmodues (asmodues cannon (recursive bullets), marker cannons (fires bullets that have a simillar sprite to the marked effect, gives marked effect, penetration 100, homing as only means of moving, 100 damage))
 =Blocks=
--add lubricated drill (uses hor to mine faster)
 -add mega unit storage core (50 should do)
 -add speedy upgraders (faster alt to T3, T4, & T5 upgraders, use plastic as crafting material)
 -add assemblers (instant upgrades, use components) ("Eclipses? Reigns? Omuras? Its your's, my friend, so long as you have enough components.")
 -add component assemblers (makes components) (Sorry, [redacted], I cant give components. Come back when your a little, mmmm, richer!)
 -add lmcu launcher
--add compulsor (compulsion, "posses" effect)
--add timer (logic block, 1 line/second)
 =Effects=
 -overheal (healthMultiplier: 2, damage: -100(heals)) (custom visual, look at https://github.com/K103908/Exotic-Mod/blob/master/content/units/ground-support/wildfire.hjson)
--compusion (damageMultiplier: -1, speedMultiplier: -1, damage: 10, no effect)
 =Sprites=
 -sprite components
 -resprite spawner
 -sprite e-body
--sprite scimitar
--sprite hammer
+-sprite dominator
+
+v0.11 (miscellaneous)
+=Blocks=
+<Drills>
+-add lubricated drill (uses hor to mine faster)
+<Turrets>
+-add compulsor (compulsion, "posses" effect)
+-add Thor (lighning meltdown) (use some srcs and lancers to make the sprite)
+<Logic>
+-add timer (logic block, 1 line/second)
+=Effects=
+-compusion (damageMultiplier: -1, speedMultiplier: -1, damage: 10, no effect)
+=Weather=
+-add high winds (speedMultiblier: 0.1)
+-add flare (damageMultiplier: 1.5, speedMultiplier: 1.5, healthMultiplier: 0.5)
 
 v1.0 (official release)
 =Blocks=
