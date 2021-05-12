@@ -19,6 +19,7 @@ v0.10 "units":
 -added Plantary Launch Terminal to freeplay
 =Sprites=
 -resprie of extra-dimentional container
+-realised that i have been using the wrong fuel-cell sprite
 
 v0.9 "the speed of c":
 =Blocks=
