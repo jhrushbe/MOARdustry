@@ -17,8 +17,8 @@
   "weapons": [
     {
       "name": "dominator-weapon",
-      "x": 21.5,
-      "y": 1,
+      "x": 20,
+      "y": 0,
       "reload": 30,
       "shootSound": "lasershoot",
       "shootShake": 1,
