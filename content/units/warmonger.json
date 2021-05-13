@@ -1,0 +1,39 @@
+{
+  "type": "mech",
+  "name": "Warmonger",
+  "description": "An Unholy amalgamation of T5 parts and weapons.",
+  "health": //,
+  "hitSize": //,
+  "speed": //,
+  "rotateSpeed": //,
+  "armor": //,
+  "canDrown": false,
+  "mechFrontSway": //,
+  "mechSideSway": //,
+  "mechStepParticles": true,
+  "mechStepShake": 0.75,
+  "singleTarget": //,
+  "weapons": [
+  {
+    "name": "warmonger-corvus",
+    "x": 0,
+    "y": 2.5,
+  }
+  {
+    "name": "warmonger-omura",
+    "x": 16.5,
+    "y": -4,
+  }
+  {
+    "name": "warmonger-reign",
+    "x": 35.5,
+    "y": -2,
+  }
+  {
+    "name": "warmonger-toxopoid",
+    "x": 0,
+    "y": -21.5,
+  }
+  ],
+  "research": "dominator",
+}
