@@ -10,7 +10,7 @@ v0.10 (units)
   -convoy (mines all, 2.5k storage, all the health, sheild, has defence(4 arcs), cannot fly)
 -add scimitar unit tree (better dagger tree)
   -dominator add "stabilized" while shooting
-  -warmonger (t6) (reign guns, corvus laser, omura guns, toxopiod bomb yeeter)
+  -warmonger (t6) (reign guns, corvus laser, omura guns, toxopiod bomb yeeter) ("An Unholy amalgamation of T5 parts and weapons")
 -add orbital platform (cannot turn, continuous laser that kills only whats below it, flying, medium speed, decent health, "star" sprite, engine in middle)
 -add battle cruiser (6 lcmu spawners, 6 trio-like weapons, 1 railgun, 1 corvus-like laser)
 -add asmodues (asmodues cannon (recursive bullets), marker cannons (fires bullets that have a simillar sprite to the marked effect, gives marked effect, penetration 100, homing as only means of moving, 100 damage))
