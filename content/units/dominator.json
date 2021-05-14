@@ -21,8 +21,8 @@
       "y": 0,
       "reload": 30,
       "shootSound": "lasershoot",
-      "shootShake": 1,
-      "recoilAmount": 4,
+      "shake": 1,
+      "recoil": 4,
       "bullet": {
         "type": "ShrapnelBulletType",
         "width": 4,
@@ -36,8 +36,8 @@
       "y": -8,
       "reload": 350,
       "shootSound": "railgun",
-      "shootShake": 10,
-      "recoilAmount": 4,
+      "shake": 10,
+      "recoil": 0,
       "mirror": false,
       "bullet": {
         "type": "ShrapnelBulletType",
