@@ -46,7 +46,6 @@
       "recoil": 5,
       "shootY": 0,
       "shots": 3,
-      "spread": 20,
       "mirror": false,
       "bullet": {
         "type": "ShrapnelBulletType",
