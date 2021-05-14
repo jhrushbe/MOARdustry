@@ -10,7 +10,7 @@
   "legCount": 6,
   "legLength": 14,
   "legBaseOffset": 11,
-  "legMoveSpace": 1,5,
+  "legMoveSpace": 1.5,
   "legTrns": 0.58,
   "hovering": true,
   "visualElevation": 0.2,
@@ -121,7 +121,7 @@
         "pierceBuilding": true,
         "pierceCap": 3,
         "lifetime": 20,
-        "hitEffect": "flakExplosion":,
+        "hitEffect": "flakExplosion",
         "splashDamage": 15,
         "splashDamageRadius": 10,
       }
