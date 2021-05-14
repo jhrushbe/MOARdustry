@@ -8,12 +8,9 @@ v0.10 (units)
   -barge (mines titanium, 1.5k storage, decent health, no defences, cannot fly)
   -carrier (has a 25 block carry capacity, lots of health, no defences, flies low)
   -convoy (mines all, 2.5k storage, all the health, sheild, has defence(4 arcs), cannot fly)
--add scimitar unit tree (better dagger tree)
-  -dominator add "stabilized" while shooting
-  -warmonger (t6) (reign guns, corvus laser, omura guns, toxopiod bomb yeeter) ("An Unholy amalgamation of T5 parts and weapons")
 -add orbital platform (cannot turn, continuous laser that kills only whats below it, flying, medium speed, decent health, "star" sprite, engine in middle)
 -add battle cruiser (6 lcmu spawners, 6 trio-like weapons, 1 railgun, 1 corvus-like laser)
--add asmodues (asmodues cannon (recursive bullets), marker cannons (fires bullets that have a simillar sprite to the marked effect, gives marked effect, penetration 100, homing as only means of moving, 100 damage))
+-add asmodues (asmodues cannon (recursive bullets), marker cannons (fires bullets that have a simillar sprite to the marked effect, gives marked effect, penetration 100, homing as only means of moving, 100 damage)) ("Existance is futile.")
 =Blocks=
 -add mega unit storage core (50 should do)
 -add speedy upgraders (faster alt to T3, T4, & T5 upgraders, use plastic as crafting material)
@@ -22,12 +19,11 @@ v0.10 (units)
 -add lmcu launcher
 =Effects=
 -overheal (healthMultiplier: 2, damage: -100(heals)) (custom visual, look at https://github.com/K103908/Exotic-Mod/blob/master/content/units/ground-support/wildfire.hjson)
--stabilized (speed multiplier: 0.1)
 =Sprites=
 -sprite components
 -resprite spawner
 -sprite e-body
--sprite dominator
+-sprite stabilized
 
 v0.11 (miscellaneous)
 =Blocks=
