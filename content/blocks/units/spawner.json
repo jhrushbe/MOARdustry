@@ -59,6 +59,7 @@
     {"unit": "stronghold", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
     {"unit": "verge", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
     {"unit": "dominator", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
+    {"unit": "warmonger", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
   ],
   "category": "units",
 }
