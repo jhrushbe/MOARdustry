@@ -17,22 +17,22 @@
   {
     "name": "warmonger-corvus",
     "x": 0,
-    "y": 2.5,
+    "y": 5,
   }
   {
     "name": "warmonger-omura",
     "x": 16.5,
-    "y": -4,
+    "y": -1,
   }
   {
     "name": "warmonger-reign",
     "x": 35.5,
-    "y": -2,
+    "y": 2,
   }
   {
     "name": "warmonger-toxopoid",
     "x": 0,
-    "y": -21.5,
+    "y": -18.5,
   }
   ],
   "research": "dominator",
