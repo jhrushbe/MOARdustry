@@ -80,7 +80,7 @@
       "length": 500,
       "updateEffectSeg": 60,
       "pierceEffect": "railHit",
-      "updateEffect": "railtrail",
+      "updateEffect": "railTrail",
       "hitEffect": "massiveExplosion",
       "smokeEffect": "shootBig2",
       "damage": 312.5,
