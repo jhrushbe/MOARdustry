@@ -26,7 +26,7 @@
         "lifetime": 0,
         "killShooter": true,
         "width": 0,
-        "hight": 0,
+        "height": 0,
         "fragCone": 0,
         "fragBullets": 1,
         "despawnEffect": "none",
