@@ -23,8 +23,8 @@
       "shootSound": "shotgun",
       "shots": 3,
       "inaccuracy": 20,
-      "recoilAmount": 5,
-      "shootShake": 4,
+      "recoil": 5,
+      "shake": 4,
       "bullet": {
         "type": "ShrapnelBulletType",
         "width": 17,
