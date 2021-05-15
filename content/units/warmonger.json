@@ -1,7 +1,7 @@
 {
   "type": "legs",
   "name": "Warmonger",
-  "description": "An Unholy amalgamation of T5 parts and weapons.",
+  "description": "An unholy amalgamation of T5 parts and weapons.",
   "health": 72000,
   "armor": 200,
   "hitSize": 41.5,
@@ -105,6 +105,7 @@
       "width": 14,
       "height": 33,
       "lifetime": 15,
+      "spee": 10,
       "shootEffect": "shootBig",
       "fragVelocityMin": 0.4,
       "hitEffect": "blastExplosion",
