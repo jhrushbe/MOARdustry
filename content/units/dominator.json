@@ -1,4 +1,3 @@
-
 {
   "type": "mech",
   "name": "Dominator",
@@ -17,8 +16,8 @@
   "weapons": [
     {
       "name": "dominator-weapon",
-      "x": 20,
-      "y": 0,
+      "x": 15,
+      "y": 4,
       "reload": 30,
       "shootSound": "lasershoot",
       "shake": 1,
@@ -33,7 +32,8 @@
     {
       "name": "dominator-mac",
       "x": 0,
-      "y": -8,
+      "y": 0,
+      "shootY": 1,
       "reload": 350,
       "shootSound": "railgun",
       "shake": 10,
