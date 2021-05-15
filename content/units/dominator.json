@@ -18,6 +18,7 @@
       "name": "dominator-weapon",
       "x": 15,
       "y": 4,
+      "shootY": 15,
       "reload": 30,
       "shootSound": "lasershoot",
       "shake": 1,
