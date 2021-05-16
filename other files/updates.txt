@@ -7,18 +7,16 @@ v0.10 "units":
 =Items=
 -added componenents
 =Units=
--added scimitar
--added hammer
--added stronghold
--added verge
--added dominator
+-added scimitar unit tree (scimitar>hammer>stronghold>verge>dominator)
+-added warmonger
 -added lcmu
 =Vainity=
 -M
-=Map=
+=Maps=
 -added Plantary Launch Terminal to freeplay
 =Sprites=
 -resprie of extra-dimentional container
+-accidental resprite of the mac
 -realised that i have been using the wrong fuel-cell sprite
 
 v0.9 "the speed of c":
