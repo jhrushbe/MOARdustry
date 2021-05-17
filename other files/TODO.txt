@@ -24,6 +24,7 @@ v0.10 (units)
 -resprite spawner
 -sprite e-body
 -sprite stabilized
+-chimera the fk out the chimera's legs
 
 v0.11 (miscellaneous)
 =Blocks=
