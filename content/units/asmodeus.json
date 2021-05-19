@@ -56,7 +56,7 @@
             "backColor": "a63d3d",
             "frontColor": "e65555",
             "width": 9,
-            "height": 9
+            "height": 9,
             "pierce": true,
             "pierceBuilding": true,
             "pierceCap": 100,
