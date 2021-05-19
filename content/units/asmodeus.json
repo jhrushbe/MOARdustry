@@ -10,7 +10,7 @@
   "rotateSpeed": 1,
   "drag": 0.01,
   "accel": 0.05,
-  "engineOffset": -25,
+  "engineOffset": 25,
   "engineSize": 14,
   "weapons": [
     {
@@ -24,61 +24,71 @@
       "shootSound": "bang",
       "bullet": {
         "type": "BasicBulletType",
+        "backColor": "a63d3d",
+        "frontColor": "e65555",
         "width": 8.5,
-        "hight": 8.5,
+        "height": 8.5,
         "pierce": true,
         "pierceBuilding": true,
         "pierceCap": 100,
         "lifetime": 60,
-        "speed": 16,
+        "speed": 1,
         "damage": 5120,
         "fragBullets": 2,
         "fragCone": 10,
         "fragBullet": {
           "type": "BasicBulletType",
+          "backColor": "a63d3d",
+          "frontColor": "e65555",
           "width": 4.25,
-          "hight": 4.25,
+          "height": 4.25,
           "pierce": true,
           "pierceBuilding": true,
           "pierceCap": 100,
           "lifetime": 60,
-          "speed": 16,
+          "speed": 1,
           "damage": 2560,
           "fragBullets": 2,
           "fragCone": 10,
           "fragBullet": {
             "type": "BasicBulletType",
+            "backColor": "a63d3d",
+            "frontColor": "e65555",
             "width": 2.125,
-            "hight": 2.125,
+            "height": 2.125,
             "pierce": true,
             "pierceBuilding": true,
             "pierceCap": 100,
             "lifetime": 60,
-            "speed": 8,
+            "speed": 1,
             "damage": 1280,
             "fragBullets": 2,
             "fragCone": 10,
             "fragBullet": {
               "type": "BasicBulletType",
+              "backColor": "a63d3d",
+              "frontColor": "e65555",
               "width": 1,
-              "hight": 1,
+              "height": 1,
               "pierce": true,
               "pierceBuilding": true,
               "pierceCap": 100,
               "lifetime": 60,
-              "speed": 8,
+              "speed": 1,
               "damage": 640,
               "fragBullets": 2,
               "fragCone": 10,
               "fragBullet": {
                 "type": "BasicBulletType",
+                "backColor": "a63d3d",
+                "frontColor": "e65555",
                 "width": 0.5,
-                "hight": 0.5,
+                "height": 0.5,
                 "pierce": true,
                 "pierceBuilding": true,
                 "pierceCap": 100,
                 "lifetime": 60,
-                "speed": 8,
+                "speed": 1,
               }
             }
           }
@@ -95,7 +105,6 @@
       "reload": 45,
       "recoil": 2,
       "shootSound": "laser",
-      "shadow": 20,
       "rotate": true,
       "bullet": {
         "type": "LaserBulletType",
@@ -106,7 +115,7 @@
         "width": 12.5,
         "length": 100,
         "shootEffect": "shockwave",
-        "colors": ["ec7458aa", "ff9c5a", "ffffff"],
+        "colors": ["a63d3d", "e65555", "ffffff"],
       }
     }
     {
@@ -119,7 +128,6 @@
       "reload": 45,
       "recoil": 2,
       "shootSound": "laser",
-      "shadow": 20,
       "rotate": true,
       "bullet": {
         "type": "LaserBulletType",
@@ -130,7 +138,7 @@
         "width": 12.5,
         "length": 100,
         "shootEffect": "shockwave",
-        "colors": ["ec7458aa", "ff9c5a", "ffffff"],
+        "colors": ["a63d3d", "e65555", "ffffff"],
       }
     }
     {
@@ -143,7 +151,6 @@
       "reload": 45,
       "recoil": 2,
       "shootSound": "laser",
-      "shadow": 20,
       "rotate": true,
       "bullet": {
         "type": "LaserBulletType",
@@ -154,7 +161,7 @@
         "width": 12.5,
         "length": 100,
         "shootEffect": "shockwave",
-        "colors": ["ec7458aa", "ff9c5a", "ffffff"],
+        "colors": ["a63d3d", "e65555", "ffffff"],
       }
     }
     {
@@ -167,7 +174,6 @@
       "reload": 45,
       "recoil": 2,
       "shootSound": "laser",
-      "shadow": 20,
       "rotate": true,
       "bullet": {
         "type": "LaserBulletType",
@@ -178,7 +184,7 @@
         "width": 12.5,
         "length": 100,
         "shootEffect": "shockwave",
-        "colors": ["ec7458aa", "ff9c5a", "ffffff"],
+        "colors": ["a63d3d", "e65555", "ffffff"],
       }
     }
   ]
