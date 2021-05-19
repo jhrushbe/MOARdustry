@@ -24,6 +24,7 @@ v0.10 (units)
 -sprite e-body
 -sprite stabilized
 -chimera the fk out the chimera's legs
+-resize unit weapon sprites
 
 v0.11 (miscellaneous)
 =Blocks=
