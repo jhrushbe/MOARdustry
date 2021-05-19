@@ -99,7 +99,7 @@
       "rotate": true,
       "bullet": {
         "type": "LaserBulletType",
-        "damage": 200,
+        "damage": 1280,
         "sideAngle": 10,
         "sideWidth": 10.75,
         "sideLength": 40,
@@ -123,7 +123,7 @@
       "rotate": true,
       "bullet": {
         "type": "LaserBulletType",
-        "damage": 200,
+        "damage": 1280,
         "sideAngle": 10,
         "sideWidth": 10.75,
         "sideLength": 40,
@@ -147,7 +147,7 @@
       "rotate": true,
       "bullet": {
         "type": "LaserBulletType",
-        "damage": 200,
+        "damage": 1280,
         "sideAngle": 10,
         "sideWidth": 10.75,
         "sideLength": 40,
@@ -171,7 +171,7 @@
       "rotate": true,
       "bullet": {
         "type": "LaserBulletType",
-        "damage": 200,
+        "damage": 1280,
         "sideAngle": 10,
         "sideWidth": 10.75,
         "sideLength": 40,
