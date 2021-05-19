@@ -14,7 +14,7 @@
   "engineSize": 7,
   "weapons": [
     {
-      "name": "exterminator",
+      "name": "asmodeus-exterminator",
       "x": 0,
       "y": 0,
       "shootY": 0,
@@ -97,7 +97,7 @@
       }
     }
     {
-      "name": "life-ender",
+      "name": "asmodeus-life-ender",
       "x": 7.5,
       "y": 35,
       "shootY": 4, 
@@ -120,7 +120,7 @@
       }
     }
     {
-      "name": "life-ender",
+      "name": "asmodeus-life-ender",
       "x": 15.25,
       "y": 11.5,
       "shootY": 4, 
@@ -143,7 +143,7 @@
       }
     }
     {
-      "name": "life-ender",
+      "name": "asmodeus-life-ender",
       "x": 19,
       "y": -5,
       "shootY": 4, 
@@ -166,7 +166,7 @@
       }
     }
     {
-      "name": "life-ender",
+      "name": "asmodeus-life-ender",
       "x": 27.75,
       "y": -32,
       "shootY": 4, 
