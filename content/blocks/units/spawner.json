@@ -60,6 +60,8 @@
     {"unit": "verge", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
     {"unit": "dominator", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
     {"unit": "warmonger", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
+    //region boss
+    {"unit": "asmodeus", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
   ],
   "category": "units",
 }
