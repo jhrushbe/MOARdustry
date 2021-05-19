@@ -10,7 +10,6 @@ v0.10 (units)
   -convoy (mines all, 2.5k storage, all the health, sheild, has defence(4 arcs), cannot fly)
 -add orbital platform (cannot turn, continuous laser that kills only whats below it, flying, medium speed, decent health, "star" sprite, engine in middle)
 -add battle cruiser (6 lcmu spawners, 6 trio-like weapons, 1 railgun, 1 corvus-like laser)
--add asmodues (asmodues cannon (recursive bullets), marker cannons (fires bullets that have a simillar sprite to the marked effect, gives marked effect, penetration 100, homing as only means of moving, 100 damage)) ("Existance is futile.")
 =Blocks=
 -add mega unit storage core (50 should do)
 -add speedy upgraders (faster alt to T3, T4, & T5 upgraders, use plastic as crafting material)
@@ -32,7 +31,7 @@ v0.11 (miscellaneous)
 -add lubricated drill (uses hor to mine faster)
 <Turrets>
 -add compulsor (compulsion, "posses" effect)
--add Thor (lighning meltdown) (use some srcs and lancers to make the sprite)
+-add Thor (lighning meltdown) (use some arcs and lancers to make the sprite)
 <Logic>
 -add timer (logic block, 1 line/second)
 =Effects=
