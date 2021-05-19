@@ -105,7 +105,7 @@
       "width": 14,
       "height": 33,
       "lifetime": 15,
-      "spee": 10,
+      "speed": 10,
       "shootEffect": "shootBig",
       "fragVelocityMin": 0.4,
       "hitEffect": "blastExplosion",
