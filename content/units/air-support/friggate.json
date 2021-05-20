@@ -1,0 +1,64 @@
+{
+  "type": "flying",
+  "name": "Friggate",
+  "description": "An alternative to the poly and mega more focused on healing anything and everything around it",
+  "controller": "RepairAI",
+  "flying": true,
+  "lowAltitude": true,
+  "health": 460,
+  "armor": 3,
+  "hitSize": 15,
+  "speed": 2.5,
+  "accel": 0.06,
+  "drag": 0.017,
+  "engineOffset": 10.5,
+  "engineSize": 3,
+  "buildSpeed": 3,
+  "mineTeir": 3,
+  "mineSpeed": 5,
+  "rotateShooting": false,
+  "isCounted": false,
+  "weapons": [
+  {
+    "name": "friggate-heal-beam",
+    "x": 8,
+    "y": 0,
+    "reload": 60,
+    "recoil": 0,
+    "continuous": true,
+    "cooldownTime": 0,
+    "shootSound": "beam",
+    "bullet": {
+      "type": "ContinuousLaserBulletType",
+      "lifetime": 60
+      "damage": 0,
+      "healPercent": 1,
+      "collidesTeam": true,
+      "incendChance": 0,
+      "incendSpread": 0,
+      "incendAmount": 0,
+      "drawSize": 7,
+      "length": 420,
+      "colors": ["98ffa955", "98ffa9aa", "98ffa9", "ffffff"],
+      "lightColor": "98ffa9",
+    }
+  }
+  ],
+  "abilities": [
+    {
+      "type": "StatusFieldAbility",
+      "activeEffect": "none", //come up with something
+      "effect": {
+        "name": "overheal",
+        "localizedName": "Overheal",
+        "healthMultiplier": 1.5,
+        "damage": -100,
+        "effect": "none", //come up with something
+        "range": 85,
+        "reload": 600,
+        "duration": 60,
+      }
+    }
+  ]
+  "research": "barge",
+}
