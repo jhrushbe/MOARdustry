@@ -2,12 +2,11 @@ I might get all this done....
 
 v0.10 (units)
 =Units=
--add crate unit tree:
-  -crate (miner, 100 storage, little health, no defence, flying)
-  -friggate (miner/healer bot, 500 storage, decent health, no defences, 1 mine ray, overheal status effect, flying)
-  -barge (mines titanium, 1.5k storage, decent health, no defences, cannot fly)
-  -carrier (has a 25 block carry capacity, lots of health, no defences, flies low)
-  -convoy (mines all, 2.5k storage, all the health, sheild, has defence(4 arcs), cannot fly)
+-add mono upgrade tree:
+  -friggate (heals units and blocks)
+  -barge (mines like a mega, acts like a mono)
+  -convoy (mines all, 300 storage, acts like a mono)
+  -carrier (has a 16 block carry capacity, lots of health, no defences, flies low)
 -add orbital platform (cannot turn, continuous laser that kills only whats below it, flying, medium speed, decent health, "star" sprite, engine in middle)
 -add battle cruiser (6 lcmu spawners, 6 trio-like weapons, 1 railgun, 1 corvus-like laser)
 =Blocks=
@@ -33,6 +32,7 @@ v0.11 (miscellaneous)
 <Turrets>
 -add compulsor (compulsion, "posses" effect)
 -add Thor (lighning meltdown) (use some arcs and lancers to make the sprite)
+-add some turret that abuses "mixColorFrom": [] and "mixColorTo": [] in BasicBulletType
 <Logic>
 -add timer (logic block, 1 line/second)
 =Effects=
