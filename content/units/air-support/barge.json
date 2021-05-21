@@ -13,7 +13,7 @@
   "range": 50,
   "isCounted": false,
   "itemCapacity": 100,
-  "mineTeir": 3,
+  "mineTier": 3,
   "mineSpeed": 2.5,
   "research": "mono",
 }
