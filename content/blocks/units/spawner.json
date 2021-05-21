@@ -60,6 +60,9 @@
     {"unit": "verge", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
     {"unit": "dominator", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
     {"unit": "warmonger", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
+    //region air support
+    {"unit": "barge", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
+    {"unit": "friggate", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
     //region boss
     {"unit": "asmodeus", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
   ],
