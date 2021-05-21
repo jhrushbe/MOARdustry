@@ -1,0 +1,19 @@
+{
+  "type": "flying",
+  "name": "Barge",
+  "description": "Upgrade to the mono that gives it enhanced mining power and item storage.",
+  "controller": "MinerAI",
+  "flying": true,
+  "health": 100,
+  "speed": 1.5,
+  "accel": 0.12,
+  "drag": 0.06,
+  "engineOffset": 5.7, //find later
+  "engine size": 1.8, //find later
+  "range": 50,
+  "isCounted": false,
+  "itemCapacity": 100,
+  "mineTeir": 3,
+  "mineSpeed": 2.5,
+  "research": "mono",
+}
