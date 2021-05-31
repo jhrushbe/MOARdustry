@@ -20,7 +20,7 @@
   "isCounted": false,
   "weapons": [
   {
-    "name": "friggate-heal-beam",
+    "name": "friggate-welder",
     "x": 8,
     "y": 0,
     "reload": 60,
@@ -31,14 +31,14 @@
     "bullet": {
       "type": "ContinuousLaserBulletType",
       "lifetime": 60,
-      "damage": 0,
-      "healPercent": 1,
+      "damage": 1,
+      "healPercent": 100,
       "collidesTeam": true,
       "incendChance": 0,
       "incendSpread": 0,
       "incendAmount": 0,
-      "drawSize": 7,
-      "length": 420,
+      "drawSize": 2,
+      "length": 8,
       "colors": ["98ffa955", "98ffa9aa", "98ffa9", "ffffff"],
       "lightColor": "98ffa9",
     }
@@ -52,7 +52,7 @@
         "name": "overheal",
         "localizedName": "Overheal",
         "healthMultiplier": 1.5,
-        "damage": -100,
+        "damage": -1,
         "effect": "none", //come up with something
         "range": 85,
         "reload": 600,
