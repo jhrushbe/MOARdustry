@@ -1,0 +1,20 @@
+{
+  "type": "flying",
+  "name": "Convoy",
+  "description": "Upgraded mining unit able to mine thorium",
+  "controller": "MinerAI",
+  "flying": true,
+  "health": 100, //find later
+  "hitsize": 8, //find later
+  "speed": 0.25,
+  "accel": 0.07,
+  "drag": 0.06,
+  "engineOffset": 5.7, //find later
+  "engine size": 1.8, //find later
+  "range": 50,
+  "isCounted": false,
+  "itemCapacity": 100, //find later
+  "mineTier": 7,
+  "mineSpeed": 2.5, //find later
+  "research": "friggate",
+}
