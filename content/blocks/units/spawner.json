@@ -63,6 +63,8 @@
     //region air support
     {"unit": "barge", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
     {"unit": "friggate", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
+    {"unit": "convoy", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
+    {"unit": "carrier", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
     //region boss
     {"unit": "asmodeus", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
   ],
