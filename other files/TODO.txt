@@ -11,17 +11,14 @@ v0.10 (units)
 -add battle cruiser (6 lcmu spawners, 6 trio-like weapons, 1 railgun, 1 corvus-like laser)
 =Blocks=
 -add mega unit storage core (50 should do)
--add speedy upgraders (faster alt to T3, T4, & T5 upgraders, use plastic as crafting material)
--add assemblers (instant upgrades, use components) ("Eclipses? Reigns? Omuras? Its your's, my friend, so long as you have enough components.")
--add component assemblers (makes components) (Sorry, [redacted], I cant give components. Come back when your a little, mmmm, richer!)
+-add assemblers (faster upgrades, use components) ("Eclipses? Reigns? Omuras? Its your's, my friend, so long as you have enough components.")
+-add component assemblers (makes components) 
 -add lmcu launcher
 =Effects=
--overheal (healthMultiplier: 2, damage: -100(heals)) (custom visual, look at https://github.com/K103908/Exotic-Mod/blob/master/content/units/ground-support/wildfire.hjson)
+-overheal (custom visual, look at https://github.com/K103908/Exotic-Mod/blob/master/content/units/ground-support/wildfire.hjson)
 =Sprites=
 -sprite components
 -resprite spawner
--sprite e-body
--sprite stabilized
 -chimera the fk out the chimera's legs
 -resize unit weapon sprites
 
