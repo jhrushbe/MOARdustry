@@ -5,6 +5,20 @@ v0.10 (units)
 -resprite spawner
 -chimera the fk out the chimera's legs
 -orbiter: "star" sprite
+-sprite MOARFactory
+-sprite Axis
+-sprite geometricReconstructor
+-sprite LCMU launcher
+-sprite productiveReconstructor
+-sprite quadraticReconstructor
+-sprite quantitativeReconstructor
+-sprite summativeReconstructor
+-sprite barge
+-sprite carrier
+-sprite convoy
+-sprite friggate
+-sprite lcmu
+-sprite orbiter
 
 v0.11 (miscellaneous)
 =Blocks=
