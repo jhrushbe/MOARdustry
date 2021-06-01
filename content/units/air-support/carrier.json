@@ -4,6 +4,7 @@
   "description": "Vulnerable, but able to carry huge amounts of blocks. Will sacrifice itself to try and help others.",
   "controller": "DefenderAI",
   "flying": true,
+  "lowAltitude": true,
   "health": 6000,
   "hitsize": 8, //find later
   "speed": 0.1,
