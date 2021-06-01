@@ -25,7 +25,7 @@
     ["mono", "poly"],
     ["risso", "minke"],
     ["scimitar", "hammer"],
-    ["barge", "figgate"]
+    ["barge", "friggate"]
   ],
   "category": "units",
   "research": "MOARFactory",
