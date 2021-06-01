@@ -6,7 +6,7 @@
   "lowAltitude": true,
   "health": 6000,
   "hitSize": 8, //find later
-  "speed": 0.1,
+  "speed": 0.8,
   "accel": 0.07,
   "drag": 0.06,
   "engineOffset": 5.7, //find later
