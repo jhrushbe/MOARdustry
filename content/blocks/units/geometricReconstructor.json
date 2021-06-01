@@ -1,7 +1,7 @@
 {
   "type": "Reconstructor",
   "name": "Geometric Reconstructor",
-  "descrption": "Upgrades Mindustry and MOARdustry units to the sixth tier.",
+  "description": "Upgrades Mindustry and MOARdustry units to the sixth tier.",
   "size": 11,
   "requirements": [ //find later
     {"item": "lead", "amount": 4000},
