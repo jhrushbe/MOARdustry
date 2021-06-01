@@ -1,0 +1,24 @@
+{
+  "type": "UnitFactory",
+  "name": "LCMU Launch Facility",
+  "description": "Creates Lancer Cruise Missle Units.",
+  "size": 2,
+  "consumes": {"power": 5}, //find later
+  "requirements": [ //find later
+    {"item": "copper", "amount": 150},
+    {"item": "lead", "amount": 70},
+    {"item": "silicon", "amount": 80}
+  ],
+  "plans": [
+    {
+      "unit": "lcum",
+      "time": 120, //find later
+      "requirements": [ //find later
+        {"item": "silicon", "amount": 10},
+        {"item": "titanium", "amount": 10}
+      ]
+    }
+  ],
+  "category": "turret",
+  "research": "air-factory",
+}
