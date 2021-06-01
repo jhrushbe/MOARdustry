@@ -13,7 +13,7 @@
   ],
   "itemCapacity": 24000, //find later
   "unitCapModifier": 50,
-  "unitType": "friggate", //find later
+  "unitType": "frigate", //find later
   "category": "effect",
   "research": "core-nucleus",
 }
