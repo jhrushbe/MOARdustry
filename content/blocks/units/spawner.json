@@ -67,6 +67,7 @@
     {"unit": "carrier", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
     //region boss
     {"unit": "asmodeus", "time": 60, "requirements": [{"item": "silicon", "amount": 10}]},
+    {"unit": "orbiter", "time": 60, "requirements": [{"item": "silicon", "amount": 10}]},
   ],
   "category": "units",
   "research": "geometricReconstructor",
