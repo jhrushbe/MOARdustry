@@ -9,14 +9,9 @@ v0.10 (units)
 -sprite Axis
 -sprite geometricReconstructor
 -sprite LCMU launcher
--sprite productiveReconstructor
 -sprite quadraticReconstructor
--sprite quantitativeReconstructor
--sprite summativeReconstructor
--sprite barge
 -sprite carrier
 -sprite convoy
--sprite friggate
 -sprite lcmu
 -sprite orbiter
 
