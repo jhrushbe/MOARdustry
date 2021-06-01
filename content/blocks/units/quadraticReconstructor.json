@@ -32,7 +32,8 @@
     ["antumbra", "eclipse"],
     ["quad", "oct"],
     ["sei", "omura"],
-    ["verge", "dominator"]
+    ["verge", "dominator"],
+    ["convoy", "carrier"]
   ],
   "category": "units",
   "research": "quantitativeReconstructor",
