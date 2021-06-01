@@ -10,7 +10,7 @@
   "accel": 0.07,
   "drag": 0.06,
   "engineOffset": 5.7, //find later
-  "engine size": 1.8, //find later
+  "engineSize": 1.8, //find later
   "range": 50,
   "isCounted": false,
   "itemCapacity": 300, 
