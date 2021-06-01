@@ -4,10 +4,12 @@ v0.10 "units":
 =Blocks=
 <Units>
 -added spawner
-=Items=
--added componenents
+-added reconstructors
+<Effect>
+-added core axis
 =Units=
 -added scimitar unit tree (scimitar>hammer>stronghold>verge>dominator)
+-added barge unit tree (barge>friggate>convoy>carrier)
 -added warmonger
 -added lcmu
 =Vainity=
