@@ -1,7 +1,7 @@
 {
   "type": "Reconstructor",
   "name": "Summative Reconstructor",
-  "descrption": "Upgrades Mindustry and MOARdustry units to the second tier.",
+  "description": "Upgrades Mindustry and MOARdustry units to the second tier.",
   "size": 3,
   "requirements": [ //find later
     {"item": "copper", "amount": 200},
