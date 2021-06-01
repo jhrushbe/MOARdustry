@@ -13,8 +13,8 @@
   "engine size": 1.8, //find later
   "range": 50,
   "isCounted": false,
-  "itemCapacity": 100, //find later
+  "itemCapacity": 300, 
   "mineTier": 7,
-  "mineSpeed": 2.5, //find later
+  "mineSpeed": 5, 
   "research": "friggate",
 }
