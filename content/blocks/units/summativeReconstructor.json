@@ -8,10 +8,11 @@
     {"item": "lead", "amount": 120},
     {"item": "silicon", "amount": 90}
   ],
-  "consumes": {
+  "constructTime": 600,
+  "consumes": { //find later
     "power": 3,
     "items": {
-      "items": [ //find later
+      "items": [ 
         {"item": "silicon", "amount": 40},
         {"item": "graphite", "amount": 40}
       ]
