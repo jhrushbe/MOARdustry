@@ -65,8 +65,8 @@
         "damage": -1,
         "effect": {
           "type": "particleEffect",
-          "lifetime": 10,
-          "particles": 10,
+          "particles": 1
+          "lifetime": 25,
           "sizeFrom": 3,
           "sizeTo": 4,
           "colorFrom": "98ffa9",
