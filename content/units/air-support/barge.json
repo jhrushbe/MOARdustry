@@ -8,8 +8,8 @@
   "speed": 1.5,
   "accel": 0.12,
   "drag": 0.06,
-  "engineOffset": 5.7, //find later
-  "engineSize": 1.8, //find later
+  "engineOffset": 0,
+  "engineSize": 1.1,
   "range": 50,
   "isCounted": false,
   "itemCapacity": 100,
