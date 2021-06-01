@@ -32,7 +32,7 @@
     ["mega", "quad"],
     ["bryde", "sei"],
     ["stronghold", "verge"],
-    ["convoy", "carrier"]
+    ["frigate", "convoy"]
   ],
   "category": "units",
   "research": "productiveReconstructor",
