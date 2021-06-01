@@ -1,7 +1,7 @@
 {
   "type": "Reconstructor",
   "name": "Productive Reconstructor",
-  "descrption": "Upgrades Mindustry and MOARdustry units to the third tier.",
+  "description": "Upgrades Mindustry and MOARdustry units to the third tier.",
   "size": 5,
   "requirements": [ //find later
     {"item": "lead", "amount": 650},
