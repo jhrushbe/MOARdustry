@@ -3,16 +3,12 @@ I might get all this done....
 v0.10 (units)
 =Units=
 -add mono upgrade tree:
-  -friggate (heals units and blocks)
   -barge (mines like a mega, acts like a mono)
+  -friggate (heals units and blocks)
   -convoy (mines all, 300 storage, acts like a mono)
   -carrier (has a 16 block carry capacity, lots of health, no defences, flies low)
 -add orbital platform (cannot turn, continuous laser that kills only whats below it, flying, medium speed, decent health, "star" sprite, engine in middle)
--add battle cruiser (6 lcmu spawners, 6 trio-like weapons, 1 railgun, 1 corvus-like laser)
 =Blocks=
--add mega unit storage core (50 should do)
--add assemblers (faster upgrades, use components) ("Eclipses? Reigns? Omuras? Its your's, my friend, so long as you have enough components.")
--add component assemblers (makes components) 
 -add lmcu launcher
 =Effects=
 -overheal (custom visual, look at https://github.com/K103908/Exotic-Mod/blob/master/content/units/ground-support/wildfire.hjson)
@@ -20,7 +16,6 @@ v0.10 (units)
 -sprite components
 -resprite spawner
 -chimera the fk out the chimera's legs
--resize unit weapon sprites
 
 v0.11 (miscellaneous)
 =Blocks=
