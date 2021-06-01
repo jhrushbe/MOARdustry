@@ -1,0 +1,41 @@
+{
+  "type": "Reconstructor",
+  "name": "Geometric Reconstructor",
+  "descrption": "Upgrades Mindustry and MOARdustry units to the sixth tier.",
+  "size": 11,
+  "requirements": [ //find later
+    {"item": "lead", "amount": 4000},
+    {"item": "silicon", "amount": 3000},
+    {"item": "thorium", "amount": 1000},
+    {"item": "plastanium", "amount": 600},
+    {"item": "phaseFabric", "amount": 600},
+    {"item": "surgeAlloy", "amount": 800}
+  ],
+  "constructTime": 28800, //find later
+  "liquidCapacity": 360, //find later
+  "consumes": { //find later
+    "power": 50,
+    "items": {
+      "items": [
+        {"item": "silicon", "amount": 2000},
+        {"item": "plastanium", "amount": 1200},
+        {"item": "surgeAlloy", "amount": 1000},
+        {"item": "phaseFabric", "amount": 700},
+        {"item": "fuel-cell", "amount": 100},
+        {"item": "antimatter", "amount": 1}
+      ]
+    },
+    "liquid": {"liquid": "cryofluid", "amount": 6}
+  },
+  "upgrades": [
+    ["corvus", "warmonger"],
+    ["reign", "warmonger"],
+    ["toxopid", "warmonger"],
+    ["eclipse", "warmonger"],
+    ["oct", "warmonger"],
+    ["omura", "warmonger"],
+    ["dominator", "warmonger"]
+  ],
+  "category": "units",
+  "research": "quadraticReconstructor",
+}
