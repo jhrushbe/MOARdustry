@@ -48,14 +48,32 @@
   "abilities": [
     {
       "type": "StatusFieldAbility",
-      "activeEffect": "none", //come up with something
+      "activeEffect": {
+        "type": "WaveEffect",
+        "lifetime": 60,
+        "sizeFrom": 60,
+        "sizeTo": 60,
+        "colorFrom": "98ffa9",
+        "colorTo": "98ffa9",
+        "strokeFrom": 4,
+        "strokeTo": 1,
+      }, 
       "effect": {
         "name": "overheal",
         "localizedName": "Overheal",
         "healthMultiplier": 1.5,
         "damage": -1,
-        "effect": "none", //come up with something
-        "range": 85,
+        "effect": {
+          "type": "particleEffect",
+          "lifetime": 10,
+          "particles": 10,
+          "sizeFrom": 3,
+          "sizeTo": 4,
+          "colorFrom": "98ffa9",
+          "colorTo": "98ffa9",
+          "region": "shape-3" //replace with the health cross
+        }, 
+        "range": 60,
         "reload": 600,
         "duration": 60,
       }
