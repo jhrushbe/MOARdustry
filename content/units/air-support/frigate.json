@@ -7,13 +7,13 @@
   "lowAltitude": true,
   "health": 460,
   "armor": 3,
-  "hitSize": 15, //find later
+  "hitSize": 15, 
   "speed": 2.5,
   "accel": 0.06,
   "drag": 0.017,
-  "engineOffset": 10.5, //find later
+  "engineOffset": 0, 
   "engineSize": 3,
-  "buildSpeed": 3,
+  "buildSpeed": 5,
   "mineTier": 3,
   "mineSpeed": 5,
   "rotateShooting": false,
@@ -27,7 +27,7 @@
     "recoil": 0,
     "continuous": true,
     "cooldownTime": 0,
-    "alternate": false,
+    "mirror": false,
     "shootSound": "beam",
     "bullet": {
       "type": "ContinuousLaserBulletType",
