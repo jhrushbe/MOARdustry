@@ -21,8 +21,8 @@
   "weapons": [
   {
     "name": "frigate-welder",
-    "x": 8,
-    "y": 0,
+    "x": 0,
+    "y": 8.5,
     "reload": 60,
     "recoil": 0,
     "continuous": true,
