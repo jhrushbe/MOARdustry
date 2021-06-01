@@ -34,7 +34,8 @@
     ["eclipse", "warmonger"],
     ["oct", "warmonger"],
     ["omura", "warmonger"],
-    ["dominator", "warmonger"]
+    ["dominator", "warmonger"],
+    ["carrier", "warmonger"]
   ],
   "category": "units",
   "research": "quadraticReconstructor",
