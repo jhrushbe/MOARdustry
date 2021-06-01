@@ -28,7 +28,7 @@
     ["poly", "mega"],
     ["minke", "bryde"],
     ["hammer", "stronghold"],
-    ["frigate", "convoy"]
+    ["barge", "frigate"]
   ],
   "category": "units",
   "research": "summativeReconstructor",
