@@ -16,5 +16,5 @@
   "itemCapacity": 300, 
   "mineTier": 7,
   "mineSpeed": 5, 
-  "research": "friggate",
+  "research": "frigate",
 }
