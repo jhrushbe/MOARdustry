@@ -8,8 +8,8 @@
     {"item": "silicon", "amount": 3000},
     {"item": "thorium", "amount": 1000},
     {"item": "plastanium", "amount": 600},
-    {"item": "phaseFabric", "amount": 600}
-    {"item": "surgeAlloy", "amount": 800},
+    {"item": "phaseFabric", "amount": 600},
+    {"item": "surgeAlloy", "amount": 800}
   ],
   "constructTime": 14400,
   "liquidCapacity": 180,
@@ -18,9 +18,9 @@
     "items": {
       "items": [
         {"item": "silicon", "amount": 1000},
-        {"item": "plastanium", "amount": 600}
+        {"item": "plastanium", "amount": 600},
         {"item": "surgeAlloy", "amount": 500},
-        {"item": "phaseFabric", "amount": 350},
+        {"item": "phaseFabric", "amount": 350}
       ]
     },
     "liquid": {"liquid": "cryofluid", "amount": 3}
