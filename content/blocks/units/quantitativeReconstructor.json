@@ -1,7 +1,7 @@
 {
   "type": "Reconstructor",
   "name": "Quantitative Reconstructor",
-  "descrption": "Upgrades Mindustry and MOARdustry units to the fourth tier.",
+  "description": "Upgrades Mindustry and MOARdustry units to the fourth tier.",
   "size": 7,
   "requirements": [ //find later
     {"item": "lead", "amount": 2000},
