@@ -7,11 +7,11 @@
   "lowAltitude": true,
   "health": 460,
   "armor": 3,
-  "hitSize": 15,
+  "hitSize": 15, //find later
   "speed": 2.5,
   "accel": 0.06,
   "drag": 0.017,
-  "engineOffset": 10.5,
+  "engineOffset": 10.5, //find later
   "engineSize": 3,
   "buildSpeed": 3,
   "mineTier": 3,
@@ -27,6 +27,7 @@
     "recoil": 0,
     "continuous": true,
     "cooldownTime": 0,
+    "alternate": false,
     "shootSound": "beam",
     "bullet": {
       "type": "ContinuousLaserBulletType",
@@ -37,7 +38,7 @@
       "incendChance": 0,
       "incendSpread": 0,
       "incendAmount": 0,
-      "drawSize": 2,
+      "drawSize": 0.1,
       "length": 8,
       "width": 8,
       "colors": ["98ffa955", "98ffa9aa", "98ffa9", "ffffff"],
@@ -72,7 +73,7 @@
           "sizeTo": 4,
           "colorFrom": "98ffa9",
           "colorTo": "98ffa9",
-          "region": "shape-3" //replace with the health cross
+          "region": "MOARdustry-heal" 
         }, 
       }
       "range": 60,
