@@ -1,12 +1,11 @@
 {
   "type": "payload",
   "name": "Carrier",
-  "description": "Vulnerable, but able to carry huge amounts of blocks. Will sacrifice itself to try and help others.",
-  "controller": "DefenderAI",
+  "description": "Vulnerable, but able to carry huge amounts of blocks.",
   "flying": true,
   "lowAltitude": true,
   "health": 6000,
-  "hitsize": 8, //find later
+  "hitSize": 8, //find later
   "speed": 0.1,
   "accel": 0.07,
   "drag": 0.06,
