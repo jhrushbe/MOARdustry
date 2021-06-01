@@ -9,10 +9,11 @@
     {"item": "titanium", "amount": 350},
     {"item": "thorium", "amount": 650}
   ],
-  "consumes": {
+  "constructTime": 1800,
+  "consumes": { //find later
     "power": 6,
     "items": {
-      "items": [ //find later
+      "items": [ 
         {"item": "silicon", "amount": 130},
         {"item": "titanium", "amount": 80},
         {"item": "metaglass", "amount": 40}
