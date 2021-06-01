@@ -1,6 +1,6 @@
 {
   "type": "flying",
-  "name": "Friggate",
+  "name": "Frigate",
   "description": "An alternative to the poly and mega more focused on healing anything and everything around it",
   "controller": "RepairAI",
   "flying": true,
@@ -20,7 +20,7 @@
   "isCounted": false,
   "weapons": [
   {
-    "name": "friggate-welder",
+    "name": "frigate-welder",
     "x": 8,
     "y": 0,
     "reload": 60,
