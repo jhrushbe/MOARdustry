@@ -11,7 +11,7 @@
   ],
   "plans": [
     {
-      "unit": "lcum",
+      "unit": "lcmu",
       "time": 120, //find later
       "requirements": [ //find later
         {"item": "silicon", "amount": 10},
