@@ -1,0 +1,34 @@
+{
+  "type": "Reconstructor",
+  "name": "Productive Reconstructor",
+  "descrption": "Upgrades Mindustry and MOARdustry units to the third tier.",
+  "size": 5,
+  "requirements": [ //find later
+    {"item": "lead", "amount": 650},
+    {"item": "silicon", "amount": 450},
+    {"item": "titanium", "amount": 350},
+    {"item": "thorium", "amount": 650}
+  ],
+  "consumes": {
+    "power": 6,
+    "items": {
+      "items": [ //find later
+        {"item": "silicon", "amount": 130},
+        {"item": "titanium", "amount": 80},
+        {"item": "metaglass", "amount": 40}
+      ]
+    }
+  },
+  "upgrades": [
+    ["pulsar", "quasar"],
+    ["mace", "fortress"],
+    ["atrax", "spiroct"],
+    ["horizon", "zenith"],
+    ["poly", "mega"],
+    ["minke", "bryde"],
+    ["hammer", "stronghold"],
+    ["friggate", "convoy"]
+  ],
+  "category": "units",
+  "research": "summativeReconstructor",
+}
