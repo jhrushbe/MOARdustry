@@ -9,7 +9,7 @@
     {"item": "titanium", "amount": 2000},
     {"item": "thorium", "amount": 750},
     {"item": "plastanium", "amount": 450},
-    {"item": "phaseFabric", "amount": 600}
+    {"item": "phase-fabric", "amount": 600}
   ],
   "constructTime": 5400,
   "liquidCapacity": 60,
