@@ -1,0 +1,39 @@
+{
+  "type": "Reconstructor",
+  "name": "Quantitative Reconstructor",
+  "descrption": "Upgrades Mindustry and MOARdustry units to the fourth tier.",
+  "size": 7,
+  "requirements": [ //find later
+    {"item": "lead", "amount": 2000},
+    {"item": "silicon", "amount": 1000},
+    {"item": "titanium", "amount": 2000},
+    {"item": "thorium", "amount": 750},
+    {"item": "plastanium", "amount": 450},
+    {"item": "phaseFabric", "amount": 600}
+  ],
+  "constructTime": 5400,
+  "liquidCapacity": 60,
+  "consumes": { //find later
+    "power": 13,
+    "items": {
+      "items": [
+        {"item": "silicon", "amount": 850},
+        {"item": "titanium", "amount": 750},
+        {"item": "plastanium", "amount": 650}
+      ]
+    },
+    "liquid": {"liquid": "cryofluid", "amount": 1}
+  },
+  "upgrades": [
+    ["quasar", "vela"],
+    ["fortress", "scepter"],
+    ["spiroct", "arkyid"],
+    ["zenith", "antumbra"],
+    ["mega", "quad"],
+    ["bryde", "sei"],
+    ["stronghold", "verge"],
+    ["convoy", "carrier"]
+  ],
+  "category": "units",
+  "research": "productiveReconstructor",
+}
