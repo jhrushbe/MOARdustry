@@ -1,7 +1,7 @@
 {
   "type": "Reconstructor",
   "name": "Quadratic Reconstructor",
-  "descrption": "Upgrades Mindustry and MOARdustry units to the fifth tier.",
+  "description": "Upgrades Mindustry and MOARdustry units to the fifth tier.",
   "size": 9,
   "requirements": [ //find later
     {"item": "lead", "amount": 4000},
