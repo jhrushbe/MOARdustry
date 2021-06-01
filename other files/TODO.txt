@@ -1,21 +1,10 @@
 I might get all this done....
 
 v0.10 (units)
-=Units=
--add mono upgrade tree:
-  -barge (mines like a mega, acts like a mono)
-  -friggate (heals units and blocks)
-  -convoy (mines all, 300 storage, acts like a mono)
-  -carrier (has a 16 block carry capacity, lots of health, no defences, flies low)
--add orbital platform (cannot turn, continuous laser that kills only whats below it, flying, medium speed, decent health, "star" sprite, engine in middle)
-=Blocks=
--add lmcu launcher
-=Effects=
--overheal (custom visual, look at https://github.com/K103908/Exotic-Mod/blob/master/content/units/ground-support/wildfire.hjson)
 =Sprites=
--sprite components
 -resprite spawner
 -chimera the fk out the chimera's legs
+-orbiter: "star" sprite
 
 v0.11 (miscellaneous)
 =Blocks=
