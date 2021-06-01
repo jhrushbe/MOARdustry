@@ -16,7 +16,7 @@
   "buildSpeed": 5,
   "mineTier": 3,
   "mineSpeed": 5,
-  "rotateShooting": false,
+  "rotateShooting": true,
   "isCounted": false,
   "weapons": [
   {
@@ -72,7 +72,7 @@
           "sizeFrom": 3,
           "sizeTo": 4,
           "colorFrom": "98ffa9",
-          "colorTo": "98ffa9",
+          "colorTo": "ffffff00",
           "region": "MOARdustry-heal" 
         }, 
       }
