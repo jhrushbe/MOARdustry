@@ -20,7 +20,7 @@
       "shootY": 0,
       "shake": 0,
       "top": false,
-      "reload": 0,
+      "reload": 1,
       "recoil": 0,
       "shootSound": "none",
       "bullet": {
