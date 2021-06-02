@@ -32,7 +32,7 @@
         "incendSpread": 1,
         "incendAmount": 3,
         "length": 4,
-        "width": 0,
+        "width": 4,
         "colors": ["00000000", "00000000", "00000000", "00000000"],
         "lightColor": "ff9c5a"
       }
