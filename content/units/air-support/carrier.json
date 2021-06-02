@@ -5,14 +5,14 @@
   "flying": true,
   "lowAltitude": true,
   "health": 6000,
-  "hitSize": 8, //find later
+  "hitSize": 48.5, 
   "speed": 0.8,
   "accel": 0.07,
   "drag": 0.06,
-  "engineOffset": 5.7, //find later
-  "engineSize": 1.8, //find later
+  "engineOffset": 0, 
+  "engineSize": 19, 
   "isCounted": false,
-  "itemCapacity": 1000, //find later
+  "itemCapacity": 1000, 
   "payloadCapacity": 16,
   "research": "convoy",
 }
