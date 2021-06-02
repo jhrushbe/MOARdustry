@@ -66,16 +66,16 @@
         "damage": -1,
         "effect": {
           "type": "particleEffect",
-          "particles": 1
+          "particles": 1,
           "length": 0,
           "lifetime": 25,
           "sizeFrom": 3,
           "sizeTo": 4,
           "colorFrom": "98ffa9",
           "colorTo": "ffffff00",
-          "region": "MOARdustry-heal" 
-        }, 
-      }
+          "region": "heal" 
+        }
+      },
       "range": 60,
       "reload": 600,
       "duration": 60,
