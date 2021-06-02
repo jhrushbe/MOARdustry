@@ -26,6 +26,7 @@
     ["mono", "poly"],
     ["risso", "minke"],
     ["scimitar", "hammer"],
+    ["barge", "barge"]
   ],
   "category": "units",
   "research": "MOARFactory",
