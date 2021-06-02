@@ -12,6 +12,7 @@
   "accel": 20.01,
   "engineOffset": 0,
   "engineSize": 9,
+  "range": 1,
   "weapons": [
     {
       "name": "orbiter-laser",
@@ -26,10 +27,10 @@
       "bullet": {
         "type": "ContinuousLaserBulletType", 
         "lifetime": 60,
-        "damage": 30,
-        "incendChance": 0,
-        "incendSpread": 0,
-        "incendAmount": 0,
+        "damage": 3000,
+        "incendChance": 10,
+        "incendSpread": 1,
+        "incendAmount": 3,
         "length": 4,
         "width": 0,
         "colors": ["00000000", "00000000", "00000000", "00000000"],
