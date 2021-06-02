@@ -5,7 +5,7 @@
   "controller": "MinerAI",
   "flying": true,
   "health": 1000,
-  "hitsize": 27,
+  "hitSize": 27,
   "speed": 0.25,
   "accel": 0.07,
   "drag": 0.06,
