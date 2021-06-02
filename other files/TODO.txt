@@ -2,14 +2,10 @@ I might get all this done....
 
 v0.10 (units)
 =Sprites=
--resprite spawner
 -chimera the fk out the chimera's legs
 -orbiter: "star" sprite
--sprite MOARFactory
 -sprite Axis
--sprite geometricReconstructor
 -sprite LCMU launcher
--sprite quadraticReconstructor
 -sprite carrier
 -sprite convoy
 -sprite lcmu
@@ -26,6 +22,9 @@ v0.11 (miscellaneous)
 -add a missile spam turret that uses the finale of "1812" as the laser sound (laser turret type)
 <Logic>
 -add timer (logic block, 1 line/second)
+<Factories>
+-add grinder drill (makes copper, lead, and scrap into sand)
+-add sifter (turns sand into copper, lead, graphite, silicon, titanium, metaglass, thorium, or aol)
 =Effects=
 -compusion (damageMultiplier: -1, speedMultiplier: -1, damage: 10, no effect)
 =Weather=
