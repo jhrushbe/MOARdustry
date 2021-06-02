@@ -13,5 +13,6 @@
   "engineSize": 1.8, //find later
   "isCounted": false,
   "itemCapacity": 1000, //find later
+  "payloadCapacity": 16,
   "research": "convoy",
 }
