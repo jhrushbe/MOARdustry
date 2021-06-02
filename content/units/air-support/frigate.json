@@ -65,7 +65,7 @@
         "healthMultiplier": 1.5,
         "damage": -1,
         "effect": {
-          "type": "particleEffect",
+          "type": "ParticleEffect",
           "particles": 1,
           "length": 0,
           "lifetime": 25,
@@ -73,7 +73,7 @@
           "sizeTo": 4,
           "colorFrom": "98ffa9",
           "colorTo": "ffffff00",
-          "region": "heal" 
+          "region": "cross" 
         }
       },
       "range": 60,
