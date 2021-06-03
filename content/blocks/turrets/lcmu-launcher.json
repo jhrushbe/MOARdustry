@@ -12,10 +12,11 @@
   "plans": [
     {
       "unit": "lcmu",
-      "time": 120, //find later
-      "requirements": [ //find later
-        {"item": "silicon", "amount": 10},
-        {"item": "titanium", "amount": 10}
+      "time": 60, 
+      "requirements": [ 
+        {"item": "silicon", "amount": 3},
+        {"item": "titanium", "amount": 2},
+        {"item": "blast-compound", "amount": 1}
       ]
     }
   ],
