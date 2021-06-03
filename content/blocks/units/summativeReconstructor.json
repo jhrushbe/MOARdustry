@@ -3,13 +3,13 @@
   "name": "Summative Reconstructor",
   "description": "Upgrades Mindustry and MOARdustry units to the second tier.",
   "size": 3,
-  "requirements": [ //find later
+  "requirements": [ 
     {"item": "copper", "amount": 200},
     {"item": "lead", "amount": 120},
     {"item": "silicon", "amount": 90}
   ],
   "constructTime": 600,
-  "consumes": { //find later
+  "consumes": { 
     "power": 3,
     "items": {
       "items": [ 
