@@ -4,7 +4,7 @@
   "description": "The beginning of every MOARdustry unit line.",
   "size": 3,
   "consumes": {"power": 1.2},
-  "requirements": [ //find later
+  "requirements": [ 
     {"item": "copper", "amount": 150},
     {"item": "lead", "amount": 70},
     {"item": "silicon", "amount": 80}
@@ -12,8 +12,8 @@
   "plans": [
     {
       "unit": "scimitar",
-      "time": 900, //find later
-      "requirements": [ //find later
+      "time": 900, 
+      "requirements": [ 
         {"item": "silicon", "amount": 10},
         {"item": "lead", "amount": 10}
       ]
