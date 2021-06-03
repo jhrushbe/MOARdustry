@@ -3,7 +3,7 @@
   "name": "Quadratic Reconstructor",
   "description": "Upgrades Mindustry and MOARdustry units to the fifth tier.",
   "size": 9,
-  "requirements": [ //find later
+  "requirements": [ 
     {"item": "lead", "amount": 4000},
     {"item": "silicon", "amount": 3000},
     {"item": "thorium", "amount": 1000},
@@ -13,7 +13,7 @@
   ],
   "constructTime": 14400,
   "liquidCapacity": 180,
-  "consumes": { //find later
+  "consumes": { 
     "power": 25,
     "items": {
       "items": [
