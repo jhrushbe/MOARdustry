@@ -4,7 +4,7 @@
   "description": "Spanws any vanilla or MOARdustry unit in a second.",
   "size": 11,
   "consumes": {"power": 1000},
-  "requirements": [ //find later
+  "requirements": [
     {"item": "antimatter", "amount": 10000}
   ],
   "plans": [
@@ -70,5 +70,4 @@
     {"unit": "orbiter", "time": 60, "requirements": [{"item": "silicon", "amount": 10}]},
   ],
   "category": "units",
-  "research": "geometricReconstructor",
 }
