@@ -1,7 +1,8 @@
 {
   "type": "flying",
   "name": "Lancer Cruise Missile Unit",
-  "description": "A missile with a brain and a lancer.",
+  "description": "Think super fast flying crawler with a lancer attached to it instead of an explosive.",
+  "controller": "SuicideAI",
   "health": 1,
   "hitSize": 1,
   "speed": 5,
@@ -11,7 +12,7 @@
   "drag": 0.05,
   "accel": 0.1,
   "engineOffset": 0,
-  "engineSize": 2,
+  "engineSize": 1.2,
   "range": 8,
   "weapons": [
     {
