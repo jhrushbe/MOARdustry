@@ -3,14 +3,14 @@
   "name": "Productive Reconstructor",
   "description": "Upgrades Mindustry and MOARdustry units to the third tier.",
   "size": 5,
-  "requirements": [ //find later
+  "requirements": [ 
     {"item": "lead", "amount": 650},
     {"item": "silicon", "amount": 450},
     {"item": "titanium", "amount": 350},
     {"item": "thorium", "amount": 650}
   ],
   "constructTime": 1800,
-  "consumes": { //find later
+  "consumes": { 
     "power": 6,
     "items": {
       "items": [ 
