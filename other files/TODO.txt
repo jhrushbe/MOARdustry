@@ -3,8 +3,6 @@ I might get all this done....
 v0.10 (units)
 =Sprites=
 -sprite Axis
--sprite LCMU launcher
--sprite lcmu
 
 v0.11 (miscellaneous)
 =Blocks=
