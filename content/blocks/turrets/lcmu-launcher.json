@@ -3,11 +3,11 @@
   "name": "LCMU Launch Facility",
   "description": "Creates Lancer Cruise Missle Units.",
   "size": 2,
-  "consumes": {"power": 5}, //find later
-  "requirements": [ //find later
-    {"item": "copper", "amount": 150},
+  "consumes": {"power": 6}, 
+  "requirements": [ 
+    {"item": "copper", "amount": 60},
     {"item": "lead", "amount": 70},
-    {"item": "silicon", "amount": 80}
+    {"item": "silicon", "amount": 50}
   ],
   "plans": [
     {
