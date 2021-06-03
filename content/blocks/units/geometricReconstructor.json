@@ -3,7 +3,7 @@
   "name": "Geometric Reconstructor",
   "description": "Upgrades Mindustry and MOARdustry units to the sixth tier.",
   "size": 11,
-  "requirements": [ //find later
+  "requirements": [
     {"item": "lead", "amount": 4000},
     {"item": "silicon", "amount": 3000},
     {"item": "thorium", "amount": 1000},
@@ -11,9 +11,9 @@
     {"item": "phase-fabric", "amount": 600},
     {"item": "surge-alloy", "amount": 800}
   ],
-  "constructTime": 28800, //find later
-  "liquidCapacity": 360, //find later
-  "consumes": { //find later
+  "constructTime": 28800, 
+  "liquidCapacity": 360, 
+  "consumes": { 
     "power": 50,
     "items": {
       "items": [
