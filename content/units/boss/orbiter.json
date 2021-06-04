@@ -23,6 +23,7 @@
       "top": false,
       "reload": 1,
       "recoil": 0,
+      "rotate": true,
       "shootSound": "none",
       "bullet": {
         "type": "ContinuousLaserBulletType",
