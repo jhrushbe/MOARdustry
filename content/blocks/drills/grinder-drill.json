@@ -1,0 +1,20 @@
+{
+  "type": "Drill",
+  "name": "Grinder Drill",
+  "description": "Grinds ore down into sand.",
+  "size": 2,
+  "requirements": [
+    {"item": "copper", "amount": 48},
+    {"item": "lead", "amount": 25},
+    {"item": "graphite", "amount": 10}
+  ],
+  "tier": 3,
+  "drillTime": 450,
+  "updateEffect": "pulverizeSmall",
+  "consumes": {
+    "liquid": {"liquid": "water", "amount": 0.06, "booster": true, "optional": true}
+  },
+  "outputItem": {"item": "sand", "amount": 1},
+  "research": "pneumatic-drill",
+  "category": "production",
+}
