@@ -12,6 +12,7 @@
   "accel": 20.01,
   "engineOffset": 0,
   "engineSize": 9,
+  "range": 1,
   "weapons": [
     {
       "name": "orbiter-laser",
@@ -30,8 +31,8 @@
         "lifetime": 60,
         "damage": 3000,
         "incendChance": 10,
-        "incendSpread": 1,
-        "incendAmount": 3,
+        "incendSpread": 10,
+        "incendAmount": 10,
         "drawSize": 0.1,
         "length": 8,
         "width": 8,
