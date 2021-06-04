@@ -51,7 +51,6 @@
     {"unit": "gamma", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
     //MOARdustry units
     //region other
-    {"unit": "e-body", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
     {"unit": "lcmu", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
     //region ground attack
     {"unit": "scimitar", "time": 60, "requirements": [{"item": "silicon", "amount": 1}]},
