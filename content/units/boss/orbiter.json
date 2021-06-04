@@ -25,6 +25,20 @@
       "recoil": 0,
       "shootSound": "none",
       "bullet": {
+        "type": "ContinuousLaserBulletType",
+        "lifetime": 60,
+        "damage": 3000,
+        "healPercent": 1,
+        "collidesTeam": true,
+        "incendChance": 0,
+        "incendSpread": 0,
+        "incendAmount": 0,
+        "drawSize": 0.1,
+        "length": 8,
+        "width": 8,
+        "colors": ["98ffa955", "98ffa9aa", "98ffa9", "ffffff"],
+        "lightColor": "98ffa9",
+        /*
         "type": "ContinuousLaserBulletType", 
         "lifetime": 60,
         "damage": 3000,
@@ -35,6 +49,7 @@
         //"width": 4,
         //"colors": ["00000000", "00000000", "00000000", "00000000"],
         "lightColor": "ff9c5a"
+        */
       }
     }
   ]
