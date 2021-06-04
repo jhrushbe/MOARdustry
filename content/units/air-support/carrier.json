@@ -13,6 +13,6 @@
   "engineSize": 19, 
   "isCounted": false,
   "itemCapacity": 1000, 
-  "payloadCapacity": 2048,
+  "payloadCapacity": 1024, //(8*8)*#of tiles
   "research": "convoy",
 }
