@@ -24,6 +24,7 @@
       "reload": 10,
       "recoil": 0,
       "rotate": true,
+      "mirror": false,
       "shootSound": "none",
       "bullet": {
         "type": "ContinuousLaserBulletType",
