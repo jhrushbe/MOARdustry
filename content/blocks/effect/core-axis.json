@@ -2,7 +2,7 @@
   "type": "CoreBlock",
   "name": "Axis",
   "description": "A heavily armored core with larger unit and item capacities.",
-  "health": 12000, //find later
+  "health": 11000,
   "size": 6,
   "requirements": [ //find later
     {"item": "copper", "amount": 10000},
@@ -11,7 +11,7 @@
     {"item": "thorium", "amount": 4000},
     {"item": "surge-alloy", "amount": 1000}
   ],
-  "itemCapacity": 24000, //find later
+  "itemCapacity": 20000, 
   "unitCapModifier": 50,
   "unitType": "frigate", //find later
   "category": "effect",
