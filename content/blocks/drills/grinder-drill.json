@@ -2,6 +2,7 @@
   "type": "Drill",
   "name": "Grinder Drill",
   "description": "Grinds ore down into sand.",
+  "details": "Anything is sand if ground finely enough."
   "size": 2,
   "requirements": [
     {"item": "copper", "amount": 48},
