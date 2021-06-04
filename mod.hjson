@@ -1,7 +1,7 @@
 name: "MOARdustry"
 displayName: "MOARdustry"
 author: Jhrushbe
-description: "A mod for Mindustry that adds MOAR to your game.\n \nnLast Update: v0.10 on 6-3-2021"
+description: "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.10 on 6-3-2021"
 version: "0.10"
 minGameVersion: "105"
 dependencies: [ ]
