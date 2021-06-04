@@ -13,6 +13,6 @@
   "engineSize": 19, 
   "isCounted": false,
   "itemCapacity": 1000, 
-  "payloadCapacity": 16,
+  "payloadCapacity": 64,
   "research": "convoy",
 }
