@@ -12,6 +12,7 @@
   "accel": 0.1,
   "engineOffset": 0,
   "engineSize": 1.2,
+  "range": 20,
   "weapons": [
     {
       "name": "lancer",
