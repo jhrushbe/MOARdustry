@@ -21,7 +21,7 @@
       "shootY": 0,
       "shake": 0,
       "top": false,
-      "reload": 1,
+      "reload": 10,
       "recoil": 0,
       "rotate": true,
       "shootSound": "none",
