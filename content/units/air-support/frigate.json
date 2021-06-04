@@ -69,11 +69,11 @@
           "particles": 1,
           "length": 0,
           "lifetime": 25,
-          "sizeFrom": 3,
-          "sizeTo": 4,
-          "colorFrom": "98ffa9",
-          "colorTo": "ffffff00",
-          "region": "MOARdustry-cross" 
+          "sizeFrom": 1,
+          "sizeTo": 2,
+          "colorFrom": "ffffff",
+          "colorTo": "98ffa900",
+          "region": "large-bomb-back" //it wouldnt use my own sprite, so i had to make do with what was in the source code
         }
       },
       "range": 60,
