@@ -1,0 +1,64 @@
+{
+  "type": "mech",
+  "name": "Stronghold",
+  "description": "A walking artillery platform.",
+  "health": 800,
+  "hitSize": 13,
+  "speed": 0.39,
+  "armor": 9,
+  "rotateSpeed": 3,
+  "targetAir": false,
+  "mechFrontSway": 0.55,
+  "weapons": [
+    {
+      "name": "stronghold-hail",
+      "top": false,
+      "reload": 60,
+      "x": 9,
+      "y": 1,
+      "shootY": 7,
+      "recoil": 4,
+      "shake": 2,
+      "ejectEffect": "casing2",
+      "shootSound": "bang",
+      "inaccuracy": 1,
+      "bullet": {
+        "type": "ArtilleryBulletType",
+        "width": 11,
+        "height": 11,
+        "lifetime": 80,
+        "shootEffect": "shootSmall",
+        "smokeEffect": "shootSmallSmoke",
+        "hitEffect": "flakExplosion",
+        "splashDamageRadius": 18.75,
+        "splashDamage": 33,
+      }
+    }
+    {
+      "name": "stronghold-ripple",
+      "reload": 200,
+      "x": 0,
+      "y": -6,
+      "shootY": 2,
+      "recoil": 6,
+      "shake": 2,
+      "shots": 4,
+      "mirror": false,
+      "ejectEffect": "casing3Double",
+      "shootSound": "artillery",
+      "inaccuracy": 12,
+      "bullet": {
+        "type": "ArtilleryBulletType",
+        "width": 14,
+        "height": 14,
+        "lifetime": 110,
+        "shootEffect": "shootSmall",
+        "smokeEffect": "shootSmallSmoke",
+        "hitEffect": "flakExplosion",
+        "splashDamageRadius": 18.75,
+        "splashDamage": 33
+      }
+    }
+  ],
+  "research": "fortress",
+}

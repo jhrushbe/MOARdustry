@@ -1,5 +1,29 @@
 Update log:
 
+v0.10 "units":
+=Blocks=
+<Units>
+-added spawner
+-added reconstructors (summative(T2)>productive(T3)>quantitative(T4)>quadratic(T5)>geometric(T6))
+-added lcmu launcher
+<Effect>
+-added core-axis
+=Units=
+-added scimitar unit tree (scimitar>hammer>stronghold>verge>dominator)
+-added barge unit tree (barge>friggate>convoy>carrier)
+-added warmonger (T6)
+-added lcmu
+-added asmodeus (boss)
+-added orbiter (boss)
+=Vainity=
+-M
+=Maps=
+-added Plantary Launch Terminal to freeplay
+=Sprites=
+-resprie of extra-dimentional container
+-accidental resprite of the mac
+-realised that i have been using the wrong fuel-cell sprite
+
 v0.9 "the speed of c":
 =Blocks=
 <Turret>

@@ -1,0 +1,41 @@
+{
+  "type": "flying",
+  "name": "Orbiter",
+  "description": "Orbits high above the planet, raining death from above.",
+  "flying": true,
+  "health": 2000000,
+  "armor": 0,
+  "hitSize": 43,
+  "speed": 0.1,
+  "rotateSpeed": 0,
+  "drag": 20,
+  "accel": 20.01,
+  "engineOffset": 0,
+  "engineSize": 9,
+  "range": 20,
+  "weapons": [
+    {
+      "name": "orbiter-laser",
+      "x": 0,
+      "y": 0,
+      "shootY": 0,
+      "shake": 0,
+      "top": false,
+      "reload": 1,
+      "recoil": 0,
+      "shootSound": "none",
+      "bullet": {
+        "type": "ContinuousLaserBulletType", 
+        "lifetime": 60,
+        "damage": 3000,
+        "incendChance": 10,
+        "incendSpread": 1,
+        "incendAmount": 3,
+        //"length": 4,
+        //"width": 4,
+        //"colors": ["00000000", "00000000", "00000000", "00000000"],
+        "lightColor": "ff9c5a"
+      }
+    }
+  ]
+}

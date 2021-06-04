@@ -1,0 +1,40 @@
+{
+  "type": "Reconstructor",
+  "name": "Quadratic Reconstructor",
+  "description": "Upgrades Mindustry and MOARdustry units to the fifth tier.",
+  "size": 9,
+  "requirements": [ 
+    {"item": "lead", "amount": 4000},
+    {"item": "silicon", "amount": 3000},
+    {"item": "thorium", "amount": 1000},
+    {"item": "plastanium", "amount": 600},
+    {"item": "phase-fabric", "amount": 600},
+    {"item": "surge-alloy", "amount": 800}
+  ],
+  "constructTime": 14400,
+  "liquidCapacity": 180,
+  "consumes": { 
+    "power": 25,
+    "items": {
+      "items": [
+        {"item": "silicon", "amount": 1000},
+        {"item": "plastanium", "amount": 600},
+        {"item": "surge-alloy", "amount": 500},
+        {"item": "phase-fabric", "amount": 350}
+      ]
+    },
+    "liquid": {"liquid": "cryofluid", "amount": 3}
+  },
+  "upgrades": [
+    ["vela", "corvus"],
+    ["scepter", "reign"],
+    ["arkyid", "toxopid"],
+    ["antumbra", "eclipse"],
+    ["quad", "oct"],
+    ["sei", "omura"],
+    ["verge", "dominator"],
+    ["convoy", "carrier"]
+  ],
+  "category": "units",
+  "research": "quantitativeReconstructor",
+}

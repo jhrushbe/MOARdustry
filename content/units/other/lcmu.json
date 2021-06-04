@@ -1,0 +1,47 @@
+{
+  "type": "flying",
+  "name": "Lancer Cruise Missile Unit",
+  "description": "Think super fast flying crawler with a lancer attached to it instead of an explosive.",
+  "health": 1,
+  "hitSize": 1,
+  "speed": 5,
+  "rotateSpeed": 60,
+  "baseRotateSpeed": 60,
+  "flying": true,
+  "drag": 0.05,
+  "accel": 0.1,
+  "engineOffset": 0,
+  "engineSize": 1.2,
+  "weapons": [
+    {
+      "name": "lancer",
+      "x": 0,
+      "y": 0,
+      "reload": 60,
+      "mirror": false,
+      "shootSound": "laser",
+      "bullet": {
+        "type": "basicBulletType",
+        "lifetime": 0,
+        "killShooter": true,
+        "width": 0,
+        "height": 0,
+        "fragCone": 0,
+        "fragBullets": 1,
+        "despawnEffect": "none",
+        "fragBullet": {
+          "type": "LaserBulletType",
+          "drawSize": 400,
+          "length": 173,
+          "lifetime": 16,
+          "hitSize": 4,
+          "shootEffect": "lancerLaserShoot",
+          "smokeEffect": "none",
+          "hitEffect": "hitLancer",
+          "despawnEffect": "none",
+          "damage": 140,
+        }
+      }
+    }
+  ]
+}

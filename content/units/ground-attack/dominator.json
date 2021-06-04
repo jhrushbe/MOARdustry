@@ -1,0 +1,53 @@
+{
+  "type": "mech",
+  "name": "Dominator",
+  "description": "A mini moving MAC.",
+  "health": 24000,
+  "hitSize": 26,
+  "speed": 0.35,
+  "rotateSpeed": 1.65,
+  "armor": 14,
+  "canDrown": false,
+  "mechFrontSway": 1.95,
+  "mechSideSway": 0.6,
+  "mechStepParticles": true,
+  "mechStepShake": 0.75,
+  "singleTarget": true,
+  "weapons": [
+    {
+      "name": "dominator-weapon",
+      "x": 15,
+      "y": 4,
+      "shootY": 15,
+      "reload": 30,
+      "shootSound": "lasershoot",
+      "shake": 1,
+      "recoil": 4,
+      "bullet": {
+        "type": "ShrapnelBulletType",
+        "width": 4,
+        "length": 190,
+        "damage": 300,
+      }
+    }
+    {
+      "name": "dominator-mac",
+      "x": 0,
+      "y": 0,
+      "shootY": 1,
+      "reload": 350,
+      "shootSound": "railgun",
+      "shake": 10,
+      "recoil": 0,
+      "mirror": false,
+      "bullet": {
+        "type": "ShrapnelBulletType",
+        "width": 5,
+        "length": 350,
+        "damage": 3000,
+        "hitEffect": "instHit"
+      }
+    }
+  ],
+  "research": "reign",
+}

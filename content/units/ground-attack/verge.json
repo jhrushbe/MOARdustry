@@ -1,0 +1,37 @@
+{
+  "type": "mech",
+  "name": "Verge",
+  "description": "Fuses on legs.",
+  "health": 9000,
+  "hitSize": 20,
+  "speed": 0.35,
+  "rotateSpeed": 2.1,
+  "armor": 10,
+  "canDrown": false,
+  "mechFrontSway": 1,
+  "mechStepParticles": true,
+  "mechStepShake": 0.15,
+  "singleTarget": true,
+  "weapons": [
+    {
+      "name": "verge-weapon",
+      "top": false,
+      "reload": 35,
+      "x": 16,
+      "y": 0,
+      "shootY": 11,
+      "shootSound": "shotgun",
+      "shots": 3,
+      "inaccuracy": 20,
+      "recoil": 5,
+      "shake": 4,
+      "bullet": {
+        "type": "ShrapnelBulletType",
+        "width": 17,
+        "length": 100,
+        "damage": 100
+      }
+    }
+  ],
+  "research": "scepter",
+}

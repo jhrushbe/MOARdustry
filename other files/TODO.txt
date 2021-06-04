@@ -1,33 +1,24 @@
 I might get all this done....
 
-v0.10 (units)
-=Units=
--add crate unit tree:
-  -crate (miner, 100 storage, little health, no defence, flying)
-  -hauler (miner/healer bot, 500 storage, decent health, no defences, 1 mine ray, one heal ray, flying)
-  -barge (mines titanium, 1.5k storage, decent health, no defences, cannot fly)
-  -carrier (mines all, 2.5k storage, lots of health, has some defence(a missile launcher, 2 duos, 1 point defence(if possible)), cannot fly)
-  -convoy (cant mine, 6k storage, all the health, sheild, has lots of defence(4 missile launchers, 4 arcs, 2 hails, 2 point defence), cannot fly)
--add scimitar unit tree (better dagger tree)
-  -scimitar (dagger) (moves quick, low health, a duo strapped to its side)
-  -hammer (mace) ("punches"(negative recoil) things)
-  -stronghold (fortress) (artilliary hell)
-  -verge (scepter) (basicly a pair of long range fuses)
-  -dominator (reign) (a mac for a main weapon(stationary), two railgun supports)
--add lance unit (suicide, "warps" at enemy, fuse-like attack)
+v0.11 (miscellaneous)
 =Blocks=
--add mega unit storage core (120 should do)
--add speedy upgraders (faster alt to T3, T4, & T5 upgraders, use plastic as crafting material)
--add assemblers (instant upgrades, use components) ("Eclipses? Reigns? Omuras? Its your's, my friend, so long as you have enough components.")
--add component assemblers (makes components) (Sorry, [redacted], I cant give components. Come back when your a little, mmmm, richer!)
--add unit spawner
+<Drills>
+-add lubricated drill (uses hor to mine faster)
+<Turrets>
+-add compulsor (compulsion, "posses" effect)
+-add Thor (lighning meltdown) (use some arcs and lancers to make the sprite)
+-add some turret that abuses "mixColorFrom": [] and "mixColorTo": [] in BasicBulletType
+-add a missile spam turret that uses the finale of "1812" as the laser sound (laser turret type)
+<Logic>
+-add timer (logic block, 1 line/second)
+<Factories>
+-add grinder drill (makes copper, lead, and scrap into sand)
+-add sifter (turns sand into copper, lead, graphite, silicon, titanium, metaglass, thorium, or aol)
 =Effects=
--overheal (healthMultiplier: 2, damage: -100(heals)) (custom visual, look at https://github.com/K103908/Exotic-Mod/blob/master/content/units/ground-support/wildfire.hjson)
-=Items=
--T2 component
--T3 component
--T4 component
--T5 component
+-compusion (damageMultiplier: -1, speedMultiplier: -1, damage: 10, no effect)
+=Weather=
+-add high winds (speedMultiblier: 0.1)
+-add flare (damageMultiplier: 1.5, speedMultiplier: 1.5, healthMultiplier: 0.5)
 
 v1.0 (official release)
 =Blocks=

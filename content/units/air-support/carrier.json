@@ -1,0 +1,18 @@
+{
+  "type": "payload",
+  "name": "Carrier",
+  "description": "Vulnerable, but able to carry huge amounts of blocks.",
+  "flying": true,
+  "lowAltitude": true,
+  "health": 6000,
+  "hitSize": 48.5, 
+  "speed": 0.8,
+  "accel": 0.07,
+  "drag": 0.06,
+  "engineOffset": 0, 
+  "engineSize": 19, 
+  "isCounted": false,
+  "itemCapacity": 1000, 
+  "payloadCapacity": 16,
+  "research": "convoy",
+}

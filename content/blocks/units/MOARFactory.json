@@ -1,0 +1,33 @@
+{
+  "type": "UnitFactory",
+  "name": "MOARdustry Factory",
+  "description": "The beginning of every MOARdustry unit line.",
+  "size": 3,
+  "consumes": {"power": 1.2},
+  "requirements": [ 
+    {"item": "copper", "amount": 150},
+    {"item": "lead", "amount": 70},
+    {"item": "silicon", "amount": 80}
+  ],
+  "plans": [
+    {
+      "unit": "scimitar",
+      "time": 900, 
+      "requirements": [ 
+        {"item": "silicon", "amount": 10},
+        {"item": "lead", "amount": 10}
+      ]
+    },
+    {
+      "unit": "barge",
+      "time": 600,
+      "requirements": [
+        {"item": "silicon", "amount": 70},
+        {"item": "graphite", "amount": 40},
+        {"item": "lead", "amount": 15}
+      ]
+    }
+  ],
+  "category": "units",
+  "research": "ground-factory",
+}

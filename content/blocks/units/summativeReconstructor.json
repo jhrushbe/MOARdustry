@@ -1,0 +1,33 @@
+{
+  "type": "Reconstructor",
+  "name": "Summative Reconstructor",
+  "description": "Upgrades Mindustry and MOARdustry units to the second tier.",
+  "size": 3,
+  "requirements": [ 
+    {"item": "copper", "amount": 200},
+    {"item": "lead", "amount": 120},
+    {"item": "silicon", "amount": 90}
+  ],
+  "constructTime": 600,
+  "consumes": { 
+    "power": 3,
+    "items": {
+      "items": [ 
+        {"item": "silicon", "amount": 40},
+        {"item": "graphite", "amount": 40}
+      ]
+    }
+  },
+  "upgrades": [
+    ["nova", "pulsar"],
+    ["dagger", "mace"],
+    ["crawler", "atrax"],
+    ["flare", "horizon"],
+    ["mono", "poly"],
+    ["risso", "minke"],
+    ["scimitar", "hammer"],
+    ["barge", "barge"]
+  ],
+  "category": "units",
+  "research": "MOARFactory",
+}
