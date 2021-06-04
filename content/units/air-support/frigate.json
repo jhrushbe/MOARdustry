@@ -1,7 +1,7 @@
 {
   "type": "flying",
   "name": "Frigate",
-  "description": "An alternative to the poly and mega more focused on healing anything and everything around it",
+  "description": "An alternative to the poly and mega more focused on healing anything and everything around it.",
   "controller": "RepairAI",
   "flying": true,
   "lowAltitude": true,
@@ -15,7 +15,7 @@
   "engineSize": 3,
   "buildSpeed": 5,
   "mineTier": 3,
-  "mineSpeed": 5,
+  "mineSpeed": 9.5,
   "rotateShooting": true,
   "isCounted": false,
   "weapons": [
