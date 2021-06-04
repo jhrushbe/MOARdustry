@@ -34,8 +34,8 @@
         "incendSpread": 10,
         "incendAmount": 10,
         "drawSize": 0.1,
-        "length": 8,
-        "width": 8,
+        "length": 16,
+        "width": 16,
         "colors": ["00000000", "00000000", "00000000", "00000000"],
         "lightColor": "ff9c5a",
       }
