@@ -4,14 +4,17 @@ v0.10 "units":
 =Blocks=
 <Units>
 -added spawner
--added reconstructors
+-added reconstructors (summative(T2)>productive(T3)>quantitative(T4)>quadratic(T5)>geometric(T6))
+-added lcmu launcher
 <Effect>
--added core axis
+-added core-axis
 =Units=
 -added scimitar unit tree (scimitar>hammer>stronghold>verge>dominator)
 -added barge unit tree (barge>friggate>convoy>carrier)
--added warmonger
+-added warmonger (T6)
 -added lcmu
+-added asmodeus (boss)
+-added orbiter (boss)
 =Vainity=
 -M
 =Maps=
