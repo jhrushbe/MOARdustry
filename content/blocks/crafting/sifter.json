@@ -1,0 +1,37 @@
+{
+  "type": "Separator",
+  "name": "Sifter",
+  "description": "Sifts through large amounts of sand with the help of a steam bath to find resources",
+  "details": "It's amazing what materials can be held in a pile of sand.",
+  "size": 3,
+  "requirements": [
+    {"item": "graphite", "amount": 200},
+    {"item": "titanium", "amount": 200},
+    {"item": "silicon", "amount": 100},
+    {"item": "surge-alloy", "amount": 100}
+  ],
+  "hasPower": true,
+  "craftTime": 60,
+  "itemCapacity": 40,
+  "consumes": {
+    "power": 4,
+    "items": {
+      "items": [
+        {"item": "sand", "amount": 40}
+      ]
+    },
+    "liquid": {"liquid": "steam", "amount": 0.06}
+  },
+  "results": [
+    {"item": "copper", "amount": 20},
+    {"item": "lead", "amount": 20},
+    {"item": "graphite", "amount": 15},
+    {"item": "silicon", "amount": 15},
+    {"item": "titanium", "amount": 10},
+    {"item": "metaglass", "amount": 10},
+    {"item": "thorium", "amount": 5},
+    {"item": "aol", "amount": 1}
+  ],
+  "research": "disassembler",
+  "category": "crafting",
+}
