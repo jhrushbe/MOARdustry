@@ -1,5 +1,12 @@
 Update log:
 
+v0.11 "miscellaneous":
+=Blocks=
+<Drills>
+-added grinder drill
+=Effects=
+=Weather=
+
 v0.10 "units":
 =Blocks=
 <Units>
