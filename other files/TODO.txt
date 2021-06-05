@@ -12,7 +12,6 @@ v0.11 (miscellaneous)
 <Logic>
 -add timer (logic block, 1 line/second)
 <Factories>
--add grinder drill (makes copper, lead, and scrap into sand)
 -add sifter (turns sand into copper, lead, graphite, silicon, titanium, metaglass, thorium, or aol)
 =Effects=
 -compusion (damageMultiplier: -1, speedMultiplier: -1, damage: 10, no effect)
