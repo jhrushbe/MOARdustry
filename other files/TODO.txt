@@ -13,6 +13,8 @@ v0.11 (miscellaneous)
 -add timer (logic block, 1 line/second)
 <Factories>
 -add sifter (turns sand into copper, lead, graphite, silicon, titanium, metaglass, thorium, or aol)
+<Power>
+-add nuclear turbine (uses fuel rods and lots of water, cost is thorium reactor+impact reactor, power is same as impact reactor, invis plasma, 8-bladed (16 sided polygon) rotator that spins very fast)
 =Effects=
 -compusion (damageMultiplier: -1, speedMultiplier: -1, damage: 10, no effect)
 =Weather=
