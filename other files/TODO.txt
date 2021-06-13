@@ -14,12 +14,18 @@ v0.11 (miscellaneous)
 <Factories>
 -add sifter (turns sand into copper, lead, graphite, silicon, titanium, metaglass, thorium, or aol)
 <Power>
--add nuclear turbine (uses fuel rods and lots of water, cost is thorium reactor+impact reactor, power is same as impact reactor, invis plasma, 8-bladed (16 sided polygon) rotator that spins very fast)
+-add furnace (impact reactor type, uses pyratite, yellow plasma, 3x3 size, rotator reveals and hides plasma)
+-add nuclear turbine (impact reacor type, uses fuel rods and lots of water, cost is thorium reactor+impact reactor, power is same as impact reactor, invis plasma, 8-bladed (16 sided polygon) rotator that spins very fast)
+-add antimater reactor (impact reactor type, uses antimatter(1), fuel cells(10), aol(5), and a tetetative reconstructor's worth of cryofluid to make 500,000 power, Star Trek NCC-1701-D Warp Core looking, uses a rotator to make the lights "pulse"(transparency), centeral blue ring has the plasma, blue plasma, 8x8 or larger size)
 =Effects=
 -compusion (damageMultiplier: -1, speedMultiplier: -1, damage: 10, no effect)
 =Weather=
 -add high winds (speedMultiblier: 0.1)
 -add flare (damageMultiplier: 1.5, speedMultiplier: 1.5, healthMultiplier: 0.5)
+=Sector=
+-make some secor have some MOARdustry things
+=Sprites=
+-change the fusion reactor's plasma to a series of circles 
 
 v1.0 (official release)
 =Blocks=
