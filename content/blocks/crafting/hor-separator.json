@@ -21,5 +21,5 @@
 	"category": "crafting",
 	"research": "plastic-refinery",
 	"outputItem": {"item": "coal", "amount": 1},
-	"outputLiquid": {"liquid": "water", "amount": 1.5},
+	"outputLiquid": {"liquid": "water", "amount": 0.1},
 }
