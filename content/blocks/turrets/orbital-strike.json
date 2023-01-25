@@ -14,13 +14,13 @@
   "targetGround": true,
   "spread": 0,
   "shots": 1,
-  "recoilAmount": 0,
-  "reloadTime": 60,
+  "recoil": 0,
+  "reload": 60,
   "range": 400,
   "shootCone": 1,
   "inaccuracy": 0,
   "rotateSpeed": 10,
-  "powerUse": 50,
+  "consumes": {"power": 50},
   "shootSound": "none",
   "shootType": {
     "type": "SapBulletType",
@@ -37,5 +37,5 @@
     "status": "none"
   },
   "research": "designator",
-  "category": "turret",
+  "category": "turret"
 }

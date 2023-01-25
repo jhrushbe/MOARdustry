@@ -8,6 +8,7 @@
     "hasLiquids": false,
     "craftTime": 180,
     "updateEffect": "smeltsmoke",
+    "drawer": "DrawFlame",
     "flameColor": "DD4C20",
     "requirements": [
         {"item": "copper", "amount": 100},

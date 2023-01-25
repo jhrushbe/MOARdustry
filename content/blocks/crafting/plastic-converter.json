@@ -8,6 +8,7 @@
     "hasLiquids": true,
     "craftTime": 60,
     "updateEffect": "smeltsmoke",
+    "drawer": "DrawFlame",
     "flameColor": "DD4C20",
     "requirements": [
         {"item": "lead", "amount": 200},

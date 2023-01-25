@@ -10,10 +10,10 @@
     {"item": "silicon", "amount": 100}
   ],
   "liquidCapacity": 10,
-  "recoilAmount": 0,
+  "recoil": 0,
   "targetAir": false,
   "targetGround": true,
-  "reloadTime": 2,
+  "reload": 2,
   "range": 110,
   "shootCone": 50,
   "ammoUseEffect": "none",
@@ -78,5 +78,5 @@
     }
   },
   "research": "scorch",
-  "category": "turret",
+  "category": "turret"
 }

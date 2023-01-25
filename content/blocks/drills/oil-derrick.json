@@ -1,6 +1,6 @@
 {
 	"name": "Oil Derrick",
-	"type": "Fracker",
+	"type": "fracker",
 	"description": "An advanced oil extractor capable of excavating vast amounts of oil.",
 	"hasItems": false,
 	"hasLiquids": true,

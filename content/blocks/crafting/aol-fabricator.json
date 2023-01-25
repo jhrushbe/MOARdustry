@@ -3,7 +3,6 @@
   "name": "Fabricator",
   "description": "Creates Alloy of Light by infusing materials with energy.",
   "size": 4,
-  "health": -1,
   "hasPower": true,
   "hasItems": true,
   "craftTime": 7200,

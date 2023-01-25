@@ -16,7 +16,7 @@
   "liquidCapacity": 60,
   "plasma1": "8aa3f4",
   "plasma2": "8aa3f4",
-  "powerProduction": 350,
+  "powerProduction": 200,
   "itemDuration": 36000,
   "consumes": {
     "power": 50,

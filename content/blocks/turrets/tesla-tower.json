@@ -10,7 +10,6 @@
 	"size": 2,
 	"health": 250,
 	"reload": 1,
-	"restitution": 0.01,
 	"inaccuracy": 180,
 	"shootCone": 360,
 	"shots": 16,

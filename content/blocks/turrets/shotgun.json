@@ -9,12 +9,12 @@
 		{"item": "lead", "amount": 100}
 	],
 	"shots": 30,
-	"reloadTime": 30,
+	"reload": 30,
 	"restitution": 0.03,
-	"spread": 1,
+	"spread": 20,
 	"inaccuracy": 1,
 	"shootCone": 20,
-	"recoilAmount": 10,
+	"recoil": 10,
 	"ammoUseEffect": "casing3",
 	"range": 90,
 	"rotateSpeed": 10,
@@ -23,26 +23,26 @@
 	"shootSound": "bang",
 	"ammoTypes": {
 		"lead": {
-            		"speed": 5,
+            	"speed": 5,
            		"damage": 7,
           		"ammoMultiplier": 10,
         		"reloadMultiplier": 1,
         		"width": 7,
         		"height": 9,
         		"shootEffect": "shootBig",
-       			"smokeEffect": "shootBigSmoke",
+       			"smokeEffect": "shootBigSmoke"
         	},
 		"scrap": {
-            		"speed": 5,
+            	"speed": 5,
            		"damage": 7,
           		"ammoMultiplier": 10,
         		"reloadMultiplier": 1,
         		"width": 7,
         		"height": 9,
         		"shootEffect": "shootBig",
-       			"smokeEffect": "shootBigSmoke",
+       			"smokeEffect": "shootBigSmoke"
         	}
 	},
 	"research": "scatter",
-	"category": "turret",
+	"category": "turret"
 }

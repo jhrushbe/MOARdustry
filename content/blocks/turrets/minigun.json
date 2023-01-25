@@ -6,21 +6,20 @@
     "requirements": [
         {"item": "copper", "amount": 100},
         {"item": "lead", "amount": 50},
-        {"item": "metaglass", "amount": 20},
+        {"item": "metaglass", "amount": 20}
     ],
     "targetAir": false,
     "targetGround": true,
     "spread": 0,
     "shots": 1,
     "alternate": false,
-    "reloadTime": 1,
-    "restitution": 0.01,
+    "reload": 1,
     "range": 150,
     "shootCone": 1,
     "ammoUseEffect": "casing1",
     "shootSound": "shootSnap",
     "health": 500,
-    "inaccuracy": 1,
+    "inaccuracy": 2,
     "rotateSpeed": 20,
     "ammoTypes": {
         "lead": {
@@ -30,7 +29,7 @@
             "width": 7,
             "height": 9,
             "shootEffect": "shootSmall",
-            "smokeEffect": "shootSmallSmoke",
+            "smokeEffect": "shootSmallSmoke"
         },
         "scrap": {
             "speed": 5,
@@ -39,9 +38,9 @@
             "width": 7,
             "height": 9,
             "shootEffect": "shootSmall",
-            "smokeEffect": "shootSmallSmoke",
+            "smokeEffect": "shootSmallSmoke"
         }
     },
     "category": "turret",
-    "research": "scatter",
+    "research": "scatter"
 }

@@ -1,5 +1,5 @@
 {
-  "type": "LaserTurret",
+  "type": "laserTurret",
   "name": "Sector Cracker",
   "description": "Nothing like a sector-wide laser sweep to end everything. \n[red]Note: Takes 30 minutes to fire.",
   "size": 10,
@@ -19,15 +19,15 @@
   "range": 40000,
   "reload": 1,
   "shootDuration": 36000,
-  "powerUse": 1000,
+  "consumes": {"power": 1000},
   "rotateSpeed": 0.05,
   "shootSound": "explosionBig",
   "loopSound": "pulse",
   "shootLength": 0,
   "chargeTime": 108000, 
-  "chargeMaxDelay": 0,
+  "chargeMaxDelay": 108000,
   "chargeEffects": 1,
-  "chargeSound": "none",
+  "chargeSound": "hum",
   "chargeEffect": {
     "type": "MultiEffect",
     "effects": [
@@ -41,8 +41,8 @@
         "colorFrom": "f3e979",
         "colorTo": "f58859",
         "strokeFrom": 1,
-        "strokeTo": 4,
-      }
+        "strokeTo": 4
+      },
       {
         "type": "waveEffect",
         "lifetime": 108000, 
@@ -53,8 +53,8 @@
         "colorFrom": "f3e979",
         "colorTo": "f58859",
         "strokeFrom": 1,
-        "strokeTo": 4,
-      }
+        "strokeTo": 4
+      },
       {
         "type": "waveEffect",
         "lifetime": 54000, 
@@ -65,8 +65,8 @@
         "colorFrom": "f3e979",
         "colorTo": "f58859",
         "strokeFrom": 1,
-        "strokeTo": 4,
-      }
+        "strokeTo": 4
+      },
       {
         "type": "waveEffect",
         "lifetime": 54000, 
@@ -77,7 +77,7 @@
         "colorFrom": "f3e979",
         "colorTo": "f58859",
         "strokeFrom": 1,
-        "strokeTo": 4,
+        "strokeTo": 4
       }
     ]
   },
@@ -100,8 +100,8 @@
           "colorFrom": "ffffff",
           "colorTo": "ffffff",
           "strokeFrom": 3,
-          "strokeTo": 0,
-        }
+          "strokeTo": 0
+        },
         {
           "type": "waveEffect",
           "sizeFrom": 80,
@@ -112,11 +112,11 @@
           "colorFrom": "ffffff",
           "colorTo": "ffffff",
           "strokeFrom": 3,
-          "strokeTo": 0,
+          "strokeTo": 0
         }
       ]
     }
   },
   "category": "turret",
-  "research": "bfg",
+  "research": "bfg"
 }

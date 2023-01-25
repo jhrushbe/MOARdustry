@@ -1,7 +1,7 @@
 {
 	"type": "genericCrafter",
 	"name": "Fuel Refiner",
-	"description": "Transforms oil into fuel.",
+	"description": "Refines oil into fuel.",
 	"size": 2,
 	"health": 300,
 	"hasPower": true,

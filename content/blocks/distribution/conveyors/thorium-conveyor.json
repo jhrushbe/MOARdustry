@@ -1,5 +1,5 @@
 {
-    "type": "StackConveyor",
+    "type": "stackConveyor",
     "name": "Thorium Conveyor",
     "description": "Using thorium powered shuttles, this conveyor can carry bundles at faster speeds than its predecessor.",
     "category": "distribution",

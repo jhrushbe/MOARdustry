@@ -10,10 +10,10 @@
     {"item": "silicon", "amount": 100}
   ],
   "liquidCapacity": 10,
-  "recoilAmount": 0,
+  "recoil": 0,
   "targetAir": true,
   "targetGround": true,
-  "reloadTime": 40,
+  "reload": 40,
   "range": 400,
   "shootCone": 1,
   "inaccuracy": 0,
@@ -34,8 +34,8 @@
       "hitColor": "bc5452",
       "shootEffect": "none",
       "smokeEffect": "none"
-    },
+    }
   },
   "research": "meltdown",
-  "category": "turret",
+  "category": "turret"
 }

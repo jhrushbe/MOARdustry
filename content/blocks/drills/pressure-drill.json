@@ -1,6 +1,6 @@
 {
 	"name": "Pressure Drill",
-	"type": "Drill",
+	"type": "drill",
 	"description": "Uses immense amounts of pressure to extract ores from the ground. Requires coolent to run.",
 	"size": 3,
 	"tier": 5,
@@ -12,7 +12,7 @@
    		{ "item": "thorium", "amount": 200 },
 		{ "item": "titanium", "amount": 100 },
 		{ "item": "plastanium", "amount": 100 },
-    		{ "item": "surge-alloy", "amount": 75 }
+    	{ "item": "surge-alloy", "amount": 75 }
 	],
 	"consumes": {
 		"power": 7.0,

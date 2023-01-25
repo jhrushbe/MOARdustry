@@ -1,7 +1,7 @@
 {
   "type": "lightBlock",
   "name": "Floodlight",
-  "description": "Larger and brighter than the illuminator",
+  "description": "Larger and brighter than the illuminator.",
   "size": 2,
   "health": 100,
   "requirements": [

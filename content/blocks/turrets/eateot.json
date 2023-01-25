@@ -1,7 +1,7 @@
 {
   "type": "powerTurret",
   "name": "Everything at the End of Time",
-  "description": "I can never remember what it does.\n[#ffb04a]Note: Does not effect blocks.",
+  "description": "I can never remember what it does.\n[#ffb04a]Note: Only affects units.",
   "size": 1,
   "health": 1000000,
   "requirements": [
@@ -10,9 +10,9 @@
   ],
   "shootCone": 1,
   "inaccuracy": 0,
-  "recoilAmount": 0,
+  "recoil": 0,
   "range": 1000,
-  "reloadTime": 300,
+  "reload": 300,
   "rotateSpeed": 360,
   "powerUse": 0,
   "shootSound": "none",
@@ -38,5 +38,5 @@
     },
     "statusDuration": 300
   },
-  "category": "turret",
+  "category": "turret"
 }
