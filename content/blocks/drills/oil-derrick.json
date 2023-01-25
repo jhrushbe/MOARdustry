@@ -15,7 +15,7 @@
 		{ "item": "silicon", "amount": 500 },
 		{ "item": "thorium", "amount": 300 },
 		{ "item": "plastanium", "amount": 200 },
-		{ "item": "surge-alloy", "amount": 200 },
+		{ "item": "surge-alloy", "amount": 200 }
 	],
 	"category": "production",
 	"research": "oil-extractor",
@@ -31,12 +31,12 @@
 		"power": 10.0,
 		"items": {
 			"items": [
-				{ "item": "sand", "amount": 1 },
+				{ "item": "sand", "amount": 1 }
 			]
 		},
 		"liquid": {
 			"liquid": "water",
-			"amount": 0.2,
+			"amount": 0.2
 		}
-	},
+	}
 }

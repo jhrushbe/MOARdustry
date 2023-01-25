@@ -1,7 +1,7 @@
 {
     "type": "GenericSmelter",
     "name": "Silicon Foundry",
-    "description": "Uses graphite crucibles, to assist in silicon production.",
+    "description": "Uses graphite crucibles to assist in silicon production.",
     "size": 2,
     "health": 200,
     "hasPower": true,
@@ -13,7 +13,7 @@
         {"item": "copper", "amount": 100},
         {"item": "titanium", "amount": 60},
         {"item": "graphite", "amount": 40},
-        {"item": "silicon", "amount": 20},
+        {"item": "silicon", "amount": 20}
     ],
     "consumes": {
     	"power": 2,

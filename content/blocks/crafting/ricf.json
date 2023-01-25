@@ -27,5 +27,5 @@
     },
     "outputItem": {"item": "fuel-cell", "amount": 1},
     "research": "phase-weaver",
-    "category": "crafting",
+    "category": "crafting"
 }

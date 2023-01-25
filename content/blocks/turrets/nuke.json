@@ -24,7 +24,7 @@
     "lifetime": 1200,
     "damage": 10000,
     "splashDamage": 7000,
-    "splashDamageRadius": 800,
+    "splashDamageRadius": 50,
     "drag": -0.001,
     "knockback": 40,
     "hittable": false,
@@ -48,8 +48,8 @@
     "hitEffect": "reactorExplosion",
     "trailColor": "454545",
     "trailEffect": "rocketSmoke",
-    "ammoMultiplier": 1,
+    "ammoMultiplier": 1
   },
   "research": "spectre",
-  "category": "turret",
+  "category": "turret"
 }

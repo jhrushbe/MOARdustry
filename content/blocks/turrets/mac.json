@@ -18,7 +18,7 @@
   "spread": 0,
   "shots": 1,
   "shootShake": 10,
-  "reloadTime": 120,
+  "reloadTime": 240,
   "range": 700,
   "shootCone": 1,
   "inaccuracy": 0,
@@ -33,7 +33,7 @@
       "damage": 30000,
       "width": 5,
       "ammoMultiplier": 1,
-      "hitEffect": "instHit",
+      "hitEffect": "instHit"
     },
     "thorium": {
       "type": "LaserBoltBulletType",
@@ -54,5 +54,5 @@
     }
   },
   "research": "orbital-strike",
-  "category": "turret",
+  "category": "turret"
 }

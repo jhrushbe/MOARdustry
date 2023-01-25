@@ -15,5 +15,5 @@
   "unitCapModifier": 50,
   "unitType": "frigate", //find later
   "category": "effect",
-  "research": "core-nucleus",
+  "research": "core-nucleus"
 }

@@ -39,9 +39,9 @@
       "spin": 5,
       "speed": 5,
       "lifetime": 140,
-      "damage": 50000,
-      "splashDamageRadius": 160,
-      "splashDamage": 50000,
+      "damage": 500,
+      "splashDamageRadius": 25,
+      "splashDamage": 500,
       "ammoMultiplier": 1,
       "hitSound": "massiveExplosion",
       "despawnEffect": "spawnShockwave",
@@ -51,5 +51,5 @@
     }
   },
   "research": "mac",
-  "category": "turret",
+  "category": "turret"
 }

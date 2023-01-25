@@ -8,7 +8,7 @@
     "requirements": [
         {"item": "thorium", "amount": 1},
         {"item": "plastanium", "amount": 2},
-        {"item": "graphite", "amount": 1},
+        {"item": "graphite", "amount": 1}
     ],
-    "research": "plastanium-conveyor",
+    "research": "plastanium-conveyor"
 }

@@ -12,11 +12,11 @@
 		{"item": "plastanium", "amount": 75}
 	],
 	"consumes": {
-		"power": 6,
+		"power": 6
 	},
 	"itemCapacity": 300,
 	"launchTime": 2100,
 	"category": "effect",
 	"research": "launch-pad",
-	"buildVisibility": "campaignOnly",
+	"buildVisibility": "campaignOnly"
 }

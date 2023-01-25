@@ -15,7 +15,7 @@
     "sizeFrom": 0,
     "sizeTo": 24,
     "colorFrom": "8aa3f4",
-    "colorTo": "8aa3f400",
+    "colorTo": "8aa3f400"
   },
   "updateEffect": {
     "type": "particleEffect",
@@ -25,7 +25,7 @@
     "sizeFrom": 4,
     "sizeTo": 0,
     "colorFrom": "8aa3f4",
-    "colorTo": "ffffff",
+    "colorTo": "ffffff"
   },
   "drawer": "DrawWeave",
   "requirements": [
@@ -46,5 +46,5 @@
   },
   "outputItem": {"item": "aol", "amount": 2},
   "category": "crafting",
-  "research": "ricf",
+  "research": "ricf"
 }

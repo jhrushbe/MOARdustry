@@ -5,7 +5,7 @@
     "size": 1, 
     "requirements": [
         {"item": "copper", "amount": 55},
-        {"item": "lead", "amount": 10},
+        {"item": "lead", "amount": 10}
     ],
     "targetAir": true,
     "targetGround": true,
@@ -28,7 +28,7 @@
             "ammoMultiplier": 2,
             "width": 7,
             "shootEffect": "shootSmall",
-            "smokeEffect": "shootSmallSmoke",
+            "smokeEffect": "shootSmallSmoke"
           },
         "graphite": {
             "speed": 3,
@@ -37,7 +37,7 @@
             "reloadMultiplier": 0.6,
             "width": 9,
             "shootEffect": "shootSmall",
-            "smokeEffect": "shootSmallSmoke",
+            "smokeEffect": "shootSmallSmoke"
          },
         "pyratite": {
             "speed": 3,
@@ -49,7 +49,7 @@
             "status": "burning",
             "incendAmount": 1,
             "shootEffect": "shootSmall",
-            "smokeEffect": "shootSmallSmoke",
+            "smokeEffect": "shootSmallSmoke"
          },
         "silicon": {
             "speed": 3,
@@ -59,9 +59,9 @@
             "width": 7,
             "homingPower": 0.08,
             "shootEffect": "shootSmall",
-            "smokeEffect": "shootSmallSmoke",
-         }, 
+            "smokeEffect": "shootSmallSmoke"
+         }
     },
     "category": "turret",
-    "research": "duo",
+    "research": "duo"
 }

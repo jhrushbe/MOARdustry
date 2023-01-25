@@ -20,5 +20,5 @@
 	},
 	"category": "crafting",
 	"research": "plastic-refinery",
-	"outputLiquid": {"liquid": "fuel", "amount": 6},
+	"outputLiquid": {"liquid": "fuel", "amount": 6}
 }

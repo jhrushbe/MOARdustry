@@ -35,5 +35,5 @@
 		"collidesAir": true
 	},
 	"research": "arc",
-	"category": "turret",
+	"category": "turret"
 }

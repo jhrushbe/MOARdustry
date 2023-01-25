@@ -10,5 +10,5 @@
   "liquidCapacity": 30,
   "liquidPressure": 1.5,
   "research": "pulse-conduit",
-  "category": "liquid",
+  "category": "liquid"
 }

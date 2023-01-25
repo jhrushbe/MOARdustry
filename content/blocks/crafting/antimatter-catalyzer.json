@@ -17,7 +17,7 @@
     "colorTo": "ffffff00",
     "strokeFrom": 2,
     "strokeTo": 2,
-    "sides": 6,
+    "sides": 6
   },
   "updateEffect": {
     "type": "particleEffect",
@@ -28,24 +28,24 @@
     "sizeFrom": 3,
     "sizeTo": 0,
     "colorFrom": "ffffff",
-    "colorTo": "ffffff",
+    "colorTo": "ffffff"
   },
   "drawer": "DrawWeave",
   "requirements": [
     {"item": "plastanium", "amount": 1000},
     {"item": "plastic", "amount": 2000},
-    {"item": "aol", "amount": 100},
+    {"item": "aol", "amount": 100}
   ],
   "consumes": {
     "power": 200,
     "items": {
       "items": [
         {"item": "fuel-cell", "amount": 100},
-        {"item": "aol", "amount": 50},
+        {"item": "aol", "amount": 50}
       ]
     }
   },
   "outputItem": {"item": "antimatter", "amount": 1},
   "category": "crafting",
-  "research": "aol-fabricator",
+  "research": "aol-fabricator"
 }

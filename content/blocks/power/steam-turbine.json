@@ -1,19 +1,20 @@
 {
     "type": "impactReactor",
     "name": "Steam Turbine",
-    "description": "Converts steam into energy. Takes time to spin up the turbine and requires there to be a little power in the system to keep the safty system active.",
+    "description": "Converts steam into energy. Takes time to spin up the turbine.",
     "size": 2,
     "solid": true,
     "health": 200,
     "hasPower": true,
     "powerProduction": 5.5166666,
     "itemDuration": 60,
+    "warmupSpeed": 0.05,
     "hasLiquids": true,
     "hasItems": false,
     "ambientSound": "hum",
     "ambientSoundVolume": 0.5,
-    "plasma1": 00000000,
-    "plasma2": 00000000,
+    "plasma1": "00000000",
+    "plasma2": "00000000",
     "requirements": [
         {"item": "copper", "amount": 50},
         {"item": "lead", "amount": 50},
@@ -21,9 +22,9 @@
         {"item": "silicon", "amount": 30}
     ],
     "consumes": {
-        "power": 0.1,
-        "liquid": {"liquid": "steam", "amount": 0.1},
+        "power": 0.0,
+        "liquid": {"liquid": "steam", "amount": 0.1}
     },
     "research": "boiler-v1",
-    "category": "power",
+    "category": "power"
 }

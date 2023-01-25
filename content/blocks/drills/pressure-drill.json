@@ -12,7 +12,7 @@
    		{ "item": "thorium", "amount": 200 },
 		{ "item": "titanium", "amount": 100 },
 		{ "item": "plastanium", "amount": 100 },
-    		{ "item": "surge-alloy", "amount": 75 },
+    		{ "item": "surge-alloy", "amount": 75 }
 	],
 	"consumes": {
 		"power": 7.0,
@@ -20,8 +20,8 @@
 			"liquid": "water", 
 			"amount": 0.1,
 			"booster": false,
-			"optional": false,
-		},
+			"optional": false
+		}
 	},
 	"category": "production",
 	"research": "blast-drill"
