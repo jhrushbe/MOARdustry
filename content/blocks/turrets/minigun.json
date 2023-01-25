@@ -13,7 +13,7 @@
     "spread": 0,
     "shots": 1,
     "alternate": false,
-    "reload": 1,
+    "reload": 2,
     "range": 150,
     "shootCone": 1,
     "ammoUseEffect": "casing1",
@@ -24,7 +24,7 @@
     "ammoTypes": {
         "lead": {
             "speed": 5,
-            "damage": 7,
+            "damage": 4.5,
             "ammoMultiplier": 10,
             "width": 7,
             "height": 9,
@@ -33,14 +33,16 @@
         },
         "scrap": {
             "speed": 5,
-            "damage": 5,
-            "ammoMultiplier": 5,
+            "damage": 2.5,
+            "ammoMultiplier": 7.5,
             "width": 7,
             "height": 9,
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke"
         }
     },
+    "coolantMultiplier": 2,
+    "coolant": 1,
     "category": "turret",
     "research": "scatter"
 }

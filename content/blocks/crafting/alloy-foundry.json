@@ -8,8 +8,10 @@
     "itemCapacity": 20,
     "craftTime": 60,
     "updateEffect": "smeltsmoke",
-    "drawer": "DrawFlame",
-    "flameColor": "ffb855",
+    "drawer":[
+        {"type":"drawDefault"},
+        {"type":"drawFlame", "flameColor": "ffb855","suffix":"-top"}
+    ],
     "requirements": [
         {"item": "lead", "amount": 200},
         {"item": "thorium", "amount": 175},

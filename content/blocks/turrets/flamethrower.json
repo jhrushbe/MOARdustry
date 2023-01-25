@@ -30,7 +30,7 @@
       "pierce": true,
       "collidesAir": false,
       "statusDuration": 400,
-      "shootEffect": "shootSmallFlame",
+      "shootEffect": "shootSmallFlame", //effects not working
       "hitEffect": "hitFlameSmall",
       "despawnEffect": "none",
       "status": "burning",

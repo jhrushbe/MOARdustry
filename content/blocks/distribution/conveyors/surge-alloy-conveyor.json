@@ -5,9 +5,10 @@
     "category": "distribution",
     "health": 130,
     "speed": 0.20,
+    "displaySpeed": 25,
     "requirements": [
         {"item": "surge-alloy", "amount": 1},
-        {"item": "phase-fabric", "amount": 2},
+        {"item": "phase-fabric", "amount": 1},
         {"item": "titanium", "amount": 2}
     ],
     "research": "phase-conveyor"

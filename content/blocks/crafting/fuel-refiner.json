@@ -16,9 +16,9 @@
 	],
 	"consumes": {
 		"power": 3,
-		"liquid": {"liquid": "oil", "amount": "0.1"}
+		"liquid": {"liquid": "oil", "amount": 0.1}
 	},
 	"category": "crafting",
 	"research": "plastic-refinery",
-	"outputLiquid": {"liquid": "fuel", "amount": 6}
+	"outputLiquid": {"liquid": "fuel", "amount": 0.1}
 }

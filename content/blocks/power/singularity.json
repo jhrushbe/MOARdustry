@@ -5,10 +5,14 @@
     "size": 3,
     "powerProduction": 150,
     "itemCapacity": 100,
+    "hasLiquids": false,
     "health": 700,
     "itemDuration": 10,
-    "plasma1": "000000ff",
-    "plasma2": "6b4474ff",
+    "drawer":[
+        {"type":"drawRegion","suffix":"-bottom"},
+        {"type":"drawplasma","plasma1": "000000ff","plasma2": "6b4474ff","suffix":"-plasma-"},
+        {"type":"drawDefault"}
+    ],
     "requirements": [
         {"item": "copper", "amount": 2000},
         {"item": "metaglass", "amount": 1000},

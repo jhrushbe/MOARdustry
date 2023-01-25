@@ -16,7 +16,7 @@
 	"spread": 360,
 	"rotateSpeed": 0,
 	"range": 90,
-	"powerUse": 5,
+	"consumes":{"power": 5},
 	"targetGround": true,
 	"targetAir": true,
 	"shootEffect": "none",

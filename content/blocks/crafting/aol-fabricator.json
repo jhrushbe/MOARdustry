@@ -26,7 +26,11 @@
     "colorFrom": "8aa3f4",
     "colorTo": "ffffff"
   },
-  "drawer": "DrawWeave",
+  "drawer":[
+      {"type":"drawDefault"},
+      {"type":"drawWeave","suffix":"-weave"},
+      {"type":"drawRegion","suffix":"-bottom"}
+  ],
   "requirements": [
     {"item": "surge-alloy", "amount": 600},
     {"item": "silicon", "amount": 1000},

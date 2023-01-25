@@ -11,7 +11,7 @@
 	"shots": 30,
 	"reload": 30,
 	"restitution": 0.03,
-	"spread": 20,
+	"spread": 20, //wont do shotgun things
 	"inaccuracy": 1,
 	"shootCone": 20,
 	"recoil": 10,

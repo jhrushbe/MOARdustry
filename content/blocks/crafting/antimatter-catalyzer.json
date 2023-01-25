@@ -30,7 +30,11 @@
     "colorFrom": "ffffff",
     "colorTo": "ffffff"
   },
-  "drawer": "DrawWeave",
+  "drawer":[
+      {"type":"drawRegion","suffix":"-bottom"},
+      {"type":"drawWeave","suffix":"-weave"},
+      {"type":"drawDefault"}
+  ],
   "requirements": [
     {"item": "plastanium", "amount": 1000},
     {"item": "plastic", "amount": 2000},

@@ -13,7 +13,6 @@
     "hasItems": false,
     "ambientSound": "hum",
     "ambientSoundVolume": 0.5,
-    "plasmas": 0,
     "requirements": [
         {"item": "copper", "amount": 50},
         {"item": "lead", "amount": 50},
