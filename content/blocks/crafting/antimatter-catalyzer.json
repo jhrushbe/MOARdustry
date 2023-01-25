@@ -1,5 +1,5 @@
 {
-  "type": "GenericCrafter",
+  "type": "genericCrafter",
   "name": "Antimatter Catalyzer",
   "description": "Gather enough matter and energy in one space and antimatter shows up, eventually.",
   "size": 5,

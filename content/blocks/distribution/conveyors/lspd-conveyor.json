@@ -4,7 +4,7 @@
   "description": "Think ethernet cable, but for items.",
   "size": 1,
   "health": 10,
-  "conductivePower": false,
+  "conductivePower": true,
   "requirements": [
     {"item": "aol", "amount": 1}
   ],

@@ -1,5 +1,5 @@
 {
-    "type": "GenericSmelter",
+    "type": "genericCrafter",
     "name": "Plastic converter",
     "description": "Melts plasic and silicon in slag, then extrudes it, resulting in surge alloy.",
     "size": 3,

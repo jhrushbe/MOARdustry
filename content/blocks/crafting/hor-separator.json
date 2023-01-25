@@ -1,5 +1,5 @@
 {
-	"type": "GenericCrafter",
+	"type": "genericCrafter",
 	"name": "Heavy Oil Residue Separator",
 	"description": "Seperates heavy oil residue into coal and water.",
 	"size": 2,

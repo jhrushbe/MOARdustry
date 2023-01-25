@@ -1,5 +1,5 @@
 {
-    "type": "GenericSmelter",
+    "type": "genericCrafter",
     "name": "Alloy Foundry",
     "description": "Uses burning pyratite to create surge alloy at a faster and more efficient rate.",
     "size": 4,

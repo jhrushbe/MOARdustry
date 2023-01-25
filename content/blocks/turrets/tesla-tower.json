@@ -1,7 +1,7 @@
 {
 	"type": "powerTurret",
 	"name": "Tesla Tower",
-	"description": "By means of its impresive height, the Tesla Tower can hit both land and air units.",
+	"description": "By means of its impressive height, the Tesla Tower can hit both land and air units.",
 	"requirements": [
 		{"item": "copper", "amount": 200},
 		{"item": "lead", "amount": 100},
@@ -9,7 +9,7 @@
 	],
 	"size": 2,
 	"health": 250,
-	"reloadTime": 1,
+	"reload": 1,
 	"restitution": 0.01,
 	"inaccuracy": 180,
 	"shootCone": 360,
@@ -23,7 +23,7 @@
 	"shootEffect": "none",
 	"smokeEffect": "none",
 	"heatColor": "00000000",
-	"recoilAmount": 0,
+	"recoil": 0,
 	"shootSound": "spark",
 	"ambientSound": "hum",
 	"ambientSoundVolume": 1,

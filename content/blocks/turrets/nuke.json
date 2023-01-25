@@ -24,7 +24,7 @@
     "lifetime": 1200,
     "damage": 10000,
     "splashDamage": 7000,
-    "splashDamageRadius": 50,
+    "splashDamageRadius": 200,
     "drag": -0.001,
     "knockback": 40,
     "hittable": false,

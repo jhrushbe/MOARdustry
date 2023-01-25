@@ -1,5 +1,5 @@
 {
-  "type": "GenericCrafter",
+  "type": "genericCrafter",
   "name": "Plastic Plater",
   "description": "Creates plastanium by putting titanium plating on plastic.",
   "size": 2,
