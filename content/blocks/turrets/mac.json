@@ -24,7 +24,7 @@
   "inaccuracy": 0,
   "rotateSpeed": 1,
   "shootSound": "railgun",
-  "consumes": {"power": 50},
+  "consumes": {"power": 50,"coolant":{}},
   "coolantMultiplier": 2,
   "ammoTypes": {
     "fuel-cell": {

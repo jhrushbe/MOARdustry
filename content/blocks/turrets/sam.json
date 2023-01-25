@@ -79,6 +79,7 @@
       "statusDuration": 120
     }
   },
+  "consumes":{"coolant":{}},
   "research": "swarmer",
   "category": "turret"
 }

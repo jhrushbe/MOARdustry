@@ -12,7 +12,7 @@
 	"reload": 30,
 	"restitution": 0.03,
 	"spread": 20, //wont do shotgun things
-	"inaccuracy": 1,
+	"inaccuracy": 20,
 	"shootCone": 20,
 	"recoil": 10,
 	"ammoUseEffect": "casing3",

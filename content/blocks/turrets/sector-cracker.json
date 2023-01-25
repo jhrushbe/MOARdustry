@@ -24,7 +24,7 @@
   "shootSound": "explosionBig",
   "loopSound": "pulse",
   "shootLength": 0,
-  "chargeTime": 108000, 
+  "chargeTime": 108000,
   "chargeMaxDelay": 108000,
   "chargeEffects": 1,
   "chargeSound": "hum",

@@ -61,6 +61,7 @@
             "smokeEffect": "shootSmallSmoke"
          }
     },
+    "consumes":{"coolant":{}},
     "category": "turret",
     "research": "duo"
 }

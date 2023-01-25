@@ -42,7 +42,7 @@
         }
     },
     "coolantMultiplier": 2,
-    "coolant": 1,
+    "consumes":{"coolant":{}},
     "category": "turret",
     "research": "scatter"
 }

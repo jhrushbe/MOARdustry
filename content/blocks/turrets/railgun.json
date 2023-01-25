@@ -22,7 +22,7 @@
 	"range": 175,
 	"shootCone": 1,
 	"ammoUseEffect": "hitFuse",
-	"shootSound": "lasershoot",
+	"shootSound": "shotgun",
 	"inaccuracy": 0,
 	"rotateSpeed": 2,
 	"recoil": 4,
@@ -36,7 +36,8 @@
 		}
 	},
 	"consumes": {
-		"power": 1.6666666
+		"power": 1.6666666,
+		"coolant":{}
 	},
 	"category": "turret",
 	"research": "fuse"
