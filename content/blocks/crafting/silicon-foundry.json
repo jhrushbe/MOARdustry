@@ -5,7 +5,6 @@
     "size": 2,
     "health": 200,
     "hasPower": true,
-    "hasLiquids": false,
     "craftTime": 180,
     "updateEffect": "smeltsmoke",
     "drawer":[
@@ -20,14 +19,14 @@
     ],
     "consumes": {
     	"power": 2,
-   	"items": {
+   	    "items": {
       	    "items": [
       	        { "item": "graphite", "amount": 1 },
       	        { "item": "sand", "amount": 3 }
              ]
         }
     },
+    "outputItem": {"item": "silicon", "amount": 3},
     "category": "crafting",
-    "research": "kiln",
-    "outputItem": {"item": "silicon", "amount": 3}
+    "research": "kiln"
 }

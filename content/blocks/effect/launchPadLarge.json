@@ -18,5 +18,5 @@
 	"launchTime": 2100,
 	"category": "effect",
 	"research": "launch-pad",
-	//"buildVisibility": "campaignOnly"
+	"buildVisibility": "campaignOnly"
 }

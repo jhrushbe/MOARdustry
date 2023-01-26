@@ -3,7 +3,6 @@
 	"name": "Fuel Refiner",
 	"description": "Refines oil into fuel.",
 	"size": 2,
-	"health": 300,
 	"hasPower": true,
 	"hasLiquids": true,
 	"craftTime": 60,
@@ -18,7 +17,7 @@
 		"power": 3,
 		"liquid": {"liquid": "oil", "amount": 0.1}
 	},
+	"outputLiquid": {"liquid": "fuel", "amount": 0.1},
 	"category": "crafting",
-	"research": "plastic-refinery",
-	"outputLiquid": {"liquid": "fuel", "amount": 0.1}
+	"research": "plastic-refinery"
 }

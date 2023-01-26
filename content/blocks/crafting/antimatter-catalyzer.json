@@ -3,11 +3,9 @@
   "name": "Antimatter Catalyzer",
   "description": "Gather enough matter and energy in one space and antimatter shows up, eventually.",
   "size": 5,
-  "health": -1,
   "hasPower": true,
-  "hasItems": true,
   "itemCapacity": 100,
-  "craftTime": 36000,
+  "craftTime": 7200,
   "craftEffect": {
     "type": "WaveEffect",
     "lifetime": 120,

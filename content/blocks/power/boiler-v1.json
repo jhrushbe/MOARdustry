@@ -10,16 +10,11 @@
         {"item": "metaglass", "amount": 40}
     ],
     "hasLiquids": true,
-    "hasItems": true,
     "craftTime": 60,
     "updateEffect": "fire",
     "craftEffect": "steam",
     "consumes": {
-        "items": {
-            "items": [
-                {"item": "coal", "amount": 1}
-            ]
-        },
+        "flammable": {},
         "liquid": {
             "liquid": "water",
             "amount": 0.1

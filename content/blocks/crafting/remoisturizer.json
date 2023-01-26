@@ -3,10 +3,8 @@
   "name": "Remoisturizer",
   "description": "Turns water and coal into oil.",
   "size": 2,
-  "health": 300,
   "hasPower": true,
   "hasLiquids": true,
-  "hasItems": true,
   "craftTime": 30,
   "updateEffect": "smeltsmoke",
   "requirements": [

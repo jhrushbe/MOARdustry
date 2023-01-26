@@ -22,6 +22,7 @@
   "rotateSpeed": 0,
   "shootSound": "explosionbig",
   "chargeSound": "lasercharge",
+  "firstShotDelay": 180,
   "chargeTime": 180,
   "chargeMaxDelay": 180,
   "chargeEffect": {
@@ -36,11 +37,11 @@
   },
   "shootEffect": {
     "type": "particleEffect",
-    "lifetime": 240,
+    "lifetime": 60,
     "particles": 3,
     "length": 0,
     "sizeFrom": 0,
-    "sizeTo": 240,
+    "sizeTo": 360,
     "colorFrom": "ffffff",
     "colorTo": "00000000"
   },

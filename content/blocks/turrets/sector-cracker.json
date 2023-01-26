@@ -13,8 +13,6 @@
     {"item": "metaglass", "amount": 10000}
   ],
   "shootCone": 1,
-  "shots": 2,
-  "spread": 180,
   "recoil": 0,
   "range": 40000,
   "reload": 1,
@@ -24,6 +22,7 @@
   "shootSound": "explosionBig",
   "loopSound": "pulse",
   "shootLength": 0,
+  "firstShotDelay": 108000,
   "chargeTime": 108000,
   "chargeMaxDelay": 108000,
   "chargeEffects": 1,

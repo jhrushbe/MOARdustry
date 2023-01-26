@@ -3,7 +3,6 @@
 	"name": "Plastic Refinery",
 	"description": "Seperates oil into plastic and heavy oil residue.",
 	"size": 2,
-	"health": 300,
 	"hasPower": true,
 	"hasLiquids": true,
 	"craftTime": 60,

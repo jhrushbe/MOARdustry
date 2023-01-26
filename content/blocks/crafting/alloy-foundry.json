@@ -3,14 +3,13 @@
     "name": "Alloy Foundry",
     "description": "Uses burning pyratite to create surge alloy at a faster and more efficient rate.",
     "size": 4,
-    "health": 500,
     "hasPower": true,
     "itemCapacity": 20,
     "craftTime": 60,
     "updateEffect": "smeltsmoke",
     "drawer":[
         {"type":"drawDefault"},
-        {"type":"drawFlame", "flameColor": "ffb855","suffix":"-top"}
+        {"type":"drawFlame","suffix":"-top"}
     ],
     "requirements": [
         {"item": "lead", "amount": 200},
@@ -30,7 +29,7 @@
              ]
         }
     },
+    "outputItem": {"item": "surge-alloy", "amount": 2},
     "category": "crafting",
-    "research": "alloy-smelter",
-    "outputItem": {"item": "surge-alloy", "amount": 2}
+    "research": "alloy-smelter"
 }

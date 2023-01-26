@@ -3,13 +3,14 @@
     "name": "Plastic converter",
     "description": "Melts plasic and silicon in slag, then extrudes it, resulting in surge alloy.",
     "size": 3,
-    "health": 300,
     "hasPower": true,
     "hasLiquids": true,
     "craftTime": 60,
     "updateEffect": "smeltsmoke",
-    "drawer": "DrawFlame",
-    "flameColor": "DD4C20",
+    "drawer":[
+        {"type":"drawDefault"},
+        {"type":"drawFlame","flameColor": "DD4C20","suffix":"-top"}
+    ],
     "requirements": [
         {"item": "lead", "amount": 200},
         {"item": "titanium", "amount": 120},
@@ -27,7 +28,7 @@
         },
       "liquid": {"liquid": "slag", "amount": 0.2}
     },
+    "outputItem": {"item": "surge-alloy", "amount": 1},
     "category": "crafting",
-    "research": "plastic-plater",
-    "outputItem": {"item": "surge-alloy", "amount": 1}
+    "research": "plastic-plater"
 }

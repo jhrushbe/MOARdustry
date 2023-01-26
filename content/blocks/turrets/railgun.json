@@ -30,11 +30,12 @@
 		"titanium": {
 			"type": "ShrapnelBulletType",
 			"length": 190,
-			"damage": 45,
+			"damage": 70,
 			"ammoMultiplier": 1,
 			"width": 4
 		}
 	},
+	"coolantMultiplier": 2,
 	"consumes": {
 		"power": 1.6666666,
 		"coolant":{}

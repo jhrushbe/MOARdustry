@@ -5,7 +5,6 @@
   "name": "Fusion Reactor",
   "description": "Extracts the inherent energy from Alloy of Light by means of a fusion reaction.",
   "size": 4,
-  "health": -1,
   "requirements": [
     {"item": "titanium", "amount": 1000},
     {"item": "silicon", "amount": 600},
@@ -16,7 +15,7 @@
   "liquidCapacity": 60,
   "drawer":[
       {"type":"drawRegion","suffix":"-bottom"},
-      {"type":"drawplasma","plasma1": "8aa3f4","plasma2": "8aa3f4","suffix":"-plasma-"},
+      {"type":"drawPlasma","plasma1": "8aa3f4","plasma2": "8aa3f4","suffix":"-plasma-"},
       {"type":"drawDefault"}
   ],
   "powerProduction": 200,

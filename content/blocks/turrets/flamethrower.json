@@ -18,6 +18,7 @@
   "shootCone": 50,
   "ammoUseEffect": "none",
   "shootSound": "flame",
+  "shootEffect": "shootSmallFlame",
   "ammoTypes": {
     "hor": {
       "type": "basicBulletType",
