@@ -14,7 +14,7 @@
     "updateEffect": "fire",
     "craftEffect": "steam",
     "consumes": {
-        "itemFlamable":{},
+        "itemFlammable":{},
         "liquid": {
             "liquid": "water",
             "amount": 0.1
