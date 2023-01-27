@@ -9,7 +9,7 @@
     "itemDuration": 10,
     "drawer":[
         {"type":"drawRegion","suffix":"-bottom"},
-        {"type":"drawPlasma","plasma1": "000000ff","plasma2": "6b4474ff","suffix":"-plasma-"},
+        {"type":"drawPlasma","plasma1": "ffffff","plasma2": "6b4474ff","suffix":"-plasma-"},
         {"type":"drawDefault"}
     ],
     "requirements": [

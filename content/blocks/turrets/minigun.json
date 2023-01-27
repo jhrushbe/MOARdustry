@@ -1,7 +1,7 @@
 {
     "type": "itemTurret",
     "name": "Minigun",
-    "description": "The ground version of the Scatter. Greatly benifits from coolent.",
+    "description": "A ground variant of the Scatter. Greatly benefits from coolent.",
     "size": 2,
     "requirements": [
         {"item": "copper", "amount": 100},
@@ -10,21 +10,17 @@
     ],
     "targetAir": false,
     "targetGround": true,
-    "spread": 0,
-    "shots": 1,
-    "alternate": false,
     "reload": 2,
     "range": 150,
     "shootCone": 1,
     "ammoUseEffect": "casing1",
     "shootSound": "shootSnap",
-    "health": 500,
     "inaccuracy": 2,
     "rotateSpeed": 20,
     "ammoTypes": {
         "lead": {
             "speed": 5,
-            "damage": 4.5,
+            "damage": 9.5,
             "ammoMultiplier": 10,
             "width": 7,
             "height": 9,
@@ -33,16 +29,27 @@
         },
         "scrap": {
             "speed": 5,
-            "damage": 2.5,
+            "damage": 8,
             "ammoMultiplier": 7.5,
             "width": 7,
             "height": 9,
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke"
+        },
+        "thorium": {
+            "speed": 6,
+            "damage": 25,
+            "ammoMultiplier": 10,
+            "reloadMultiplier": 0.5,
+            "width": 5,
+            "height": 9,
+            "pierceCap": 2,
+            "shootEffect": "shootSmall",
+            "smokeEffect": "shootSmallSmoke"
         }
     },
     "coolantMultiplier": 2,
-    "consumes":{"coolant":{}},
+    "consumes":{"coolant":{"amount":0.1}},
     "category": "turret",
     "research": "scatter"
 }

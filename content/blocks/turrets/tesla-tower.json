@@ -12,8 +12,7 @@
 	"reload": 1,
 	"inaccuracy": 180,
 	"shootCone": 360,
-	"shots": 16,
-	"spread": 360,
+	"shoot":{"shots": 16},
 	"rotateSpeed": 0,
 	"range": 90,
 	"consumes":{"power": 5,"coolant":{}},
@@ -26,7 +25,6 @@
 	"shootSound": "spark",
 	"ambientSound": "hum",
 	"ambientSoundVolume": 1,
-	"shootLength": 0,
 	"shootType": {
 		"type": "LightningBulletType",
 		"damage": 4,

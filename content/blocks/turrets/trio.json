@@ -9,7 +9,6 @@
     ],
     "targetAir": true,
     "targetGround": true,
-    "spread": 4,
     "shots": 3,
     "alternate": true,
     "reload": 20,

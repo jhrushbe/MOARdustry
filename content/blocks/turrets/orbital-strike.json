@@ -12,8 +12,6 @@
   ],
   "targetAir": false,
   "targetGround": true,
-  "spread": 0,
-  "shots": 1,
   "recoil": 0,
   "reload": 60,
   "range": 400,

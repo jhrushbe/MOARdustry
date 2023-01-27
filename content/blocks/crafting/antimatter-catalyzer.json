@@ -42,8 +42,8 @@
     "power": 200,
     "items": {
       "items": [
-        {"item": "fuel-cell", "amount": 100},
-        {"item": "aol", "amount": 50}
+        {"item": "fuel-cell", "amount": 5},
+        {"item": "aol", "amount": 5}
       ]
     }
   },

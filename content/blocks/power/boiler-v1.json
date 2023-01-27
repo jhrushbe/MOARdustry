@@ -1,7 +1,7 @@
 {
     "type": "genericCrafter",
     "name": "Boiler V1",
-    "description": "Burns coal to produce steam from water, which can then be used to generate power or in manufacturing processes.",
+    "description": "Produces steam from water by means of combustion, which can then be used to generate power or in manufacturing processes.",
     "health": 300,
     "size": 2,
     "requirements": [
