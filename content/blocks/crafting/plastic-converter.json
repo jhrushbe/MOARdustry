@@ -9,7 +9,7 @@
     "updateEffect": "smeltsmoke",
     "drawer":[
         {"type":"drawDefault"},
-        {"type":"drawFlame","flameColor": "DD4C20","suffix":"-top"}
+        {"type":"drawFlame","flameColor": "DD4C20"}
     ],
     "requirements": [
         {"item": "lead", "amount": 200},

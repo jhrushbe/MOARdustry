@@ -28,7 +28,7 @@
   },
   "drawer":[
       {"type":"drawRegion","suffix":"-bottom"},
-      {"type":"drawWeave","suffix":"-weave"},
+      {"type":"drawWeave"},
       {"type":"drawDefault"}
   ],
   "requirements": [

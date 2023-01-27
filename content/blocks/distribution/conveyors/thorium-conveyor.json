@@ -5,7 +5,7 @@
     "category": "distribution",
     "health": 150,
     "speed": 0.1333,
-    "displaySpeed": 80,
+    "displayedSpeed": 80,
     "requirements": [
         {"item": "thorium", "amount": 1},
         {"item": "plastanium", "amount": 2},

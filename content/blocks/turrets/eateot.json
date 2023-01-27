@@ -8,13 +8,13 @@
     {"item": "titanium", "amount": 10000},
     {"item": "antimatter", "amount": 1}
   ],
+  "hasPower": false,
   "shootCone": 1,
   "inaccuracy": 0,
   "recoil": 0,
   "range": 1000,
   "reload": 300,
   "rotateSpeed": 360,
-  "powerUse": 0,
   "shootSound": "none",
   "shootType": {
     "type": "PointBulletType",

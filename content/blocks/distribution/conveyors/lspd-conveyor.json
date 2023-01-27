@@ -10,7 +10,7 @@
   ],
   "itemCapacity": 1,
   "speed": 1,
-  "displaySpeed": 100,
+  "displayedSpeed": 100,
   "consumes": {"power": 0.1},
   "research": "surge-alloy-conveyor",
   "category": "distribution"
