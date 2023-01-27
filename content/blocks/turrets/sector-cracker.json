@@ -22,71 +22,67 @@
   "shootSound": "explosionBig",
   "loopSound": "pulse",
   "shootLength": 0,
-  "firstShotDelay": 108000,
-  "chargeTime": 108000,
-  "chargeMaxDelay": 108000,
-  "chargeEffects": 1,
+  "shoot":{"firstShotDelay": 108000},
   "chargeSound": "hum",
-  "chargeEffect": {
-    "type": "MultiEffect",
-    "effects": [
-      {
-        "type": "waveEffect",
-        "lifetime": 108000, 
-        "sizeFrom": 800,
-        "sizeTo": 0,
-        "rotation": 0,
-        "sides": 4,
-        "colorFrom": "f3e979",
-        "colorTo": "f58859",
-        "strokeFrom": 1,
-        "strokeTo": 4
-      },
-      {
-        "type": "waveEffect",
-        "lifetime": 108000, 
-        "sizeFrom": 800,
-        "sizeTo": 0,
-        "rotation": 45,
-        "sides": 4,
-        "colorFrom": "f3e979",
-        "colorTo": "f58859",
-        "strokeFrom": 1,
-        "strokeTo": 4
-      },
-      {
-        "type": "waveEffect",
-        "lifetime": 54000, 
-        "sizeFrom": 800,
-        "sizeTo": 0,
-        "rotation": 0,
-        "sides": 4,
-        "colorFrom": "f3e979",
-        "colorTo": "f58859",
-        "strokeFrom": 1,
-        "strokeTo": 4
-      },
-      {
-        "type": "waveEffect",
-        "lifetime": 54000, 
-        "sizeFrom": 800,
-        "sizeTo": 0,
-        "rotation": 45,
-        "sides": 4,
-        "colorFrom": "f3e979",
-        "colorTo": "f58859",
-        "strokeFrom": 1,
-        "strokeTo": 4
-      }
-    ]
-  },
   "shootType": {
     "type": "ContinuousLaserBulletType",
     "length": 80000,
     "drawSize": 0,
     "width": 6,
     "damage": 10000,
-    "incendChance": 0,
+    "incendChance": 0,"chargeEffect": {
+      "type": "MultiEffect",
+      "effects": [
+        {
+          "type": "waveEffect",
+          "lifetime": 108000, 
+          "sizeFrom": 800,
+          "sizeTo": 0,
+          "rotation": 0,
+          "sides": 4,
+          "colorFrom": "f3e979",
+          "colorTo": "f58859",
+          "strokeFrom": 1,
+          "strokeTo": 4
+        },
+        {
+          "type": "waveEffect",
+          "lifetime": 108000, 
+          "sizeFrom": 800,
+          "sizeTo": 0,
+          "rotation": 45,
+          "sides": 4,
+          "colorFrom": "f3e979",
+          "colorTo": "f58859",
+          "strokeFrom": 1,
+          "strokeTo": 4
+        },
+        {
+          "type": "waveEffect",
+          "lifetime": 54000, 
+          "sizeFrom": 800,
+          "sizeTo": 0,
+          "rotation": 0,
+          "sides": 4,
+          "colorFrom": "f3e979",
+          "colorTo": "f58859",
+          "strokeFrom": 1,
+          "strokeTo": 4
+        },
+        {
+          "type": "waveEffect",
+          "lifetime": 54000, 
+          "sizeFrom": 800,
+          "sizeTo": 0,
+          "rotation": 45,
+          "sides": 4,
+          "colorFrom": "f3e979",
+          "colorTo": "f58859",
+          "strokeFrom": 1,
+          "strokeTo": 4
+        }
+      ]
+    },
     "hitEffect": {
       "type": "MultiEffect",
       "effects": [

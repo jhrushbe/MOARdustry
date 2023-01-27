@@ -8,10 +8,10 @@
 		{"item": "copper", "amount": 100},
 		{"item": "lead", "amount": 100}
 	],
-	"shoot":{"shots": 30},
+	"shoot":{"shots": 10},
 	"reload": 30,
-	"inaccuracy": 20,
-	"shootCone": 20,
+	"inaccuracy": 15,
+	"shootCone": 10,
 	"recoil": 10,
 	"ammoUseEffect": "casing3",
 	"range": 90,
@@ -22,9 +22,8 @@
 	"ammoTypes": {
 		"lead": {
             	"speed": 5,
-           		"damage": 7,
-          		"ammoMultiplier": 10,
-        		"reloadMultiplier": 1,
+           		"damage": 30,
+          		"ammoMultiplier": 4,
         		"width": 7,
         		"height": 9,
         		"shootEffect": "shootBig",
@@ -32,9 +31,8 @@
         	},
 		"scrap": {
             	"speed": 5,
-           		"damage": 7,
-          		"ammoMultiplier": 10,
-        		"reloadMultiplier": 1,
+           		"damage": 23,
+          		"ammoMultiplier": 3,
         		"width": 7,
         		"height": 9,
         		"shootEffect": "shootBig",

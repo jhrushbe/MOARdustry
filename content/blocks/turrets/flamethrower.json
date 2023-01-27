@@ -31,13 +31,13 @@
       "pierce": true,
       "collidesAir": false,
       "statusDuration": 400,
-      "shootEffect": "shootSmallFlame", //effects not working
+      "shootEffect": "shootSmallFlame",
       "hitEffect": "hitFlameSmall",
       "despawnEffect": "none",
       "status": "burning",
       "keepVelocity": false,
       "hittable": false,
-      "damage": 30
+      "damage": 15
     },
     "oil": {
       "type": "basicBulletType",
@@ -56,7 +56,7 @@
       "status": "burning",
       "keepVelocity": false,
       "hittable": false,
-      "damage": 120
+      "damage": 20
     },
     "fuel": {
       "type": "basicBulletType",
@@ -75,7 +75,7 @@
       "status": "burning",
       "keepVelocity": false,
       "hittable": false,
-      "damage": 300
+      "damage": 50
     }
   },
   "research": "scorch",

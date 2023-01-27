@@ -15,7 +15,7 @@
 	"shoot":{"shots": 16},
 	"rotateSpeed": 0,
 	"range": 90,
-	"consumes":{"power": 5,"coolant":{}},
+	"consumes":{"power": 5,"coolant":{"amount":0.2}},
 	"targetGround": true,
 	"targetAir": true,
 	"shootEffect": "none",

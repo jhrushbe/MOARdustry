@@ -1,7 +1,7 @@
 {
 	"name": "Pressure Drill",
 	"type": "drill",
-	"description": "Uses immense amounts of pressure to extract ores from the ground. Requires coolent to run.",
+	"description": "Uses immense amounts of pressure to extract ores from the ground. Requires coolant to run.",
 	"size": 3,
 	"tier": 5,
 	"drillTime": 75,
@@ -17,7 +17,7 @@
 	"consumes": {
 		"power": 7.0,
 		"liquid": {
-			"liquid": "water", 
+			"liquid": "water",
 			"amount": 0.1,
 			"booster": false,
 			"optional": false

@@ -9,10 +9,9 @@
     ],
     "targetAir": true,
     "targetGround": true,
-    "shots": 3,
+    "shoot":{"shootAlternate":{"shots":3,"barrels":3,"spread":1.5}},
     "alternate": true,
     "reload": 20,
-    "restitution": 0.03,
     "range": 125,
     "shootCone": 15,
     "ammoUseEffect": "casing1",
@@ -60,7 +59,7 @@
             "smokeEffect": "shootSmallSmoke"
          }
     },
-    "consumes":{"coolant":{}},
+    "consumes":{"coolant":{"amount":0.15}},
     "category": "turret",
     "research": "duo"
 }

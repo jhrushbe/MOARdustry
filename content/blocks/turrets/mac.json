@@ -23,7 +23,7 @@
   "rotateSpeed": 1,
   "shootSound": "railgun",
   "consumes": {"power": 50,"coolant":{}},
-  "coolantMultiplier": 2,
+  "coolantMultiplier": 0.5,
   "ammoTypes": {
     "fuel-cell": {
       "type": "ShrapnelBulletType",
@@ -35,11 +35,12 @@
     },
     "thorium": {
       "type": "LaserBoltBulletType",
-      "speed": 10,
+      "speed": 20,
       "lifetime": 180,
       "damage": 7500,
+      "pierce": true,
       "ammoMultiplier": 1,
-      "reloadMultiplier": 2,
+      "reloadMultiplier": 3,
       "hitEffect": "instBomb",
       "shootEffect": "lightningShoot",
       "despawnEffect": "none",

@@ -48,8 +48,7 @@
             "smokeEffect": "shootSmallSmoke"
         }
     },
-    "coolantMultiplier": 2,
-    "consumes":{"coolant":{"amount":0.1}},
+    "consumes":{"coolant":{"amount":0.2}},
     "category": "turret",
     "research": "scatter"
 }

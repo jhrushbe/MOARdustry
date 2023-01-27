@@ -20,19 +20,7 @@
   "rotateSpeed": 0,
   "shootSound": "explosionbig",
   "chargeSound": "lasercharge",
-  "shoot":{"firstShotDelay": 180},
-  "chargeTime": 180,
-  "chargeMaxDelay": 180,
-  "chargeEffect": {
-    "type": "particleEffect",
-    "lifetime": 180,
-    "particles": 3,
-    "length": 0,
-    "sizeFrom": 80,
-    "sizeTo": 0,
-    "colorFrom": "00000000",
-    "colorTo": "ffffff"
-  },
+  "shoot":{"firstShotDelay": 120},
   "shootEffect": {
     "type": "particleEffect",
     "lifetime": 60,
@@ -43,7 +31,6 @@
     "colorFrom": "ffffff",
     "colorTo": "00000000"
   },
-  "chargeEffects": 1,
   "ammoTypes": {
     "antimatter": {
       "type": "basicBulletType",
@@ -61,22 +48,32 @@
       "frontColor": "000000",
       "backColor": "ffffff",
       "killShooter": true,
-      "lightning": 32,
+      "lightning": 64,
       "lightningLength": 200,
       "lightningDamage": 10000,
       "lightningColor": "000000",
-      "fragBullets": 64,
+      "fragBullets": 128,
       "fragBullet": {
         "type": "LaserBulletType",
         "colors": ["000000", "000000", "000000"],
         "length": 1600,
-        "width": 8,
+        "width": 16,
         "sideLength": 25,
         "sideWidth": 2,
         "sideAngle": 5.62,
         "pierce": true,
         "damage": 10000,
         "hitEffect": "none"
+      },
+      "chargeEffect": {
+        "type": "particleEffect",
+        "lifetime": 180,
+        "particles": 3,
+        "length": 0,
+        "sizeFrom": 80,
+        "sizeTo": 0,
+        "colorFrom": "00000000",
+        "colorTo": "ffffff"
       }
     }
   },
