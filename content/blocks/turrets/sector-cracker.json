@@ -86,7 +86,8 @@
         {
           "type": "particleEffect",
           "lifetime": 6000,
-          "length": 60,
+          "length": -600,
+          "baseLength": 600,
           "particles": 200,
           "followParent": true,
           "strokeFrom": 6,
