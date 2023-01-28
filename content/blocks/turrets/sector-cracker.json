@@ -91,9 +91,12 @@
           "particles": 200,
           "followParent": true,
           "strokeFrom": 6,
-          "strokeTo": 0,
-          "colorFrom": "f3e97900",
-          "colorTo": "f58859ff"
+          "strokeTo": 1,
+          "line": true,
+          "lenFrom": 20,
+          "lenTo": 5,
+          "colorFrom": "f3e979",
+          "colorTo": "f58859"
         }
       ]
     },
