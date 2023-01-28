@@ -21,7 +21,8 @@
   "rotateSpeed": 0.05,
   "shootSound": "explosionBig",
   "loopSound": "pulse",
-  "shoot":{"firstShotDelay": 54000},
+  "shoot":{"firstShotDelay": 600},//54000},
+  "shootEffect": "bigShockwave",
   "chargeSound": "hum",
   "shootType": {
     "type": "ContinuousLaserBulletType",
@@ -35,7 +36,7 @@
       "effects": [
         {
           "type": "waveEffect",
-          "lifetime": 54000, 
+          "lifetime": 600,//54000, 
           "sizeFrom": 600,
           "sizeTo": 0,
           "sides": 6,
@@ -47,7 +48,7 @@
         },
         {
           "type": "waveEffect",
-          "lifetime": 54000, 
+          "lifetime": 600,//54000, 
           "sizeFrom": 600,
           "sizeTo": 0,
           "baseRotation": 30,
@@ -60,7 +61,7 @@
         },
         {
           "type": "waveEffect",
-          "lifetime": 27000, 
+          "lifetime": 300,//27000, 
           "sizeFrom": 600,
           "sizeTo": 0,
           "followParent": true,
@@ -72,7 +73,7 @@
         },
         {
           "type": "waveEffect",
-          "lifetime": 27000, 
+          "lifetime": 300//27000, 
           "sizeFrom": 600,
           "sizeTo": 0,
           "baseRotation": 30,
@@ -89,7 +90,7 @@
           [
             {
               "type": "particleEffect",
-              "startDelay": 60,
+              "startDelay": 240,//26940
               "lifetime": 600,
               "length": -600,
               "baseLength": 600,
@@ -100,18 +101,18 @@
               "line": true,
               "lenFrom": 20,
               "lenTo": 5,
-              "colorFrom": "f3e979",
+              "colorFrom": "f3e97910",
               "colorTo": "f58859"
             },
             {
               "type": "particleEffect",
-              "startDelay": 60,
+              "startDelay": 240,//26940
               "lifetime": 600,
               "length": 0,
               "particles": 1,
               "followParent": true,
-              "strokeFrom": 0,
-              "strokeTo": 25,
+              "sizeFrom": 0,
+              "sizeTo": 25,
               "colorFrom": "f3e979",
               "colorTo": "ffffff"
             }
