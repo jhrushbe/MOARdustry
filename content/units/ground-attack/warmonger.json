@@ -48,7 +48,7 @@
       "largeHit": true,
       "lightColor": "98ffa9",
       "lightningColor": "98ffa9",
-      "shootEffect": "greenLaserCharge",
+      "chargeEffect": "greenLaserCharge",
       "healPercent": 25,
       "collidesTeam": true,
       "sideAngle": 15,

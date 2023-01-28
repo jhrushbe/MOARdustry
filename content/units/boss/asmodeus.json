@@ -82,7 +82,6 @@
               "speed": 2,
               "damage": 640,
               "fragBullets": 2,
-              "fragAngle": 20,
               "fragRandomSpread": 20,
               "fragBullet": {
                 "type": "BasicBulletType",

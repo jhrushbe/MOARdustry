@@ -1,7 +1,7 @@
 {
   "type": "laserTurret",
   "name": "Sector Cracker",
-  "description": "Nothing like a sector-wide laser sweep to end everything. \n[red]Note: Takes 30 minutes to fire.",
+  "description": "Nothing like a sector-wide laser sweep to end everything. \n[red]Note: Takes 15 minutes to fire.",
   "size": 10,
   "health": 100000,
   "requirements": [
@@ -12,17 +12,16 @@
     {"item": "silicon", "amount": 10000},
     {"item": "metaglass", "amount": 10000}
   ],
+  "shootY": 0,
   "shootCone": 1,
   "recoil": 0,
   "range": 40000,
   "reload": 1,
   "shootDuration": 36000,
-  "consumes": {"power": 1000,"coolant":{"amount":16.6666}},
   "rotateSpeed": 0.05,
   "shootSound": "explosionBig",
   "loopSound": "pulse",
-  "shootLength": 0,
-  "shoot":{"firstShotDelay": 108000},
+  "shoot":{"firstShotDelay": 54000},
   "chargeSound": "hum",
   "shootType": {
     "type": "ContinuousLaserBulletType",
@@ -36,23 +35,11 @@
       "effects": [
         {
           "type": "waveEffect",
-          "lifetime": 108000, 
+          "lifetime": 54000, 
           "sizeFrom": 600,
           "sizeTo": 0,
-          "baseRotation": 1,
           "sides": 6,
-          "colorFrom": "f3e979",
-          "colorTo": "f58859",
-          "strokeFrom": 1,
-          "strokeTo": 4
-        },
-        {
-          "type": "waveEffect",
-          "lifetime": 108000, 
-          "sizeFrom": 600,
-          "sizeTo": 0,
-          "baseRotation": -1,
-          "sides": 6,
+          "followParent": true,
           "colorFrom": "f3e979",
           "colorTo": "f58859",
           "strokeFrom": 1,
@@ -63,7 +50,28 @@
           "lifetime": 54000, 
           "sizeFrom": 600,
           "sizeTo": 0,
-          "baseRotation": 1,
+          "baseRotation": 60,
+          "followParent": true,
+          "sides": 6,
+          "colorFrom": "f3e979",
+          "colorTo": "f58859",
+          "strokeFrom": 1,
+          "strokeTo": 4
+        },
+        {
+          "type": "particleEffect",
+          "lifetime": 54000, 
+          "particles": 25,
+          "followParent": true,
+          "colorFrom": "f3e979",
+          "colorTo": "f58859"
+        },
+        {
+          "type": "waveEffect",
+          "lifetime": 27000, 
+          "sizeFrom": 600,
+          "sizeTo": 0,
+          "followParent": true,
           "sides": 6,
           "colorFrom": "f3e979",
           "colorTo": "f58859",
@@ -72,10 +80,11 @@
         },
         {
           "type": "waveEffect",
-          "lifetime": 54000, 
+          "lifetime": 27000, 
           "sizeFrom": 600,
           "sizeTo": 0,
-          "baseRotation": -1,
+          "baseRotation": 60,
+          "followParent": true,
           "sides": 6,
           "colorFrom": "f3e979",
           "colorTo": "f58859",
@@ -113,6 +122,7 @@
       ]
     }
   },
+  "consumes": {"power": 1000,"coolant":{}},
   "category": "turret",
   "research": "bfg"
 }

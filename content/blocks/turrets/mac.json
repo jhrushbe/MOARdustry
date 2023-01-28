@@ -11,7 +11,7 @@
     {"item": "plastic", "amount": 1000},
     {"item": "fuel-cell", "amount": 400}
   ],
-  "maxAmmo": 2,
+  "maxAmmo": 10,
   "ammoPerShot": 1,
   "targetAir": false,
   "shake": 10,
