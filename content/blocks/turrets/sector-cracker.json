@@ -50,7 +50,7 @@
           "lifetime": 54000, 
           "sizeFrom": 600,
           "sizeTo": 0,
-          "baseRotation": 60,
+          "baseRotation": 30,
           "followParent": true,
           "sides": 6,
           "colorFrom": "f3e979",
@@ -59,12 +59,18 @@
           "strokeTo": 4
         },
         {
-          "type": "particleEffect",
-          "lifetime": 54000, 
-          "particles": 25,
-          "followParent": true,
-          "colorFrom": "f3e979",
-          "colorTo": "f58859"
+          "type": "radialEffect",
+          "amount": 50,
+          "effect": {
+            "type": "particleEffect",
+            "lifetime": 300,
+            "particles": 1,
+            "followParent": true,
+            "sizeFrom": 30,
+            "sizeTo": 0,
+            "colorFrom": "f3e979",
+            "colorTo": "f58859"
+          }
         },
         {
           "type": "waveEffect",
@@ -83,7 +89,7 @@
           "lifetime": 27000, 
           "sizeFrom": 600,
           "sizeTo": 0,
-          "baseRotation": 60,
+          "baseRotation": 30,
           "followParent": true,
           "sides": 6,
           "colorFrom": "f3e979",

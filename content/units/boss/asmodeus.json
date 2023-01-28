@@ -37,7 +37,6 @@
         "speed": 2,
         "damage": 5120,
         "fragBullets": 2,
-        "fragAngle": 20,
         "fragRandomSpread": 20,
         "fragBullet": {
           "type": "BasicBulletType",
@@ -52,7 +51,6 @@
           "speed": 2,
           "damage": 2560,
           "fragBullets": 2,
-          "fragAngle": 20,
           "fragRandomSpread": 20,
           "fragBullet": {
             "type": "BasicBulletType",
@@ -67,7 +65,6 @@
             "speed": 2,
             "damage": 1280,
             "fragBullets": 2,
-            "fragAngle": 20,
             "fragRandomSpread": 20,
             "fragBullet": {
               "type": "BasicBulletType",

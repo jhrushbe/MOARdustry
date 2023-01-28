@@ -9,7 +9,7 @@
     ],
     "targetAir": true,
     "targetGround": true,
-    "shoot":{"shots":3,"barrels":3,"spread":1.5},
+    "ShootAlternate": {"shots":3,"barrels":3,"spread":1.5},
     "reload": 20,
     "range": 125,
     "shootCone": 15,
