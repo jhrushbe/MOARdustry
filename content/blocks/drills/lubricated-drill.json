@@ -11,7 +11,7 @@
     ],
     "tier": 4,
     "drillTime": 400,
-    "liquidBoostIntensity": 5,
+    "liquidBoostIntensity": 2,
 	"consumes": {
 		"liquid": {
 			"liquid": "hor",

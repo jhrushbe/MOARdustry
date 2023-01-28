@@ -1,0 +1,7 @@
+{
+    "speedMultiplier": 0.8,
+    "damageMultiplier": 0.8,
+    "healthMultiplier": 0.8,
+    "damage": 10,
+    "effect": "melting"
+}

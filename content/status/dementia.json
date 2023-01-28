@@ -1,0 +1,6 @@
+{
+    "speedMultiplier": 0,
+    "damageMultiplier": 0.1,
+    "damage": 10,
+    "effect": "sapped"
+}

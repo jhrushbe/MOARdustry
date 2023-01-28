@@ -1,0 +1,17 @@
+{
+    "type": "particleWeather",
+    "useWindVector": true,
+    "paricleRegion": "circle",
+    "opacityMultiplier": 0.3,
+    "color": "ffa480",
+    "drawNoise": "circle",
+    "noiseColor": "ff7b69",
+    "sizeMin": 5,
+    "sizeMax": 20,
+    "minAlpha": 0,
+    "maxAlpha": 0.5,
+    "sound": "wind",
+    "soundVol": 1,
+    "density": 4500,
+    "status": "high-winds"
+}

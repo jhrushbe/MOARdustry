@@ -57,23 +57,7 @@
         "strokeFrom": 4,
         "strokeTo": 1
       }, 
-      "effect": {
-        "name": "overheal",
-        "localizedName": "Overheal",
-        "healthMultiplier": 1.5,
-        "damage": -1,
-        "effect": {
-          "type": "ParticleEffect",
-          "particles": 1,
-          "length": 0,
-          "lifetime": 25,
-          "sizeFrom": 2,
-          "sizeTo": 2,
-          "colorFrom": "98ffa9",
-          "colorTo": "98ffa900",
-          "region": "large-bomb-back"
-        }
-      },
+      "effect": "overheal",
       "range": 60,
       "reload": 600,
       "duration": 60

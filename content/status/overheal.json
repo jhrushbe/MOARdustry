@@ -1,0 +1,15 @@
+{
+    "healthMultiplier": 1.5,
+    "damage": -1,
+    "effect": {
+        "type": "ParticleEffect",
+        "particles": 1,
+        "length": 0,
+        "lifetime": 25,
+        "sizeFrom": 2,
+        "sizeTo": 2,
+        "colorFrom": "98ffa9",
+        "colorTo": "98ffa900",
+        "region": "large-bomb-back"
+    }
+}

@@ -28,14 +28,7 @@
     "ammoMultiplier": 1,
     "splashDamage": 200,
     "splashDamageRadius": 800,
-    "status": {
-      "name": "dementia",
-      "localizedName": "Dementia",
-      "speedMultiplier": 0,
-      "damageMultiplier": 0.1,
-      "damage": 100,
-      "effect": "sapped"
-    },
+    "status": "dementia",
     "statusDuration": 300
   },
   "category": "turret"

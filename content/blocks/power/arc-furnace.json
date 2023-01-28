@@ -18,12 +18,10 @@
         {"type":"drawRegion","suffix":"-bottom"},
         {"type":"drawPlasma","plasma1": "ffb855","plasma2": "db661c","suffix":"-plasma-"},
         {"type":"drawRegion","spinSprite":true,"rotateSpeed":2,"suffix":"-rotator"},
-        {"type":"drawDefault"},
-        {"type":"topRegion"},
-        {"type":"lightsRegion"}
+        {"type":"drawDefault"}
     ],
     "consumes": {
-        "power": 3,
+        //"power": 3,
         "items": {"items": [{"item": "pyratite", "amount": 1}]},
         "liquid": {"liquid": "water", "amount": 0.3}
     },

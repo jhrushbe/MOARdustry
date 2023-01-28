@@ -1,7 +1,7 @@
 {
-    "type": "variableReactor",
+    "type": "nuclearReactor",
     "name": "Anitmatter Reactor",
-    "description": "Creates power by reacting antimatter with normal matter. Stabilizing with cryofluid is highly recommended.",
+    "description": "Creates power by reacting antimatter with normal matter. Cooling with cryofluid is highly recommended.",
     "details": "No one said it was a good idea.",
     "size": 5,
     "requirements": [
@@ -12,10 +12,8 @@
     "drawer":[
         {"type":"drawRegion","suffix":"-bottom"},
         {"type":"drawPlasma","plasma1": "ffb855","plasma2": "db661c","suffix":"-plasma-"},
-        {"type":"drawPistons","sinMag":2.75,"sinScl":5,"sides":4,"sideOffset": 3.141592653589793},
-        {"type":"drawDefault"},
-        {"type":"topRegion"},
-        {"type":"lightsRegion"}
+        {"type":"drawPistons","sinMag":7,"sinScl":5,"sides":4,"sideOffset": 3.141592653589793},
+        {"type":"drawDefault"}
     ],
     "consumes": {
         "items": {"items": [{"item": "antimatter", "amount": 1}]},
