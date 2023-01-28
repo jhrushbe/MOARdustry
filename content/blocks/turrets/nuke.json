@@ -10,6 +10,7 @@
     {"item": "fuel-cell", "amount": 100}
   ],
   "shootCone": 2,
+  "shootY": 0,
   "inaccuracy": 0,
   "recoil": 0,
   "range": 800,

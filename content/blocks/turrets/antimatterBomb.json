@@ -16,6 +16,7 @@
   "reload": 1,
   "range": 80,
   "shootCone": 360,
+  "shootY": 0,
   "inaccuracy": 0,
   "rotateSpeed": 0,
   "shootSound": "explosionbig",
