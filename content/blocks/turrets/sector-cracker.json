@@ -60,13 +60,14 @@
         },
         {
           "type": "radialEffect",
-          "amount": 50,
+          "amount": 100,
           "effect": {
             "type": "particleEffect",
             "lifetime": 300,
+            "length": -600,
             "particles": 1,
             "followParent": true,
-            "sizeFrom": 30,
+            "sizeFrom": 10,
             "sizeTo": 0,
             "colorFrom": "f3e979",
             "colorTo": "f58859"
