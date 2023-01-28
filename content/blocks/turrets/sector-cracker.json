@@ -90,8 +90,8 @@
           [
             {
               "type": "particleEffect",
-              "startDelay": 240,//26940
-              "lifetime": 60,
+              "startDelay": 540,//53700,
+              "lifetime": 60,//300,
               "length": -600,
               "baseLength": 600,
               "particles": 200,
@@ -106,8 +106,8 @@
             },
             {
               "type": "particleEffect",
-              "startDelay": 240,//26940
-              "lifetime": 60,
+              "startDelay": 240,//53700,
+              "lifetime": 60,//300,
               "length": 0,
               "particles": 1,
               "followParent": true,
