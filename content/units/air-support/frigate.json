@@ -16,8 +16,6 @@
   "buildSpeed": 5,
   "mineTier": 3,
   "mineSpeed": 9.5,
-  "rotateShooting": true,
-  "isCounted": false,
   "weapons": [
   {
     "name": "frigate-welder",
@@ -42,7 +40,7 @@
       "length": 8,
       "width": 8,
       "colors": ["98ffa955", "98ffa9aa", "98ffa9", "ffffff"],
-      "lightColor": "98ffa9",
+      "lightColor": "98ffa9"
     }
   }
   ],
@@ -57,7 +55,7 @@
         "colorFrom": "98ffa9",
         "colorTo": "98ffa9",
         "strokeFrom": 4,
-        "strokeTo": 1,
+        "strokeTo": 1
       }, 
       "effect": {
         "name": "overheal",
@@ -73,13 +71,13 @@
           "sizeTo": 2,
           "colorFrom": "98ffa9",
           "colorTo": "98ffa900",
-          "region": "large-bomb-back" //it wouldnt use my own sprite, so i had to make do with what was in the source code
+          "region": "large-bomb-back"
         }
       },
       "range": 60,
       "reload": 600,
-      "duration": 60,
+      "duration": 60
     }
   ],
-  "research": "barge",
+  "research": "barge"
 }

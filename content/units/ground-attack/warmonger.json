@@ -11,9 +11,7 @@
   "legLength": 14,
   "legBaseOffset": 11,
   "legMoveSpace": 1.5,
-  "legTrns": 0.58,
   "hovering": true,
-  "visualElevation": 0.2,
   "allowLegStep": true,
   "legSplashDamage": 2000,
   "legSplashRange": 8, //set to diameter of corvus foot
@@ -34,7 +32,7 @@
     "shootY": 5,
     "shootStatusDuration": 120,
     "shootStatus": "unmoving",
-    "firstShotDelay": 120,
+    "shoot":{"firstShotDelay": 120},
     "bullet": {
       "type": "LaserBulletType",
       "length": 460,
@@ -56,9 +54,9 @@
       "sideAngle": 15,
       "sideWidth": 0,
       "sideLength": 0,
-      "colors": ["98ffa9", "98ffa9", "ffffff"],
+      "colors": ["98ffa9", "98ffa9", "ffffff"]
     }
-  }
+  },
   {
     "name": "warmonger-omura",
     "x": 21.5,
@@ -72,21 +70,20 @@
     "recoil": 10.5,
     "shadow": 50,
     "shootSound": "railgun",
-    "shots": 1,
     "ejectEffect": "none",
     "bullet": {
       "type": "RailBulletType",
       "shootEffect": "railShoot",
       "length": 500,
-      "updateEffectSeg": 60,
+      "pointEffectSpace": 60,
       "pierceEffect": "railHit",
-      "updateEffect": "railTrail",
+      "pointEffect": "railTrail",
       "hitEffect": "massiveExplosion",
       "smokeEffect": "shootBig2",
       "damage": 312.5,
-      "pierceDamageFactor": 0.5,
+      "pierceDamageFactor": 0.5
     }
-  }
+  },
   {
     "name": "warmonger-reign",
     "top": false,
@@ -113,7 +110,7 @@
       "splashDamageRadius": 13,
       "fragBullets": 2,
       "fragLifeMin": 0,
-      "fragCone": 30,
+      "fragRandomSpread": 30,
       "fragBullet": {
         "type": "BasicBulletType",
         "width": 10,
@@ -124,10 +121,10 @@
         "lifetime": 20,
         "hitEffect": "flakExplosion",
         "splashDamage": 15,
-        "splashDamageRadius": 10,
+        "splashDamageRadius": 10
       }
     }
-  }
+  },
   {
     "name": "warmonger-toxopid",
     "x": 0,
@@ -183,10 +180,10 @@
         "smokeEffect": "shootBigSmoke2",
         "hitShake": 5,
         "status": "sapped",
-        "statusDuration": 120,
+        "statusDuration": 120
       }
     }
-  }
+  },
   {
     "name": "warmonger-eclipse",
     "x": 19,
@@ -208,9 +205,9 @@
       "width": 12.5,
       "length": 100,
       "shootEffect": "shockwave",
-      "colors": ["ec7458aa", "ff9c5a", "ffffff"],
+      "colors": ["ec7458aa", "ff9c5a", "ffffff"]
     }
   }
   ],
-  "research": "dominator",
+  "research": "dominator"
 }

@@ -37,7 +37,7 @@
         "length": 16,
         "width": 16,
         "colors": ["00000000", "00000000", "00000000", "00000000"],
-        "lightColor": "ff9c5a",
+        "lightColor": "ff9c5a"
       }
     }
   ]

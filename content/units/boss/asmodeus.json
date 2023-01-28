@@ -20,6 +20,7 @@
       "shootY": 0,
       "shake": 10,
       "top": false,
+      "mirror": false,
       "reload": 600,
       "recoil": 0,
       "shootSound": "bang",
@@ -37,7 +38,7 @@
         "damage": 5120,
         "fragBullets": 2,
         "fragAngle": 20,
-        "fragCone": 20,
+        "fragRandomSpread": 20,
         "fragBullet": {
           "type": "BasicBulletType",
           "backColor": "a63d3d",
@@ -52,7 +53,7 @@
           "damage": 2560,
           "fragBullets": 2,
           "fragAngle": 20,
-          "fragCone": 20,
+          "fragRandomSpread": 20,
           "fragBullet": {
             "type": "BasicBulletType",
             "backColor": "a63d3d",
@@ -67,7 +68,7 @@
             "damage": 1280,
             "fragBullets": 2,
             "fragAngle": 20,
-            "fragCone": 20,
+            "fragRandomSpread": 20,
             "fragBullet": {
               "type": "BasicBulletType",
               "backColor": "a63d3d",
@@ -82,7 +83,7 @@
               "damage": 640,
               "fragBullets": 2,
               "fragAngle": 20,
-              "fragCone": 20,
+              "fragRandomSpread": 20,
               "fragBullet": {
                 "type": "BasicBulletType",
                 "backColor": "a63d3d",
@@ -94,12 +95,13 @@
                 "pierceCap": 100,
                 "lifetime": 60,
                 "speed": 2,
+                "damage": 320
               }
             }
           }
         }
       }
-    }
+    },
     {
       "name": "asmodeus-life-ender",
       "x": 7.5,
@@ -120,9 +122,9 @@
         "width": 12.5,
         "length": 100,
         "shootEffect": "shockwave",
-        "colors": ["a63d3d", "e65555", "ffffff"],
+        "colors": ["a63d3d", "e65555", "ffffff"]
       }
-    }
+    },
     {
       "name": "asmodeus-life-ender",
       "x": 15.25,
@@ -143,9 +145,9 @@
         "width": 12.5,
         "length": 100,
         "shootEffect": "shockwave",
-        "colors": ["a63d3d", "e65555", "ffffff"],
+        "colors": ["a63d3d", "e65555", "ffffff"]
       }
-    }
+    },
     {
       "name": "asmodeus-life-ender",
       "x": 19,
@@ -166,9 +168,9 @@
         "width": 12.5,
         "length": 100,
         "shootEffect": "shockwave",
-        "colors": ["a63d3d", "e65555", "ffffff"],
+        "colors": ["a63d3d", "e65555", "ffffff"]
       }
-    }
+    },
     {
       "name": "asmodeus-life-ender",
       "x": 27.75,
@@ -189,7 +191,7 @@
         "width": 12.5,
         "length": 100,
         "shootEffect": "shockwave",
-        "colors": ["a63d3d", "e65555", "ffffff"],
+        "colors": ["a63d3d", "e65555", "ffffff"]
       }
     }
   ]

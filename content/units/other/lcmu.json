@@ -27,7 +27,7 @@
         "killShooter": true,
         "width": 0,
         "height": 0,
-        "fragCone": 0,
+        "fragRandomSpread": 0,
         "fragBullets": 1,
         "despawnEffect": "none",
         "fragBullet": {
@@ -40,7 +40,7 @@
           "smokeEffect": "none",
           "hitEffect": "hitLancer",
           "despawnEffect": "none",
-          "damage": 140,
+          "damage": 140
         }
       }
     }

@@ -31,9 +31,9 @@
         "smokeEffect": "shootSmallSmoke",
         "hitEffect": "flakExplosion",
         "splashDamageRadius": 18.75,
-        "splashDamage": 33,
+        "splashDamage": 33
       }
-    }
+    },
     {
       "name": "stronghold-ripple",
       "reload": 200,
@@ -42,7 +42,7 @@
       "shootY": 2,
       "recoil": 6,
       "shake": 2,
-      "shots": 4,
+      "shoot":{"shots": 4},
       "mirror": false,
       "ejectEffect": "casing3Double",
       "shootSound": "artillery",
@@ -60,5 +60,5 @@
       }
     }
   ],
-  "research": "fortress",
+  "research": "fortress"
 }

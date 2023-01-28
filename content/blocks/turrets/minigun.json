@@ -44,6 +44,7 @@
             "width": 5,
             "height": 9,
             "pierceCap": 2,
+            "pierceBuilding": true,
             "shootEffect": "shootSmall",
             "smokeEffect": "shootSmallSmoke"
         }

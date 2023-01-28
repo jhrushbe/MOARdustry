@@ -12,9 +12,8 @@
   "engineOffset": 0, 
   "engineSize": 6, 
   "range": 50,
-  "isCounted": false,
   "itemCapacity": 300, 
   "mineTier": 7,
   "mineSpeed": 5, 
-  "research": "frigate",
+  "research": "frigate"
 }
