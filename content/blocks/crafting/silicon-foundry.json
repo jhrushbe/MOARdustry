@@ -1,30 +1,32 @@
 {
-    "type": "GenericSmelter",
+    "type": "genericCrafter",
     "name": "Silicon Foundry",
-    "description": "Uses graphite crucibles, to assist in silicon production.",
+    "description": "Uses graphite crucibles to assist in silicon production.",
     "size": 2,
     "health": 200,
     "hasPower": true,
-    "hasLiquids": false,
     "craftTime": 180,
     "updateEffect": "smeltsmoke",
-    "flameColor": "DD4C20",
+    "drawer":[
+        {"type":"drawDefault"},
+        {"type":"drawFlame", "flameColor": "DD4C20"}
+    ],
     "requirements": [
         {"item": "copper", "amount": 100},
         {"item": "titanium", "amount": 60},
         {"item": "graphite", "amount": 40},
-        {"item": "silicon", "amount": 20},
+        {"item": "silicon", "amount": 20}
     ],
     "consumes": {
     	"power": 2,
-   	"items": {
+   	    "items": {
       	    "items": [
       	        { "item": "graphite", "amount": 1 },
       	        { "item": "sand", "amount": 3 }
              ]
         }
     },
+    "outputItem": {"item": "silicon", "amount": 3},
     "category": "crafting",
-    "research": "kiln",
-    "outputItem": {"item": "silicon", "amount": 3}
+    "research": "kiln"
 }

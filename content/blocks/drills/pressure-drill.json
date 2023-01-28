@@ -1,7 +1,7 @@
 {
 	"name": "Pressure Drill",
-	"type": "Drill",
-	"description": "Uses immense amounts of pressure to extract ores from the ground. Requires coolent to run.",
+	"type": "drill",
+	"description": "Uses immense amounts of pressure to extract ores from the ground. Requires coolant to run.",
 	"size": 3,
 	"tier": 5,
 	"drillTime": 75,
@@ -12,16 +12,16 @@
    		{ "item": "thorium", "amount": 200 },
 		{ "item": "titanium", "amount": 100 },
 		{ "item": "plastanium", "amount": 100 },
-    		{ "item": "surge-alloy", "amount": 75 },
+    	{ "item": "surge-alloy", "amount": 75 }
 	],
 	"consumes": {
 		"power": 7.0,
 		"liquid": {
-			"liquid": "water", 
+			"liquid": "water",
 			"amount": 0.1,
 			"booster": false,
-			"optional": false,
-		},
+			"optional": false
+		}
 	},
 	"category": "production",
 	"research": "blast-drill"

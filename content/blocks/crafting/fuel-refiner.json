@@ -1,9 +1,8 @@
 {
-	"type": "GenericSmelter",
+	"type": "genericCrafter",
 	"name": "Fuel Refiner",
-	"description": "Transforms oil into fuel.",
+	"description": "Refines oil into fuel.",
 	"size": 2,
-	"health": 300,
 	"hasPower": true,
 	"hasLiquids": true,
 	"craftTime": 60,
@@ -16,9 +15,9 @@
 	],
 	"consumes": {
 		"power": 3,
-		"liquid": {"liquid": "oil", "amount": "0.1"}
+		"liquid": {"liquid": "oil", "amount": 0.1}
 	},
+	"outputLiquid": {"liquid": "fuel", "amount": 0.1},
 	"category": "crafting",
-	"research": "plastic-refinery",
-	"outputLiquid": {"liquid": "fuel", "amount": 6},
+	"research": "plastic-refinery"
 }

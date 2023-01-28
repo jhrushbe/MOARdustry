@@ -1,7 +1,7 @@
 {
-  "type": "LaserTurret",
+  "type": "laserTurret",
   "name": "Sector Cracker",
-  "description": "Nothing like a sector-wide laser sweep to end everything. \n[red]Note: Takes 30 minutes to fire.",
+  "description": "Nothing like a sector-wide laser sweep to end everything. \n[red]Note: Takes 15 minutes to fire.",
   "size": 10,
   "health": 100000,
   "requirements": [
@@ -12,75 +12,18 @@
     {"item": "silicon", "amount": 10000},
     {"item": "metaglass", "amount": 10000}
   ],
+  "shootY": 0,
   "shootCone": 1,
-  "shots": 2,
-  "spread": 180,
-  "recoilAmount": 0,
+  "recoil": 0,
   "range": 40000,
-  "reloadTime": 1,
+  "reload": 1,
   "shootDuration": 36000,
-  "powerUse": 1000,
   "rotateSpeed": 0.05,
   "shootSound": "explosionBig",
   "loopSound": "pulse",
-  "shootLength": 0,
-  "chargeTime": 108000, 
-  "chargeMaxDelay": 0,
-  "chargeEffects": 1,
-  "chargeSound": "none",
-  "chargeEffect": {
-    "type": "MultiEffect",
-    "effects": [
-      {
-        "type": "waveEffect",
-        "lifetime": 108000, 
-        "sizeFrom": 800,
-        "sizeTo": 0,
-        "rotation": 0,
-        "sides": 4,
-        "colorFrom": "f3e979",
-        "colorTo": "f58859",
-        "strokeFrom": 1,
-        "strokeTo": 4,
-      }
-      {
-        "type": "waveEffect",
-        "lifetime": 108000, 
-        "sizeFrom": 800,
-        "sizeTo": 0,
-        "rotation": 45,
-        "sides": 4,
-        "colorFrom": "f3e979",
-        "colorTo": "f58859",
-        "strokeFrom": 1,
-        "strokeTo": 4,
-      }
-      {
-        "type": "waveEffect",
-        "lifetime": 54000, 
-        "sizeFrom": 800,
-        "sizeTo": 0,
-        "rotation": 0,
-        "sides": 4,
-        "colorFrom": "f3e979",
-        "colorTo": "f58859",
-        "strokeFrom": 1,
-        "strokeTo": 4,
-      }
-      {
-        "type": "waveEffect",
-        "lifetime": 54000, 
-        "sizeFrom": 800,
-        "sizeTo": 0,
-        "rotation": 45,
-        "sides": 4,
-        "colorFrom": "f3e979",
-        "colorTo": "f58859",
-        "strokeFrom": 1,
-        "strokeTo": 4,
-      }
-    ]
-  },
+  "shoot":{"firstShotDelay": 54000},
+  "shootEffect": "bigShockwave",
+  "chargeSound": "hum",
   "shootType": {
     "type": "ContinuousLaserBulletType",
     "length": 80000,
@@ -88,6 +31,96 @@
     "width": 6,
     "damage": 10000,
     "incendChance": 0,
+    "chargeEffect": {
+      "type": "MultiEffect",
+      "effects": [
+        {
+          "type": "waveEffect",
+          "lifetime": 54000,
+          "sizeFrom": 600,
+          "sizeTo": 0,
+          "sides": 6,
+          "followParent": true,
+          "colorFrom": "f3e979",
+          "colorTo": "f58859",
+          "strokeFrom": 1,
+          "strokeTo": 4
+        },
+        {
+          "type": "waveEffect",
+          "lifetime": 54000, 
+          "sizeFrom": 600,
+          "sizeTo": 0,
+          "baseRotation": 30,
+          "followParent": true,
+          "sides": 6,
+          "colorFrom": "f3e979",
+          "colorTo": "f58859",
+          "strokeFrom": 1,
+          "strokeTo": 4
+        },
+        {
+          "type": "waveEffect",
+          "lifetime": 27000, 
+          "sizeFrom": 600,
+          "sizeTo": 0,
+          "baseRotation": 15,
+          "followParent": true,
+          "sides": 6,
+          "colorFrom": "f3e979",
+          "colorTo": "f58859",
+          "strokeFrom": 1,
+          "strokeTo": 4
+        },
+        {
+          "type": "waveEffect",
+          "lifetime": 27000, 
+          "sizeFrom": 600,
+          "sizeTo": 0,
+          "baseRotation": 45,
+          "followParent": true,
+          "sides": 6,
+          "colorFrom": "f3e979",
+          "colorTo": "f58859",
+          "strokeFrom": 1,
+          "strokeTo": 4
+        },
+        {
+          "type": "multiEffect",
+          "effects":
+          [
+            {
+              "type": "particleEffect",
+              "startDelay": 53700,
+              "lifetime": 300,
+              "length": -600,
+              "baseLength": 600,
+              "particles": 200,
+              "followParent": true,
+              "strokeFrom": 4,
+              "strokeTo": 1,
+              "line": true,
+              "lenFrom": 20,
+              "lenTo": 5,
+              "colorFrom": "f3e97910",
+              "colorTo": "f58859"
+            },
+            {
+              "type": "particleEffect",
+              "startDelay": 53700,
+              "lifetime": 300,
+              "length": 0,
+              "particles": 1,
+              "followParent": true,
+              "sizeFrom": 0,
+              "sizeTo": 25,
+              "colorFrom": "f3e979",
+              "colorTo": "ffffff"
+            }
+          ]
+        }
+      ]
+    },
     "hitEffect": {
       "type": "MultiEffect",
       "effects": [
@@ -100,8 +133,8 @@
           "colorFrom": "ffffff",
           "colorTo": "ffffff",
           "strokeFrom": 3,
-          "strokeTo": 0,
-        }
+          "strokeTo": 0
+        },
         {
           "type": "waveEffect",
           "sizeFrom": 80,
@@ -112,11 +145,12 @@
           "colorFrom": "ffffff",
           "colorTo": "ffffff",
           "strokeFrom": 3,
-          "strokeTo": 0,
+          "strokeTo": 0
         }
       ]
     }
   },
+  "consumes": {"power": 1000,"coolant":{}},
   "category": "turret",
-  "research": "bfg",
+  "research": "bfg"
 }

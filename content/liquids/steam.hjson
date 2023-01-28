@@ -1,10 +1,11 @@
 name: Steam
 description: Boiled water. Used in processes of power generation.
+gas: true
 color: dffcff
 barColor: dffcff
 lightColor: f4feffff
 flammability: 0.0
-temperature: 0.9
+temperature: 1
 heatCapacity: 0.0
 viscosity: 0.0
 explosiveness: 0.0

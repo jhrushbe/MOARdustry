@@ -1,7 +1,7 @@
-name: "MOARdustry (broken)"
-displayName: "MOARdustry (broken)"
+name: "MOARdustry"
+displayName: "MOARdustry"
 author: Jhrushbe
-description: "A mod for Mindustry that adds MOAR to your game.\n \n!!Undergoing major overhaul!!\n \nLast Update: v0.10 on 6-3-2021"
+description: "A mod for Mindustry that adds MOAR to your game.\n\nLast Update: v7 Patch on 1-27-2023\n\nPing me on discord with suggestions/issues: jhrushbe#8085"
 version: "0.10"
 minGameVersion: "136"
 dependencies: [ ]

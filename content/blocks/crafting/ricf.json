@@ -3,7 +3,6 @@
     "name": "RICF",
     "description": "The Radioisotope Construction Facility (RICF) creates fuel rods that can be used in nuclear reactors.",
     "size": 2,
-    "health": 400,
     "updateEffect": "smeltsmoke",
     "requirements": [
         {"item": "lead", "amount": 500},
@@ -13,7 +12,6 @@
     ],
     "hasPower": true,
     "hasLiquids": false,
-    "hasItems": true,
     "itemCapacity": 20,
     "craftTime": 150,
     "consumes": {
@@ -27,5 +25,5 @@
     },
     "outputItem": {"item": "fuel-cell", "amount": 1},
     "research": "phase-weaver",
-    "category": "crafting",
+    "category": "crafting"
 }

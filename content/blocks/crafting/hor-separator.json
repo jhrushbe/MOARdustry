@@ -1,9 +1,8 @@
 {
-	"type": "GenericCrafter",
+	"type": "genericCrafter",
 	"name": "Heavy Oil Residue Separator",
 	"description": "Seperates heavy oil residue into coal and water.",
 	"size": 2,
-	"health": 300,
 	"hasPower": true,
 	"hasLiquids": true,
 	"craftTime": 30,
@@ -18,8 +17,8 @@
 		"power": 3,
 		"liquid": {"liquid": "hor", "amount": 0.1}
 	},
-	"category": "crafting",
-	"research": "plastic-refinery",
 	"outputItem": {"item": "coal", "amount": 1},
-	"outputLiquid": {"liquid": "water", "amount": 1.5},
+	"outputLiquid": {"liquid": "water", "amount": 0.1},
+	"category": "crafting",
+	"research": "plastic-refinery"
 }

@@ -1,5 +1,5 @@
 {
-  "type": "CoreBlock",
+  "type": "coreBlock",
   "name": "Axis",
   "description": "A heavily armored core with larger unit and item capacities.",
   "health": 11000,
@@ -15,5 +15,5 @@
   "unitCapModifier": 50,
   "unitType": "frigate", //find later
   "category": "effect",
-  "research": "core-nucleus",
+  "research": "core-nucleus"
 }

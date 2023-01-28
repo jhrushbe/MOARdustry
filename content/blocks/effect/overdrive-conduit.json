@@ -1,5 +1,5 @@
 {
-  "type": "OverdriveProjector",
+  "type": "overdriveProjector",
   "name": "Overdrive Conduit",
   "description": "Bends space-time in a small area around it, resulting in accelerated production.",
   "size": 4,
@@ -10,13 +10,13 @@
     {"item": "plastanium", "amount": 200},
     {"item": "aol", "amount": 50}
   ],
-  "range": 60,
+  "range": 75,
   "speedBoost": 5,
   "hasBoost": false,
   "consumes": {
     "power": 15,
-    "items": {"items": [{"item": "aol", "amount": 0}]}
+    "items": {"items": [{"item": "aol", "amount": 1}]}
   },
   "research": "overdrive-dome",
-  "category": "effect",
+  "category": "effect"
 }

@@ -10,10 +10,10 @@
     {"item": "silicon", "amount": 100}
   ],
   "liquidCapacity": 10,
-  "recoilAmount": 0,
+  "recoil": 0,
   "targetAir": true,
   "targetGround": true,
-  "reloadTime": 40,
+  "reload": 4,
   "range": 400,
   "shootCone": 1,
   "inaccuracy": 0,
@@ -24,8 +24,8 @@
   "ammoTypes": {
     "slag": {
       "type": "SapBulletType",
-      "sapStrength": 2,
-      "damage": 1000,
+      "sapStrength": 1,
+      "damage": 50,
       "length": 400,
       "width": 1,
       "lifetime": 20,
@@ -34,8 +34,8 @@
       "hitColor": "bc5452",
       "shootEffect": "none",
       "smokeEffect": "none"
-    },
+    }
   },
   "research": "meltdown",
-  "category": "turret",
+  "category": "turret"
 }

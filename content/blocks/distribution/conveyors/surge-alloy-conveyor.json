@@ -1,14 +1,14 @@
 {
-    "type": "Conveyor",
-    "name": "Surge Conveyor",
+    "type": "conveyor",
+    "name": "Surge Alloy Conveyor",
     "description": "Through the power of phase fabric and the strength of titanium and surge alloy, this conveyor can reach speed previously unheard of.",
     "category": "distribution",
     "health": 130,
     "speed": 0.20,
-    "displayedSpeed": 33,
+    "displayedSpeed": 25,
     "requirements": [
         {"item": "surge-alloy", "amount": 1},
-        {"item": "phase-fabric", "amount": 2},
+        {"item": "phase-fabric", "amount": 1},
         {"item": "titanium", "amount": 2}
     ],
     "research": "phase-conveyor"

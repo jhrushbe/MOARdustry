@@ -1,7 +1,7 @@
 {
   "type": "lightBlock",
   "name": "Floodlight",
-  "description": "Larger and brighter than the illuminator",
+  "description": "Larger and brighter than the illuminator.",
   "size": 2,
   "health": 100,
   "requirements": [
@@ -11,7 +11,7 @@
   ],
   "consumes": {"power": 0.2},
   "brightness": 3,
-  "radius": 480,
+  "radius": 280,
   "category": "effect",
-  "research": "illuminator",
+  "research": "illuminator"
 }

@@ -1,47 +1,55 @@
 {
     "type": "itemTurret",
     "name": "Minigun",
-    "description": "The ground version of the Scatter. Greatly benifits from coolent.",
+    "description": "A ground variant of the Scatter. Greatly benefits from coolent.",
     "size": 2,
     "requirements": [
         {"item": "copper", "amount": 100},
         {"item": "lead", "amount": 50},
-        {"item": "metaglass", "amount": 20},
+        {"item": "metaglass", "amount": 20}
     ],
     "targetAir": false,
     "targetGround": true,
-    "spread": 0,
-    "shots": 1,
-    "alternate": false,
-    "reloadTime": 1,
-    "restitution": 0.01,
+    "reload": 2,
     "range": 150,
     "shootCone": 1,
     "ammoUseEffect": "casing1",
     "shootSound": "shootSnap",
-    "health": 500,
-    "inaccuracy": 1,
+    "inaccuracy": 2,
     "rotateSpeed": 20,
     "ammoTypes": {
         "lead": {
             "speed": 5,
-            "damage": 7,
+            "damage": 9.5,
             "ammoMultiplier": 10,
             "width": 7,
             "height": 9,
             "shootEffect": "shootSmall",
-            "smokeEffect": "shootSmallSmoke",
+            "smokeEffect": "shootSmallSmoke"
         },
         "scrap": {
             "speed": 5,
-            "damage": 5,
-            "ammoMultiplier": 5,
+            "damage": 8,
+            "ammoMultiplier": 7.5,
             "width": 7,
             "height": 9,
             "shootEffect": "shootSmall",
-            "smokeEffect": "shootSmallSmoke",
+            "smokeEffect": "shootSmallSmoke"
+        },
+        "thorium": {
+            "speed": 6,
+            "damage": 25,
+            "ammoMultiplier": 10,
+            "reloadMultiplier": 0.5,
+            "width": 5,
+            "height": 9,
+            "pierceCap": 2,
+            "pierceBuilding": true,
+            "shootEffect": "shootSmall",
+            "smokeEffect": "shootSmallSmoke"
         }
     },
+    "consumes":{"coolant":{"amount":0.2}},
     "category": "turret",
-    "research": "scatter",
+    "research": "scatter"
 }

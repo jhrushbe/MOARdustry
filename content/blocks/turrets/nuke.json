@@ -10,12 +10,13 @@
     {"item": "fuel-cell", "amount": 100}
   ],
   "shootCone": 2,
+  "shootY": 0,
   "inaccuracy": 0,
-  "recoilAmount": 0,
+  "recoil": 0,
   "range": 800,
-  "reloadTime": 1,
+  "reload": 1,
   "rotateSpeed": 360,
-  "powerUse": 1.667,
+  "consumes": {"power": 1.667},
   "shootType": {
     "type": "MissileBulletType",
     "homingPower": 0.1,
@@ -24,7 +25,7 @@
     "lifetime": 1200,
     "damage": 10000,
     "splashDamage": 7000,
-    "splashDamageRadius": 800,
+    "splashDamageRadius": 200,
     "drag": -0.001,
     "knockback": 40,
     "hittable": false,
@@ -48,8 +49,8 @@
     "hitEffect": "reactorExplosion",
     "trailColor": "454545",
     "trailEffect": "rocketSmoke",
-    "ammoMultiplier": 1,
+    "ammoMultiplier": 1
   },
   "research": "spectre",
-  "category": "turret",
+  "category": "turret"
 }

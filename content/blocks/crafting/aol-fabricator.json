@@ -1,12 +1,11 @@
 {
-  "type": "GenericCrafter",
-  "name": "Fabricator",
+  "type": "genericCrafter",
+  "name": "AOL Fabricator",
   "description": "Creates Alloy of Light by infusing materials with energy.",
   "size": 4,
-  "health": -1,
   "hasPower": true,
   "hasItems": true,
-  "craftTime": 7200,
+  "craftTime": 1800,
   "craftEffect": {
     "type": "particleEffect",
     "lifetime": 60,
@@ -15,7 +14,7 @@
     "sizeFrom": 0,
     "sizeTo": 24,
     "colorFrom": "8aa3f4",
-    "colorTo": "8aa3f400",
+    "colorTo": "8aa3f400"
   },
   "updateEffect": {
     "type": "particleEffect",
@@ -25,9 +24,13 @@
     "sizeFrom": 4,
     "sizeTo": 0,
     "colorFrom": "8aa3f4",
-    "colorTo": "ffffff",
+    "colorTo": "ffffff"
   },
-  "drawer": "DrawWeave",
+  "drawer":[
+      {"type":"drawRegion","suffix":"-bottom"},
+      {"type":"drawWeave"},
+      {"type":"drawDefault"}
+  ],
   "requirements": [
     {"item": "surge-alloy", "amount": 600},
     {"item": "silicon", "amount": 1000},
@@ -44,7 +47,7 @@
       ]
     }
   },
-  "outputItem": {"item": "aol", "amount": 2},
+  "outputItem": {"item": "aol", "amount": 1},
   "category": "crafting",
-  "research": "ricf",
+  "research": "ricf"
 }

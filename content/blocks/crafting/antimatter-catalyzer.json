@@ -1,13 +1,11 @@
 {
-  "type": "GenericCrafter",
+  "type": "genericCrafter",
   "name": "Antimatter Catalyzer",
   "description": "Gather enough matter and energy in one space and antimatter shows up, eventually.",
   "size": 5,
-  "health": -1,
   "hasPower": true,
-  "hasItems": true,
   "itemCapacity": 100,
-  "craftTime": 36000,
+  "craftTime": 7200,
   "craftEffect": {
     "type": "WaveEffect",
     "lifetime": 120,
@@ -17,7 +15,7 @@
     "colorTo": "ffffff00",
     "strokeFrom": 2,
     "strokeTo": 2,
-    "sides": 6,
+    "sides": 6
   },
   "updateEffect": {
     "type": "particleEffect",
@@ -28,24 +26,28 @@
     "sizeFrom": 3,
     "sizeTo": 0,
     "colorFrom": "ffffff",
-    "colorTo": "ffffff",
+    "colorTo": "ffffff"
   },
-  "drawer": "DrawWeave",
+  "drawer":[
+      {"type":"drawRegion","suffix":"-bottom"},
+      {"type":"drawWeave"},
+      {"type":"drawDefault"}
+  ],
   "requirements": [
     {"item": "plastanium", "amount": 1000},
     {"item": "plastic", "amount": 2000},
-    {"item": "aol", "amount": 100},
+    {"item": "aol", "amount": 100}
   ],
   "consumes": {
     "power": 200,
     "items": {
       "items": [
-        {"item": "fuel-cell", "amount": 100},
-        {"item": "aol", "amount": 50},
+        {"item": "fuel-cell", "amount": 5},
+        {"item": "aol", "amount": 5}
       ]
     }
   },
   "outputItem": {"item": "antimatter", "amount": 1},
   "category": "crafting",
-  "research": "aol-fabricator",
+  "research": "aol-fabricator"
 }

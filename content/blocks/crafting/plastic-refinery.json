@@ -1,9 +1,8 @@
 {
-	"type": "GenericCrafter",
+	"type": "genericCrafter",
 	"name": "Plastic Refinery",
 	"description": "Seperates oil into plastic and heavy oil residue.",
 	"size": 2,
-	"health": 300,
 	"hasPower": true,
 	"hasLiquids": true,
 	"craftTime": 60,
@@ -21,5 +20,5 @@
 	"category": "crafting",
 	"research": "plastanium-compressor",
 	"outputItem": {"item": "plastic", "amount": 1},
-	"outputLiquid": {"liquid": "hor", "amount": 6},
+	"outputLiquid": {"liquid": "hor", "amount": 0.1}
 }

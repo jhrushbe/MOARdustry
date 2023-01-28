@@ -1,12 +1,14 @@
 {
   "type": "storageBlock",
-  "name": "Extra Dimensional Item Storage Device",
+  "name": "Extra Dimensional Item Storage Device.",
   "description": "Non-Euclidean",
   "size": 4,
   "itemCapacity": 20000,
   "requirements": [
+    {"item": "copper", "amount": 1000},
+    {"item": "titanium", "amount": 500},
     {"item": "aol", "amount": 20}
   ],
   "research": "vault",
-  "category": "effect",
+  "category": "effect"
 }

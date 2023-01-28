@@ -10,14 +10,16 @@
     {"item": "silicon", "amount": 100}
   ],
   "liquidCapacity": 10,
-  "recoilAmount": 0,
+  "recoil": 0,
+  "inaccuracy": 3,
   "targetAir": false,
   "targetGround": true,
-  "reloadTime": 2,
+  "reload": 2,
   "range": 110,
   "shootCone": 50,
   "ammoUseEffect": "none",
   "shootSound": "flame",
+  "shootEffect": "shootSmallFlame",
   "ammoTypes": {
     "hor": {
       "type": "basicBulletType",
@@ -28,15 +30,17 @@
       "frontColor": "00000000",
       "backColor": "00000000",
       "pierce": true,
+      "pierceBuilding": true,
       "collidesAir": false,
       "statusDuration": 400,
       "shootEffect": "shootSmallFlame",
       "hitEffect": "hitFlameSmall",
       "despawnEffect": "none",
       "status": "burning",
+      "makeFire": true,
       "keepVelocity": false,
       "hittable": false,
-      "damage": 30
+      "damage": 15
     },
     "oil": {
       "type": "basicBulletType",
@@ -47,15 +51,17 @@
       "frontColor": "00000000",
       "backColor": "00000000",
       "pierce": true,
+      "pierceBuilding": true,
       "collidesAir": false,
       "statusDuration": 280,
       "shootEffect": "shootSmallFlame",
       "hitEffect": "hitFlameSmall",
       "despawnEffect": "none",
       "status": "burning",
+      "makeFire": true,
       "keepVelocity": false,
       "hittable": false,
-      "damage": 120
+      "damage": 20
     },
     "fuel": {
       "type": "basicBulletType",
@@ -66,17 +72,19 @@
       "frontColor": "00000000",
       "backColor": "00000000",
       "pierce": true,
+      "pierceBuilding": true,
       "collidesAir": false,
       "statusDuration": 200,
       "shootEffect": "shootSmallFlame",
       "hitEffect": "hitFlameSmall",
       "despawnEffect": "none",
       "status": "burning",
+      "makeFire": true,
       "keepVelocity": false,
       "hittable": false,
-      "damage": 300
+      "damage": 50
     }
   },
   "research": "scorch",
-  "category": "turret",
+  "category": "turret"
 }

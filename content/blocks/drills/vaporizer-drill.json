@@ -1,5 +1,5 @@
 {
-  "type": "Drill",
+  "type": "drill",
   "name": "Vaporizer",
   "description": "Harvests the ore by vaporizing any impurities around it.",
   "size": 5,
@@ -29,5 +29,5 @@
     }
   },
   "research": "pressure-drill", 
-  "category": "production",
+  "category": "production"
 } 

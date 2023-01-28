@@ -1,12 +1,10 @@
 {
-  "type": "GenericCrafter",
+  "type": "genericCrafter",
   "name": "Remoisturizer",
   "description": "Turns water and coal into oil.",
   "size": 2,
-  "health": 300,
   "hasPower": true,
   "hasLiquids": true,
-  "hasItems": true,
   "craftTime": 30,
   "updateEffect": "smeltsmoke",
   "requirements": [
@@ -23,7 +21,7 @@
       ]
     }
   },
-  "outputLiquid": {"liquid": "oil", "amount": 6},
+  "outputLiquid": {"liquid": "oil", "amount": 0.1},
   "category": "crafting",
-  "research": "coal-centrifuge",
+  "research": "coal-centrifuge"
 }

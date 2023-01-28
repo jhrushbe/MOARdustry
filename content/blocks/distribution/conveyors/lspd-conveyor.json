@@ -4,13 +4,14 @@
   "description": "Think ethernet cable, but for items.",
   "size": 1,
   "health": 10,
+  "conductivePower": true,
   "requirements": [
     {"item": "aol", "amount": 1}
   ],
   "itemCapacity": 1,
   "speed": 1,
-  "displayedSpeed": 137.5,
-  "consumes": {"power": 0.1},
-  "research": "surge-conveyor",
-  "category": "distribution",
+  "displayedSpeed": 100,
+  "consumes": {"power": 0.008333},
+  "research": "surge-alloy-conveyor",
+  "category": "distribution"
 }

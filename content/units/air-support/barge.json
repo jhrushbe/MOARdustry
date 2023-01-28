@@ -11,9 +11,8 @@
   "engineOffset": 0,
   "engineSize": 1.1,
   "range": 50,
-  "isCounted": false,
   "itemCapacity": 100,
   "mineTier": 3,
   "mineSpeed": 2.5,
-  "research": "mono",
+  "research": "mono"
 }

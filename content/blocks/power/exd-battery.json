@@ -8,5 +8,5 @@
     {"item": "aol", "amount": 20}
   ],
   "research": "battery-large",
-  "category": "power",
+  "category": "power"
 }

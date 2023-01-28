@@ -11,10 +11,10 @@
   ],
   "shootCone": 1,
   "inaccuracy": 0,
-  "recoilAmount": 0,
-  "range": 700,
-  "reloadTime": 5,
-  "powerUse": 0.1,
+  "recoil": 0,
+  "range": 500,
+  "reload": 60,
+  "consumes": {"power": 0.1},
   "shootSound": "none",
   "shootType": {
     "type": "LaserBoltBulletType",
@@ -27,9 +27,8 @@
     "smokeEffect": "none",
     "hitEffect": "none",
     "despawnEffect": "none",
-    "shootEffect": "none",
-    "ammoMultiplier": 1,
+    "shootEffect": "none"
   },
   "research": "foreshadow",
-  "category": "turret",
+  "category": "turret"
 }

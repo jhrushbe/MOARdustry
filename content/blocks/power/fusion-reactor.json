@@ -1,11 +1,10 @@
-//sprite credit to @Stealthboost
+//sprite credit to Stealthboost#9243 on discord
 
 {
   "type": "impactReactor",
   "name": "Fusion Reactor",
   "description": "Extracts the inherent energy from Alloy of Light by means of a fusion reaction.",
   "size": 4,
-  "health": -1,
   "requirements": [
     {"item": "titanium", "amount": 1000},
     {"item": "silicon", "amount": 600},
@@ -14,9 +13,12 @@
     {"item": "metaglass", "amount": 750}
   ],
   "liquidCapacity": 60,
-  "plasma1": "8aa3f4",
-  "plasma2": "8aa3f4",
-  "powerProduction": 350,
+  "drawer":[
+      {"type":"drawRegion","suffix":"-bottom"},
+      {"type":"drawPlasma","plasma1": "8aa3f4","plasma2": "8aa3f4","suffix":"-plasma-"},
+      {"type":"drawDefault"}
+  ],
+  "powerProduction": 200,
   "itemDuration": 36000,
   "consumes": {
     "power": 50,
@@ -24,5 +26,5 @@
     "liquid": {"liquid": "water", "amount": 1}
   },
   "research": "impact-reactor",
-  "category": "power",
+  "category": "power"
 }
