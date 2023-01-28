@@ -59,19 +59,18 @@
           "strokeTo": 4
         },
         {
-          "type": "radialEffect",
-          "amount": 100,
-          "effect": {
-            "type": "particleEffect",
-            "lifetime": 300,
-            "length": -600,
-            "particles": 1,
-            "followParent": true,
-            "sizeFrom": 10,
-            "sizeTo": 0,
-            "colorFrom": "f3e979",
-            "colorTo": "f58859"
-          }
+          "type": "particleEffect",
+          "lifetime": 60,
+          "length": -60,
+          "particles": 100,
+          "followParent": true,
+          "line": true,
+          "strokeFrom": 3,
+          "strokeTo": 0,
+          "lenFrom": 0,
+          "lenTo": 10,
+          "colorFrom": "f3e979",
+          "colorTo": "f58859"
         },
         {
           "type": "waveEffect",
