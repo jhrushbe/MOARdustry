@@ -21,7 +21,7 @@
   "rotateSpeed": 0.05,
   "shootSound": "explosionBig",
   "loopSound": "pulse",
-  "shoot":{"firstShotDelay": 600},//54000},
+  "shoot":{"firstShotDelay": 54000},
   "shootEffect": "bigShockwave",
   "chargeSound": "hum",
   "shootType": {
@@ -36,7 +36,7 @@
       "effects": [
         {
           "type": "waveEffect",
-          "lifetime": 600,//54000, 
+          "lifetime": 54000,
           "sizeFrom": 600,
           "sizeTo": 0,
           "sides": 6,
@@ -48,7 +48,7 @@
         },
         {
           "type": "waveEffect",
-          "lifetime": 600,//54000, 
+          "lifetime": 54000, 
           "sizeFrom": 600,
           "sizeTo": 0,
           "baseRotation": 30,
@@ -61,7 +61,7 @@
         },
         {
           "type": "waveEffect",
-          "lifetime": 300,//27000, 
+          "lifetime": 27000, 
           "sizeFrom": 600,
           "sizeTo": 0,
           "followParent": true,
@@ -73,7 +73,7 @@
         },
         {
           "type": "waveEffect",
-          "lifetime": 300//27000, 
+          "lifetime": 27000, 
           "sizeFrom": 600,
           "sizeTo": 0,
           "baseRotation": 30,
@@ -90,8 +90,8 @@
           [
             {
               "type": "particleEffect",
-              "startDelay": 540,//53700,
-              "lifetime": 60,//300,
+              "startDelay": 53700,
+              "lifetime": 300,
               "length": -600,
               "baseLength": 600,
               "particles": 200,
@@ -106,8 +106,8 @@
             },
             {
               "type": "particleEffect",
-              "startDelay": 240,//53700,
-              "lifetime": 60,//300,
+              "startDelay": 53700,
+              "lifetime": 300,
               "length": 0,
               "particles": 1,
               "followParent": true,
