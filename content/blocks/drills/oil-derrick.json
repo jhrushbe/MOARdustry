@@ -6,7 +6,6 @@
 	"hasPower": true,
 	"itemCapacity": 30,
 	"liquidCapacity": 200,
-	"health": -1, 
 	"size": 5,
 	"requirements": [
 		{ "item": "copper", "amount": 1000 },

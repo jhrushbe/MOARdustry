@@ -1,0 +1,29 @@
+{
+    "type": "impactReactor",
+    "name": "Arc Furnace",
+    "description": "Burns pyratite until it becomes a plasma.",
+    "details": "If you thought pyratite was dangerous on its own, wait until electricity gets involved.",
+    "size": 3,
+    "requirements": [
+        {"item": "copper", "amount": 330},
+        {"item": "lead", "amount": 600},
+        {"item": "metaglass", "amount": 300},
+        {"item": "graphite", "amount": 300},
+        {"item": "titanium", "amount": 100},
+        {"item": "silicon", "amount": 160}
+    ],
+    "hasLiquids": false,
+    "powerProduction": 30,
+    "itemDuration": 200,
+    "drawer":[
+        {"type":"drawRegion","suffix":"-bottom"},
+        {"type":"drawPlasma","plasma1": "ffb855","plasma2": "db661c","suffix":"-plasma-"},
+        {"type":"drawDefault"}
+    ],
+    "consumes": {
+        "power": 3,
+        "items": {"items": [{"item": "pyratite", "amount": 1}]}
+    },
+    "research": "differential-generator",
+    "category": "power"
+}

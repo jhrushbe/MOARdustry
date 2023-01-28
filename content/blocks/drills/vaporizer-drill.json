@@ -1,7 +1,7 @@
 {
   "type": "drill",
   "name": "Vaporizer",
-  "description": "Harvests the ore by vaporizing any impurities around it.",
+  "description": "Harvests the ore by vaporizing any impurities around it. Requires coolant to run.",
   "size": 5,
   "requirements": [
     {"item": "aol", "amount": 50},
@@ -10,7 +10,7 @@
     {"item": "thorium", "amount": 100}
   ],
   "tier": 5,
-  "drillTime": 20,
+  "drillTime": 50,
   "drawRim": true,
   "hasPower": true,
   "rotateSpeed": 8,
@@ -21,12 +21,7 @@
   "drillEffect": "mineHuge",
   "consumes": {
     "power": 20,
-    "liquid": {
-      "liquid": "water", 
-      "amount": 0.2, 
-      "booster": true, 
-      "optional": true
-    }
+    "coolant": {"amount": 0.5, "optional": false}
   },
   "research": "pressure-drill", 
   "category": "production"
