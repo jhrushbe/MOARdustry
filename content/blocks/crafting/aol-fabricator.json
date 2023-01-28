@@ -1,6 +1,6 @@
 {
   "type": "genericCrafter",
-  "name": "Fabricator",
+  "name": "AOL Fabricator",
   "description": "Creates Alloy of Light by infusing materials with energy.",
   "size": 4,
   "hasPower": true,
