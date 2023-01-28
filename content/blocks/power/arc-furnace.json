@@ -13,6 +13,7 @@
         {"item": "silicon", "amount": 160}
     ],
     "powerProduction": 30,
+    "fuelItem": "pyratite",
     "itemDuration": 200,
     "drawer":[
         {"type":"drawRegion","suffix":"-bottom"},
@@ -21,7 +22,6 @@
         {"type":"drawDefault"}
     ],
     "consumes": {
-        //"power": 3,
         "items": {"items": [{"item": "pyratite", "amount": 1}]},
         "liquid": {"liquid": "water", "amount": 0.3}
     },

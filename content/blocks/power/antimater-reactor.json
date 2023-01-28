@@ -8,6 +8,7 @@
         {"item": "copper", "amount": 2}
     ],
     "powerProduction": 500,
+    "fuelItem": "antimatter",
     "itemDuration": 10800,
     "drawer":[
         {"type":"drawRegion","suffix":"-bottom"},

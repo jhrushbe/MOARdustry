@@ -1,0 +1,30 @@
+{
+    "type": "nuclearReactor",
+    "name": "Nuclear Turbine",
+    "description": "Vaporizes water then puts it through a turbine.",
+    "details": "A double hazard: radiation AND being cut to shreds.",
+    "size": 4,
+    "requirements": [
+        {"item": "lead","amount":800},
+        {"item": "metaglass","amount":300},
+        {"item": "graphite","amount":550},
+        {"item": "throrium","amount":250},
+        {"item": "silicon","amount":500},
+        {"item": "surge-alloy","amount":250}
+    ],
+    "powerProduction": 130,
+    "fuelItem": "fuel-cell",
+    "itemDuration": 300,
+    "drawer":[
+        {"type":"drawRegion","suffix":"-bottom"},
+        {"type":"drawBlurSpin ","rotateSpeed":1,"suffix":"-turbine"},
+        {"type":"drawBlurSpin ","rotateSpeed":-1,"suffix":"-turbine"},
+        {"type":"drawDefault"}
+    ],
+    "consumes": {
+        "items": {"items": [{"item": "fuel-cell", "amount": 1}]},
+        "liquid": {"liquid": "water","amount": 0.666666}
+    },
+    "research": "thorium-reactor",
+    "category": "power"
+}
