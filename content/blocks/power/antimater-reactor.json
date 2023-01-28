@@ -1,0 +1,26 @@
+{
+    "type": "variableReactor",
+    "name": "Anitmatter Reactor",
+    "description": "Creates power by reacting antimatter with normal matter. Stabilizing with cryofluid is highly recommended.",
+    "details": "No one said it was a good idea.",
+    "size": 5,
+    "requirements": [
+        {"item": "copper", "amount": 2}
+    ],
+    "powerProduction": 500,
+    "itemDuration": 10800,
+    "drawer":[
+        {"type":"drawRegion","suffix":"-bottom"},
+        {"type":"drawPlasma","plasma1": "ffb855","plasma2": "db661c","suffix":"-plasma-"},
+        {"type":"drawPistons","sinMag":2.75,"sinScl":5,"sides":4,"sideOffset": 3.141592653589793},
+        {"type":"drawDefault"},
+        {"type":"topRegion"},
+        {"type":"lightsRegion"}
+    ],
+    "consumes": {
+        "items": {"items": [{"item": "antimatter", "amount": 1}]},
+        "liquid": {"liquid": "cryofluid", "amount": 2}
+    },
+    "research": "fusion-reactor",
+    "category": "power"
+}

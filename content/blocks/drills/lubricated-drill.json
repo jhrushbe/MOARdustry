@@ -1,0 +1,25 @@
+{
+    "type": "drill",
+    "name": "Lubricated Drill",
+    "description": "Designed to use HOR as a lubricant, but can mine without.",
+    "size": 3,
+    "requirements": [
+        {"item": "copper", "amount": 40},
+        {"item": "metaglass", "amount": 40},
+        {"item": "silicon", "amount": 45},
+        {"item": "copper", "titanium": 45}
+    ],
+    "tier": 4,
+    "drillTime": 400,
+    "liquidBoostIntensity": 5,
+	"consumes": {
+		"liquid": {
+			"liquid": "hor",
+			"amount": 0.1,
+			"booster": true,
+			"optional": true
+		}
+	},
+	"category": "production",
+	"research": "laser-drill"
+}

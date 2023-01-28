@@ -17,14 +17,14 @@
       "power": 4,
       "items": {
         "items": [
-          {"item": "sand", "amount": 50}
+          {"item": "sand", "amount": 10}
         ]
       },
       "liquid": {"liquid": "steam", "amount": 0.1}
     },
     "results": [
-      {"item": "scrap", "amount": 10},
-      {"item": "copper", "amount": 5},
+      {"item": "scrap", "amount": 5},
+      {"item": "copper", "amount": 1},
       {"item": "silicon", "amount": 1}
     ],
     "research": "disassembler",

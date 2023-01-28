@@ -19,8 +19,8 @@
 		"liquid": {
 			"liquid": "water",
 			"amount": 0.1,
-			"booster": false,
-			"optional": false
+			"booster": true,
+			"optional": true
 		}
 	},
 	"category": "production",
