@@ -31,10 +31,9 @@
         "interp": "pow2Out"
     },
     "drawer":[
-        {"type":"drawRegion","suffix":"-bottom"},
+        {"type":"drawDefault"},
         {"type":"drawBlurSpin","rotateSpeed":75,"suffix":"-turbine1"},
-        {"type":"drawBlurSpin","rotateSpeed":-75,"suffix":"-turbine2"},
-        {"type":"drawDefault"}
+        {"type":"drawBlurSpin","rotateSpeed":-75,"suffix":"-turbine2"}
     ],
     "consumes": {
         "items": {"items": [{"item": "fuel-cell", "amount": 1}]},
