@@ -15,7 +15,7 @@
     "liquidCapacity": 40,
     "powerProduction": 130,
     "itemDuration": 300,
-    "warmupSpeed": 0.001,
+    "warmupSpeed": 0.025,
     "effectChance": 0.15,
     "generateEffectRange": 7.5,
     "generateEffect":
@@ -33,8 +33,8 @@
     },
     "drawer":[
         {"type":"drawDefault"},
-        {"type":"drawRegion","rotateSpeed":-75,"suffix":"-turbine1"},
-        {"type":"drawRegion","rotateSpeed":75,"suffix":"-turbine2"}
+        {"type":"drawBlurSpin","blurThresh": 1,"rotateSpeed":-75,"suffix":"-turbine"},
+        {"type":"drawBlurSpin","blurThresh": 1,"rotateSpeed":75,"suffix":"-turbine"}
     ],
     "consumes": {
         "items": {"items": [{"item": "fuel-cell", "amount": 1}]},

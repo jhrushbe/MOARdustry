@@ -14,7 +14,7 @@
     ],
     "hasLiquids": true,
     "liquidCapacity": 40,
-    "warmupSpeed": 0.001,
+    "warmupSpeed": 0.05,
     "powerProduction": 30,
     "itemDuration": 200,
     "drawer":[
