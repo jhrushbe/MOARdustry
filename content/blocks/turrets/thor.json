@@ -1,0 +1,32 @@
+{
+    "type": "LaserTurret",
+    "name": "Thor", 
+    "description": "Fires a stream of lightning at enemies.",
+    "details": "I heard you like lightning.",
+    "size": 4,
+    "requirements": [
+      {"item": "copper", "amount": 1000},
+      {"item": "surge-alloy", "amount": 500},
+      {"item": "plastanium", "amount": 450},
+      {"item": "graphite", "amount": 450},
+      {"item": "lead", "amount": 450},
+      {"item": "silicon", "amount": 450}
+    ],
+    "shootCone": 40,
+    "recoilAmount": 4,
+    "range": 300,
+    "reload": 1,
+    "firingMoveFract": 0.5,
+    "shootDuration": 330,
+    "shootSound": "laserBig",
+    "loopSound": "spark",
+    "shootType": {
+		"type": "LightningBulletType",
+		"damage": 100,
+		"lightningLength": 300,
+		"collidesAir": true
+    },
+    "consumes": {"power": 17,"coolant":{"amount":0.6}},
+    "research": "meltdown",
+    "category": "turret"
+}
