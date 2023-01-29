@@ -15,7 +15,7 @@
     "liquidCapacity": 40,
     "powerProduction": 130,
     "itemDuration": 300,
-    "warmupSpeed": 0.025,
+    "warmupSpeed": 0.005,
     "effectChance": 0.15,
     "generateEffectRange": 7.5,
     "generateEffect":
