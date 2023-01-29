@@ -1,5 +1,5 @@
 {
-    "type": "nuclearReactor",
+    "type": "consumeGenerator",
     "name": "Arc Furnace",
     "description": "Burns pyratite until it becomes a plasma.",
     "details": "If you thought pyratite was dangerous on its own, wait until electricity gets involved.",
@@ -13,7 +13,6 @@
         {"item": "silicon", "amount": 160}
     ],
     "powerProduction": 30,
-    "fuelItem": "pyratite",
     "itemDuration": 200,
     "drawer":[
         {"type":"drawRegion","suffix":"-bottom"},

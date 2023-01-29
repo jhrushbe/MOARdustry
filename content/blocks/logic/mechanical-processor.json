@@ -1,5 +1,5 @@
 {
-    "type": "logic-processor",
+    "type": "logicBlock",
     "name": "Mechanical Processor",
     "description": "Even though it is the slowest processor, it is the cheapest and extremely durable,",
     "details": "Who knew that gears could be just as effective as circuits.",

@@ -13,8 +13,9 @@
     "shootY": 0,
     "recoil": 0,
     "range": 100,
-    "reload": 3600,
+    "reload": 600,
     "rotateSpeed": 0,
+    "shootSound": "laserbig",
 	"shootType": {
 	    "type": "basicBulletType",
         "width": 0,

@@ -1,14 +1,13 @@
 {
-    "type": "nuclearReactor",
+    "type": "consumeGenerator",
     "name": "Anitmatter Reactor",
-    "description": "Creates power by reacting antimatter with normal matter. Cooling with cryofluid is highly recommended.",
+    "description": "Creates power by reacting antimatter with normal matter.",
     "details": "No one said it was a good idea.",
     "size": 5,
     "requirements": [
         {"item": "copper", "amount": 2}
     ],
     "powerProduction": 500,
-    "fuelItem": "antimatter",
     "itemDuration": 10800,
     "drawer":[
         {"type":"drawRegion","suffix":"-bottom"},

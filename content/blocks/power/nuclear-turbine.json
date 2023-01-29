@@ -1,5 +1,5 @@
 {
-    "type": "nuclearReactor",
+    "type": "consumeGenerator",
     "name": "Nuclear Turbine",
     "description": "Vaporizes water then puts it through a turbine.",
     "details": "A double hazard: radiation AND being cut to shreds.",
@@ -13,7 +13,6 @@
         {"item": "surge-alloy","amount":250}
     ],
     "powerProduction": 130,
-    "fuelItem": "fuel-cell",
     "itemDuration": 300,
     "generateEffectRange": 10,
     "generateEffect":

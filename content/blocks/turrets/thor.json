@@ -12,18 +12,18 @@
       {"item": "lead", "amount": 450},
       {"item": "silicon", "amount": 450}
     ],
-    "shoot":{"type": "shootAlternate","shots":30,"shotDelay":2},
+    "shoot":{"shots":30,"shotDelay":2},
     "shootCone": 30,
-    "recoilAmount": 1,
+    "recoil": 1,
     "range": 300,
     "reload": 180,
-    "shootDuration": 330,
     "shootSound": "laserbig",
     "shootType": {
 		"type": "LightningBulletType",
 		"damage": 100,
-		"lightningLength": 100,
-        "lifetime": 60,
+		"lightningLength": 60,
+        "lifetime": 120,
+        "lightningLengthRand": 5,
 		"collidesAir": true
     },
     "consumes": {"power": 17,"coolant":{"amount":0.6}},

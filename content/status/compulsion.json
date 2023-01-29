@@ -1,4 +1,5 @@
 {
     "speedMultiplier": -1,
-    "damageMultiplier": -1
+    "damageMultiplier": -1,
+    "damage": 10
 }
