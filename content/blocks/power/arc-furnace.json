@@ -13,7 +13,6 @@
         {"item": "silicon", "amount": 160}
     ],
     "liquidCapacity": 40,
-    "drawLiquid": "water",
     "warmupSpeed": 0.001,
     "powerProduction": 30,
     "itemDuration": 200,
@@ -22,7 +21,7 @@
         {"type":"drawPlasma","plasma1": "ffb855","plasma2": "db661c","suffix":"-plasma-"},
         {"type":"drawRegion","spinSprite":true,"rotateSpeed":2,"suffix":"-rotator"},
         {"type":"drawDefault"},
-        {"type":"drawLiquidRegion"}
+        {"type":"drawLiquidRegion","drawLiquid": "water"}
     ],
     "consumes": {
         "items": {"items": [{"item": "pyratite", "amount": 1}]},
