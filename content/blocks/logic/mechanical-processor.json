@@ -6,9 +6,9 @@
     "size": 1,
     "health": 320,
     "requirements": [
-        {"item": "copper", "amount": 6}
+        {"item": "copper", "amount": 45}
     ],
-    "instructionsPerTick": 0.016666,
+    "instructionsPerTick": 1,
     "research": "micro-processor",
     "category": "logic"
 }

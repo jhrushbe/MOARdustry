@@ -14,6 +14,8 @@
     ],
     "powerProduction": 130,
     "itemDuration": 300,
+    "warmupSpeed": 0.005,
+    "effectChance": 0.1,
     "generateEffectRange": 10,
     "generateEffect":
     {
@@ -23,15 +25,15 @@
         "cone": 12,
         "baseRotation": 32,
         "sizeFrom": 0,
-        "sizeTo": 8,
+        "sizeTo": 6,
         "colorTo": "ffffff00",
         "sizeInterp": "pow2Out",
         "interp": "pow2Out"
     },
     "drawer":[
         {"type":"drawRegion","suffix":"-bottom"},
-        {"type":"drawRegion","rotateSpeed":1,"suffix":"-turbine1"},
-        {"type":"drawRegion","rotateSpeed":-1,"suffix":"-turbine2"},
+        {"type":"drawBlurSpin","rotateSpeed":75,"suffix":"-turbine1"},
+        {"type":"drawBlurSpin","rotateSpeed":-75,"suffix":"-turbine2"},
         {"type":"drawDefault"}
     ],
     "consumes": {

@@ -12,7 +12,7 @@
       {"item": "lead", "amount": 450},
       {"item": "silicon", "amount": 450}
     ],
-    "shoot":{"shots":30,"shotDelay":2},
+    "shoot":{"shots":30,"shotDelay":1},
     "shootCone": 30,
     "recoil": 1,
     "range": 300,
@@ -24,6 +24,9 @@
 		"lightningLength": 60,
         "lifetime": 120,
         "lightningLengthRand": 5,
+        "splashDamage": 5,
+        "splashDamageRadius": 5,
+        "homingPower": 0.1,
 		"collidesAir": true
     },
     "consumes": {"power": 17,"coolant":{"amount":0.6}},
