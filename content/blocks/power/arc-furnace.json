@@ -12,6 +12,7 @@
         {"item": "titanium", "amount": 100},
         {"item": "silicon", "amount": 160}
     ],
+    "hasLiquids": true,
     "liquidCapacity": 40,
     "warmupSpeed": 0.001,
     "powerProduction": 30,
