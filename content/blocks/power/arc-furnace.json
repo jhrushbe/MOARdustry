@@ -13,6 +13,7 @@
         {"item": "silicon", "amount": 160}
     ],
     "liquidCapacity": 40,
+    "drawLiquid": "water",
     "warmupSpeed": 0.001,
     "powerProduction": 30,
     "itemDuration": 200,
