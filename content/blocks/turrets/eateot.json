@@ -8,7 +8,6 @@
     {"item": "titanium", "amount": 10000},
     {"item": "antimatter", "amount": 1}
   ],
-  "hasPower": false,
   "shootCone": 1,
   "inaccuracy": 0,
   "recoil": 0,
@@ -31,5 +30,6 @@
     "status": "dementia",
     "statusDuration": 300
   },
+  "consumes":{"power": 60},
   "category": "turret"
 }

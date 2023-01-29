@@ -15,10 +15,24 @@
     "powerProduction": 130,
     "fuelItem": "fuel-cell",
     "itemDuration": 300,
+    "generateEffectRange": 10,
+    "generateEffect":
+    {
+        "particles": 1,
+        "length": 130,
+        "lifetime": 440,
+        "cone": 12,
+        "baseRotation": 32,
+        "sizeFrom": 0,
+        "sizeTo": 8,
+        "colorTo": "ffffff00",
+        "sizeInterp": "pow2Out",
+        "interp": "pow2Out"
+    },
     "drawer":[
         {"type":"drawRegion","suffix":"-bottom"},
-        {"type":"drawBlurSpin ","rotateSpeed":1,"suffix":"-turbine"},
-        {"type":"drawBlurSpin ","rotateSpeed":-1,"suffix":"-turbine"},
+        {"type":"drawRegion","rotateSpeed":1,"suffix":"-turbine1"},
+        {"type":"drawRegion","rotateSpeed":-1,"suffix":"-turbine2"},
         {"type":"drawDefault"}
     ],
     "consumes": {

@@ -1,5 +1,5 @@
 {
-    "type": "LaserTurret",
+    "type": "powerTurret",
     "name": "Thor", 
     "description": "Fires a stream of lightning at enemies.",
     "details": "I heard you like lightning.",
@@ -12,18 +12,18 @@
       {"item": "lead", "amount": 450},
       {"item": "silicon", "amount": 450}
     ],
-    "shootCone": 40,
-    "recoilAmount": 4,
+    "shoot":{"type": "shootAlternate","shots":30,"shotDelay":2},
+    "shootCone": 30,
+    "recoilAmount": 1,
     "range": 300,
-    "reload": 1,
-    "firingMoveFract": 0.5,
+    "reload": 180,
     "shootDuration": 330,
-    "shootSound": "laserBig",
-    "loopSound": "spark",
+    "shootSound": "laserbig",
     "shootType": {
 		"type": "LightningBulletType",
 		"damage": 100,
-		"lightningLength": 300,
+		"lightningLength": 100,
+        "lifetime": 60,
 		"collidesAir": true
     },
     "consumes": {"power": 17,"coolant":{"amount":0.6}},

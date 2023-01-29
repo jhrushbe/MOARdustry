@@ -1,0 +1,14 @@
+{
+    "type": "logic-processor",
+    "name": "Mechanical Processor",
+    "description": "Even though it is the slowest processor, it is the cheapest and extremely durable,",
+    "details": "Who knew that gears could be just as effective as circuits.",
+    "size": 1,
+    "health": 320,
+    "requirements": [
+        {"item": "copper", "amount": 6}
+    ],
+    "instructionsPerTick": 0.016666,
+    "research": "micro-processor",
+    "category": "logic"
+}
