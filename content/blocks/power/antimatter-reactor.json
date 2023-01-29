@@ -1,18 +1,19 @@
 {
     "type": "consumeGenerator",
-    "name": "Anitmatter Reactor",
+    "name": "Antimatter Reactor",
     "description": "Creates power by reacting antimatter with normal matter.",
     "details": "No one said it was a good idea.",
     "size": 5,
     "requirements": [
         {"item": "copper", "amount": 2}
     ],
+    "liquidCapacity": 120,
     "powerProduction": 500,
     "itemDuration": 10800,
     "drawer":[
         {"type":"drawRegion","suffix":"-bottom"},
         {"type":"drawPlasma","plasma1": "5c5e9f","plasma2": "8a73c6","suffix":"-plasma-"},
-        {"type":"drawPistons","sinMag":7,"sinScl":5,"sides":6}, //"sideOffset": 3.141592653589793
+        {"type":"drawPistons","sinMag":7,"sinScl":7,"sides":4}, //"sideOffset": 3.141592653589793
         {"type":"drawDefault"}
     ],
     "consumes": {

@@ -2,7 +2,7 @@
     "type": "consumeGenerator",
     "name": "Nuclear Turbine",
     "description": "Vaporizes water then puts it through a turbine.",
-    "details": "A double hazard: radiation AND being cut to shreds.",
+    "details": "A double hazard: radiation AND sharp blades.",
     "size": 4,
     "requirements": [
         {"item": "lead","amount":800},
@@ -16,6 +16,8 @@
     "powerProduction": 130,
     "itemDuration": 300,
     "warmupSpeed": 0.005,
+    "ambientSound": "largeFan",
+    "ambientSoundVolume": 0.24,
     "effectChance": 0.15,
     "generateEffectRange": 7.5,
     "generateEffect":
@@ -26,7 +28,7 @@
         "cone": 12,
         "baseRotation": 32,
         "sizeFrom": 0,
-        "sizeTo": 6,
+        "sizeTo": 5,
         "colorTo": "ffffff00",
         "sizeInterp": "pow2Out",
         "interp": "pow2Out"
