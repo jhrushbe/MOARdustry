@@ -12,11 +12,12 @@
         {"item": "silicon","amount":500},
         {"item": "surge-alloy","amount":250}
     ],
+    "liquidCapacity": 40,
     "powerProduction": 130,
     "itemDuration": 300,
-    "warmupSpeed": 0.005,
-    "effectChance": 0.1,
-    "generateEffectRange": 10,
+    "warmupSpeed": 0.001,
+    "effectChance": 0.15,
+    "generateEffectRange": 7.5,
     "generateEffect":
     {
         "particles": 1,
@@ -32,8 +33,8 @@
     },
     "drawer":[
         {"type":"drawDefault"},
-        {"type":"drawBlurSpin","rotateSpeed":75,"suffix":"-turbine1"},
-        {"type":"drawBlurSpin","rotateSpeed":-75,"suffix":"-turbine2"}
+        {"type":"drawRegion","rotateSpeed":-75,"suffix":"-turbine1"},
+        {"type":"drawRegion","rotateSpeed":75,"suffix":"-turbine2"}
     ],
     "consumes": {
         "items": {"items": [{"item": "fuel-cell", "amount": 1}]},
