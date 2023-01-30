@@ -17,7 +17,7 @@
     "itemDuration": 300,
     "warmupSpeed": 0.005,
     "ambientSound": "largeFan",
-    "ambientSoundVolume": 0.24,
+    "ambientSoundVolume": 0.22,
     "effectChance": 0.15,
     "generateEffectRange": 7.5,
     "generateEffect":
