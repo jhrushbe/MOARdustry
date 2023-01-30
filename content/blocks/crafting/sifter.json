@@ -3,7 +3,7 @@
     "name": "Sifter",
     "description": "Sifts through large amounts of sand with the help of a steam bath to find resources",
     "details": "It's amazing what materials can be hidden in a pile of sand.",
-    "size": 3,
+    "size": 2,
     "requirements": [
       {"item": "graphite", "amount": 200},
       {"item": "titanium", "amount": 200},
@@ -13,6 +13,11 @@
     "hasPower": true,
     "craftTime": 60,
     "itemCapacity": 50,
+    "drawer":[
+        {"type":"drawRegion","suffix":"-bottom"},
+        {"type":"drawPiston","sides":1},
+        {"type":"drawDefault"}
+    ],
     "consumes": {
       "power": 4,
       "items": {
