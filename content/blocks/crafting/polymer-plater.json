@@ -24,5 +24,5 @@
   },
   "outputItem": {"item": "plastanium", "amount": 5},
   "category": "crafting",
-  "research": "polymers-refinery"
+  "research": "polymer-refinery"
 }

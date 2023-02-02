@@ -13,6 +13,10 @@
 		{"item": "titanium", "amount": "30"},
 		{"item": "metaglass", "amount": "10"}
 	],
+    "drawer":[
+        {"type":"drawDefault"},
+        {"type":"drawFlame"}
+    ],
 	"consumes": {
 		"power": 3,
 		"liquid": {"liquid": "oil", "amount": "0.2"}

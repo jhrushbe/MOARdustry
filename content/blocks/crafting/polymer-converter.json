@@ -19,16 +19,14 @@
         {"item": "plastanium", "amount": 80}
     ],
     "consumes": {
-    	  "power": 4,
-   	    "items": {
-      	      "items": [
-      	          {"item": "polymers", "amount": 1},
-                  {"item": "silicon", "amount": 1}
-              ]
-        },
+    	"power": 4,
+   	    "items": [
+      	    {"item": "polymers", "amount": 1},
+            {"item": "silicon", "amount": 1}
+        ],
       "liquid": {"liquid": "slag", "amount": 0.2}
     },
     "outputItem": {"item": "surge-alloy", "amount": 1},
     "category": "crafting",
-    "research": "polymers-plater"
+    "research": "polymer-plater"
 }

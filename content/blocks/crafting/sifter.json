@@ -15,7 +15,7 @@
     "itemCapacity": 50,
     "drawer":[
         {"type":"drawRegion","suffix":"-bottom"},
-        {"type":"drawPiston","sides":1},
+        {"type":"drawPistons","sides":1},
         {"type":"drawDefault"}
     ],
     "consumes": {

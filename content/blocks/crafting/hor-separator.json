@@ -20,5 +20,5 @@
 	"outputItem": {"item": "coal", "amount": 1},
 	"outputLiquid": {"liquid": "water", "amount": 0.1},
 	"category": "crafting",
-	"research": "polymers-refinery"
+	"research": "polymer-refinery"
 }

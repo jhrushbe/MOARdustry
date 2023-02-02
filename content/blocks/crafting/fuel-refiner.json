@@ -13,11 +13,15 @@
 		{"item": "titanium", "amount": "30"},
 		{"item": "metaglass", "amount": "10"}
 	],
+    "drawer":[
+        {"type":"drawDefault"},
+        {"type":"drawFlame"}
+    ],
 	"consumes": {
 		"power": 3,
 		"liquid": {"liquid": "oil", "amount": 0.1}
 	},
 	"outputLiquid": {"liquid": "fuel", "amount": 0.1},
 	"category": "crafting",
-	"research": "polymers-refinery"
+	"research": "polymer-refinery"
 }
