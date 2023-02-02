@@ -12,6 +12,6 @@ research: {
   requirements: [
     surge-alloy/50
     phase-fabric/40
-    plastic/30
+    polymers/30
   ]
 }

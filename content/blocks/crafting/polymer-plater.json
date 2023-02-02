@@ -1,7 +1,7 @@
 {
   "type": "genericCrafter",
-  "name": "Plastic Plater",
-  "description": "Creates plastanium by putting titanium plating on plastic.",
+  "name": "Polymer Plater",
+  "description": "Creates plastanium by putting titanium plating on polymers.",
   "size": 2,
   "hasPower": true,
   "craftTime": 80,
@@ -17,12 +17,12 @@
     "power": 3,
     "items": {
       "items": [
-        {"item": "plastic", "amount": 5},
+        {"item": "polymers", "amount": 5},
         {"item": "titanium", "amount": 5}
       ]
     }
   },
   "outputItem": {"item": "plastanium", "amount": 5},
   "category": "crafting",
-  "research": "plastic-refinery"
+  "research": "polymers-refinery"
 }

@@ -7,7 +7,7 @@
     {"item": "titanium", "amount": 200},
     {"item": "graphite", "amount": 300},
     {"item": "plastanium", "amount": 500},
-    {"item": "plastic", "amount": 400},
+    {"item": "polymers", "amount": 400},
     {"item": "silicon", "amount": 250}
   ],
   "maxAmmo": 50,
@@ -61,7 +61,7 @@
       "hitEffect": "blastExplosion",
       "despawnEffect": "blastExplosion"
     },
-    "plastic": {
+    "polymers": {
       "type": "MissileBulletType",
       "homingPower": 0.5,
       "speed": 5,

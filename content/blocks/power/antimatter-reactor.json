@@ -1,15 +1,16 @@
 {
     "type": "consumeGenerator",
     "name": "Antimatter Reactor",
-    "description": "Creates power by reacting antimatter with normal matter.",
+    "description": "Creates power by reacting antimatter with normal matter. Produces steam at a prodigious rate.",
     "details": "No one said it was a good idea.",
     "size": 5,
     "requirements": [
         {"item": "copper", "amount": 2}
     ],
-    "liquidCapacity": 120,
+    "liquidCapacity": 1200,
     "powerProduction": 500,
     "itemDuration": 10800,
+    "explodeOnFull": true,
     "drawer":[
         {"type":"drawRegion","suffix":"-bottom"},
         {"type":"drawPlasma","plasma1": "5c5e9f","plasma2": "8a73c6","suffix":"-plasma-"},
@@ -20,6 +21,7 @@
         "items": {"items": [{"item": "antimatter", "amount": 1}]},
         "liquid": {"liquid": "cryofluid", "amount": 2}
     },
+    "outputLiquid": {"liquid": "steam","amount": 2.2},
     "research": "fusion-reactor",
     "category": "power"
 }

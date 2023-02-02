@@ -11,7 +11,7 @@
 		{"item": "silicon", "amount": "50"},
 		{"item": "lead", "amount": "100"},
 		{"item": "titanium", "amount": "30"},
-		{"item": "plastic", "amount": "10"}
+		{"item": "polymers", "amount": "10"}
 	],
 	"consumes": {
 		"power": 3,
@@ -20,5 +20,5 @@
 	"outputItem": {"item": "coal", "amount": 1},
 	"outputLiquid": {"liquid": "water", "amount": 0.1},
 	"category": "crafting",
-	"research": "plastic-refinery"
+	"research": "polymers-refinery"
 }

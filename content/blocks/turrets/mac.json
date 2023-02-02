@@ -8,7 +8,7 @@
     {"item": "titanium", "amount": 10000},
     {"item": "silicon", "amount": 2000},
     {"item": "surge-alloy", "amount": 1000},
-    {"item": "plastic", "amount": 1000},
+    {"item": "polymers", "amount": 1000},
     {"item": "fuel-cell", "amount": 400}
   ],
   "maxAmmo": 10,

@@ -1,4 +1,4 @@
-name: Plastic
+name: Polymers
 description: A versitile material that is too weak to be used in buildings, but can be easily changed to other materials.
 color: 8aa3f4
 explosiveness: 0
@@ -7,7 +7,7 @@ radioactivity: 0
 alwaysUnlocked: false
 cost: 2
 research: {
-  parent: plastic
+  parent: polymers
   requirements: [
     plastanium/200
   ]

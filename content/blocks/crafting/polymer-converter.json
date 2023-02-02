@@ -1,6 +1,6 @@
 {
     "type": "genericCrafter",
-    "name": "Plastic converter",
+    "name": "Polymer converter",
     "description": "Melts plasic and silicon in slag, then extrudes it, resulting in surge alloy.",
     "size": 3,
     "hasPower": true,
@@ -22,7 +22,7 @@
     	  "power": 4,
    	    "items": {
       	      "items": [
-      	          {"item": "plastic", "amount": 1},
+      	          {"item": "polymers", "amount": 1},
                   {"item": "silicon", "amount": 1}
               ]
         },
@@ -30,5 +30,5 @@
     },
     "outputItem": {"item": "surge-alloy", "amount": 1},
     "category": "crafting",
-    "research": "plastic-plater"
+    "research": "polymers-plater"
 }

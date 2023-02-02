@@ -10,8 +10,8 @@ viscosity: 0.9
 explosiveness: 0.0
 effect: tarred
 research: {
-  parent: plastic
+  parent: polymers
   requirements: [
-    plastic/200
+    polymers/200
   ]
 }
