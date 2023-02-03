@@ -3,25 +3,24 @@
     "name": "Steam Turbine",
     "description": "Converts steam into energy. Takes time to spin up the turbine.",
     "size": 2,
+    "requirements": [
+        {"item": "copper", "amount": 50},
+        {"item": "lead", "amount": 25},
+        {"item": "silicon", "amount": 15}
+    ],
     "powerProduction": 5.5166666,
+    "liquidCapacity": 12,
     "itemDuration": 60,
     "warmupSpeed": 0.05,
     "hasItems": false,
     "ambientSound": "hum",
     "ambientSoundVolume": 0.5,
-    "requirements": [
-        {"item": "copper", "amount": 50},
-        {"item": "lead", "amount": 50},
-        {"item": "graphite", "amount": 40},
-        {"item": "silicon", "amount": 30}
-    ],
     "drawer":[
         {"type":"drawRegion","suffix":"-bottom"},
-        {"type":"drawPlasma","plasma1": "00000000","plasma2": "00000000","suffix":"-plasma-"},
+        {"type":"drawBlurSpin","blurThresh": 0.4,"rotateSpeed":120,"suffix":"-turbine"},
         {"type":"drawDefault"}
     ],
     "consumes": {
-        "power": 0.0,
         "liquid": {"liquid": "steam", "amount": 0.1}
     },
     "research": "boiler-v1",

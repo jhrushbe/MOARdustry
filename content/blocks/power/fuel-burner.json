@@ -17,7 +17,7 @@
     ],
     "drawer":[
         {"type":"drawRegion","suffix":"-bottom"},
-        {"type":"drawPlasma","plasma1": "00000000","plasma2": "00000000","suffix":"-plasma-"},
+        {"type":"drawPistons","lenOffset":3,"sinScl":2,"sides":2},
         {"type":"drawDefault"}
     ],
     "consumes": {

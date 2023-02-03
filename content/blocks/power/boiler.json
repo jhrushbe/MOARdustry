@@ -1,15 +1,14 @@
 {
     "type": "genericCrafter",
-    "name": "Boiler V1",
+    "name": "Boiler",
     "description": "Produces steam from water by means of combustion, which can then be used to generate power or in manufacturing processes.",
-    "health": 300,
     "size": 2,
     "requirements": [
         {"item": "copper", "amount": 100},
         {"item": "lead", "amount": 75},
-        {"item": "metaglass", "amount": 40}
+        {"item": "metaglass", "amount": 15}
     ],
-    "hasLiquids": true,
+    "liquidCapacity": 175,
     "craftTime": 60,
     "updateEffect": "fire",
     "craftEffect": "steam",

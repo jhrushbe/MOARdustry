@@ -1,0 +1,26 @@
+{
+    "type": "genericCrafter",
+    "name": "Advanced Boiler",
+    "description": "A more advanced version of the boiler which produces steam at a more efficient rate.",
+    "size": 3,
+    "requirements": [
+        {"item": "copper", "amount": 225},
+        {"item": "lead", "amount": 135},
+        {"item": "metaglass", "amount": 40},
+        {"item": "titanium", "amount": 30}
+    ],
+    "liquidCapacity": 450,
+    "craftTime": 30,
+    "updateEffect": "fire",
+    "craftEffect": "steam",
+    "consumes": {
+        "itemFlammable":{},
+        "liquid": {
+            "liquid": "water",
+            "amount": 0.2
+        }
+    },
+    "outputLiquid": {"liquid": "steam","amount": 0.3},
+    "research": "boiler",
+    "category": "crafting"
+}

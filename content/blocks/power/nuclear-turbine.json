@@ -1,7 +1,7 @@
 {
     "type": "consumeGenerator",
     "name": "Nuclear Turbine",
-    "description": "Vaporizes water then puts it through a turbine.",
+    "description": "Vaporizes water using a nuclear reactor, then puts it through a turbine.",
     "details": "A double hazard: radiation AND sharp blades.",
     "size": 4,
     "requirements": [
@@ -39,7 +39,7 @@
         {"type":"drawBlurSpin","blurThresh": 0.64,"rotateSpeed":75,"suffix":"-turbine"}
     ],
     "consumes": {
-        "items": {"items": [{"item": "fuel-cell", "amount": 1}]},
+        "items": [{"item": "fuel-cell", "amount": 1}],
         "liquid": {"liquid": "water","amount": 0.666666}
     },
     "research": "thorium-reactor",

@@ -1,7 +1,7 @@
 {
     "type": "consumeGenerator",
     "name": "Antimatter Reactor",
-    "description": "Creates power by reacting antimatter with normal matter. Produces steam at a prodigious rate.",
+    "description": "Creates power by reacting antimatter with normal matter. Produces steam at a dangerous rate.",
     "details": "No one said it was a good idea.",
     "size": 5,
     "requirements": [
