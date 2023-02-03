@@ -3,7 +3,7 @@
 	"name": "Large Launchpad",
 	"description": "A revival of the large launchpad from v5.",
 	"size": 4,
-	"health": "1000",
+	"health": 1000,
 	"hasPower": true,
 	"requirements": [
 		{"item": "titanium", "amount": 200},

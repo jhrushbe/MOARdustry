@@ -8,7 +8,7 @@
         {"item": "lead", "amount": 25},
         {"item": "silicon", "amount": 15}
     ],
-    "powerProduction": 5.5166666,
+    "powerProduction": 5.5,
     "liquidCapacity": 12,
     "itemDuration": 60,
     "warmupSpeed": 0.05,

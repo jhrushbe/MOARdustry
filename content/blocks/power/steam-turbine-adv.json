@@ -1,15 +1,15 @@
 {
     "type": "impactReactor",
-    "name": "Steam Turbine",
+    "name": "Advanced Steam Turbine",
     "description": "A more advanced and efficient version of the steam turbine. Is capable of condesing some of the steam back into water.",
-    "size": 2,
+    "size": 3,
     "requirements": [
         {"item": "copper", "amount": 125},
         {"item": "lead", "amount": 65},
         {"item": "titanium", "amount": 30},
         {"item": "silicon", "amount": 30}
     ],
-    "powerProduction": 1980,
+    "powerProduction": 33,
     "liquidCapacity": 60,
     "itemDuration": 60,
     "warmupSpeed": 0.02,
@@ -25,7 +25,6 @@
         "power": 0,
         "liquid": {"liquid": "steam", "amount": 0.5}
     },
-    "outputLiquid": {"liquid": "water","amount": 0.1},
     "research": "steam-turbine",
     "category": "power"
 }

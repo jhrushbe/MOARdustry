@@ -22,7 +22,7 @@
   "itemDuration": 36000,
   "consumes": {
     "power": 50,
-    "items": {"items": [{"item": "aol", "amount": 1}]},
+    "items": [{"item": "aol", "amount": 1}],
     "liquid": {"liquid": "water", "amount": 1}
   },
   "research": "impact-reactor",

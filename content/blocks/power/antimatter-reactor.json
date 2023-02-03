@@ -18,7 +18,7 @@
         {"type":"drawDefault"}
     ],
     "consumes": {
-        "items": {"items": [{"item": "antimatter", "amount": 1}]},
+        "items": [{"item": "antimatter", "amount": 1}],
         "liquid": {"liquid": "cryofluid", "amount": 2}
     },
     "outputLiquid": {"liquid": "steam","amount": 2.5},
