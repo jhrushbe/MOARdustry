@@ -3,6 +3,7 @@
     "name": "Trio",
     "description": "The duo's bigger sibling.",
     "size": 1, 
+    "health": 350,
     "requirements": [
         {"item": "copper", "amount": 55},
         {"item": "lead", "amount": 10}
@@ -10,7 +11,7 @@
     "targetAir": true,
     "targetGround": true,
     "shoot": {"type": "shootAlternate","barrels":3,"spread":1.5},
-    "reload": 20,
+    "reload": 13.33333333,
     "range": 125,
     "shootCone": 15,
     "ammoUseEffect": "casing1",

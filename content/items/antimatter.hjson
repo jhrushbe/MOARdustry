@@ -2,14 +2,7 @@ localizedName: "[red]Antimatter"
 description: The opposite of matter. Do not allow it to breach containment.
 color: 000000
 explosiveness: 9
-flammability: 9
 radioactivity: 9
 charge: 9
-alwaysUnlocked: false
 cost: 600
-research: {
-  parent: fuel-cell
-  requirements: [
-    fuel-cell/20000
-  ]
-}
+research: fuel-cell

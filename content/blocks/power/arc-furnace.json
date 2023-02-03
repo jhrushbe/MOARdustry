@@ -25,7 +25,6 @@
         {"type":"drawLiquidRegion","drawLiquid": "water"}
     ],
     "consumes": {
-        "power": 1,
         "items": [{"item": "pyratite", "amount": 1}],
         "liquid": {"liquid": "water", "amount": 0.3}
     },

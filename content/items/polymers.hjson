@@ -1,14 +1,6 @@
 name: Polymers
 description: A versitile material that is too weak to be used in buildings, but can be easily changed to other materials.
 color: 8aa3f4
-explosiveness: 0
 flammability: 0.1
-radioactivity: 0
-alwaysUnlocked: false
-cost: 2
-research: {
-  parent: polymers
-  requirements: [
-    plastanium/200
-  ]
-}
+buildable: false
+research: oil

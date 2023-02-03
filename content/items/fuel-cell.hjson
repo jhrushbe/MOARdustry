@@ -4,14 +4,6 @@ name: Fuel Cell
 description: An advanced thorium compound contained inside a graphite shell. Used in weaponry.
 color: cb8ebf
 explosiveness: 0.1
-flammability: 0
 radioactivity: 5
-alwaysUnlocked: false
 cost: 2.5
-research: {
-  parent: thorium
-  requirements: [
-    thorium/1000
-    graphite/500
-  ]
-}
+research: thorium

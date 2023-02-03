@@ -1,8 +1,9 @@
 {
     "type": "itemTurret",
     "name": "Minigun",
-    "description": "A ground variant of the Scatter. Greatly benefits from coolent.",
+    "description": "A ground variant of the Scatter. Greatly benefits from coolant.",
     "size": 2,
+    "health": 700,
     "requirements": [
         {"item": "copper", "amount": 100},
         {"item": "lead", "amount": 50},

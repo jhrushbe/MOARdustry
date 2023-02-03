@@ -4,14 +4,7 @@ color: 7c4b80
 barColor: 7c4b80
 lightColor: 7c4b80
 flammability: 0.3
-temperature: 0.5
 heatCapacity: 0.4
-viscosity: 0.9
-explosiveness: 0.0
+viscosity: 1
 effect: tarred
-research: {
-  parent: polymers
-  requirements: [
-    polymers/200
-  ]
-}
+research: polymers

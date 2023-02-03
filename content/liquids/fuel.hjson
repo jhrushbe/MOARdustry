@@ -4,14 +4,8 @@ color: ffd27f
 barColor: ffd27f
 lightColor: ffd27f
 flammability: 3
-temperature: 0.5
-heatCapacity: 0.0
-viscosity: 0.5
-explosiveness: 3.0
+heatCapacity: 0
+viscosity: 0.1
+explosiveness: 3
 effect: tarred
-research: {
-  parent: oil
-  requirements: [
-    blast-compound/200
-  ]
-}
+research: oil

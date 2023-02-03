@@ -5,14 +5,8 @@ color: dffcff
 barColor: dffcff
 lightColor: f4feffff
 flammability: 0.0
-temperature: 1
+temperature: 0.9
 heatCapacity: 0.0
 viscosity: 0.0
-explosiveness: 0.0
 effect: melting
-research: {
-  parent: water
-  requirements: [
-    coal/20
-  ]
-}
+research: water
