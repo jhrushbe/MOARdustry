@@ -21,8 +21,9 @@
         {"type":"drawDefault"}
     ],
     "consumes": {
+        "power": 0,
         "liquid": {"liquid": "steam", "amount": 0.1}
     },
-    "research": "boiler-v1",
+    "research": "boiler",
     "category": "power"
 }

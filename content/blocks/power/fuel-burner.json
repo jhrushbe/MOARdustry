@@ -21,7 +21,7 @@
         {"type":"drawDefault"}
     ],
     "consumes": {
-        "power": 0.0,
+        "power": 0,
         "liquid": {"liquid": "fuel", "amount": 0.1}
     },
     "research": "combustion-generator",

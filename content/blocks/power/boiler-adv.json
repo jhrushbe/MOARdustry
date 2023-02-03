@@ -17,10 +17,10 @@
         "itemFlammable":{},
         "liquid": {
             "liquid": "water",
-            "amount": 0.2
+            "amount": 0.3
         }
     },
-    "outputLiquid": {"liquid": "steam","amount": 0.3},
+    "outputLiquid": {"liquid": "steam","amount": 0.5},
     "research": "boiler",
     "category": "crafting"
 }
