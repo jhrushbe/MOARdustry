@@ -35,7 +35,7 @@
   ],
   "requirements": [
     {"item": "plastanium", "amount": 1000},
-    {"item": "polymers", "amount": 2000},
+    {"item": "metaglass", "amount": 2000},
     {"item": "aol", "amount": 100}
   ],
   "consumes": {

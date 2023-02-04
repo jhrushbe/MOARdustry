@@ -7,7 +7,6 @@
     {"item": "titanium", "amount": 200},
     {"item": "graphite", "amount": 300},
     {"item": "plastanium", "amount": 500},
-    {"item": "polymers", "amount": 400},
     {"item": "silicon", "amount": 250}
   ],
   "maxAmmo": 50,

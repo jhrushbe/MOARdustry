@@ -6,7 +6,6 @@
   "health": 2000,
   "requirements": [
     {"item": "titanium", "amount": 5000},
-    {"item": "polymers", "amount": 4000},
     {"item": "silicon", "amount": 3500},
     {"item": "fuel-cell", "amount": 1000},
     {"item": "metaglass", "amount": 1000}

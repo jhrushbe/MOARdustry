@@ -39,13 +39,11 @@
   ],
   "consumes": {
     "power": 50,
-    "items": {
-      "items": [
+    "items": [
         {"item": "surge-alloy", "amount": 5},
         {"item": "phase-fabric", "amount": 4},
         {"item": "polymers", "amount": 3}
-      ]
-    }
+    ]
   },
   "outputItem": {"item": "aol", "amount": 1},
   "category": "crafting",
