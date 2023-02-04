@@ -1,7 +1,7 @@
 {
     "type": "drill",
     "name": "Lubricated Drill",
-    "description": "Designed to use HOR as a lubricant, but can mine without.",
+    "description": "Designed to use oil as a lubricant, but is capable of mining without.",
     "size": 3,
     "requirements": [
         {"item": "copper", "amount": 40},
@@ -14,7 +14,7 @@
     "liquidBoostIntensity": 2,
 	"consumes": {
 		"liquid": {
-			"liquid": "hor",
+			"liquid": "oil",
 			"amount": 0.1,
 			"booster": true,
 			"optional": true

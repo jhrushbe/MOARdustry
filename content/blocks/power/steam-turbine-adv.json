@@ -12,14 +12,14 @@
     "powerProduction": 33,
     "liquidCapacity": 60,
     "itemDuration": 60,
-    "warmupSpeed": 0.02,
+    "warmupSpeed": 0.0125,
     "hasItems": false,
     "ambientSound": "hum",
     "ambientSoundVolume": 0.5,
     "drawer":[
-        {"type":"drawRegion","suffix":"-bottom"},
-        {"type":"drawBlurSpin","blurThresh": 0.4,"rotateSpeed":120,"suffix":"-turbine"},
-        {"type":"drawDefault"}
+        {"type":"drawDefault"},
+        {"type":"drawBlurSpin","blurThresh": 1,"rotateSpeed":-40,"suffix":"-fan"},
+        {"type":"drawBlurSpin","blurThresh": 0.4,"rotateSpeed":120,"suffix":"-turbine"}
     ],
     "consumes": {
         "power": 0,
