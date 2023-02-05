@@ -27,7 +27,7 @@
     "ammoMultiplier": 1,
     "splashDamage": 200,
     "splashDamageRadius": 800,
-    "status": "MOARdustry-dementia",
+    "status": "moardustry-dementia",
     "statusDuration": 300
   },
   "consumes":{"power": 60},
