@@ -37,7 +37,6 @@
         {"type":"drawBlurSpin","blurThresh": 0.4,"rotateSpeed":120,"suffix":"-turbine"}
     ],
     "consumes": {
-        "power": 0,
         "liquid": {"liquid": "steam", "amount": 0.5}
     },
     "research": "steam-turbine",

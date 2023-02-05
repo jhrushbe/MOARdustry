@@ -31,7 +31,7 @@
     "hittable": false,
     "reflectable": false,
     "absorbable": false,
-    "status": "moardustry-irradiated",
+    "status": "irradiated",
     "statusDuration": 3600,
     "killShooter": true,
     "frontColor": "f3e979",

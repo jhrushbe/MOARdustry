@@ -25,7 +25,7 @@
         "splashDamageRadius": 100,
         "splashDamage": 0,
         "despawnEffect": "spawnShockwave",
-        "status": "moardustry-compulsion",
+        "status": "compulsion",
         "statusDuration": 600
 	},
     "consumes":{"power": 100,"coolant":{"amount":1}},

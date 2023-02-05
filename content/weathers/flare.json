@@ -1,15 +1,7 @@
 {
     "type": "weather",
     "opacityMultiplier": 0.3,
-    "color": "ffffff",
-    "drawNoise": true,
-    "noiseColor": "fff8e8",
-    "sizeMin": 5,
-    "sizeMax": 20,
-    "minAlpha": 0,
-    "maxAlpha": 0.5,
     "sound": "wind",
     "soundVol": 1,
-    "density": 4500,
-    "status": "moardustry-flare"
+    "status": "flare"
 }
