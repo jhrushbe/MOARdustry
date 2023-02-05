@@ -1,5 +1,5 @@
 {
-    "type": "genericCrafter",
+    "type": "attributeCrafter",
     "name": "Advanced Boiler",
     "description": "A more advanced version of the boiler which produces steam at a more efficient rate.",
     "size": 3,
@@ -13,8 +13,12 @@
     "craftTime": 30,
     "updateEffect": "fire",
     "craftEffect": "steam",
+    "drawer":[
+        {"type":"drawDefault"},
+        {"type":"drawWarmupRegion"}
+    ],
     "consumes": {
-        "itemFlammable":{},
+        "itemFlammable":{},"itemExplode":{},
         "liquid": {
             "liquid": "water",
             "amount": 0.3

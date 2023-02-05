@@ -19,12 +19,10 @@
     ],
     "consumes": {
     	"power": 2,
-   	    "items": {
-      	    "items": [
-      	        { "item": "graphite", "amount": 1 },
-      	        { "item": "sand", "amount": 3 }
-             ]
-        }
+   	    "items": [
+      	    { "item": "graphite", "amount": 1 },
+      	    { "item": "sand", "amount": 3 }
+        ]
     },
     "outputItem": {"item": "silicon", "amount": 3},
     "category": "crafting",

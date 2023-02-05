@@ -12,8 +12,12 @@
     "craftTime": 60,
     "updateEffect": "fire",
     "craftEffect": "steam",
+    "drawer":[
+        {"type":"drawDefault"},
+        {"type":"drawWarmupRegion"}
+    ],
     "consumes": {
-        "itemFlammable":{},
+        "itemFlammable":{},"itemExplode":{},
         "liquid": {
             "liquid": "water",
             "amount": 0.1

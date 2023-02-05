@@ -16,8 +16,8 @@
   "consumes": {
     "power": 3,
     "items": [
-        {"item": "polymers", "amount": 5},
-        {"item": "titanium", "amount": 5}
+      {"item": "polymers", "amount": 5},
+      {"item": "titanium", "amount": 5}
     ]
   },
   "outputItem": {"item": "plastanium", "amount": 5},

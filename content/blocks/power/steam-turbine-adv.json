@@ -16,9 +16,24 @@
     "hasItems": false,
     "ambientSound": "hum",
     "ambientSoundVolume": 0.5,
+    "effectChance": 0.15,
+    "generateEffectRange": 5,
+    "generateEffect":
+    {
+        "particles": 1,
+        "length": 97.5,
+        "lifetime": 330,
+        "cone": 12,
+        "baseRotation": 32,
+        "sizeFrom": 0,
+        "sizeTo": 53.75,
+        "colorTo": "ffffff00",
+        "sizeInterp": "pow2Out",
+        "interp": "pow2Out"
+    },
     "drawer":[
         {"type":"drawDefault"},
-        {"type":"drawBlurSpin","blurThresh": 1,"rotateSpeed":-40,"suffix":"-fan"},
+        {"type":"drawBlurSpin","blurThresh": 1,"rotateSpeed":-20,"suffix":"-fan"},
         {"type":"drawBlurSpin","blurThresh": 0.4,"rotateSpeed":120,"suffix":"-turbine"}
     ],
     "consumes": {

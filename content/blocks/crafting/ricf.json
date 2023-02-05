@@ -16,12 +16,11 @@
     "craftTime": 150,
     "consumes": {
         "power": 3,
-        "items": {
-            "items": [
-                {"item": "thorium", "amount": 5},
-                {"item": "graphite", "amount": 2}
-            ]
-        }
+        "items": [
+            {"item": "thorium", "amount": 5},
+            {"item": "graphite", "amount": 2},
+            {"item": "polymers", "amount": 3}
+        ]
     },
     "outputItem": {"item": "fuel-cell", "amount": 1},
     "research": "phase-weaver",

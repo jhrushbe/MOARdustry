@@ -7,8 +7,8 @@
   "requirements": [
     {"item": "aol", "amount": 1}
   ],
-  "liquidCapacity": 4,
-  "liquidPressure": 1.5,
+  "liquidCapacity": 20,
+  "liquidPressure": 10,
   "research": "pulse-conduit",
   "category": "liquid"
 }

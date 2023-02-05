@@ -23,6 +23,6 @@
 	},
 	"category": "crafting",
 	"research": "plastanium-compressor",
-	"outputItem": {"item": "polymers", "amount": 1},
+	"outputItem": {"item": "polymers", "amount": 4},
 	"outputLiquid": {"liquid": "hor", "amount": 0.1}
 }
