@@ -1,5 +1,5 @@
 {
-    "type": "impactReactor",
+    "type": "consumeGenerator",
     "name": "Steam Turbine",
     "description": "Converts steam into energy. Takes time to spin up the turbine.",
     "size": 2,

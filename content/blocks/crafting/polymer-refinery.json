@@ -15,7 +15,7 @@
 	],
     "drawer":[
         {"type":"drawDefault"},
-        {"type":"drawFlame"}
+        {"type":"DrawFade"}
     ],
 	"consumes": {
 		"power": 3,

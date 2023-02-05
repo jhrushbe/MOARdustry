@@ -1,5 +1,5 @@
 {
-    "type": "impactReactor",
+    "type": "consumeGenerator",
     "name": "Advanced Steam Turbine",
     "description": "A more advanced and efficient version of the steam turbine. Is capable of condesing some of the steam back into water.",
     "size": 3,

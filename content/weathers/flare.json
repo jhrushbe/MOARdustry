@@ -1,7 +1,5 @@
 {
-    "type": "particleWeather",
-    "useWindVector": true,
-    "particleRegion": "circle",
+    "type": "weather",
     "opacityMultiplier": 0.3,
     "color": "ffffff",
     "drawNoise": true,
@@ -13,5 +11,5 @@
     "sound": "wind",
     "soundVol": 1,
     "density": 4500,
-    "status": "flare"
+    "status": "MOARdustry-flare"
 }

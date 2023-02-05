@@ -13,6 +13,8 @@
     "craftTime": 30,
     "updateEffect": "fire",
     "craftEffect": "steam",
+    "boostScale": 0.5,
+    "maxBoost": 2,
     "drawer":[
         {"type":"drawDefault"},
         {"type":"drawWarmupRegion"}
