@@ -5,12 +5,12 @@ description:
 '''
 A mod for Mindustry that adds MOAR to your game.
 
-    [[]gray]Version: [[]lightgray]0.11.31 beta
+    [[]gray]Version: [[]lightgray]0.11.32 beta
     [[]gray]Last Update: [[]lightgray] 2-4-2023
 
 Ping me on the Mindustry discord with suggestions/issues: @jhrushbe#8085
 '''
-version: "0.11.31"
+version: "0.11.32"
 minGameVersion: "136"
 dependencies: [ ]
 hidden: false

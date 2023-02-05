@@ -26,7 +26,7 @@
         "cone": 12,
         "baseRotation": 32,
         "sizeFrom": 0,
-        "sizeTo": 53.75,
+        "sizeTo": 3.75,
         "colorTo": "ffffff00",
         "sizeInterp": "pow2Out",
         "interp": "pow2Out"
