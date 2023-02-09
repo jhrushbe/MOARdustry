@@ -9,7 +9,8 @@
     {"item": "graphite", "amount": 200},
     {"item": "silicon", "amount": 100}
   ],
-  "liquidCapacity": 10,
+  "shoot": {"type": "shootAlternate","barrels":2,"spread":4},
+  "liquidCapacity": 20,
   "recoil": 0,
   "inaccuracy": 3,
   "targetAir": false,
@@ -19,7 +20,19 @@
   "shootCone": 50,
   "ammoUseEffect": "none",
   "shootSound": "flame",
-  "shootEffect": "shootSmallFlame",
+  "shootEffect": {
+    "particles": 5,
+    "length": 100,
+    "lifetime": 20,
+    "cone": 6,
+    "baseRotation": 90,
+    "sizeFrom": 0,
+    "sizeTo": 3,
+    "colorFrom": "ffdd55",
+    "colorTo": "db401c00",
+    "sizeInterp": "pow2Out",
+    "interp": "pow2Out"
+  },
   "ammoTypes": {
     "hor": {
       "type": "basicBulletType",

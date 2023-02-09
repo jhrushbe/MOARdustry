@@ -13,6 +13,16 @@
     "hasPower": true,
     "craftTime": 35,
     "itemCapacity": 50,
+    "craftEffect": {
+      "type": "particleEffect",
+      "lifetime": 120,
+      "particles": 1,
+      "length": 0,
+      "sizeFrom": 3,
+      "sizeTo": 5,
+      "colorFrom": "f7cba4",
+      "colorTo": "d3ae8d00"
+    },
     "drawer":[
         {"type":"drawRegion","suffix":"-bottom"},
         {"type":"drawPistons","lenOffset":0,"sinScl":6,"sides":1},
