@@ -5,7 +5,12 @@
     "details": "No one said it was a good idea.",
     "size": 5,
     "requirements": [
-        {"item": "copper", "amount": 2}
+        {"item": "copper", "amount": 2000},
+        {"item": "titanium", "amount": 1000},
+        {"item": "silicon", "amount": 600},
+        {"item": "plastanium", "amount": 500},
+        {"item": "surge-alloy", "amount": 500},
+        {"item": "metaglass", "amount": 750}
     ],
     "liquidCapacity": 1200,
     "powerProduction": 500,

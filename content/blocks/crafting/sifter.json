@@ -13,7 +13,7 @@
     "hasPower": true,
     "craftTime": 35,
     "itemCapacity": 50,
-    "craftEffect": {
+    "updateEffect": {
       "type": "particleEffect",
       "lifetime": 120,
       "particles": 1,
