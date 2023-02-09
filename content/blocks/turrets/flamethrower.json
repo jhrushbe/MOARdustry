@@ -25,12 +25,10 @@
     "length": 100,
     "lifetime": 20,
     "cone": 6,
-    "sizeFrom": 0,
-    "sizeTo": 3,
-    "colorFrom": "fff8e8",
-    "colorTo": "db401c",
-    "sizeInterp": "pow2Out",
-    "interp": "pow2Out"
+    "sizeFrom": 2.5,
+    "sizeTo": 0.5,
+    "colorFrom": "ffb855",
+    "colorTo": "858796"
   },
   "ammoTypes": {
     "hor": {

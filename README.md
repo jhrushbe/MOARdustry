@@ -2,9 +2,9 @@
 # MOARdustry
 A mod for Mindustry that adds MOAR to your game.
 
-**Moardustry v0.10 Adds:**
+**Moardustry v0.11 Adds:**
 <br>`Items:` 4
 <br>`Liquids:` 3
-<br>`Blocks:` 30
-<br>`Turrets:` 16
-<br>`Units:` 13
+<br>`Blocks:` 39
+<br>`Turrets:` 19
+<br>`Units:` 12
