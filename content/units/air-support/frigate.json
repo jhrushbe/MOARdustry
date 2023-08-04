@@ -36,7 +36,7 @@
       "incendChance": 0,
       "incendSpread": 0,
       "incendAmount": 0,
-      "drawSize": 0.1,
+      "drawSize": 8,
       "length": -8,
       "width": 8,
       "colors": ["98ffa955", "98ffa9aa", "98ffa9", "ffffff"],
