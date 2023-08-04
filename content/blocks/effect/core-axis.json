@@ -4,7 +4,8 @@
   "description": "A heavily armored core with larger unit and item capacities.",
   "health": 11000,
   "size": 6,
-  "requirements": [ //find later
+  "thrusterLength": 12,
+  "requirements": [
     {"item": "copper", "amount": 10000},
     {"item": "lead", "amount": 10000},
     {"item": "silicon", "amount": 8000},
@@ -13,7 +14,7 @@
   ],
   "itemCapacity": 20000, 
   "unitCapModifier": 50,
-  "unitType": "frigate", //find later
+  "unitType": "frigate",
   "category": "effect",
   "research": "core-nucleus"
 }
