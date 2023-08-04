@@ -30,15 +30,16 @@
     "bullet": {
       "type": "ContinuousLaserBulletType",
       "lifetime": 60,
+      "maxRange": 90,
       "damage": 1,
       "healPercent": 1,
       "collidesTeam": true,
       "incendChance": 0,
       "incendSpread": 0,
       "incendAmount": 0,
-      "drawSize": 8,
-      "length": -8,
-      "width": 8,
+      "drawSize": 200,
+      "length": 95,
+      "width": 4,
       "colors": ["98ffa955", "98ffa9aa", "98ffa9", "ffffff"],
       "lightColor": "98ffa9"
     }
