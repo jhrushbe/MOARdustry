@@ -1,3 +1,24 @@
+{
+  "type": "coreBlock",
+  "name": "Nucleus (Axis)",
+  "description": "The original Axis core broke, this is a replacement until it is fixed, no different than the nucleus other than size.",
+  "category": "effect",
+  "requirements": [
+    {"item": "copper", "amount": 8000},
+    {"item": "lead", "amount": 8000},
+    {"item": "silicon", "amount": 5000},
+    {"item": "thorium", "amount": 4000}
+  ],
+  "unitType": "gamma",
+  "health": 6000,
+  "itemCapacity": 13000,
+  "size": 6,
+  "thrusterLength": 10,
+  "unitCapModifier": 24,
+  "researchCostMultiplier": 0.11,
+  "research": "core-nucleus"
+}
+
 /*
 {
   "type": "coreBlock",
