@@ -1,6 +1,7 @@
 ![moardustry](https://user-images.githubusercontent.com/76548026/114630681-bfa5e780-9c80-11eb-970c-f8aebd8be2a0.png)
 # MOARdustry
 A mod for Mindustry that adds MOAR to your game.
+Pretty much discontinued due to my inability to deal with 2FA and a lack of willpower to complete it.
 
 **Moardustry v0.10 Adds:**
 <br>`Items:` 4
